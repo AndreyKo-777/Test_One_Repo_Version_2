@@ -1,0 +1,15 @@
+Removed Parameter Package:7343-43 from Part C169
+Removed Parameter Package:7343-43 from Part C170
+Removed Parameter Package:7343-43 from Part C171
+Removed Parameter Package:7343-43 from Part C172
+Removed Parameter Package:7343-43 from Part C173
+Added Parameter Case/Package=7343 to Part C169
+Added Parameter Case/Package=7343 to Part C170
+Added Parameter Case/Package=7343 to Part C171
+Added Parameter Case/Package=7343 to Part C172
+Added Parameter Case/Package=7343 to Part C173
+Update Managed Component C169 From CMP-0300-000208-6[330u 16V 7343-43] To CMP-0300-000208-8[330u 20% 16V] in [13] FPGA_PWR.SchDoc
+Update Managed Component C170 From CMP-0300-000208-6[330u 16V 7343-43] To CMP-0300-000208-8[330u 20% 16V] in [13] FPGA_PWR.SchDoc
+Update Managed Component C171 From CMP-0300-000208-6[330u 16V 7343-43] To CMP-0300-000208-8[330u 20% 16V] in [13] FPGA_PWR.SchDoc
+Update Managed Component C172 From CMP-0300-000208-6[330u 16V 7343-43] To CMP-0300-000208-8[330u 20% 16V] in [13] FPGA_PWR.SchDoc
+Update Managed Component C173 From CMP-0300-000208-6[330u 16V 7343-43] To CMP-0300-000208-8[330u 20% 16V] in [13] FPGA_PWR.SchDoc

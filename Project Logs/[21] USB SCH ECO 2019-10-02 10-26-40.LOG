@@ -1,0 +1,136 @@
+Removed Parameter Category:DiscreteSemiconductorProducts from Part Q2
+Removed Parameter Category:DiscreteSemiconductorProducts from Part Q3
+Removed Parameter Current - Continuous Drain (Id) @ 25°C:1.6A(Ta) from Part Q2
+Removed Parameter Current - Continuous Drain (Id) @ 25°C:1.6A(Ta) from Part Q3
+Removed Parameter Datasheet URL:https://datasheet.ciiva.com/22655/1802191-22655335.pdf from Part Q2
+Removed Parameter Datasheet URL:https://datasheet.ciiva.com/22655/1802191-22655335.pdf from Part Q3
+Removed Parameter Datasheet Version:Rev. F1(W), 11/2013 from Part Q2
+Removed Parameter Datasheet Version:Rev. F1(W), 11/2013 from Part Q3
+Removed Parameter Family:FETs-Single from Part Q2
+Removed Parameter Family:FETs-Single from Part Q3
+Removed Parameter FET Feature:Standard from Part Q2
+Removed Parameter FET Feature:Standard from Part Q3
+Removed Parameter FET Type:MOSFETP-Channel,MetalOxide from Part Q2
+Removed Parameter FET Type:MOSFETP-Channel,MetalOxide from Part Q3
+Removed Parameter Gate Charge (Qg) @ Vgs:6.2nC@4.5V from Part Q2
+Removed Parameter Gate Charge (Qg) @ Vgs:6.2nC@4.5V from Part Q3
+Removed Parameter Input Capacitance (Ciss) @ Vds:451pF@10V from Part Q2
+Removed Parameter Input Capacitance (Ciss) @ Vds:451pF@10V from Part Q3
+Removed Parameter Manufacturer:Fairchild Semiconductor from Part Q2
+Removed Parameter Manufacturer:Fairchild Semiconductor from Part Q3
+Removed Parameter Manufacturer URL:https://www.fairchildsemi.com/ from Part Q2
+Removed Parameter Manufacturer URL:https://www.fairchildsemi.com/ from Part Q3
+Removed Parameter Mounting Technology:SurfaceMount from Part Q2
+Removed Parameter Mounting Technology:SurfaceMount from Part Q3
+Removed Parameter Mounting Type:SurfaceMount from Part Q2
+Removed Parameter Mounting Type:SurfaceMount from Part Q3
+Removed Parameter Online Catalog:P-ChannelLogicLevelGateFETs from Part Q2
+Removed Parameter Online Catalog:P-ChannelLogicLevelGateFETs from Part Q3
+Removed Parameter Other Names:FDN338PTR from Part Q2
+Removed Parameter Other Names:FDN338PTR from Part Q3
+Removed Parameter Package / Case:TO-236-3,SC-59,SOT-23-3 from Part Q2
+Removed Parameter Package / Case:TO-236-3,SC-59,SOT-23-3 from Part Q3
+Removed Parameter Package Description:3-Pin Small Outline Transistor, Body 2.92 x 1.4 mm, Pitch 0.95 mm from Part Q2
+Removed Parameter Package Description:3-Pin Small Outline Transistor, Body 2.92 x 1.4 mm, Pitch 0.95 mm from Part Q3
+Removed Parameter Package Reference:SSOT3L from Part Q2
+Removed Parameter Package Reference:SSOT3L from Part Q3
+Removed Parameter Package URL:https://www.fairchildsemi.com/package-drawings/MA/MA03B.pdf from Part Q2
+Removed Parameter Package URL:https://www.fairchildsemi.com/package-drawings/MA/MA03B.pdf from Part Q3
+Removed Parameter Package Version:Rev. 3, 05/2015 from Part Q2
+Removed Parameter Package Version:Rev. 3, 05/2015 from Part Q3
+Removed Parameter PCN Design/Specification:MoldCompound08/April/2008 from Part Q2
+Removed Parameter PCN Design/Specification:MoldCompound08/April/2008 from Part Q3
+Removed Parameter PCN Packaging:BinaryYearCodeMarking15/Jan/2014 from Part Q2
+Removed Parameter PCN Packaging:BinaryYearCodeMarking15/Jan/2014 from Part Q3
+Removed Parameter Power - Max:460mW from Part Q2
+Removed Parameter Power - Max:460mW from Part Q3
+Removed Parameter Product Training Modules:HighVoltageSwitchesforPowerProcessingSMPSPowerSwitch from Part Q2
+Removed Parameter Product Training Modules:HighVoltageSwitchesforPowerProcessingSMPSPowerSwitch from Part Q3
+Removed Parameter Rds On (Max) @ Id, Vgs:115mOhm@1.6A,4.5V from Part Q2
+Removed Parameter Rds On (Max) @ Id, Vgs:115mOhm@1.6A,4.5V from Part Q3
+Removed Parameter Series:PowerTrench® from Part Q2
+Removed Parameter Series:PowerTrench® from Part Q3
+Removed Parameter Standard Package:3,000 from Part Q2
+Removed Parameter Standard Package:3,000 from Part Q3
+Removed Parameter Supplier Device Package:3-SSOT from Part Q2
+Removed Parameter Supplier Device Package:3-SSOT from Part Q3
+Removed Parameter Vgs(th) (Max) @ Id:1.5V@250µA from Part Q2
+Removed Parameter Vgs(th) (Max) @ Id:1.5V@250µA from Part Q3
+Change Value of Parameter Packaging in Part Q2 Old=Tape&Reel(TR)   New=Tape and Reel
+Change Value of Parameter Packaging in Part Q3 Old=Tape&Reel(TR)   New=Tape and Reel
+Added Parameter Case/Package=TO-236-3 to Part Q2
+Added Parameter Case/Package=TO-236-3 to Part Q3
+Added Parameter Contact Plating=Tin,Matte to Part Q2
+Added Parameter Contact Plating=Tin,Matte to Part Q3
+Added Parameter Continuous Drain Current (ID)=1.6A to Part Q2
+Added Parameter Continuous Drain Current (ID)=1.6A to Part Q3
+Added Parameter Current Rating=-1.6A to Part Q2
+Added Parameter Current Rating=-1.6A to Part Q3
+Added Parameter Drain to Source Breakdown Voltage=-20V to Part Q2
+Added Parameter Drain to Source Breakdown Voltage=-20V to Part Q3
+Added Parameter Drain to Source Resistance=115mR to Part Q2
+Added Parameter Drain to Source Resistance=115mR to Part Q3
+Added Parameter Element Configuration=Single to Part Q2
+Added Parameter Element Configuration=Single to Part Q3
+Added Parameter Fall Time=11ns to Part Q2
+Added Parameter Fall Time=11ns to Part Q3
+Added Parameter Gate to Source Voltage (Vgs)=8V to Part Q2
+Added Parameter Gate to Source Voltage (Vgs)=8V to Part Q3
+Added Parameter If= to Part Q2
+Added Parameter If= to Part Q3
+Added Parameter Input Capacitance=451pF to Part Q2
+Added Parameter Input Capacitance=451pF to Part Q3
+Added Parameter Lead Free=Lead Free to Part Q2
+Added Parameter Lead Free=Lead Free to Part Q3
+Added Parameter Max Operating Temperature=150°C to Part Q2
+Added Parameter Max Operating Temperature=150°C to Part Q3
+Added Parameter Max Power Dissipation=460mW to Part Q2
+Added Parameter Max Power Dissipation=460mW to Part Q3
+Added Parameter Min Operating Temperature=-55°C to Part Q2
+Added Parameter Min Operating Temperature=-55°C to Part Q3
+Added Parameter Mount=Surface Mount to Part Q2
+Added Parameter Mount=Surface Mount to Part Q3
+Added Parameter Nominal Vgs=-800mV to Part Q2
+Added Parameter Nominal Vgs=-800mV to Part Q3
+Added Parameter Number of Elements=1 to Part Q2
+Added Parameter Number of Elements=1 to Part Q3
+Added Parameter Number of Pins=3 to Part Q2
+Added Parameter Number of Pins=3 to Part Q3
+Added Parameter On-State Resistance=115mR to Part Q2
+Added Parameter On-State Resistance=115mR to Part Q3
+Added Parameter Package Quantity=3000 to Part Q2
+Added Parameter Package Quantity=3000 to Part Q3
+Added Parameter PartNumber=FDN338P to Part Q2
+Added Parameter PartNumber=FDN338P to Part Q3
+Added Parameter Power= to Part Q2
+Added Parameter Power= to Part Q3
+Added Parameter Power Dissipation=500mW to Part Q2
+Added Parameter Power Dissipation=500mW to Part Q3
+Added Parameter Radiation Hardening=No to Part Q2
+Added Parameter Radiation Hardening=No to Part Q3
+Added Parameter RDS(on)=0.115 to Part Q2
+Added Parameter RDS(on)=0.115 to Part Q3
+Added Parameter Rds On Max=115mR to Part Q2
+Added Parameter Rds On Max=115mR to Part Q3
+Added Parameter REACH SVHC=No SVHC to Part Q2
+Added Parameter REACH SVHC=No SVHC to Part Q3
+Added Parameter Rise Time=11ns to Part Q2
+Added Parameter Rise Time=11ns to Part Q3
+Added Parameter Threshold Voltage=-800mV to Part Q2
+Added Parameter Threshold Voltage=-800mV to Part Q3
+Added Parameter Tolerance= to Part Q2
+Added Parameter Tolerance= to Part Q3
+Added Parameter Turn-Off Delay Time=16ns to Part Q2
+Added Parameter Turn-Off Delay Time=16ns to Part Q3
+Added Parameter Turn-On Delay Time=10ns to Part Q2
+Added Parameter Turn-On Delay Time=10ns to Part Q3
+Added Parameter Vf= to Part Q2
+Added Parameter Vf= to Part Q3
+Added Parameter Voltage Rating (DC)=-20V to Part Q2
+Added Parameter Voltage Rating (DC)=-20V to Part Q3
+Added Parameter Vz= to Part Q2
+Added Parameter Vz= to Part Q3
+Added Parameter Weight=0.03g to Part Q2
+Added Parameter Weight=0.03g to Part Q3
+Update Managed Component Q2 From CMP-2000-06251-1[FDN338P] To CMP-1700-000037-1[FDN338P] in [21] USB.SchDoc
+Update Managed Component Q3 From CMP-2000-06251-1[FDN338P] To CMP-1700-000037-1[FDN338P] in [21] USB.SchDoc

@@ -1,0 +1,80 @@
+Removed Parameter Case-EIA:0603 from Part R20
+Removed Parameter Case-EIA:0603 from Part R21
+Removed Parameter Case-EIA:0603 from Part R22
+Removed Parameter Case-EIA:0603 from Part R23
+Removed Parameter Case-EIA:0603 from Part R24
+Removed Parameter Case-EIA:0603 from Part R25
+Removed Parameter Case-EIA:0603 from Part R26
+Removed Parameter Case-EIA:0603 from Part R27
+Removed Parameter Case-EIA:0603 from Part R28
+Removed Parameter Case-EIA:0603 from Part R29
+Removed Parameter Case-Metric:1608 from Part R20
+Removed Parameter Case-Metric:1608 from Part R21
+Removed Parameter Case-Metric:1608 from Part R22
+Removed Parameter Case-Metric:1608 from Part R23
+Removed Parameter Case-Metric:1608 from Part R24
+Removed Parameter Case-Metric:1608 from Part R25
+Removed Parameter Case-Metric:1608 from Part R26
+Removed Parameter Case-Metric:1608 from Part R27
+Removed Parameter Case-Metric:1608 from Part R28
+Removed Parameter Case-Metric:1608 from Part R29
+Removed Parameter PartNumber: from Part R20
+Removed Parameter PartNumber: from Part R21
+Removed Parameter PartNumber: from Part R22
+Removed Parameter PartNumber: from Part R23
+Removed Parameter PartNumber: from Part R24
+Removed Parameter PartNumber: from Part R25
+Removed Parameter PartNumber: from Part R26
+Removed Parameter PartNumber: from Part R27
+Removed Parameter PartNumber: from Part R28
+Removed Parameter PartNumber: from Part R29
+Removed Parameter Technology:SMT from Part R20
+Removed Parameter Technology:SMT from Part R21
+Removed Parameter Technology:SMT from Part R22
+Removed Parameter Technology:SMT from Part R23
+Removed Parameter Technology:SMT from Part R24
+Removed Parameter Technology:SMT from Part R25
+Removed Parameter Technology:SMT from Part R26
+Removed Parameter Technology:SMT from Part R27
+Removed Parameter Technology:SMT from Part R28
+Removed Parameter Technology:SMT from Part R29
+Added Parameter Case/Package=0603/1608 to Part R20
+Added Parameter Case/Package=0603/1608 to Part R21
+Added Parameter Case/Package=0603/1608 to Part R22
+Added Parameter Case/Package=0603/1608 to Part R23
+Added Parameter Case/Package=0603/1608 to Part R24
+Added Parameter Case/Package=0603/1608 to Part R25
+Added Parameter Case/Package=0603/1608 to Part R26
+Added Parameter Case/Package=0603/1608 to Part R27
+Added Parameter Case/Package=0603/1608 to Part R28
+Added Parameter Case/Package=0603/1608 to Part R29
+Added Parameter Composition=Thick film to Part R20
+Added Parameter Composition=Thick film to Part R21
+Added Parameter Composition=Thick film to Part R22
+Added Parameter Composition=Thick film to Part R23
+Added Parameter Composition=Thick film to Part R24
+Added Parameter Composition=Thick film to Part R25
+Added Parameter Composition=Thick film to Part R26
+Added Parameter Composition=Thick film to Part R27
+Added Parameter Composition=Thick film to Part R28
+Added Parameter Composition=Thick film to Part R29
+Added Parameter Weight= to Part R20
+Added Parameter Weight= to Part R21
+Added Parameter Weight= to Part R22
+Added Parameter Weight= to Part R23
+Added Parameter Weight= to Part R24
+Added Parameter Weight= to Part R25
+Added Parameter Weight= to Part R26
+Added Parameter Weight= to Part R27
+Added Parameter Weight= to Part R28
+Added Parameter Weight= to Part R29
+Update Managed Component R20 From CMP-1800-002045-3[10K ±1% 0603] To CMP-1800-002045-4[10K ±1% 0603] in [21] USB.SchDoc
+Update Managed Component R21 From CMP-1800-002045-3[10K ±1% 0603] To CMP-1800-002045-4[10K ±1% 0603] in [21] USB.SchDoc
+Update Managed Component R22 From CMP-1800-002045-3[10K ±1% 0603] To CMP-1800-002045-4[10K ±1% 0603] in [21] USB.SchDoc
+Update Managed Component R23 From CMP-1800-002029-3[2K2 ±1% 0603] To CMP-1800-002029-4[2K2 ±1% 0603] in [21] USB.SchDoc
+Update Managed Component R24 From CMP-1800-002045-3[10K ±1% 0603] To CMP-1800-002045-4[10K ±1% 0603] in [21] USB.SchDoc
+Update Managed Component R25 From CMP-1800-002047-3[12K ±1% 0603] To CMP-1800-002047-4[12K ±1% 0603] in [21] USB.SchDoc
+Update Managed Component R26 From CMP-1800-002045-3[10K ±1% 0603] To CMP-1800-002045-4[10K ±1% 0603] in [21] USB.SchDoc
+Update Managed Component R27 From CMP-1800-002045-3[10K ±1% 0603] To CMP-1800-002045-4[10K ±1% 0603] in [21] USB.SchDoc
+Update Managed Component R28 From CMP-1800-002010-3[330R ±1% 0603] To CMP-1800-002010-4[330R ±1% 0603] in [21] USB.SchDoc
+Update Managed Component R29 From CMP-1800-002010-3[330R ±1% 0603] To CMP-1800-002010-4[330R ±1% 0603] in [21] USB.SchDoc

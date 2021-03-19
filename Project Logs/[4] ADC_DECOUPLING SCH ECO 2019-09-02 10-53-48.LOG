@@ -1,0 +1,12 @@
+Change Value of Parameter DCL in Part C155 Old=2.5 New=2.5A
+Change Value of Parameter DCL in Part C138 Old=2.5 New=2.5A
+Change Value of Parameter DCL in Part C89 Old=2.5 New=2.5A
+Change Value of Parameter DF in Part C155 Old=6 New=6%
+Change Value of Parameter DF in Part C138 Old=6 New=6%
+Change Value of Parameter DF in Part C89 Old=6 New=6%
+Change Value of Parameter Tolerance in Part C155 Old=±20% New=20%
+Change Value of Parameter Tolerance in Part C138 Old=±20% New=20%
+Change Value of Parameter Tolerance in Part C89 Old=±20% New=20%
+Update Managed Component C89 From CMP-0300-000090-2[10u 25V 3528-21] To CMP-0300-000090-3[10u 25V 3528-21] in [4] ADC_DECOUPLING.SchDoc
+Update Managed Component C138 From CMP-0300-000090-2[10u 25V 3528-21] To CMP-0300-000090-3[10u 25V 3528-21] in [4] ADC_DECOUPLING.SchDoc
+Update Managed Component C155 From CMP-0300-000090-2[10u 25V 3528-21] To CMP-0300-000090-3[10u 25V 3528-21] in [4] ADC_DECOUPLING.SchDoc

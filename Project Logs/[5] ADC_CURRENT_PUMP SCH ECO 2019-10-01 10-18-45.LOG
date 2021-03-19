@@ -1,0 +1,121 @@
+Removed Parameter Channels (#):2 from Part U17
+Removed Parameter Channels (#):2 from Part U17
+Removed Parameter ComponentLink1Description:Manufacturer URL from Part U17
+Removed Parameter ComponentLink1Description:Manufacturer URL from Part U17
+Removed Parameter ComponentLink1URL:http://www.linear.com/ from Part U17
+Removed Parameter ComponentLink1URL:http://www.linear.com/ from Part U17
+Removed Parameter ComponentLink2Description:Datasheet from Part U17
+Removed Parameter ComponentLink2Description:Datasheet from Part U17
+Removed Parameter ComponentLink2URL:http://cds.linear.com/docs/en/datasheet/16389fg.pdf from Part U17
+Removed Parameter ComponentLink2URL:http://cds.linear.com/docs/en/datasheet/16389fg.pdf from Part U17
+Removed Parameter ComponentLink3Description:Package Specification from Part U17
+Removed Parameter ComponentLink3Description:Package Specification from Part U17
+Removed Parameter ComponentLink3URL:http://cds.linear.com/docs/en/packaging/05081610_G_SO8.pdf from Part U17
+Removed Parameter ComponentLink3URL:http://cds.linear.com/docs/en/packaging/05081610_G_SO8.pdf from Part U17
+Removed Parameter DatasheetVersion:Rev. G from Part U17
+Removed Parameter DatasheetVersion:Rev. G from Part U17
+Removed Parameter GBW (MHz) Typical:1.2 from Part U17
+Removed Parameter GBW (MHz) Typical:1.2 from Part U17
+Removed Parameter Is (mA) Typical:0.17 from Part U17
+Removed Parameter Is (mA) Typical:0.17 from Part U17
+Removed Parameter Linear Technology Part Number:LT1638 from Part U17
+Removed Parameter Linear Technology Part Number:LT1638 from Part U17
+Removed Parameter Manufacturer:Linear Technology from Part U17
+Removed Parameter Manufacturer:Linear Technology from Part U17
+Removed Parameter Mounting Technology:Surface Mount from Part U17
+Removed Parameter Mounting Technology:Surface Mount from Part U17
+Removed Parameter PackageDescription:8-Pin Plastic Small Outline, Body 4.9 x 3.9 mm, Pitch 1.27 mm from Part U17
+Removed Parameter PackageDescription:8-Pin Plastic Small Outline, Body 4.9 x 3.9 mm, Pitch 1.27 mm from Part U17
+Removed Parameter PackageReference:LT-S8-8 from Part U17
+Removed Parameter PackageReference:LT-S8-8 from Part U17
+Removed Parameter PackageVersion:Rev G from Part U17
+Removed Parameter PackageVersion:Rev G from Part U17
+Removed Parameter PartId:2 from Part U17
+Removed Parameter RevisionNote:URLs updated from Part U17
+Removed Parameter RevisionNote:URLs updated from Part U17
+Removed Parameter RoHS:Pb-Free from Part U17
+Removed Parameter RoHS:Pb-Free from Part U17
+Removed Parameter SR (V/us) Typical:0.38 from Part U17
+Removed Parameter SR (V/us) Typical:0.38 from Part U17
+Removed Parameter Type:VFB from Part U17
+Removed Parameter Type:VFB from Part U17
+Removed Parameter Vos (mV) Guaranteed:0.6 from Part U17
+Removed Parameter Vos (mV) Guaranteed:0.6 from Part U17
+Removed Parameter Vos (mV) Typical:0.2 from Part U17
+Removed Parameter Vos (mV) Typical:0.2 from Part U17
+Removed Parameter Vs Max (V):44 from Part U17
+Removed Parameter Vs Max (V):44 from Part U17
+Removed Parameter Vs Min (V):2.2 from Part U17
+Removed Parameter Vs Min (V):2.2 from Part U17
+Change Value of Parameter PartNumber in Part U17 Old=LT1638IS8#PBF New=
+Change Value of Parameter PartNumber in Part U17 Old=LT1638IS8#PBF New=
+Added Parameter Bandwidth=1.2MHz to Part U17
+Added Parameter Bandwidth=1.2MHz to Part U17
+Added Parameter Case/Package=SOIC to Part U17
+Added Parameter Case/Package=SOIC to Part U17
+Added Parameter Common Mode Rejection Ratio=80dB to Part U17
+Added Parameter Common Mode Rejection Ratio=80dB to Part U17
+Added Parameter Dual Supply Voltage=3V to Part U17
+Added Parameter Dual Supply Voltage=3V to Part U17
+Added Parameter Gain Bandwidth Product=1.2MHz to Part U17
+Added Parameter Gain Bandwidth Product=1.2MHz to Part U17
+Added Parameter Height=1.5mm to Part U17
+Added Parameter Height=1.5mm to Part U17
+Added Parameter Input Bias Current=20nA to Part U17
+Added Parameter Input Bias Current=20nA to Part U17
+Added Parameter Input Offset Voltage (Vos)=600uV to Part U17
+Added Parameter Input Offset Voltage (Vos)=600uV to Part U17
+Added Parameter Lead Free=Lead Free to Part U17
+Added Parameter Lead Free=Lead Free to Part U17
+Added Parameter Length=5mm to Part U17
+Added Parameter Length=5mm to Part U17
+Added Parameter Max Dual Supply Voltage=22V to Part U17
+Added Parameter Max Dual Supply Voltage=22V to Part U17
+Added Parameter Max Operating Temperature=85°C to Part U17
+Added Parameter Max Operating Temperature=85°C to Part U17
+Added Parameter Max Supply Current=460uA to Part U17
+Added Parameter Max Supply Current=460uA to Part U17
+Added Parameter Max Supply Voltage=44V to Part U17
+Added Parameter Max Supply Voltage=44V to Part U17
+Added Parameter Min Dual Supply Voltage=1.25V to Part U17
+Added Parameter Min Dual Supply Voltage=1.25V to Part U17
+Added Parameter Min Operating Temperature=-40°C to Part U17
+Added Parameter Min Operating Temperature=-40°C to Part U17
+Added Parameter Min Supply Voltage=2.2V to Part U17
+Added Parameter Min Supply Voltage=2.2V to Part U17
+Added Parameter Nominal Gain Bandwidth Product=1.2MHz to Part U17
+Added Parameter Nominal Gain Bandwidth Product=1.2MHz to Part U17
+Added Parameter Number of Amplifiers=2 to Part U17
+Added Parameter Number of Amplifiers=2 to Part U17
+Added Parameter Number of Channels=2 to Part U17
+Added Parameter Number of Channels=2 to Part U17
+Added Parameter Number of Circuits=2 to Part U17
+Added Parameter Number of Circuits=2 to Part U17
+Added Parameter Number of Elements=2 to Part U17
+Added Parameter Number of Elements=2 to Part U17
+Added Parameter Number of Pins=8 to Part U17
+Added Parameter Number of Pins=8 to Part U17
+Added Parameter Operating Supply Current=205uA to Part U17
+Added Parameter Operating Supply Current=205uA to Part U17
+Added Parameter Operating Supply Voltage=3V to Part U17
+Added Parameter Operating Supply Voltage=3V to Part U17
+Added Parameter Output Current per Channel=40mA to Part U17
+Added Parameter Output Current per Channel=40mA to Part U17
+Added Parameter Package Quantity=100 to Part U17
+Added Parameter Package Quantity=100 to Part U17
+Added Parameter Packaging=Rail/Tube to Part U17
+Added Parameter Packaging=Rail/Tube to Part U17
+Added Parameter Power Supply Rejection Ratio (PSRR)=90dB to Part U17
+Added Parameter Power Supply Rejection Ratio (PSRR)=90dB to Part U17
+Added Parameter REACH SVHC=No SVHC to Part U17
+Added Parameter REACH SVHC=No SVHC to Part U17
+Added Parameter Slew Rate=0.38V/µs to Part U17
+Added Parameter Slew Rate=0.38V/µs to Part U17
+Added Parameter Unity Gain Bandwidth Product=1.075MHz to Part U17
+Added Parameter Unity Gain Bandwidth Product=1.075MHz to Part U17
+Added Parameter Voltage Gain=123.52dB to Part U17
+Added Parameter Voltage Gain=123.52dB to Part U17
+Added Parameter Width=3.99mm to Part U17
+Added Parameter Width=3.99mm to Part U17
+Update Managed Component U17 From CMP-2100-000588-1[LT1638IS8#PBF] To CMP-2100-000588-1[LT1638IS8#PBF] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component U17 From CMP-2100-000588-1[LT1638IS8#PBF] To CMP-2100-000588-1[LT1638IS8#PBF] in [5] ADC_CURRENT_PUMP.SchDoc

@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=NetF3_2 Pin=J10-Shell
+Removed Pin From Net: NetName=NetF3_2 Pin=J10-Shell
+Removed Pin From Net: NetName=NetF3_2 Pin=J10-Shell
+Removed Pin From Net: NetName=NetF3_2 Pin=J10-Shell
+Removed Pin From Net: NetName=NetF3_2 Pin=J10-Shell
+Removed Pin From Net: NetName=NetF3_2 Pin=J10-Shell
+Added Component: Designator=F4(INDC2012X11N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "IDC"; Value = "3.0 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "74279206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RDC"; Value = "25.0 mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "High Current "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Z@Freq"; Value = "30.0 O  @  100.0MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Zmax@Freq"; Value = "55.0 O  @      1.0 GHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=F4-1
+Added Pin To Net: NetName=NetF3_2 Pin=J1-S1
+Added Pin To Net: NetName=NetF3_2 Pin=J1-S2
+Added Pin To Net: NetName=NetF4_2 Pin=F4-2
+Added Pin To Net: NetName=NetF4_2 Pin=J10-Shell
+Added Pin To Net: NetName=NetF4_2 Pin=J10-Shell
+Added Pin To Net: NetName=NetF4_2 Pin=J10-Shell
+Added Pin To Net: NetName=NetF4_2 Pin=J10-Shell
+Added Pin To Net: NetName=NetF4_2 Pin=J10-Shell
+Added Pin To Net: NetName=NetF4_2 Pin=J10-Shell
+Added Net: Name=NetF4_2
+Added Member To Class: ClassName=[1] 0020-03_FFT2G - Top Member=Component F4 30.0 O  @  100.0MHz
+Added Member To Class: ClassName=[1] 0020-03_FFT2G - Top Member=Component J10 632723300011

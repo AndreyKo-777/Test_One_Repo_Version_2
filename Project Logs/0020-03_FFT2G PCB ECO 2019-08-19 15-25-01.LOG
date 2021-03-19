@@ -1,0 +1,120 @@
+Removed Pin From Net: NetName=TRACK/SS.1 Pin=R130.1-1
+Removed Pin From Net: NetName=TRACK/SS.1 Pin=R131.1-2
+Removed Member From Class: ClassName=Ch_A 1.0V Member=J12.1
+Removed Member From Class: ClassName=Ch_B 2.5V Member=J12.2
+Removed Member From Class: ClassName=Ch_C 2.3V Member=J12.3
+Removed Member From Class: ClassName=Ch_D 3.8VV Member=J12.4
+Added Component: Designator=D8.1(LED2012-GREEN)
+Added Component: Designator=D8.2(LED2012-GREEN)
+Added Component: Designator=D8.3(LED2012-GREEN)
+Added Component: Designator=D8.4(LED2012-GREEN)
+Added Component: Designator=R133.1(RESC1608L)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Coefficent"; Value = "0.01%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "680"; VariantName = "[No Variations]"
+Added Component: Designator=R133.2(RESC1608L)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Coefficent"; Value = "0.01%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "680"; VariantName = "[No Variations]"
+Added Component: Designator=R133.3(RESC1608L)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Coefficent"; Value = "0.01%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "680"; VariantName = "[No Variations]"
+Added Component: Designator=R133.4(RESC1608L)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Coefficent"; Value = "0.01%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "680"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+1V0 Pin=C199.2-1
+Added Pin To Net: NetName=+2V5 Pin=C199.3-1
+Added Pin To Net: NetName=+2V3 Pin=C199.4-1
+Added Pin To Net: NetName=GND Pin=D8.1-1
+Added Pin To Net: NetName=GND Pin=D8.2-1
+Added Pin To Net: NetName=GND Pin=D8.3-1
+Added Pin To Net: NetName=GND Pin=D8.4-1
+Added Pin To Net: NetName=TRACK/SS.1 Pin=R130.1-2
+Added Pin To Net: NetName=+1V0 Pin=U30.2-E2
+Added Pin To Net: NetName=+2V5 Pin=U30.3-E2
+Added Pin To Net: NetName=+2V3 Pin=U30.4-E2
+Change Net Name : Old Net Name=NetJ13.1_1 New Net Name=PHMODE.1
+Change Net Name : Old Net Name=NetJ13.2_1 New Net Name=PHMODE.2
+Change Net Name : Old Net Name=NetJ13.3_1 New Net Name=PHMODE.3
+Change Net Name : Old Net Name=NetJ13.4_1 New Net Name=PHMODE.4
+Change Net Name : Old Net Name=NetR47.1_2 New Net Name=FREQ.1
+Change Net Name : Old Net Name=NetR47.2_2 New Net Name=FREQ.2
+Change Net Name : Old Net Name=NetR47.3_2 New Net Name=FREQ.3
+Change Net Name : Old Net Name=NetR47.4_2 New Net Name=FREQ.4
+Change Net Name : Old Net Name=NetU30.2_D2 New Net Name=CLK1
+Change Net Name : Old Net Name=NetU30.3_D2 New Net Name=CLK2
+Change Net Name : Old Net Name=NetU30.4_D2 New Net Name=CLK3
+Added Pin To Net: NetName=INTVCC.1 Pin=R133.1-2
+Added Pin To Net: NetName=INTVCC.1 Pin=U30.1-B3
+Added Net: Name=INTVCC.1
+Added Pin To Net: NetName=INTVCC.2 Pin=R133.2-2
+Added Pin To Net: NetName=INTVCC.2 Pin=U30.2-B3
+Added Net: Name=INTVCC.2
+Added Pin To Net: NetName=INTVCC.3 Pin=R133.3-2
+Added Pin To Net: NetName=INTVCC.3 Pin=U30.3-B3
+Added Net: Name=INTVCC.3
+Added Pin To Net: NetName=INTVCC.4 Pin=R133.4-2
+Added Pin To Net: NetName=INTVCC.4 Pin=U30.4-B3
+Added Net: Name=INTVCC.4
+Added Pin To Net: NetName=NetR130.1_1 Pin=R130.1-1
+Added Pin To Net: NetName=NetR130.1_1 Pin=R131.1-2
+Added Net: Name=NetR130.1_1
+Added Pin To Net: NetName=NetR130.2_1 Pin=R130.2-1
+Added Pin To Net: NetName=NetR130.2_1 Pin=R131.2-2
+Added Net: Name=NetR130.2_1
+Added Pin To Net: NetName=NetR130.3_1 Pin=R130.3-1
+Added Pin To Net: NetName=NetR130.3_1 Pin=R131.3-2
+Added Net: Name=NetR130.3_1
+Added Pin To Net: NetName=NetR130.4_1 Pin=R130.4-1
+Added Pin To Net: NetName=NetR130.4_1 Pin=R131.4-2
+Added Net: Name=NetR130.4_1
+Added Pin To Net: NetName=PGOOD.1 Pin=D8.1-2
+Added Pin To Net: NetName=PGOOD.1 Pin=R133.1-1
+Added Pin To Net: NetName=PGOOD.1 Pin=U30.1-B5
+Added Net: Name=PGOOD.1
+Added Pin To Net: NetName=PGOOD.2 Pin=D8.2-2
+Added Pin To Net: NetName=PGOOD.2 Pin=R133.2-1
+Added Pin To Net: NetName=PGOOD.2 Pin=U30.2-B5
+Added Net: Name=PGOOD.2
+Added Pin To Net: NetName=PGOOD.3 Pin=D8.3-2
+Added Pin To Net: NetName=PGOOD.3 Pin=R133.3-1
+Added Pin To Net: NetName=PGOOD.3 Pin=U30.3-B5
+Added Net: Name=PGOOD.3
+Added Pin To Net: NetName=PGOOD.4 Pin=D8.4-2
+Added Pin To Net: NetName=PGOOD.4 Pin=R133.4-1
+Added Pin To Net: NetName=PGOOD.4 Pin=U30.4-B5
+Added Net: Name=PGOOD.4
+Added Member To Class: ClassName=Ch_A 1.0V Member=Component D8.1 (D8) LED 0805 GREEN
+Added Member To Class: ClassName=Ch_B 2.5V Member=Component D8.2 (D8) LED 0805 GREEN
+Added Member To Class: ClassName=Ch_C 2.3V Member=Component D8.3 (D8) LED 0805 GREEN
+Added Member To Class: ClassName=Ch_D 3.8VV Member=Component D8.4 (D8) LED 0805 GREEN
+Added Member To Class: ClassName=Ch_A 1.0V Member=Component R133.1 (R133) 680R ±1% 0603
+Added Member To Class: ClassName=Ch_B 2.5V Member=Component R133.2 (R133) 680R ±1% 0603
+Added Member To Class: ClassName=Ch_C 2.3V Member=Component R133.3 (R133) 680R ±1% 0603
+Added Member To Class: ClassName=Ch_D 3.8VV Member=Component R133.4 (R133) 680R ±1% 0603

@@ -1,0 +1,40 @@
+Removed Parameter Case-EIA:1206 from Part R128
+Removed Parameter Case-EIA:1206 from Part R129
+Removed Parameter Case-EIA:1206 from Part R142
+Removed Parameter Case-EIA:1206 from Part R143
+Removed Parameter Case-Metric:3216 from Part R128
+Removed Parameter Case-Metric:3216 from Part R129
+Removed Parameter Case-Metric:3216 from Part R142
+Removed Parameter Case-Metric:3216 from Part R143
+Removed Parameter Technology:SMT from Part R128
+Removed Parameter Technology:SMT from Part R129
+Removed Parameter Technology:SMT from Part R142
+Removed Parameter Technology:SMT from Part R143
+Change Value of Parameter Power in Part R128 Old=0.25W New=250mW
+Change Value of Parameter Power in Part R143 Old=0.25W New=250mW
+Change Value of Parameter Power in Part R129 Old=0.25W New=250mW
+Change Value of Parameter Power in Part R142 Old=0.25W New=250mW
+Change Value of Parameter Temp. Coefficent in Part R128 Old=±100 ppm/°C New=0.01%
+Change Value of Parameter Temp. Coefficent in Part R143 Old=±100 ppm/°C New=0.01%
+Change Value of Parameter Temp. Coefficent in Part R129 Old=±100 ppm/°C New=0.01%
+Change Value of Parameter Temp. Coefficent in Part R142 Old=±100 ppm/°C New=0.01%
+Change Value of Parameter Tolerance in Part R128 Old=1 New=1%
+Change Value of Parameter Tolerance in Part R143 Old=1 New=1%
+Change Value of Parameter Tolerance in Part R129 Old=1 New=1%
+Change Value of Parameter Tolerance in Part R142 Old=1 New=1%
+Added Parameter Case/Package=1206/3216 to Part R128
+Added Parameter Case/Package=1206/3216 to Part R129
+Added Parameter Case/Package=1206/3216 to Part R142
+Added Parameter Case/Package=1206/3216 to Part R143
+Added Parameter Composition=Thick film to Part R128
+Added Parameter Composition=Thick film to Part R129
+Added Parameter Composition=Thick film to Part R142
+Added Parameter Composition=Thick film to Part R143
+Added Parameter Weight= to Part R128
+Added Parameter Weight= to Part R129
+Added Parameter Weight= to Part R142
+Added Parameter Weight= to Part R143
+Update Managed Component R128 From CMP-1800-003168-2[0R5 ±1% 1206] To CMP-1800-003168-2[0R5 1% 1206] in [16] POWER.SchDoc
+Update Managed Component R129 From CMP-1800-003168-2[0R5 ±1% 1206] To CMP-1800-003168-2[0R5 1% 1206] in [16] POWER.SchDoc
+Update Managed Component R142 From CMP-1800-003168-2[0R5 ±1% 1206] To CMP-1800-003168-2[0R5 1% 1206] in [16] POWER.SchDoc
+Update Managed Component R143 From CMP-1800-003168-2[0R5 ±1% 1206] To CMP-1800-003168-2[0R5 1% 1206] in [16] POWER.SchDoc

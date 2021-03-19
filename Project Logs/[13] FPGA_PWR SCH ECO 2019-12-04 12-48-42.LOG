@@ -1,0 +1,55 @@
+Removed Parameter PartNumber:NOJE337M006RWJ from Part C169
+Removed Parameter PartNumber:NOJE337M006RWJ from Part C170
+Removed Parameter PartNumber:NOJE337M006RWJ from Part C171
+Removed Parameter PartNumber:NOJE337M006RWJ from Part C172
+Removed Parameter PartNumber:NOJE337M006RWJ from Part C173
+Change Value of Parameter ESR in Part C169 Old=300 mOhm New=0.4
+Change Value of Parameter ESR in Part C172 Old=300 mOhm New=0.4
+Change Value of Parameter ESR in Part C171 Old=300 mOhm New=0.4
+Change Value of Parameter ESR in Part C173 Old=300 mOhm New=0.4
+Change Value of Parameter ESR in Part C170 Old=300 mOhm New=0.4
+Change Value of Parameter Tolerance in Part C169 Old=±20% New=20%
+Change Value of Parameter Tolerance in Part C172 Old=±20% New=20%
+Change Value of Parameter Tolerance in Part C171 Old=±20% New=20%
+Change Value of Parameter Tolerance in Part C173 Old=±20% New=20%
+Change Value of Parameter Tolerance in Part C170 Old=±20% New=20%
+Added Parameter Capacitance=330µF to Part C169
+Added Parameter Capacitance=330µF to Part C170
+Added Parameter Capacitance=330µF to Part C171
+Added Parameter Capacitance=330µF to Part C172
+Added Parameter Capacitance=330µF to Part C173
+Added Parameter DCL=52.8A to Part C169
+Added Parameter DCL=52.8A to Part C170
+Added Parameter DCL=52.8A to Part C171
+Added Parameter DCL=52.8A to Part C172
+Added Parameter DCL=52.8A to Part C173
+Added Parameter DF=30% to Part C169
+Added Parameter DF=30% to Part C170
+Added Parameter DF=30% to Part C171
+Added Parameter DF=30% to Part C172
+Added Parameter DF=30% to Part C173
+Added Parameter Height= to Part C169
+Added Parameter Height= to Part C170
+Added Parameter Height= to Part C171
+Added Parameter Height= to Part C172
+Added Parameter Height= to Part C173
+Added Parameter Package=7343-43 to Part C169
+Added Parameter Package=7343-43 to Part C170
+Added Parameter Package=7343-43 to Part C171
+Added Parameter Package=7343-43 to Part C172
+Added Parameter Package=7343-43 to Part C173
+Added Parameter Rated Voltage=16V to Part C169
+Added Parameter Rated Voltage=16V to Part C170
+Added Parameter Rated Voltage=16V to Part C171
+Added Parameter Rated Voltage=16V to Part C172
+Added Parameter Rated Voltage=16V to Part C173
+Added Parameter Weight= to Part C169
+Added Parameter Weight= to Part C170
+Added Parameter Weight= to Part C171
+Added Parameter Weight= to Part C172
+Added Parameter Weight= to Part C173
+Update Managed Component C169 From CMP-0300-000208-6[330u 6.3V 7343-43] To CMP-0300-000208-6[330u 16V 7343-43] in [13] FPGA_PWR.SchDoc
+Update Managed Component C170 From CMP-0300-000208-6[330u 6.3V 7343-43] To CMP-0300-000208-6[330u 16V 7343-43] in [13] FPGA_PWR.SchDoc
+Update Managed Component C171 From CMP-0300-000208-6[330u 6.3V 7343-43] To CMP-0300-000208-6[330u 16V 7343-43] in [13] FPGA_PWR.SchDoc
+Update Managed Component C172 From CMP-0300-000208-6[330u 6.3V 7343-43] To CMP-0300-000208-6[330u 16V 7343-43] in [13] FPGA_PWR.SchDoc
+Update Managed Component C173 From CMP-0300-000208-6[330u 6.3V 7343-43] To CMP-0300-000208-6[330u 16V 7343-43] in [13] FPGA_PWR.SchDoc

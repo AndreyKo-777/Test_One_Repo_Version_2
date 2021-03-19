@@ -1,0 +1,48 @@
+Removed Parameter Case-EIA:0603 from Part R65
+Removed Parameter Case-EIA:0603 from Part R69
+Removed Parameter Case-EIA:0603 from Part R134
+Removed Parameter Case-EIA:0603 from Part R135
+Removed Parameter Case-EIA:0603 from Part R136
+Removed Parameter Case-EIA:0603 from Part R137
+Removed Parameter Case-Metric:1608 from Part R65
+Removed Parameter Case-Metric:1608 from Part R69
+Removed Parameter Case-Metric:1608 from Part R134
+Removed Parameter Case-Metric:1608 from Part R135
+Removed Parameter Case-Metric:1608 from Part R136
+Removed Parameter Case-Metric:1608 from Part R137
+Removed Parameter PartNumber: from Part R65
+Removed Parameter PartNumber: from Part R69
+Removed Parameter PartNumber: from Part R134
+Removed Parameter PartNumber: from Part R135
+Removed Parameter PartNumber: from Part R136
+Removed Parameter PartNumber: from Part R137
+Removed Parameter Technology:SMT from Part R65
+Removed Parameter Technology:SMT from Part R69
+Removed Parameter Technology:SMT from Part R134
+Removed Parameter Technology:SMT from Part R135
+Removed Parameter Technology:SMT from Part R136
+Removed Parameter Technology:SMT from Part R137
+Added Parameter Case/Package=0603/1608 to Part R65
+Added Parameter Case/Package=0603/1608 to Part R69
+Added Parameter Case/Package=0603/1608 to Part R134
+Added Parameter Case/Package=0603/1608 to Part R135
+Added Parameter Case/Package=0603/1608 to Part R136
+Added Parameter Case/Package=0603/1608 to Part R137
+Added Parameter Composition=Thick film to Part R65
+Added Parameter Composition=Thick film to Part R69
+Added Parameter Composition=Thick film to Part R134
+Added Parameter Composition=Thick film to Part R135
+Added Parameter Composition=Thick film to Part R136
+Added Parameter Composition=Thick film to Part R137
+Added Parameter Weight= to Part R65
+Added Parameter Weight= to Part R69
+Added Parameter Weight= to Part R134
+Added Parameter Weight= to Part R135
+Added Parameter Weight= to Part R136
+Added Parameter Weight= to Part R137
+Update Managed Component R65 From CMP-1800-002045-3[10K ±1% 0603] To CMP-1800-002045-4[10K ±1% 0603] in [16] POWER.SchDoc
+Update Managed Component R69 From CMP-1800-002045-3[10K ±1% 0603] To CMP-1800-002045-4[10K ±1% 0603] in [16] POWER.SchDoc
+Update Managed Component R134 From CMP-1800-002071-3[120K ±1% 0603] To CMP-1800-002071-4[120K ±1% 0603] in [16] POWER.SchDoc
+Update Managed Component R135 From CMP-1800-001998-3[100R ±1% 0603] To CMP-1800-001998-4[100R ±1% 0603] in [16] POWER.SchDoc
+Update Managed Component R136 From CMP-1800-002021-3[1K0 ±1% 0603] To CMP-1800-002021-4[1K0 ±1% 0603] in [16] POWER.SchDoc
+Update Managed Component R137 From CMP-1800-002071-3[120K ±1% 0603] To CMP-1800-002071-4[120K ±1% 0603] in [16] POWER.SchDoc

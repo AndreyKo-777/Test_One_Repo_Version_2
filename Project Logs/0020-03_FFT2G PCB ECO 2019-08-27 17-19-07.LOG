@@ -1,0 +1,40 @@
+Change Component DesignItemId : Designator=J14.1 Old DesignItemId=CMP-1000-000152-4 New DesignItemId=CMP-3600-000000-1
+Change Component DesignItemId : Designator=J14.2 Old DesignItemId=CMP-1000-000152-4 New DesignItemId=CMP-3600-000000-1
+Change Component DesignItemId : Designator=J14.3 Old DesignItemId=CMP-1000-000152-4 New DesignItemId=CMP-3600-000000-1
+Change Component DesignItemId : Designator=J14.4 Old DesignItemId=CMP-1000-000152-4 New DesignItemId=CMP-3600-000000-1
+Change Component DesignItemId : Designator=J20.1 Old DesignItemId=CMP-1000-000152-4 New DesignItemId=CMP-3600-000000-1
+Change Component DesignItemId : Designator=J20.2 Old DesignItemId=CMP-1000-000152-4 New DesignItemId=CMP-3600-000000-1
+Change Component DesignItemId : Designator=J20.3 Old DesignItemId=CMP-1000-000152-4 New DesignItemId=CMP-3600-000000-1
+Change Component DesignItemId : Designator=J20.4 Old DesignItemId=CMP-1000-000152-4 New DesignItemId=CMP-3600-000000-1
+Change Component Footprint: Designator=J14.1 Old Footprint=SMT_IO_PAD_2x1MM New Footprint=TP-SMD_1MM
+Change Component Footprint: Designator=J14.2 Old Footprint=SMT_IO_PAD_2x1MM New Footprint=TP-SMD_1MM
+Change Component Footprint: Designator=J14.3 Old Footprint=SMT_IO_PAD_2x1MM New Footprint=TP-SMD_1MM
+Change Component Footprint: Designator=J14.4 Old Footprint=SMT_IO_PAD_2x1MM New Footprint=TP-SMD_1MM
+Change Component Footprint: Designator=J20.1 Old Footprint=SMT_IO_PAD_2x1MM New Footprint=TP-SMD_1MM
+Change Component Footprint: Designator=J20.2 Old Footprint=SMT_IO_PAD_2x1MM New Footprint=TP-SMD_1MM
+Change Component Footprint: Designator=J20.3 Old Footprint=SMT_IO_PAD_2x1MM New Footprint=TP-SMD_1MM
+Change Component Footprint: Designator=J20.4 Old Footprint=SMT_IO_PAD_2x1MM New Footprint=TP-SMD_1MM
+Change Component Comment : Designator=J14.1 Old Comment=IOPAD New Comment=TP SMD 1mm
+Change Component Comment : Designator=J14.2 Old Comment=IOPAD New Comment=TP SMD 1mm
+Change Component Comment : Designator=J14.3 Old Comment=IOPAD New Comment=TP SMD 1mm
+Change Component Comment : Designator=J14.4 Old Comment=IOPAD New Comment=TP SMD 1mm
+Change Component Comment : Designator=J20.1 Old Comment=IOPAD New Comment=TP SMD 1mm
+Change Component Comment : Designator=J20.2 Old Comment=IOPAD New Comment=TP SMD 1mm
+Change Component Comment : Designator=J20.3 Old Comment=IOPAD New Comment=TP SMD 1mm
+Change Component Comment : Designator=J20.4 Old Comment=IOPAD New Comment=TP SMD 1mm
+Change Component Description : Designator=J14.1 Old Description=IO pad used for test points and flying leads. New Description=TP SMD 1mm
+Change Component Description : Designator=J14.2 Old Description=IO pad used for test points and flying leads. New Description=TP SMD 1mm
+Change Component Description : Designator=J14.3 Old Description=IO pad used for test points and flying leads. New Description=TP SMD 1mm
+Change Component Description : Designator=J14.4 Old Description=IO pad used for test points and flying leads. New Description=TP SMD 1mm
+Change Component Description : Designator=J20.1 Old Description=IO pad used for test points and flying leads. New Description=TP SMD 1mm
+Change Component Description : Designator=J20.2 Old Description=IO pad used for test points and flying leads. New Description=TP SMD 1mm
+Change Component Description : Designator=J20.3 Old Description=IO pad used for test points and flying leads. New Description=TP SMD 1mm
+Change Component Description : Designator=J20.4 Old Description=IO pad used for test points and flying leads. New Description=TP SMD 1mm
+Change Component Kind : Designator=J20.4 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=J20.3 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=J20.2 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=J20.1 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=J14.4 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=J14.3 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=J14.2 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=J14.1 Old Kind=Standard (No BOM) New Kind=Standard

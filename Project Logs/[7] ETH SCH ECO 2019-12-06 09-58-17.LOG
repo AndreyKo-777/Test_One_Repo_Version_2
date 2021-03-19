@@ -1,0 +1,156 @@
+Removed Parameter Case-EIA:0804 from Part R49
+Removed Parameter Case-EIA:0804 from Part R49
+Removed Parameter Case-EIA:0804 from Part R49
+Removed Parameter Case-EIA:0804 from Part R49
+Removed Parameter Case-EIA:0804 from Part R50
+Removed Parameter Case-EIA:0804 from Part R50
+Removed Parameter Case-EIA:0804 from Part R50
+Removed Parameter Case-EIA:0804 from Part R50
+Removed Parameter Case-EIA:0804 from Part R52
+Removed Parameter Case-EIA:0804 from Part R52
+Removed Parameter Case-EIA:0804 from Part R52
+Removed Parameter Case-EIA:0804 from Part R52
+Removed Parameter Case-Metric:2010 from Part R49
+Removed Parameter Case-Metric:2010 from Part R49
+Removed Parameter Case-Metric:2010 from Part R49
+Removed Parameter Case-Metric:2010 from Part R49
+Removed Parameter Case-Metric:2010 from Part R50
+Removed Parameter Case-Metric:2010 from Part R50
+Removed Parameter Case-Metric:2010 from Part R50
+Removed Parameter Case-Metric:2010 from Part R50
+Removed Parameter Case-Metric:2010 from Part R52
+Removed Parameter Case-Metric:2010 from Part R52
+Removed Parameter Case-Metric:2010 from Part R52
+Removed Parameter Case-Metric:2010 from Part R52
+Removed Parameter PartId:1 from Part R49
+Removed Parameter PartId:1 from Part R49
+Removed Parameter PartId:1 from Part R49
+Removed Parameter PartId:1 from Part R49
+Removed Parameter PartId:1 from Part R50
+Removed Parameter PartId:1 from Part R50
+Removed Parameter PartId:1 from Part R50
+Removed Parameter PartId:1 from Part R50
+Removed Parameter PartId:1 from Part R52
+Removed Parameter PartId:1 from Part R52
+Removed Parameter PartId:1 from Part R52
+Removed Parameter PartId:1 from Part R52
+Removed Parameter PartNumber:EXB-28V390J from Part R49
+Removed Parameter PartNumber:EXB-28V390J from Part R49
+Removed Parameter PartNumber:EXB-28V390J from Part R49
+Removed Parameter PartNumber:EXB-28V390J from Part R49
+Removed Parameter PartNumber:EXB-28V390J from Part R50
+Removed Parameter PartNumber:EXB-28V390J from Part R50
+Removed Parameter PartNumber:EXB-28V390J from Part R50
+Removed Parameter PartNumber:EXB-28V390J from Part R50
+Removed Parameter PartNumber:EXB-28V390J from Part R52
+Removed Parameter PartNumber:EXB-28V390J from Part R52
+Removed Parameter PartNumber:EXB-28V390J from Part R52
+Removed Parameter PartNumber:EXB-28V390J from Part R52
+Removed Parameter Technology:SMT from Part R49
+Removed Parameter Technology:SMT from Part R49
+Removed Parameter Technology:SMT from Part R49
+Removed Parameter Technology:SMT from Part R49
+Removed Parameter Technology:SMT from Part R50
+Removed Parameter Technology:SMT from Part R50
+Removed Parameter Technology:SMT from Part R50
+Removed Parameter Technology:SMT from Part R50
+Removed Parameter Technology:SMT from Part R52
+Removed Parameter Technology:SMT from Part R52
+Removed Parameter Technology:SMT from Part R52
+Removed Parameter Technology:SMT from Part R52
+Change Value of Parameter Temp. Coefficent in Part R49 Old=±200 ppm/°C New=0.02%
+Change Value of Parameter Temp. Coefficent in Part R49 Old=±200 ppm/°C New=0.02%
+Change Value of Parameter Temp. Coefficent in Part R49 Old=±200 ppm/°C New=0.02%
+Change Value of Parameter Temp. Coefficent in Part R49 Old=±200 ppm/°C New=0.02%
+Change Value of Parameter Temp. Coefficent in Part R52 Old=±200 ppm/°C New=0.02%
+Change Value of Parameter Temp. Coefficent in Part R52 Old=±200 ppm/°C New=0.02%
+Change Value of Parameter Temp. Coefficent in Part R52 Old=±200 ppm/°C New=0.02%
+Change Value of Parameter Temp. Coefficent in Part R52 Old=±200 ppm/°C New=0.02%
+Change Value of Parameter Temp. Coefficent in Part R50 Old=±200 ppm/°C New=0.02%
+Change Value of Parameter Temp. Coefficent in Part R50 Old=±200 ppm/°C New=0.02%
+Change Value of Parameter Temp. Coefficent in Part R50 Old=±200 ppm/°C New=0.02%
+Change Value of Parameter Temp. Coefficent in Part R50 Old=±200 ppm/°C New=0.02%
+Change Value of Parameter Tolerance in Part R49 Old=±5% New=5%
+Change Value of Parameter Tolerance in Part R49 Old=±5% New=5%
+Change Value of Parameter Tolerance in Part R49 Old=±5% New=5%
+Change Value of Parameter Tolerance in Part R49 Old=±5% New=5%
+Change Value of Parameter Tolerance in Part R52 Old=±5% New=5%
+Change Value of Parameter Tolerance in Part R52 Old=±5% New=5%
+Change Value of Parameter Tolerance in Part R52 Old=±5% New=5%
+Change Value of Parameter Tolerance in Part R52 Old=±5% New=5%
+Change Value of Parameter Tolerance in Part R50 Old=±5% New=5%
+Change Value of Parameter Tolerance in Part R50 Old=±5% New=5%
+Change Value of Parameter Tolerance in Part R50 Old=±5% New=5%
+Change Value of Parameter Tolerance in Part R50 Old=±5% New=5%
+Change Value of Parameter Value in Part R49 Old=39.00 New=39
+Change Value of Parameter Value in Part R49 Old=39.00 New=39
+Change Value of Parameter Value in Part R49 Old=39.00 New=39
+Change Value of Parameter Value in Part R49 Old=39.00 New=39
+Change Value of Parameter Value in Part R52 Old=39.00 New=39
+Change Value of Parameter Value in Part R52 Old=39.00 New=39
+Change Value of Parameter Value in Part R52 Old=39.00 New=39
+Change Value of Parameter Value in Part R52 Old=39.00 New=39
+Change Value of Parameter Value in Part R50 Old=39.00 New=39
+Change Value of Parameter Value in Part R50 Old=39.00 New=39
+Change Value of Parameter Value in Part R50 Old=39.00 New=39
+Change Value of Parameter Value in Part R50 Old=39.00 New=39
+Added Parameter Case/Package=0804/2010 to Part R49
+Added Parameter Case/Package=0804/2010 to Part R49
+Added Parameter Case/Package=0804/2010 to Part R49
+Added Parameter Case/Package=0804/2010 to Part R49
+Added Parameter Case/Package=0804/2010 to Part R50
+Added Parameter Case/Package=0804/2010 to Part R50
+Added Parameter Case/Package=0804/2010 to Part R50
+Added Parameter Case/Package=0804/2010 to Part R50
+Added Parameter Case/Package=0804/2010 to Part R52
+Added Parameter Case/Package=0804/2010 to Part R52
+Added Parameter Case/Package=0804/2010 to Part R52
+Added Parameter Case/Package=0804/2010 to Part R52
+Added Parameter Composition=Thick film to Part R49
+Added Parameter Composition=Thick film to Part R49
+Added Parameter Composition=Thick film to Part R49
+Added Parameter Composition=Thick film to Part R49
+Added Parameter Composition=Thick film to Part R50
+Added Parameter Composition=Thick film to Part R50
+Added Parameter Composition=Thick film to Part R50
+Added Parameter Composition=Thick film to Part R50
+Added Parameter Composition=Thick film to Part R52
+Added Parameter Composition=Thick film to Part R52
+Added Parameter Composition=Thick film to Part R52
+Added Parameter Composition=Thick film to Part R52
+Added Parameter Power=62.5mW to Part R49
+Added Parameter Power=62.5mW to Part R49
+Added Parameter Power=62.5mW to Part R49
+Added Parameter Power=62.5mW to Part R49
+Added Parameter Power=62.5mW to Part R50
+Added Parameter Power=62.5mW to Part R50
+Added Parameter Power=62.5mW to Part R50
+Added Parameter Power=62.5mW to Part R50
+Added Parameter Power=62.5mW to Part R52
+Added Parameter Power=62.5mW to Part R52
+Added Parameter Power=62.5mW to Part R52
+Added Parameter Power=62.5mW to Part R52
+Added Parameter Weight= to Part R49
+Added Parameter Weight= to Part R49
+Added Parameter Weight= to Part R49
+Added Parameter Weight= to Part R49
+Added Parameter Weight= to Part R50
+Added Parameter Weight= to Part R50
+Added Parameter Weight= to Part R50
+Added Parameter Weight= to Part R50
+Added Parameter Weight= to Part R52
+Added Parameter Weight= to Part R52
+Added Parameter Weight= to Part R52
+Added Parameter Weight= to Part R52
+Update Managed Component R49 From CMP-1800-003024-3[39R ±5% 0804] To CMP-1800-003024-3[39R 5% 0804] in [7] ETH.SchDoc
+Update Managed Component R49 From CMP-1800-003024-3[39R ±5% 0804] To CMP-1800-003024-3[39R 5% 0804] in [7] ETH.SchDoc
+Update Managed Component R49 From CMP-1800-003024-3[39R ±5% 0804] To CMP-1800-003024-3[39R 5% 0804] in [7] ETH.SchDoc
+Update Managed Component R49 From CMP-1800-003024-3[39R ±5% 0804] To CMP-1800-003024-3[39R 5% 0804] in [7] ETH.SchDoc
+Update Managed Component R50 From CMP-1800-003024-3[39R ±5% 0804] To CMP-1800-003024-3[39R 5% 0804] in [7] ETH.SchDoc
+Update Managed Component R50 From CMP-1800-003024-3[39R ±5% 0804] To CMP-1800-003024-3[39R 5% 0804] in [7] ETH.SchDoc
+Update Managed Component R50 From CMP-1800-003024-3[39R ±5% 0804] To CMP-1800-003024-3[39R 5% 0804] in [7] ETH.SchDoc
+Update Managed Component R50 From CMP-1800-003024-3[39R ±5% 0804] To CMP-1800-003024-3[39R 5% 0804] in [7] ETH.SchDoc
+Update Managed Component R52 From CMP-1800-003024-3[39R ±5% 0804] To CMP-1800-003024-3[39R 5% 0804] in [7] ETH.SchDoc
+Update Managed Component R52 From CMP-1800-003024-3[39R ±5% 0804] To CMP-1800-003024-3[39R 5% 0804] in [7] ETH.SchDoc
+Update Managed Component R52 From CMP-1800-003024-3[39R ±5% 0804] To CMP-1800-003024-3[39R 5% 0804] in [7] ETH.SchDoc
+Update Managed Component R52 From CMP-1800-003024-3[39R ±5% 0804] To CMP-1800-003024-3[39R 5% 0804] in [7] ETH.SchDoc

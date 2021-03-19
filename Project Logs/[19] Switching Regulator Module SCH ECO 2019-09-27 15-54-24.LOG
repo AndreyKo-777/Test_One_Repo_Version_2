@@ -1,0 +1,68 @@
+Removed Parameter Case-EIA:0603 from Part R47
+Removed Parameter Case-EIA:0603 from Part R48
+Removed Parameter Case-EIA:0603 from Part R130
+Removed Parameter Case-EIA:0603 from Part R131
+Removed Parameter Case-EIA:0603 from Part R132
+Removed Parameter Case-EIA:0603 from Part R133
+Removed Parameter Case-EIA:0603 from Part R144
+Removed Parameter Case-EIA:0603 from Part R145
+Removed Parameter Case-Metric:1608 from Part R47
+Removed Parameter Case-Metric:1608 from Part R48
+Removed Parameter Case-Metric:1608 from Part R130
+Removed Parameter Case-Metric:1608 from Part R131
+Removed Parameter Case-Metric:1608 from Part R132
+Removed Parameter Case-Metric:1608 from Part R133
+Removed Parameter Case-Metric:1608 from Part R144
+Removed Parameter Case-Metric:1608 from Part R145
+Removed Parameter PartNumber: from Part R47
+Removed Parameter PartNumber: from Part R130
+Removed Parameter PartNumber: from Part R131
+Removed Parameter PartNumber: from Part R132
+Removed Parameter PartNumber: from Part R133
+Removed Parameter PartNumber: from Part R144
+Removed Parameter PartNumber: from Part R145
+Removed Parameter Technology:SMT from Part R47
+Removed Parameter Technology:SMT from Part R48
+Removed Parameter Technology:SMT from Part R130
+Removed Parameter Technology:SMT from Part R131
+Removed Parameter Technology:SMT from Part R132
+Removed Parameter Technology:SMT from Part R133
+Removed Parameter Technology:SMT from Part R144
+Removed Parameter Technology:SMT from Part R145
+Change Value of Parameter Power in Part R48 Old=0.1W New=100mW
+Change Value of Parameter Temp. Coefficent in Part R48 Old=15 New=0.0015%
+Change Value of Parameter Tolerance in Part R48 Old=±0.1 New=0.1%
+Change Value of Parameter Value in Part R48 Old=90900.00 New=90.9k
+Added Parameter Case/Package=0603/1608 to Part R47
+Added Parameter Case/Package=0603/1608 to Part R48
+Added Parameter Case/Package=0603/1608 to Part R130
+Added Parameter Case/Package=0603/1608 to Part R131
+Added Parameter Case/Package=0603/1608 to Part R132
+Added Parameter Case/Package=0603/1608 to Part R133
+Added Parameter Case/Package=0603/1608 to Part R144
+Added Parameter Case/Package=0603/1608 to Part R145
+Added Parameter Composition=Thick film to Part R47
+Added Parameter Composition=Thick film to Part R130
+Added Parameter Composition=Thick film to Part R131
+Added Parameter Composition=Thick film to Part R132
+Added Parameter Composition=Thick film to Part R133
+Added Parameter Composition=Thick film to Part R144
+Added Parameter Composition=Thick film to Part R145
+Added Parameter Composition=Thin film to Part R48
+Added Parameter Package/Case= to Part R48
+Added Parameter Weight= to Part R47
+Added Parameter Weight= to Part R48
+Added Parameter Weight= to Part R130
+Added Parameter Weight= to Part R131
+Added Parameter Weight= to Part R132
+Added Parameter Weight= to Part R133
+Added Parameter Weight= to Part R144
+Added Parameter Weight= to Part R145
+Update Managed Component R47 From CMP-1800-002089-3[680K ±1% 0603] To CMP-1800-002089-4[680K ±1% 0603] in [19] Switching Regulator Module.SchDoc
+Update Managed Component R48 From CMP-1800-002529-2[90K9 ±0.1% 0603] To CMP-1800-002529-3[90K9 ±0.1% 0603] in [19] Switching Regulator Module.SchDoc
+Update Managed Component R130 From CMP-1800-003157-2[R ±1% 0603] To CMP-1800-003157-3[R ±1% 0603] in [19] Switching Regulator Module.SchDoc
+Update Managed Component R131 From CMP-1800-003157-2[R ±1% 0603] To CMP-1800-003157-3[R ±1% 0603] in [19] Switching Regulator Module.SchDoc
+Update Managed Component R132 From CMP-1800-003157-2[R ±1% 0603] To CMP-1800-003157-3[R ±1% 0603] in [19] Switching Regulator Module.SchDoc
+Update Managed Component R133 From CMP-1800-002045-3[10K ±1% 0603] To CMP-1800-002045-4[10K ±1% 0603] in [19] Switching Regulator Module.SchDoc
+Update Managed Component R144 From CMP-1800-001974-3[10R ±1% 0603] To CMP-1800-001974-4[10R ±1% 0603] in [19] Switching Regulator Module.SchDoc
+Update Managed Component R145 From CMP-1800-001974-3[10R ±1% 0603] To CMP-1800-001974-4[10R ±1% 0603] in [19] Switching Regulator Module.SchDoc

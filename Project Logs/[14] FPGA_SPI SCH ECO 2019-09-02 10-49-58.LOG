@@ -1,0 +1,70 @@
+Removed Parameter Capacitance (F):100.0n from Part C176
+Removed Parameter Capacitance (F):100.0n from Part C177
+Removed Parameter Capacitance (F):100.0n from Part C178
+Removed Parameter Capacitance (F):100.0n from Part C179
+Removed Parameter Capacitance (F):100.0n from Part C180
+Removed Parameter Capacitance (F):100.0n from Part C181
+Removed Parameter Capacitance (F):100.0n from Part C182
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C176
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C177
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C178
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C179
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C180
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C181
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C182
+Removed Parameter Rated voltage (V):50 from Part C176
+Removed Parameter Rated voltage (V):50 from Part C177
+Removed Parameter Rated voltage (V):50 from Part C178
+Removed Parameter Rated voltage (V):50 from Part C179
+Removed Parameter Rated voltage (V):50 from Part C180
+Removed Parameter Rated voltage (V):50 from Part C181
+Removed Parameter Rated voltage (V):50 from Part C182
+Removed Parameter Thickness (mm):0.90 from Part C176
+Removed Parameter Thickness (mm):0.90 from Part C177
+Removed Parameter Thickness (mm):0.90 from Part C178
+Removed Parameter Thickness (mm):0.90 from Part C179
+Removed Parameter Thickness (mm):0.90 from Part C180
+Removed Parameter Thickness (mm):0.90 from Part C181
+Removed Parameter Thickness (mm):0.90 from Part C182
+Change Value of Parameter Tolerance in Part C182 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C181 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C178 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C179 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C176 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C177 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C180 Old=±10% New=10%
+Added Parameter Capacitance=100nF to Part C176
+Added Parameter Capacitance=100nF to Part C177
+Added Parameter Capacitance=100nF to Part C178
+Added Parameter Capacitance=100nF to Part C179
+Added Parameter Capacitance=100nF to Part C180
+Added Parameter Capacitance=100nF to Part C181
+Added Parameter Capacitance=100nF to Part C182
+Added Parameter Rated Voltage=50V to Part C176
+Added Parameter Rated Voltage=50V to Part C177
+Added Parameter Rated Voltage=50V to Part C178
+Added Parameter Rated Voltage=50V to Part C179
+Added Parameter Rated Voltage=50V to Part C180
+Added Parameter Rated Voltage=50V to Part C181
+Added Parameter Rated Voltage=50V to Part C182
+Added Parameter Thickness=900µm to Part C176
+Added Parameter Thickness=900µm to Part C177
+Added Parameter Thickness=900µm to Part C178
+Added Parameter Thickness=900µm to Part C179
+Added Parameter Thickness=900µm to Part C180
+Added Parameter Thickness=900µm to Part C181
+Added Parameter Thickness=900µm to Part C182
+Added Parameter Weight=9mg to Part C176
+Added Parameter Weight=9mg to Part C177
+Added Parameter Weight=9mg to Part C178
+Added Parameter Weight=9mg to Part C179
+Added Parameter Weight=9mg to Part C180
+Added Parameter Weight=9mg to Part C181
+Added Parameter Weight=9mg to Part C182
+Update Managed Component C176 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [14] FPGA_SPI.SchDoc
+Update Managed Component C177 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [14] FPGA_SPI.SchDoc
+Update Managed Component C178 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [14] FPGA_SPI.SchDoc
+Update Managed Component C179 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [14] FPGA_SPI.SchDoc
+Update Managed Component C180 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [14] FPGA_SPI.SchDoc
+Update Managed Component C181 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [14] FPGA_SPI.SchDoc
+Update Managed Component C182 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [14] FPGA_SPI.SchDoc

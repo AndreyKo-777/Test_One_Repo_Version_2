@@ -1,0 +1,12 @@
+Change Component DesignItemId : Designator=U21 Old DesignItemId=CMP-2100-000561-1 New DesignItemId=CMP-2100-000561-2
+Change Component Footprint: Designator=U21 Old Footprint=BGA64C100P8X8_900X900X140 New Footprint=BGA64C100P8X8_900X900X140
+Change Managed Component Library Link : Designator=U21 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=217f1b6a-c001-4d8d-8022-e8850a1ee3ca New ItemGUID=217f1b6a-c001-4d8d-8022-e8850a1ee3ca Old RevisionGUID=6cfa1a1e-16bd-463e-89c7-337b8c1e04d4 New RevisionGUID=0f492f22-4ab9-42ad-ab99-2fe69e672fb0
+Change component parameters: Designator = "U21" ("U21"); Footprint = "BGA64C100P8X8_900X900X140"; UniqueID = "\OCXTZITR\DYTJVKXR\HKMEGBBY" ("\OCXTZITR\DYTJVKXR\HKMEGBBY")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "FBGA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Interface"; Value = "Parallel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Memory Type"; Value = "FLASH,NOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "64"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "S29GL512S11DHIV23"; VariantName = "[No Variations]"

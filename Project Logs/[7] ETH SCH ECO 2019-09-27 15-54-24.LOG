@@ -1,0 +1,64 @@
+Removed Parameter Case-EIA:0603 from Part R51
+Removed Parameter Case-EIA:0603 from Part R53
+Removed Parameter Case-EIA:0603 from Part R54
+Removed Parameter Case-EIA:0603 from Part R55
+Removed Parameter Case-EIA:0603 from Part R56
+Removed Parameter Case-EIA:0603 from Part R57
+Removed Parameter Case-EIA:0603 from Part R138
+Removed Parameter Case-EIA:0603 from Part R139
+Removed Parameter Case-Metric:1608 from Part R51
+Removed Parameter Case-Metric:1608 from Part R53
+Removed Parameter Case-Metric:1608 from Part R54
+Removed Parameter Case-Metric:1608 from Part R55
+Removed Parameter Case-Metric:1608 from Part R56
+Removed Parameter Case-Metric:1608 from Part R57
+Removed Parameter Case-Metric:1608 from Part R138
+Removed Parameter Case-Metric:1608 from Part R139
+Removed Parameter PartNumber: from Part R51
+Removed Parameter PartNumber: from Part R53
+Removed Parameter PartNumber: from Part R54
+Removed Parameter PartNumber: from Part R55
+Removed Parameter PartNumber: from Part R56
+Removed Parameter PartNumber: from Part R57
+Removed Parameter PartNumber: from Part R138
+Removed Parameter PartNumber: from Part R139
+Removed Parameter Technology:SMT from Part R51
+Removed Parameter Technology:SMT from Part R53
+Removed Parameter Technology:SMT from Part R54
+Removed Parameter Technology:SMT from Part R55
+Removed Parameter Technology:SMT from Part R56
+Removed Parameter Technology:SMT from Part R57
+Removed Parameter Technology:SMT from Part R138
+Removed Parameter Technology:SMT from Part R139
+Added Parameter Case/Package=0603/1608 to Part R51
+Added Parameter Case/Package=0603/1608 to Part R53
+Added Parameter Case/Package=0603/1608 to Part R54
+Added Parameter Case/Package=0603/1608 to Part R55
+Added Parameter Case/Package=0603/1608 to Part R56
+Added Parameter Case/Package=0603/1608 to Part R57
+Added Parameter Case/Package=0603/1608 to Part R138
+Added Parameter Case/Package=0603/1608 to Part R139
+Added Parameter Composition=Thick film to Part R51
+Added Parameter Composition=Thick film to Part R53
+Added Parameter Composition=Thick film to Part R54
+Added Parameter Composition=Thick film to Part R55
+Added Parameter Composition=Thick film to Part R56
+Added Parameter Composition=Thick film to Part R57
+Added Parameter Composition=Thick film to Part R138
+Added Parameter Composition=Thick film to Part R139
+Added Parameter Weight= to Part R51
+Added Parameter Weight= to Part R53
+Added Parameter Weight= to Part R54
+Added Parameter Weight= to Part R55
+Added Parameter Weight= to Part R56
+Added Parameter Weight= to Part R57
+Added Parameter Weight= to Part R138
+Added Parameter Weight= to Part R139
+Update Managed Component R51 From CMP-1800-002028-3[2K0 ±1% 0603] To CMP-1800-002028-4[2K0 ±1% 0603] in [7] ETH.SchDoc
+Update Managed Component R53 From CMP-1800-002028-3[2K0 ±1% 0603] To CMP-1800-002028-4[2K0 ±1% 0603] in [7] ETH.SchDoc
+Update Managed Component R54 From CMP-1800-002028-3[2K0 ±1% 0603] To CMP-1800-002028-4[2K0 ±1% 0603] in [7] ETH.SchDoc
+Update Managed Component R55 From CMP-1800-002028-3[2K0 ±1% 0603] To CMP-1800-002028-4[2K0 ±1% 0603] in [7] ETH.SchDoc
+Update Managed Component R56 From CMP-1800-002028-3[2K0 ±1% 0603] To CMP-1800-002028-4[2K0 ±1% 0603] in [7] ETH.SchDoc
+Update Managed Component R57 From CMP-1800-002028-3[2K0 ±1% 0603] To CMP-1800-002028-4[2K0 ±1% 0603] in [7] ETH.SchDoc
+Update Managed Component R138 From CMP-1800-002093-3[1M0 ±1% 0603] To CMP-1800-002093-4[1M0 ±1% 0603] in [7] ETH.SchDoc
+Update Managed Component R139 From CMP-1800-001988-3[39R ±1% 0603] To CMP-1800-001988-4[39R ±1% 0603] in [7] ETH.SchDoc

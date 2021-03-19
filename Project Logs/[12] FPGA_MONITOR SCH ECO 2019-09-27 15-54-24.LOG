@@ -1,0 +1,16 @@
+Removed Parameter Case-EIA:0603 from Part R121
+Removed Parameter Case-EIA:0603 from Part R122
+Removed Parameter Case-Metric:1608 from Part R121
+Removed Parameter Case-Metric:1608 from Part R122
+Removed Parameter PartNumber: from Part R121
+Removed Parameter PartNumber: from Part R122
+Removed Parameter Technology:SMT from Part R121
+Removed Parameter Technology:SMT from Part R122
+Added Parameter Case/Package=0603/1608 to Part R121
+Added Parameter Case/Package=0603/1608 to Part R122
+Added Parameter Composition=Thick film to Part R121
+Added Parameter Composition=Thick film to Part R122
+Added Parameter Weight= to Part R121
+Added Parameter Weight= to Part R122
+Update Managed Component R121 From CMP-1800-002087-3[560K ±1% 0603] To CMP-1800-002087-4[560K ±1% 0603] in [12] FPGA_MONITOR.SchDoc
+Update Managed Component R122 From CMP-1800-001998-3[100R ±1% 0603] To CMP-1800-001998-4[100R ±1% 0603] in [12] FPGA_MONITOR.SchDoc

@@ -1,0 +1,32 @@
+Removed Parameter Case-EIA:0603 from Part R1
+Removed Parameter Case-EIA:0603 from Part R2
+Removed Parameter Case-EIA:0603 from Part R3
+Removed Parameter Case-EIA:0603 from Part R4
+Removed Parameter Case-Metric:1608 from Part R1
+Removed Parameter Case-Metric:1608 from Part R2
+Removed Parameter Case-Metric:1608 from Part R3
+Removed Parameter Case-Metric:1608 from Part R4
+Removed Parameter PartNumber: from Part R1
+Removed Parameter PartNumber: from Part R2
+Removed Parameter PartNumber: from Part R3
+Removed Parameter PartNumber: from Part R4
+Removed Parameter Technology:SMT from Part R1
+Removed Parameter Technology:SMT from Part R2
+Removed Parameter Technology:SMT from Part R3
+Removed Parameter Technology:SMT from Part R4
+Added Parameter Case/Package=0603/1608 to Part R1
+Added Parameter Case/Package=0603/1608 to Part R2
+Added Parameter Case/Package=0603/1608 to Part R3
+Added Parameter Case/Package=0603/1608 to Part R4
+Added Parameter Composition=Thick film to Part R1
+Added Parameter Composition=Thick film to Part R2
+Added Parameter Composition=Thick film to Part R3
+Added Parameter Composition=Thick film to Part R4
+Added Parameter Weight= to Part R1
+Added Parameter Weight= to Part R2
+Added Parameter Weight= to Part R3
+Added Parameter Weight= to Part R4
+Update Managed Component R1 From CMP-1800-002005-3[200R ±1% 0603] To CMP-1800-002005-4[200R ±1% 0603] in [1] 0020-03_FFT2G - Top.SchDoc
+Update Managed Component R2 From CMP-1800-002005-3[200R ±1% 0603] To CMP-1800-002005-4[200R ±1% 0603] in [1] 0020-03_FFT2G - Top.SchDoc
+Update Managed Component R3 From CMP-1800-001949-3[0R0 Jumper 0603] To CMP-1800-001949-4[0R0 Jumper 0603] in [1] 0020-03_FFT2G - Top.SchDoc
+Update Managed Component R4 From CMP-1800-001949-3[0R0 Jumper 0603] To CMP-1800-001949-4[0R0 Jumper 0603] in [1] 0020-03_FFT2G - Top.SchDoc

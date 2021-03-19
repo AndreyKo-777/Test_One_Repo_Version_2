@@ -1,0 +1,8 @@
+Change Value of Parameter Tolerance in Part C204 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C202 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C203 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C205 Old=±10% New=10%
+Update Managed Component C202 From CMP-0300-002637-1[1n0 50V 0603] To CMP-0300-002637-3[1n0 50V 0603] in [16] POWER.SchDoc
+Update Managed Component C203 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [16] POWER.SchDoc
+Update Managed Component C204 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [16] POWER.SchDoc
+Update Managed Component C205 From CMP-0300-002637-1[1n0 50V 0603] To CMP-0300-002637-3[1n0 50V 0603] in [16] POWER.SchDoc

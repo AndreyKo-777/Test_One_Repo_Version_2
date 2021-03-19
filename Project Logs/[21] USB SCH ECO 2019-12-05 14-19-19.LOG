@@ -1,0 +1,8 @@
+Change Value of Parameter Rated Voltage in Part C48 Old=16V New=10V
+Change Value of Parameter Rated Voltage in Part C41 Old=16V New=10V
+Change Value of Parameter Rated Voltage in Part C45 Old=16V New=10V
+Change Value of Parameter Rated Voltage in Part C46 Old=16V New=10V
+Update Managed Component C41 From CMP-0300-003397-4[4u7 16V 0805] To CMP-0300-003983-5[4u7 10% 10V X7R] in [21] USB.SchDoc
+Update Managed Component C45 From CMP-0300-003397-4[4u7 16V 0805] To CMP-0300-003983-5[4u7 10% 10V X7R] in [21] USB.SchDoc
+Update Managed Component C46 From CMP-0300-003397-4[4u7 16V 0805] To CMP-0300-003983-5[4u7 10% 10V X7R] in [21] USB.SchDoc
+Update Managed Component C48 From CMP-0300-003397-4[4u7 16V 0805] To CMP-0300-003983-5[4u7 10% 10V X7R] in [21] USB.SchDoc

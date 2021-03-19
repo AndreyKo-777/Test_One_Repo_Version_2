@@ -1,0 +1,58 @@
+Change Component Designator: OldDesignator=C4.1_1 NewDesignator=C202
+Change Component Designator: OldDesignator=C5.1_1 NewDesignator=C203
+Change Component Designator: OldDesignator=C6.1_1 NewDesignator=C205
+Change Component Designator: OldDesignator=C88.1_1 NewDesignator=C204
+Change Component Designator: OldDesignator=R65.1_1 NewDesignator=R65
+Change Component Designator: OldDesignator=R66.1_1 NewDesignator=R134
+Change Component Designator: OldDesignator=R67.1_1 NewDesignator=R135
+Change Component Designator: OldDesignator=R68.1_1 NewDesignator=R137
+Change Component Designator: OldDesignator=R69.1_1 NewDesignator=R69
+Change Component Designator: OldDesignator=R80.1_1 NewDesignator=R136
+Change Component Designator: OldDesignator=U16.1_1 NewDesignator=U16
+Change Component Designator: OldDesignator=U18.1_1 NewDesignator=U18
+Added Pin To Net: NetName=TS+.1 Pin=C202-1
+Added Pin To Net: NetName=GND Pin=C203-1
+Added Pin To Net: NetName=+3V3A Pin=C203-2
+Added Pin To Net: NetName=GND Pin=C204-1
+Added Pin To Net: NetName=GND Pin=J20.1-1
+Added Pin To Net: NetName=TS+.1 Pin=R65-2
+Added Pin To Net: NetName=TS+.1 Pin=R135-1
+Added Pin To Net: NetName=+3V3A Pin=R136-2
+Added Pin To Net: NetName=GND Pin=R137-1
+Added Pin To Net: NetName=GND Pin=U16-2
+Added Pin To Net: NetName=+3V3A Pin=U16-5
+Added Pin To Net: NetName=GND Pin=U18-2
+Added Pin To Net: NetName=GND Pin=U30.1-A7
+Added Pin To Net: NetName=NetC202_2 Pin=C202-2
+Added Pin To Net: NetName=NetC202_2 Pin=R65-1
+Added Pin To Net: NetName=NetC202_2 Pin=R134-2
+Added Pin To Net: NetName=NetC202_2 Pin=U16-3
+Added Net: Name=NetC202_2
+Added Pin To Net: NetName=NetC204_2 Pin=C204-2
+Added Pin To Net: NetName=NetC204_2 Pin=R134-1
+Added Pin To Net: NetName=NetC204_2 Pin=R136-1
+Added Pin To Net: NetName=NetC204_2 Pin=U18-1
+Added Net: Name=NetC204_2
+Added Pin To Net: NetName=NetC205_1 Pin=C205-1
+Added Pin To Net: NetName=NetC205_1 Pin=R69-2
+Added Pin To Net: NetName=NetC205_1 Pin=R135-2
+Added Pin To Net: NetName=NetC205_1 Pin=U16-1
+Added Net: Name=NetC205_1
+Added Pin To Net: NetName=NetC205_2 Pin=C205-2
+Added Pin To Net: NetName=NetC205_2 Pin=R69-1
+Added Pin To Net: NetName=NetC205_2 Pin=R137-2
+Added Pin To Net: NetName=NetC205_2 Pin=U16-4
+Added Net: Name=NetC205_2
+Added Member To Class: ClassName=POWER Member=Component C202 1n0 50V 0603
+Added Member To Class: ClassName=POWER Member=Component C203 100n 50V 0603
+Added Member To Class: ClassName=POWER Member=Component C204 100n 50V 0603
+Added Member To Class: ClassName=POWER Member=Component C205 1n0 50V 0603
+Added Member To Class: ClassName=[1] 0020-03_FFT2G - Top Member=Component J10 61729-1011BLF
+Added Member To Class: ClassName=POWER Member=Component R65 10K ±1% 0603
+Added Member To Class: ClassName=POWER Member=Component R69 10K ±1% 0603
+Added Member To Class: ClassName=POWER Member=Component R134 120K ±1% 0603
+Added Member To Class: ClassName=POWER Member=Component R135 100R ±1% 0603
+Added Member To Class: ClassName=POWER Member=Component R136 1K0 ±1% 0603
+Added Member To Class: ClassName=POWER Member=Component R137 120K ±1% 0603
+Added Member To Class: ClassName=POWER Member=Component U16 LTC2050HVCS5
+Added Member To Class: ClassName=POWER Member=Component U18 LM385M3-1.2/NOPB

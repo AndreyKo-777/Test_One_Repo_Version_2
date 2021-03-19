@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=NetC82_2 Pin=U13-43
+Removed Member From Class: ClassName=[1] 0020-03_FFT2G - Top Member=R18PWR
+Change Component DesignItemId : Designator=C82 Old DesignItemId=CMP-0300-002440-2 New DesignItemId=CMP-0300-002440-2
+Change Component DesignItemId : Designator=C83 Old DesignItemId=CMP-0300-002440-2 New DesignItemId=CMP-0300-002440-2
+Change Component Footprint: Designator=C82 Old Footprint=CAPC1608X90N New Footprint=CAPC1608X90L
+Change Component Footprint: Designator=C83 Old Footprint=CAPC1608X90N New Footprint=CAPC1608X90L
+Change Component Comment : Designator=C82 Old Comment=27p 50V 0603 New Comment=18p 50V 0603
+Change Component Comment : Designator=C83 Old Comment=27p 50V 0603 New Comment=18p 50V 0603
+Change component parameters: Designator = "C82" ("C82"); Footprint = "CAPC1608X90N"; UniqueID = "\ZNLHZSSX\HMUMAFUC" ("\ZNLHZSSX\HMUMAFUC")
+Change component parameters (AddParameter): Name = "Capacitance (F)"; Value = "18.0p"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608/0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GRM1885C1H180JA01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated voltage (V)"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "C0G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness (mm)"; Value = "0.90"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C83" ("C83"); Footprint = "CAPC1608X90N"; UniqueID = "\ZNLHZSSX\OZPQCBMN" ("\ZNLHZSSX\OZPQCBMN")
+Change component parameters (AddParameter): Name = "Capacitance (F)"; Value = "18.0p"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608/0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GRM1885C1H180JA01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated voltage (V)"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "C0G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness (mm)"; Value = "0.90"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Added Component: Designator=J22(SMT_IO_PAD_4x2MM)
+Added Component: Designator=J23(SMT_IO_PAD_4x2MM)
+Added Component: Designator=R138(RESC1608N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Coefficent"; Value = "0.01%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=R139(RESC1608L)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Coefficent"; Value = "0.01%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "39"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=UIN Pin=J22-1
+Added Pin To Net: NetName=NetC83_2 Pin=R138-2
+Added Pin To Net: NetName=NetC82_2 Pin=R139-2
+Added Pin To Net: NetName=EXT_GND Pin=J23-1
+Added Net: Name=EXT_GND
+Added Pin To Net: NetName=NetR138_1 Pin=R138-1
+Added Pin To Net: NetName=NetR138_1 Pin=R139-1
+Added Pin To Net: NetName=NetR138_1 Pin=U13-43
+Added Net: Name=NetR138_1
+Added Member To Class: ClassName=[1] 0020-03_FFT2G - Top Member=Component J22 IOPAD
+Added Member To Class: ClassName=[1] 0020-03_FFT2G - Top Member=Component J23 IOPAD
+Added Member To Class: ClassName=ETH Member=Component R138 1M0 ±1% 0603
+Added Member To Class: ClassName=ETH Member=Component R139 39R ±1% 0603

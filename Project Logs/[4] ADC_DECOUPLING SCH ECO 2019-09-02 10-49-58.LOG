@@ -1,0 +1,30 @@
+Removed Parameter Rated volage:25 from Part C89
+Removed Parameter Rated volage:25 from Part C138
+Removed Parameter Rated volage:25 from Part C155
+Removed Parameter Value:10 from Part C89
+Removed Parameter Value:10 from Part C138
+Removed Parameter Value:10 from Part C155
+Change Value of Parameter DCL in Part C155 Old=2.5 New=2.5A
+Change Value of Parameter DCL in Part C138 Old=2.5 New=2.5A
+Change Value of Parameter DCL in Part C89 Old=2.5 New=2.5A
+Change Value of Parameter DF in Part C155 Old=6 New=6%
+Change Value of Parameter DF in Part C138 Old=6 New=6%
+Change Value of Parameter DF in Part C89 Old=6 New=6%
+Change Value of Parameter Tolerance in Part C155 Old=±20% New=20%
+Change Value of Parameter Tolerance in Part C138 Old=±20% New=20%
+Change Value of Parameter Tolerance in Part C89 Old=±20% New=20%
+Added Parameter Capacitance=10µF to Part C89
+Added Parameter Capacitance=10µF to Part C138
+Added Parameter Capacitance=10µF to Part C155
+Added Parameter Height= to Part C89
+Added Parameter Height= to Part C138
+Added Parameter Height= to Part C155
+Added Parameter Rated Voltage=25V to Part C89
+Added Parameter Rated Voltage=25V to Part C138
+Added Parameter Rated Voltage=25V to Part C155
+Added Parameter Weight= to Part C89
+Added Parameter Weight= to Part C138
+Added Parameter Weight= to Part C155
+Update Managed Component C89 From CMP-0300-000090-2[10u 25V 3528-21] To CMP-0300-000090-3[10u 25V 3528-21] in [4] ADC_DECOUPLING.SchDoc
+Update Managed Component C138 From CMP-0300-000090-2[10u 25V 3528-21] To CMP-0300-000090-3[10u 25V 3528-21] in [4] ADC_DECOUPLING.SchDoc
+Update Managed Component C155 From CMP-0300-000090-2[10u 25V 3528-21] To CMP-0300-000090-3[10u 25V 3528-21] in [4] ADC_DECOUPLING.SchDoc

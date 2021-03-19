@@ -1,0 +1,15 @@
+Removed Parameter Package:7343-43 from Part C53
+Removed Parameter Package:7343-43 from Part C60
+Removed Parameter Package:7343-43 from Part C183
+Removed Parameter Package:7343-43 from Part C184
+Removed Parameter Package:7343-43 from Part C194
+Added Parameter Case/Package=7343 to Part C53
+Added Parameter Case/Package=7343 to Part C60
+Added Parameter Case/Package=7343 to Part C183
+Added Parameter Case/Package=7343 to Part C184
+Added Parameter Case/Package=7343 to Part C194
+Update Managed Component C53 From CMP-0300-000208-6[330u 16V 7343-43] To CMP-0300-000208-8[330u 20% 16V] in [16] POWER.SchDoc
+Update Managed Component C60 From CMP-0300-000208-6[330u 16V 7343-43] To CMP-0300-000208-8[330u 20% 16V] in [16] POWER.SchDoc
+Update Managed Component C183 From CMP-0300-000235-6[150u 16V 7343-43] To CMP-0300-000235-8[150u 20% 16V] in [16] POWER.SchDoc
+Update Managed Component C184 From CMP-0300-000208-6[330u 16V 7343-43] To CMP-0300-000208-8[330u 20% 16V] in [16] POWER.SchDoc
+Update Managed Component C194 From CMP-0300-000235-6[150u 16V 7343-43] To CMP-0300-000235-8[150u 20% 16V] in [16] POWER.SchDoc

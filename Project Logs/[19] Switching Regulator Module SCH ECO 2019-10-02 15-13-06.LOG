@@ -1,0 +1,18 @@
+Removed Parameter Package:3225/1210 from Part C187
+Removed Parameter Package:3225/1210 from Part C188
+Removed Parameter Package:3225/1210 from Part C195
+Removed Parameter Rated Voltgae:10V from Part C187
+Removed Parameter Rated Voltgae:10V from Part C188
+Removed Parameter Rated Voltgae:25V from Part C195
+Change Value of Parameter PartNumber in Part C188 Old=GRM32ER71A476KE15 New=
+Change Value of Parameter PartNumber in Part C187 Old=GRM32ER71A476KE15 New=
+Change Value of Parameter PartNumber in Part C195 Old=GRM32ER71E226ME15 New=
+Added Parameter Case/Package=1210/3225 to Part C187
+Added Parameter Case/Package=1210/3225 to Part C188
+Added Parameter Case/Package=1210/3225 to Part C195
+Added Parameter Rated Voltage=10V to Part C187
+Added Parameter Rated Voltage=10V to Part C188
+Added Parameter Rated Voltage=25V to Part C195
+Update Managed Component C187 From CMP-0300-003910-3[47u 10V 1210] To CMP-0300-003910-4[47u 10V 1210] in [19] Switching Regulator Module.SchDoc
+Update Managed Component C188 From CMP-0300-003910-3[47u 10V 1210] To CMP-0300-003910-4[47u 10V 1210] in [19] Switching Regulator Module.SchDoc
+Update Managed Component C195 From CMP-0300-003004-3[22u 25V 1210] To CMP-0300-003004-4[22u 25V 1210] in [19] Switching Regulator Module.SchDoc

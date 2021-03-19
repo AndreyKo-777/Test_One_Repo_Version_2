@@ -1,0 +1,180 @@
+Change Component DesignItemId : Designator=P1 Old DesignItemId=CMP-1600-000005-2 New DesignItemId=CMP-1600-000010-2
+Change Component DesignItemId : Designator=P2 Old DesignItemId=CMP-1600-000005-2 New DesignItemId=CMP-1600-000010-2
+Change Component DesignItemId : Designator=P3 Old DesignItemId=CMP-1600-000005-2 New DesignItemId=CMP-1600-000010-2
+Change Component DesignItemId : Designator=P4 Old DesignItemId=CMP-1600-000005-2 New DesignItemId=CMP-1600-000010-2
+Change Component DesignItemId : Designator=P5 Old DesignItemId=CMP-1600-000005-2 New DesignItemId=CMP-1600-000010-2
+Change Component DesignItemId : Designator=P6 Old DesignItemId=CMP-1600-000005-2 New DesignItemId=CMP-1600-000010-2
+Change Component DesignItemId : Designator=P7 Old DesignItemId=CMP-1600-000005-2 New DesignItemId=CMP-1600-000010-2
+Change Component DesignItemId : Designator=P8 Old DesignItemId=CMP-1600-000005-2 New DesignItemId=CMP-1600-000010-2
+Change Component DesignItemId : Designator=P9 Old DesignItemId=CMP-1600-000005-2 New DesignItemId=CMP-1600-000010-2
+Change Component DesignItemId : Designator=P10 Old DesignItemId=CMP-1600-000005-2 New DesignItemId=CMP-1600-000010-2
+Change Component DesignItemId : Designator=P11 Old DesignItemId=CMP-1600-000005-2 New DesignItemId=CMP-1600-000010-2
+Change Component DesignItemId : Designator=P12 Old DesignItemId=CMP-1600-000005-2 New DesignItemId=CMP-1600-000010-2
+Change Component DesignItemId : Designator=P13 Old DesignItemId=CMP-1600-000005-2 New DesignItemId=CMP-1600-000010-2
+Change Component DesignItemId : Designator=P14 Old DesignItemId=CMP-1600-000005-2 New DesignItemId=CMP-1600-000010-2
+Change Component DesignItemId : Designator=P15 Old DesignItemId=CMP-1600-000005-2 New DesignItemId=CMP-1600-000010-2
+Change Component DesignItemId : Designator=P16 Old DesignItemId=CMP-1600-000005-2 New DesignItemId=CMP-1600-000010-2
+Change Component Footprint: Designator=P1 Old Footprint=MH5-2_2MM_WS New Footprint=MH5-2_7MM
+Change Component Footprint: Designator=P2 Old Footprint=MH5-2_2MM_WS New Footprint=MH5-2_7MM
+Change Component Footprint: Designator=P3 Old Footprint=MH5-2_2MM_WS New Footprint=MH5-2_7MM
+Change Component Footprint: Designator=P4 Old Footprint=MH5-2_2MM_WS New Footprint=MH5-2_7MM
+Change Component Footprint: Designator=P5 Old Footprint=MH5-2_2MM_WS New Footprint=MH5-2_7MM
+Change Component Footprint: Designator=P6 Old Footprint=MH5-2_2MM_WS New Footprint=MH5-2_7MM
+Change Component Footprint: Designator=P7 Old Footprint=MH5-2_2MM_WS New Footprint=MH5-2_7MM
+Change Component Footprint: Designator=P8 Old Footprint=MH5-2_2MM_WS New Footprint=MH5-2_7MM
+Change Component Footprint: Designator=P9 Old Footprint=MH5-2_2MM_WS New Footprint=MH5-2_7MM
+Change Component Footprint: Designator=P10 Old Footprint=MH5-2_2MM_WS New Footprint=MH5-2_7MM
+Change Component Footprint: Designator=P11 Old Footprint=MH5-2_2MM_WS New Footprint=MH5-2_7MM
+Change Component Footprint: Designator=P12 Old Footprint=MH5-2_2MM_WS New Footprint=MH5-2_7MM
+Change Component Footprint: Designator=P13 Old Footprint=MH5-2_2MM_WS New Footprint=MH5-2_7MM
+Change Component Footprint: Designator=P14 Old Footprint=MH5-2_2MM_WS New Footprint=MH5-2_7MM
+Change Component Footprint: Designator=P15 Old Footprint=MH5-2_2MM_WS New Footprint=MH5-2_7MM
+Change Component Footprint: Designator=P16 Old Footprint=MH5-2_2MM_WS New Footprint=MH5-2_7MM
+Change Component Comment : Designator=P1 Old Comment=M2-5mm pad with screw New Comment=M2.5-5mm pad
+Change Component Comment : Designator=P2 Old Comment=M2-5mm pad with screw New Comment=M2.5-5mm pad
+Change Component Comment : Designator=P3 Old Comment=M2-5mm pad with screw New Comment=M2.5-5mm pad
+Change Component Comment : Designator=P4 Old Comment=M2-5mm pad with screw New Comment=M2.5-5mm pad
+Change Component Comment : Designator=P5 Old Comment=M2-5mm pad with screw New Comment=M2.5-5mm pad
+Change Component Comment : Designator=P6 Old Comment=M2-5mm pad with screw New Comment=M2.5-5mm pad
+Change Component Comment : Designator=P7 Old Comment=M2-5mm pad with screw New Comment=M2.5-5mm pad
+Change Component Comment : Designator=P8 Old Comment=M2-5mm pad with screw New Comment=M2.5-5mm pad
+Change Component Comment : Designator=P9 Old Comment=M2-5mm pad with screw New Comment=M2.5-5mm pad
+Change Component Comment : Designator=P10 Old Comment=M2-5mm pad with screw New Comment=M2.5-5mm pad
+Change Component Comment : Designator=P11 Old Comment=M2-5mm pad with screw New Comment=M2.5-5mm pad
+Change Component Comment : Designator=P12 Old Comment=M2-5mm pad with screw New Comment=M2.5-5mm pad
+Change Component Comment : Designator=P13 Old Comment=M2-5mm pad with screw New Comment=M2.5-5mm pad
+Change Component Comment : Designator=P14 Old Comment=M2-5mm pad with screw New Comment=M2.5-5mm pad
+Change Component Comment : Designator=P15 Old Comment=M2-5mm pad with screw New Comment=M2.5-5mm pad
+Change Component Comment : Designator=P16 Old Comment=M2-5mm pad with screw New Comment=M2.5-5mm pad
+Change Component Description : Designator=P1 Old Description=Mounting hole, M2-5mm pad with screw New Description=Mounting hole, M2.5-5mm pad
+Change Component Description : Designator=P2 Old Description=Mounting hole, M2-5mm pad with screw New Description=Mounting hole, M2.5-5mm pad
+Change Component Description : Designator=P3 Old Description=Mounting hole, M2-5mm pad with screw New Description=Mounting hole, M2.5-5mm pad
+Change Component Description : Designator=P4 Old Description=Mounting hole, M2-5mm pad with screw New Description=Mounting hole, M2.5-5mm pad
+Change Component Description : Designator=P5 Old Description=Mounting hole, M2-5mm pad with screw New Description=Mounting hole, M2.5-5mm pad
+Change Component Description : Designator=P6 Old Description=Mounting hole, M2-5mm pad with screw New Description=Mounting hole, M2.5-5mm pad
+Change Component Description : Designator=P7 Old Description=Mounting hole, M2-5mm pad with screw New Description=Mounting hole, M2.5-5mm pad
+Change Component Description : Designator=P8 Old Description=Mounting hole, M2-5mm pad with screw New Description=Mounting hole, M2.5-5mm pad
+Change Component Description : Designator=P9 Old Description=Mounting hole, M2-5mm pad with screw New Description=Mounting hole, M2.5-5mm pad
+Change Component Description : Designator=P10 Old Description=Mounting hole, M2-5mm pad with screw New Description=Mounting hole, M2.5-5mm pad
+Change Component Description : Designator=P11 Old Description=Mounting hole, M2-5mm pad with screw New Description=Mounting hole, M2.5-5mm pad
+Change Component Description : Designator=P12 Old Description=Mounting hole, M2-5mm pad with screw New Description=Mounting hole, M2.5-5mm pad
+Change Component Description : Designator=P13 Old Description=Mounting hole, M2-5mm pad with screw New Description=Mounting hole, M2.5-5mm pad
+Change Component Description : Designator=P14 Old Description=Mounting hole, M2-5mm pad with screw New Description=Mounting hole, M2.5-5mm pad
+Change Component Description : Designator=P15 Old Description=Mounting hole, M2-5mm pad with screw New Description=Mounting hole, M2.5-5mm pad
+Change Component Description : Designator=P16 Old Description=Mounting hole, M2-5mm pad with screw New Description=Mounting hole, M2.5-5mm pad
+Change component parameters: Designator = "C200.1"; Footprint = "CAPC1608X90N"; UniqueID = "\LSFQQERN\FGGLTWQK\GRMKJLCS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608/0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "C0G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "900µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "9mg"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C200.2"; Footprint = "CAPC1608X90N"; UniqueID = "\LSFQQERN\LJNKNUYR\GRMKJLCS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608/0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "C0G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "900µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "9mg"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C200.3"; Footprint = "CAPC1608X90N"; UniqueID = "\LSFQQERN\KDCZMNRZ\GRMKJLCS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608/0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "C0G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "900µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "9mg"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C200.4"; Footprint = "CAPC1608X90N"; UniqueID = "\LSFQQERN\HOLPUNGC\GRMKJLCS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608/0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "C0G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "900µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "9mg"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C201.1"; Footprint = "CAPC1608X90N"; UniqueID = "\LSFQQERN\FGGLTWQK\OUNVEYZN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608/0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "900µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "9mg"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C201.2"; Footprint = "CAPC1608X90N"; UniqueID = "\LSFQQERN\LJNKNUYR\OUNVEYZN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608/0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "900µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "9mg"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C201.3"; Footprint = "CAPC1608X90N"; UniqueID = "\LSFQQERN\KDCZMNRZ\OUNVEYZN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608/0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "900µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "9mg"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C201.4"; Footprint = "CAPC1608X90N"; UniqueID = "\LSFQQERN\HOLPUNGC\OUNVEYZN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608/0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "900µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "9mg"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R132.1"; Footprint = "RESC1608N"; UniqueID = "\LSFQQERN\FGGLTWQK\TMLLVMTY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp. Coefficent"; Value = "0.01%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10G"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R132.2"; Footprint = "RESC1608N"; UniqueID = "\LSFQQERN\LJNKNUYR\TMLLVMTY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp. Coefficent"; Value = "0.01%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10G"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R132.3"; Footprint = "RESC1608N"; UniqueID = "\LSFQQERN\KDCZMNRZ\TMLLVMTY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp. Coefficent"; Value = "0.01%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10G"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R132.4"; Footprint = "RESC1608N"; UniqueID = "\LSFQQERN\HOLPUNGC\TMLLVMTY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp. Coefficent"; Value = "0.01%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10G"; VariantName = "[No Variations]"

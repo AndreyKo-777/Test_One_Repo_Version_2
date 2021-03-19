@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=EXT_GND Pin=C186.4-1
+Removed Pin From Net: NetName=EXT_GND Pin=C220-1
+Removed Pin From Net: NetName=EXT_GND Pin=C221-1
+Removed Pin From Net: NetName=EXT_GND Pin=C225-1
+Removed Pin From Net: NetName=EXT_GND Pin=C228-2
+Removed Pin From Net: NetName=EXT_GND Pin=F7-3
+Removed Pin From Net: NetName=EXT_GND Pin=F8-3
+Removed Pin From Net: NetName=EXT_GND Pin=F9-3
+Removed Pin From Net: NetName=EXT_GND Pin=F10-3
+Removed Pin From Net: NetName=EXT_GND Pin=F11-3
+Removed Pin From Net: NetName=EXT_GND Pin=L6-2
+Removed Pin From Net: NetName=EXT_GND Pin=R133.4-2
+Removed Pin From Net: NetName=EXT_GND Pin=R134.4-2
+Removed Pin From Net: NetName=EXT_GND Pin=R138.3-1
+Removed Pin From Net: NetName=EXT_GND Pin=R140.3-2
+Removed Pin From Net: NetName=EXT_GND Pin=U34-3
+Change Component Footprint: Designator=C247 Old Footprint=CAPC1608X90M New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C248 Old Footprint=CAPC1608X90M New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C249 Old Footprint=CAPC1608X90M New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C246 Old Footprint=CAPC3225X200M New Footprint=CAPC3225X200N
+Change Component Footprint: Designator=C237 Old Footprint=CAPC6050X50N New Footprint=CAPC3225X270N
+Change Component Footprint: Designator=C238 Old Footprint=CAPC6050X50N New Footprint=CAPC3225X270N
+Change Component Footprint: Designator=R175 Old Footprint=RESC1608M New Footprint=RESC1608L
+Change Component Footprint: Designator=R130 Old Footprint=RESC1608M New Footprint=RESC1608N
+Change Component Footprint: Designator=R177 Old Footprint=RESC1608M New Footprint=RESC1608N
+Change Component Footprint: Designator=R178 Old Footprint=RESC1608M New Footprint=RESC1608N
+Change Component Comment : Designator=C237 Old Comment=22u 50V 2220 New Comment=22u 25V 1210
+Change Component Comment : Designator=C238 Old Comment=22u 50V 2220 New Comment=22u 25V 1210
+Change component parameters: Designator = "C237"; Footprint = "CAPC3225X270N"; UniqueID = "\LSFQQERN\NKDTMISY\BQARGNGT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "22µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "3225/1210"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GRM32ER71E226ME15"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltgae"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "2.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C238"; Footprint = "CAPC3225X270N"; UniqueID = "\LSFQQERN\NKDTMISY\SCQPZCNH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "22µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "3225/1210"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GRM32ER71E226ME15"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltgae"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "2.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=EXT_GND Pin=C186.4-1
+Added Pin To Net: NetName=EXT_GND Pin=C220-1
+Added Pin To Net: NetName=EXT_GND Pin=C221-1
+Added Pin To Net: NetName=EXT_GND Pin=C225-1
+Added Pin To Net: NetName=EXT_GND Pin=C228-2
+Added Pin To Net: NetName=EXT_GND Pin=F7-3
+Added Pin To Net: NetName=EXT_GND Pin=F8-3
+Added Pin To Net: NetName=EXT_GND Pin=F9-3
+Added Pin To Net: NetName=EXT_GND Pin=F10-3
+Added Pin To Net: NetName=EXT_GND Pin=F11-3
+Added Pin To Net: NetName=EXT_GND Pin=L6-2
+Added Pin To Net: NetName=EXT_GND Pin=R133.4-2
+Added Pin To Net: NetName=EXT_GND Pin=R134.4-2
+Added Pin To Net: NetName=EXT_GND Pin=R138.3-1
+Added Pin To Net: NetName=EXT_GND Pin=R140.3-2
+Added Pin To Net: NetName=EXT_GND Pin=U34-3

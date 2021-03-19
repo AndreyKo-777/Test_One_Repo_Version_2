@@ -1,0 +1,80 @@
+Removed Pin From Net: NetName=Vout.1 Pin=C197.1-1
+Removed Pin From Net: NetName=Vout.2 Pin=C197.2-1
+Removed Pin From Net: NetName=Vout.3 Pin=C197.3-1
+Removed Pin From Net: NetName=Vout.4 Pin=C197.4-1
+Removed Pin From Net: NetName=GND Pin=C198.1-2
+Removed Pin From Net: NetName=GND Pin=C198.2-2
+Removed Pin From Net: NetName=GND Pin=C198.3-2
+Removed Pin From Net: NetName=GND Pin=C198.4-2
+Removed Pin From Net: NetName=GND Pin=R48.1-1
+Removed Pin From Net: NetName=GND Pin=R48.2-1
+Removed Pin From Net: NetName=GND Pin=R48.3-1
+Removed Pin From Net: NetName=GND Pin=R48.4-1
+Removed Pin From Net: NetName=Vout.1 Pin=U30.1-B1
+Removed Pin From Net: NetName=GND Pin=U30.1-C2
+Removed Pin From Net: NetName=Vout.2 Pin=U30.2-B1
+Removed Pin From Net: NetName=GND Pin=U30.2-C2
+Removed Pin From Net: NetName=Vout.3 Pin=U30.3-B1
+Removed Pin From Net: NetName=GND Pin=U30.3-C2
+Removed Pin From Net: NetName=Vout.4 Pin=U30.4-B1
+Removed Pin From Net: NetName=GND Pin=U30.4-C2
+Added Component: Designator=P17.1(NETTIE_0.2MM)
+Added Component: Designator=P17.2(NETTIE_0.2MM)
+Added Component: Designator=P17.3(NETTIE_0.2MM)
+Added Component: Designator=P17.4(NETTIE_0.2MM)
+Added Component: Designator=P18.1(NETTIE_0.2MM)
+Added Component: Designator=P18.2(NETTIE_0.2MM)
+Added Component: Designator=P18.3(NETTIE_0.2MM)
+Added Component: Designator=P18.4(NETTIE_0.2MM)
+Added Pin To Net: NetName=Vout.1 Pin=P17.1-2
+Added Pin To Net: NetName=Vout.2 Pin=P17.2-2
+Added Pin To Net: NetName=Vout.3 Pin=P17.3-2
+Added Pin To Net: NetName=Vout.4 Pin=P17.4-2
+Added Pin To Net: NetName=GND Pin=P18.1-2
+Added Pin To Net: NetName=GND Pin=P18.2-2
+Added Pin To Net: NetName=GND Pin=P18.3-2
+Added Pin To Net: NetName=GND Pin=P18.4-2
+Added Pin To Net: NetName=NetC197.1_1 Pin=C197.1-1
+Added Pin To Net: NetName=NetC197.1_1 Pin=P17.1-1
+Added Pin To Net: NetName=NetC197.1_1 Pin=U30.1-B1
+Added Net: Name=NetC197.1_1
+Added Pin To Net: NetName=NetC197.2_1 Pin=C197.2-1
+Added Pin To Net: NetName=NetC197.2_1 Pin=P17.2-1
+Added Pin To Net: NetName=NetC197.2_1 Pin=U30.2-B1
+Added Net: Name=NetC197.2_1
+Added Pin To Net: NetName=NetC197.3_1 Pin=C197.3-1
+Added Pin To Net: NetName=NetC197.3_1 Pin=P17.3-1
+Added Pin To Net: NetName=NetC197.3_1 Pin=U30.3-B1
+Added Net: Name=NetC197.3_1
+Added Pin To Net: NetName=NetC197.4_1 Pin=C197.4-1
+Added Pin To Net: NetName=NetC197.4_1 Pin=P17.4-1
+Added Pin To Net: NetName=NetC197.4_1 Pin=U30.4-B1
+Added Net: Name=NetC197.4_1
+Added Pin To Net: NetName=NetC198.1_2 Pin=C198.1-2
+Added Pin To Net: NetName=NetC198.1_2 Pin=P18.1-1
+Added Pin To Net: NetName=NetC198.1_2 Pin=R48.1-1
+Added Pin To Net: NetName=NetC198.1_2 Pin=U30.1-C2
+Added Net: Name=NetC198.1_2
+Added Pin To Net: NetName=NetC198.2_2 Pin=C198.2-2
+Added Pin To Net: NetName=NetC198.2_2 Pin=P18.2-1
+Added Pin To Net: NetName=NetC198.2_2 Pin=R48.2-1
+Added Pin To Net: NetName=NetC198.2_2 Pin=U30.2-C2
+Added Net: Name=NetC198.2_2
+Added Pin To Net: NetName=NetC198.3_2 Pin=C198.3-2
+Added Pin To Net: NetName=NetC198.3_2 Pin=P18.3-1
+Added Pin To Net: NetName=NetC198.3_2 Pin=R48.3-1
+Added Pin To Net: NetName=NetC198.3_2 Pin=U30.3-C2
+Added Net: Name=NetC198.3_2
+Added Pin To Net: NetName=NetC198.4_2 Pin=C198.4-2
+Added Pin To Net: NetName=NetC198.4_2 Pin=P18.4-1
+Added Pin To Net: NetName=NetC198.4_2 Pin=R48.4-1
+Added Pin To Net: NetName=NetC198.4_2 Pin=U30.4-C2
+Added Net: Name=NetC198.4_2
+Added Member To Class: ClassName=Ch_A 1.0V Member=Component P17.1 (P17) 0.20mm Nettie
+Added Member To Class: ClassName=Ch_B 2.5V Member=Component P17.2 (P17) 0.20mm Nettie
+Added Member To Class: ClassName=Ch_C 2.3V Member=Component P17.3 (P17) 0.20mm Nettie
+Added Member To Class: ClassName=Ch_D 3.8VV Member=Component P17.4 (P17) 0.20mm Nettie
+Added Member To Class: ClassName=Ch_A 1.0V Member=Component P18.1 (P18) 0.20mm Nettie
+Added Member To Class: ClassName=Ch_B 2.5V Member=Component P18.2 (P18) 0.20mm Nettie
+Added Member To Class: ClassName=Ch_C 2.3V Member=Component P18.3 (P18) 0.20mm Nettie
+Added Member To Class: ClassName=Ch_D 3.8VV Member=Component P18.4 (P18) 0.20mm Nettie

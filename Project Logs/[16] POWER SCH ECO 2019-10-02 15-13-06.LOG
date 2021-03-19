@@ -1,0 +1,6 @@
+Removed Parameter Package:3225/1210 from Part C185
+Removed Parameter Rated Voltgae:50V from Part C185
+Change Value of Parameter PartNumber in Part C185 Old=GRM32ER71H475KA88 New=
+Added Parameter Case/Package=1210/3225 to Part C185
+Added Parameter Rated Voltage=50V to Part C185
+Update Managed Component C185 From CMP-0300-002153-2[4u7 50V 1210] To CMP-0300-002153-3[4u7 50V 1210] in [16] POWER.SchDoc

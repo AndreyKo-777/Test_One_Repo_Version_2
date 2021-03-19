@@ -1,0 +1,60 @@
+Removed Parameter Category:MOSFET from Part Q1
+Removed Parameter Channel Mode:Enhancement from Part Q1
+Removed Parameter Channel Type:N from Part Q1
+Removed Parameter Datasheet URL:https://www.fairchildsemi.com/datasheets/BS/BSS123.pdf from Part Q1
+Removed Parameter Datasheet Version:Jun-03 from Part Q1
+Removed Parameter Manufacturer:Fairchild from Part Q1
+Removed Parameter Manufacturer URL:https://www.fairchildsemi.com/ from Part Q1
+Removed Parameter Maximum Continuous Drain Current:0.17A from Part Q1
+Removed Parameter Maximum Drain Source Voltage:100V from Part Q1
+Removed Parameter Maximum Gate Source Voltage:±20V from Part Q1
+Removed Parameter Mounting:SurfaceMount from Part Q1
+Removed Parameter Operating Temperature:-55to150degC from Part Q1
+Removed Parameter Package:3SOT-23 from Part Q1
+Removed Parameter Package Description:3-Pin Small Outline Transistor, Body 2.92 x 1.325 mm, Pitch 0.95 mm from Part Q1
+Removed Parameter Package Reference:SOT23-3 from Part Q1
+Removed Parameter Package URL:http://www.fairchildsemi.com/dwg/MA/MA03D.pdf from Part Q1
+Removed Parameter Package Version:Rev. 12, 03/2016 from Part Q1
+Removed Parameter Rad Hard:No from Part Q1
+Removed Parameter RDS-on:6000@10VmOhm from Part Q1
+Removed Parameter Typical Fall Time:2.4ns from Part Q1
+Removed Parameter Typical Rise Time:9ns from Part Q1
+Removed Parameter Typical Turn-Off Delay Time:17ns from Part Q1
+Removed Parameter Typical Turn-On Delay Time:1.7ns from Part Q1
+Change Value of Parameter Packaging in Part Q1 Old=Tape&Reel New=Tape and Reel
+Added Parameter Case/Package=SOT-23 to Part Q1
+Added Parameter Contact Plating=Tin,Matte to Part Q1
+Added Parameter Continuous Drain Current (ID)=170mA to Part Q1
+Added Parameter Current Rating=170mA to Part Q1
+Added Parameter Drain to Source Breakdown Voltage=100V to Part Q1
+Added Parameter Drain to Source Resistance=6R to Part Q1
+Added Parameter Drain to Source Voltage (Vdss)=100V to Part Q1
+Added Parameter Dual Supply Voltage=100V to Part Q1
+Added Parameter Element Configuration=Single to Part Q1
+Added Parameter Fall Time=9ns to Part Q1
+Added Parameter Gate to Source Voltage (Vgs)=20V to Part Q1
+Added Parameter Height=0.93mm to Part Q1
+Added Parameter Input Capacitance=73pF to Part Q1
+Added Parameter Lead Free=Lead Free to Part Q1
+Added Parameter Length=2.92mm to Part Q1
+Added Parameter Max Operating Temperature=150°C to Part Q1
+Added Parameter Max Power Dissipation=360mW to Part Q1
+Added Parameter Min Operating Temperature=-55°C to Part Q1
+Added Parameter Mount=Surface Mount to Part Q1
+Added Parameter Nominal Vgs=1.7V to Part Q1
+Added Parameter Number of Elements=1 to Part Q1
+Added Parameter Number of Pins=3 to Part Q1
+Added Parameter On-State Resistance=6R to Part Q1
+Added Parameter Package Quantity=1 to Part Q1
+Added Parameter Power Dissipation=360mW to Part Q1
+Added Parameter Radiation Hardening=No to Part Q1
+Added Parameter Rds On Max=6R to Part Q1
+Added Parameter REACH SVHC=No SVHC to Part Q1
+Added Parameter Rise Time=9ns to Part Q1
+Added Parameter Threshold Voltage=1.7V to Part Q1
+Added Parameter Turn-Off Delay Time=17ns to Part Q1
+Added Parameter Turn-On Delay Time=1.7ns to Part Q1
+Added Parameter Voltage=100V to Part Q1
+Added Parameter Voltage Rating (DC)=100V to Part Q1
+Added Parameter Width=1.3mm to Part Q1
+Update Managed Component Q1 From CMP-1700-000042-1[BSS123] To CMP-1700-000042-1[BSS123] in [6] CLOCK.SchDoc

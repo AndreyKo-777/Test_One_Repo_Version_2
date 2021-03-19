@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=NetC34_2 Pin=T1-1
+Removed Pin From Net: NetName=GND Pin=T1-2
+Removed Pin From Net: NetName=_EXT_FS_N Pin=T1-3
+Removed Pin From Net: NetName=GND Pin=T1-4
+Removed Pin From Net: NetName=_EXT_FS_P Pin=T1-5
+Removed Member From Class: ClassName=Clock Member=T1
+Added Component: Designator=T2(SOTFL50P160X73-3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "3.81mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.67mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Contains Lead"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.81mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max DC Current"; Value = "30mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turns Ratio"; Value = "1:1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "3.81mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC34_2 Pin=T2-1
+Added Pin To Net: NetName=GND Pin=T2-2
+Added Pin To Net: NetName=_EXT_FS_N Pin=T2-3
+Added Pin To Net: NetName=GND Pin=T2-4
+Added Pin To Net: NetName=_EXT_FS_P Pin=T2-5
+Added Member To Class: ClassName=Clock Member=Component T2 ETC1-1-13TR

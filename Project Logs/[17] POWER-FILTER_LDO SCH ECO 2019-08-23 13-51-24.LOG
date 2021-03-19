@@ -1,0 +1,144 @@
+Removed Parameter ComponentLink1Description:Manufacturer URL from Part U8
+Removed Parameter ComponentLink1Description:Manufacturer URL from Part U10
+Removed Parameter ComponentLink1Description:Manufacturer URL from Part U11
+Removed Parameter ComponentLink1Description:Manufacturer URL from Part U12
+Removed Parameter ComponentLink1URL:http://www.linear.com/ from Part U8
+Removed Parameter ComponentLink1URL:http://www.linear.com/ from Part U10
+Removed Parameter ComponentLink1URL:http://www.linear.com/ from Part U11
+Removed Parameter ComponentLink1URL:http://www.linear.com/ from Part U12
+Removed Parameter ComponentLink2Description:Datasheet from Part U8
+Removed Parameter ComponentLink2Description:Datasheet from Part U10
+Removed Parameter ComponentLink2Description:Datasheet from Part U11
+Removed Parameter ComponentLink2Description:Datasheet from Part U12
+Removed Parameter ComponentLink2URL:http://cds.linear.com/docs/en/datasheet/1764afb.pdf from Part U8
+Removed Parameter ComponentLink2URL:http://cds.linear.com/docs/en/datasheet/1764afb.pdf from Part U10
+Removed Parameter ComponentLink2URL:http://cds.linear.com/docs/en/datasheet/1764afb.pdf from Part U11
+Removed Parameter ComponentLink2URL:http://cds.linear.com/docs/en/datasheet/1764afb.pdf from Part U12
+Removed Parameter ComponentLink3Description:Package Specification from Part U8
+Removed Parameter ComponentLink3Description:Package Specification from Part U10
+Removed Parameter ComponentLink3Description:Package Specification from Part U11
+Removed Parameter ComponentLink3Description:Package Specification from Part U12
+Removed Parameter ComponentLink3URL:http://cds.linear.com/docs/en/packaging/Q%20DD5%2005-08-1461%20Rev%20F.pdf from Part U8
+Removed Parameter ComponentLink3URL:http://cds.linear.com/docs/en/packaging/Q%20DD5%2005-08-1461%20Rev%20F.pdf from Part U10
+Removed Parameter ComponentLink3URL:http://cds.linear.com/docs/en/packaging/Q%20DD5%2005-08-1461%20Rev%20F.pdf from Part U11
+Removed Parameter ComponentLink3URL:http://cds.linear.com/docs/en/packaging/Q%20DD5%2005-08-1461%20Rev%20F.pdf from Part U12
+Removed Parameter DatasheetVersion:Rev. B from Part U8
+Removed Parameter DatasheetVersion:Rev. B from Part U10
+Removed Parameter DatasheetVersion:Rev. B from Part U11
+Removed Parameter DatasheetVersion:Rev. B from Part U12
+Removed Parameter Discrete Pass Element:no from Part U8
+Removed Parameter Discrete Pass Element:no from Part U10
+Removed Parameter Discrete Pass Element:no from Part U11
+Removed Parameter Discrete Pass Element:no from Part U12
+Removed Parameter Dropout Voltage(V):0.34 from Part U8
+Removed Parameter Dropout Voltage(V):0.34 from Part U10
+Removed Parameter Dropout Voltage(V):0.34 from Part U11
+Removed Parameter Dropout Voltage(V):0.34 from Part U12
+Removed Parameter Iout(mA):3000 from Part U8
+Removed Parameter Iout(mA):3000 from Part U10
+Removed Parameter Iout(mA):3000 from Part U11
+Removed Parameter Iout(mA):3000 from Part U12
+Removed Parameter Isupply(mA):1 from Part U8
+Removed Parameter Isupply(mA):1 from Part U10
+Removed Parameter Isupply(mA):1 from Part U11
+Removed Parameter Isupply(mA):1 from Part U12
+Removed Parameter Manufacturer:Linear Technology from Part U8
+Removed Parameter Manufacturer:Linear Technology from Part U10
+Removed Parameter Manufacturer:Linear Technology from Part U11
+Removed Parameter Manufacturer:Linear Technology from Part U12
+Removed Parameter Mounting Technology:Surface Mount from Part U8
+Removed Parameter Mounting Technology:Surface Mount from Part U10
+Removed Parameter Mounting Technology:Surface Mount from Part U11
+Removed Parameter Mounting Technology:Surface Mount from Part U12
+Removed Parameter Noise(uV):40 from Part U8
+Removed Parameter Noise(uV):40 from Part U10
+Removed Parameter Noise(uV):40 from Part U11
+Removed Parameter Noise(uV):40 from Part U12
+Removed Parameter Number of Outputs:1 from Part U8
+Removed Parameter Number of Outputs:1 from Part U10
+Removed Parameter Number of Outputs:1 from Part U11
+Removed Parameter Number of Outputs:1 from Part U12
+Removed Parameter PackageDescription:5-Pin Plastic DD Pak, Body 10.2235 x 8.89 mm, Pitch 1.702 mm from Part U8
+Removed Parameter PackageDescription:5-Pin Plastic DD Pak, Body 10.2235 x 8.89 mm, Pitch 1.702 mm from Part U10
+Removed Parameter PackageDescription:5-Pin Plastic DD Pak, Body 10.2235 x 8.89 mm, Pitch 1.702 mm from Part U11
+Removed Parameter PackageDescription:5-Pin Plastic DD Pak, Body 10.2235 x 8.89 mm, Pitch 1.702 mm from Part U12
+Removed Parameter PackageReference:Q-5 from Part U8
+Removed Parameter PackageReference:Q-5 from Part U10
+Removed Parameter PackageReference:Q-5 from Part U11
+Removed Parameter PackageReference:Q-5 from Part U12
+Removed Parameter PackageVersion:Rev. F, 09/2011 from Part U8
+Removed Parameter PackageVersion:Rev. F, 09/2011 from Part U10
+Removed Parameter PackageVersion:Rev. F, 09/2011 from Part U11
+Removed Parameter PackageVersion:Rev. F, 09/2011 from Part U12
+Removed Parameter PSRR(dB):63 from Part U8
+Removed Parameter PSRR(dB):63 from Part U10
+Removed Parameter PSRR(dB):63 from Part U11
+Removed Parameter PSRR(dB):63 from Part U12
+Removed Parameter RoHS:TRUE from Part U8
+Removed Parameter RoHS:TRUE from Part U10
+Removed Parameter RoHS:TRUE from Part U11
+Removed Parameter RoHS:TRUE from Part U12
+Removed Parameter Shutdown Current(uA):0.01 from Part U8
+Removed Parameter Shutdown Current(uA):0.01 from Part U10
+Removed Parameter Shutdown Current(uA):0.01 from Part U11
+Removed Parameter Shutdown Current(uA):0.01 from Part U12
+Removed Parameter Vin Max(V):20 from Part U8
+Removed Parameter Vin Max(V):20 from Part U10
+Removed Parameter Vin Max(V):20 from Part U11
+Removed Parameter Vin Max(V):20 from Part U12
+Removed Parameter Vin Min(V):2.7 from Part U8
+Removed Parameter Vin Min(V):2.7 from Part U10
+Removed Parameter Vin Min(V):2.7 from Part U11
+Removed Parameter Vin Min(V):2.7 from Part U12
+Removed Parameter Vout Max(V):20 from Part U8
+Removed Parameter Vout Max(V):20 from Part U10
+Removed Parameter Vout Max(V):20 from Part U11
+Removed Parameter Vout Max(V):20 from Part U12
+Removed Parameter Vout Min(V):1.21 from Part U8
+Removed Parameter Vout Min(V):1.21 from Part U10
+Removed Parameter Vout Min(V):1.21 from Part U11
+Removed Parameter Vout Min(V):1.21 from Part U12
+Change Value of Parameter Output Voltage in Part U12 Old=Adj New=1.21V to 20V
+Change Value of Parameter Output Voltage in Part U11 Old=Adj New=1.21V to 20V
+Change Value of Parameter Output Voltage in Part U10 Old=Adj New=1.21V to 20V
+Change Value of Parameter Output Voltage in Part U8 Old=Adj New=1.21V to 20V
+Change Value of Parameter PartNumber in Part U12 Old=LT1764AEQ#PBF New=
+Change Value of Parameter PartNumber in Part U11 Old=LT1764AEQ#PBF New=
+Change Value of Parameter PartNumber in Part U10 Old=LT1764AEQ#PBF New=
+Change Value of Parameter PartNumber in Part U8 Old=LT1764AEQ#PBF New=
+Added Parameter Case=D2-PAK-5 to Part U8
+Added Parameter Case=D2-PAK-5 to Part U10
+Added Parameter Case=D2-PAK-5 to Part U11
+Added Parameter Case=D2-PAK-5 to Part U12
+Added Parameter Current - Output= to Part U8
+Added Parameter Current - Output= to Part U10
+Added Parameter Current - Output= to Part U11
+Added Parameter Current - Output= to Part U12
+Added Parameter Input Voltage max=20V to Part U8
+Added Parameter Input Voltage max=20V to Part U10
+Added Parameter Input Voltage max=20V to Part U11
+Added Parameter Input Voltage max=20V to Part U12
+Added Parameter Output current=3A to Part U8
+Added Parameter Output current=3A to Part U10
+Added Parameter Output current=3A to Part U11
+Added Parameter Output current=3A to Part U12
+Added Parameter Vdo=340mV to Part U8
+Added Parameter Vdo=340mV to Part U10
+Added Parameter Vdo=340mV to Part U11
+Added Parameter Vdo=340mV to Part U12
+Added Parameter Voltage - Dropout (Typical)= to Part U8
+Added Parameter Voltage - Dropout (Typical)= to Part U10
+Added Parameter Voltage - Dropout (Typical)= to Part U11
+Added Parameter Voltage - Dropout (Typical)= to Part U12
+Added Parameter Voltage - Input= to Part U8
+Added Parameter Voltage - Input= to Part U10
+Added Parameter Voltage - Input= to Part U11
+Added Parameter Voltage - Input= to Part U12
+Added Parameter Voltage - Output= to Part U8
+Added Parameter Voltage - Output= to Part U10
+Added Parameter Voltage - Output= to Part U11
+Added Parameter Voltage - Output= to Part U12
+Update Managed Component U8 From CMP-2100-000275-2[LT1764AEQ#PBF] To CMP-2100-000275-2[LT1764AEQ] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component U10 From CMP-2100-000275-2[LT1764AEQ#PBF] To CMP-2100-000275-2[LT1764AEQ] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component U11 From CMP-2100-000275-2[LT1764AEQ#PBF] To CMP-2100-000275-2[LT1764AEQ] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component U12 From CMP-2100-000275-2[LT1764AEQ#PBF] To CMP-2100-000275-2[LT1764AEQ] in [17] POWER-FILTER_LDO.SchDoc

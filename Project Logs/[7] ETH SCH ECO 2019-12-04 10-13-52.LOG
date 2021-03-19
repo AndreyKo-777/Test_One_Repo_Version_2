@@ -1,0 +1,14 @@
+Change Value of Parameter Package in Part C78 Old=1005/0402 New=0402/1005
+Change Value of Parameter Package in Part C75 Old=1005/0402 New=0402/1005
+Change Value of Parameter Package in Part C79 Old=1005/0402 New=0402/1005
+Change Value of Parameter Package in Part C77 Old=1005/0402 New=0402/1005
+Change Value of Parameter Package in Part C76 Old=1005/0402 New=0402/1005
+Change Value of Parameter Package in Part C73 Old=1005/0402 New=0402/1005
+Change Value of Parameter Package in Part C80 Old=1005/0402 New=0402/1005
+Update Managed Component C73 From CMP-0300-002959-4[33n 50V 0402] To CMP-0300-002958-5[33n 10% 50V X7R] in [7] ETH.SchDoc
+Update Managed Component C75 From CMP-0300-002959-4[33n 50V 0402] To CMP-0300-002958-5[33n 10% 50V X7R] in [7] ETH.SchDoc
+Update Managed Component C76 From CMP-0300-002959-4[33n 50V 0402] To CMP-0300-002958-5[33n 10% 50V X7R] in [7] ETH.SchDoc
+Update Managed Component C77 From CMP-0300-002959-4[33n 50V 0402] To CMP-0300-002958-5[33n 10% 50V X7R] in [7] ETH.SchDoc
+Update Managed Component C78 From CMP-0300-002959-4[33n 50V 0402] To CMP-0300-002958-5[33n 10% 50V X7R] in [7] ETH.SchDoc
+Update Managed Component C79 From CMP-0300-002959-4[33n 50V 0402] To CMP-0300-002958-5[33n 10% 50V X7R] in [7] ETH.SchDoc
+Update Managed Component C80 From CMP-0300-002959-4[33n 50V 0402] To CMP-0300-002958-5[33n 10% 50V X7R] in [7] ETH.SchDoc

@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=R144.1 Old Footprint=RESC1608L New Footprint=RESC1608N
+Change Component Footprint: Designator=R144.2 Old Footprint=RESC1608L New Footprint=RESC1608N
+Change Component Footprint: Designator=R144.3 Old Footprint=RESC1608L New Footprint=RESC1608N
+Change Component Footprint: Designator=R144.4 Old Footprint=RESC1608L New Footprint=RESC1608N
+Change Component Footprint: Designator=R145.1 Old Footprint=RESC1608L New Footprint=RESC1608N
+Change Component Footprint: Designator=R145.2 Old Footprint=RESC1608L New Footprint=RESC1608N
+Change Component Footprint: Designator=R145.3 Old Footprint=RESC1608L New Footprint=RESC1608N
+Change Component Footprint: Designator=R145.4 Old Footprint=RESC1608L New Footprint=RESC1608N
+Added Component: Designator=C200.1(CAPC1608X87N)

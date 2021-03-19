@@ -1,0 +1,128 @@
+Removed Parameter Capacitance (F):27.0p from Part C51
+Removed Parameter Capacitance (F):27.0p from Part C52
+Removed Parameter Capacitance (F):100.0n from Part C37
+Removed Parameter Capacitance (F):100.0n from Part C38
+Removed Parameter Capacitance (F):100.0n from Part C39
+Removed Parameter Capacitance (F):100.0n from Part C40
+Removed Parameter Capacitance (F):100.0n from Part C42
+Removed Parameter Capacitance (F):100.0n from Part C43
+Removed Parameter Capacitance (F):100.0n from Part C44
+Removed Parameter Capacitance (F):100.0n from Part C47
+Removed Parameter Capacitance (F):100.0n from Part C49
+Removed Parameter Capacitance (F):100.0n from Part C50
+Removed Parameter PartNumber:GRM21BR71C475KA73 from Part C41
+Removed Parameter PartNumber:GRM21BR71C475KA73 from Part C45
+Removed Parameter PartNumber:GRM21BR71C475KA73 from Part C46
+Removed Parameter PartNumber:GRM21BR71C475KA73 from Part C48
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C37
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C38
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C39
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C40
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C42
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C43
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C44
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C47
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C49
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C50
+Removed Parameter PartNumber:GRM1885C1H270JA01 from Part C51
+Removed Parameter PartNumber:GRM1885C1H270JA01 from Part C52
+Removed Parameter Rated voltage (V):50 from Part C37
+Removed Parameter Rated voltage (V):50 from Part C38
+Removed Parameter Rated voltage (V):50 from Part C39
+Removed Parameter Rated voltage (V):50 from Part C40
+Removed Parameter Rated voltage (V):50 from Part C42
+Removed Parameter Rated voltage (V):50 from Part C43
+Removed Parameter Rated voltage (V):50 from Part C44
+Removed Parameter Rated voltage (V):50 from Part C47
+Removed Parameter Rated voltage (V):50 from Part C49
+Removed Parameter Rated voltage (V):50 from Part C50
+Removed Parameter Rated voltage (V):50 from Part C51
+Removed Parameter Rated voltage (V):50 from Part C52
+Removed Parameter Thickness (mm):0.90 from Part C37
+Removed Parameter Thickness (mm):0.90 from Part C38
+Removed Parameter Thickness (mm):0.90 from Part C39
+Removed Parameter Thickness (mm):0.90 from Part C40
+Removed Parameter Thickness (mm):0.90 from Part C42
+Removed Parameter Thickness (mm):0.90 from Part C43
+Removed Parameter Thickness (mm):0.90 from Part C44
+Removed Parameter Thickness (mm):0.90 from Part C47
+Removed Parameter Thickness (mm):0.90 from Part C49
+Removed Parameter Thickness (mm):0.90 from Part C50
+Removed Parameter Thickness (mm):0.90 from Part C51
+Removed Parameter Thickness (mm):0.90 from Part C52
+Change Value of Parameter Tolerance in Part C52 Old=±5% New=5%
+Change Value of Parameter Tolerance in Part C51 Old=±5% New=5%
+Change Value of Parameter Tolerance in Part C49 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C47 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C50 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C44 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C43 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C42 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C40 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C39 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C38 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C37 Old=±10% New=10%
+Added Parameter Capacitance=27pF to Part C51
+Added Parameter Capacitance=27pF to Part C52
+Added Parameter Capacitance=100nF to Part C37
+Added Parameter Capacitance=100nF to Part C38
+Added Parameter Capacitance=100nF to Part C39
+Added Parameter Capacitance=100nF to Part C40
+Added Parameter Capacitance=100nF to Part C42
+Added Parameter Capacitance=100nF to Part C43
+Added Parameter Capacitance=100nF to Part C44
+Added Parameter Capacitance=100nF to Part C47
+Added Parameter Capacitance=100nF to Part C49
+Added Parameter Capacitance=100nF to Part C50
+Added Parameter Rated Voltage=50V to Part C37
+Added Parameter Rated Voltage=50V to Part C38
+Added Parameter Rated Voltage=50V to Part C39
+Added Parameter Rated Voltage=50V to Part C40
+Added Parameter Rated Voltage=50V to Part C42
+Added Parameter Rated Voltage=50V to Part C43
+Added Parameter Rated Voltage=50V to Part C44
+Added Parameter Rated Voltage=50V to Part C47
+Added Parameter Rated Voltage=50V to Part C49
+Added Parameter Rated Voltage=50V to Part C50
+Added Parameter Rated Voltage=50V to Part C51
+Added Parameter Rated Voltage=50V to Part C52
+Added Parameter Thickness=900µm to Part C37
+Added Parameter Thickness=900µm to Part C38
+Added Parameter Thickness=900µm to Part C39
+Added Parameter Thickness=900µm to Part C40
+Added Parameter Thickness=900µm to Part C42
+Added Parameter Thickness=900µm to Part C43
+Added Parameter Thickness=900µm to Part C44
+Added Parameter Thickness=900µm to Part C47
+Added Parameter Thickness=900µm to Part C49
+Added Parameter Thickness=900µm to Part C50
+Added Parameter Thickness=900µm to Part C51
+Added Parameter Thickness=900µm to Part C52
+Added Parameter Weight=9mg to Part C37
+Added Parameter Weight=9mg to Part C38
+Added Parameter Weight=9mg to Part C39
+Added Parameter Weight=9mg to Part C40
+Added Parameter Weight=9mg to Part C42
+Added Parameter Weight=9mg to Part C43
+Added Parameter Weight=9mg to Part C44
+Added Parameter Weight=9mg to Part C47
+Added Parameter Weight=9mg to Part C49
+Added Parameter Weight=9mg to Part C50
+Added Parameter Weight=9mg to Part C51
+Added Parameter Weight=9mg to Part C52
+Update Managed Component C37 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [21] USB.SchDoc
+Update Managed Component C38 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [21] USB.SchDoc
+Update Managed Component C39 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [21] USB.SchDoc
+Update Managed Component C40 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [21] USB.SchDoc
+Update Managed Component C41 From CMP-0300-003397-3[4u7 16V 0805] To CMP-0300-003397-4[4u7 16V 0805] in [21] USB.SchDoc
+Update Managed Component C42 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [21] USB.SchDoc
+Update Managed Component C43 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [21] USB.SchDoc
+Update Managed Component C44 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [21] USB.SchDoc
+Update Managed Component C45 From CMP-0300-003397-3[4u7 16V 0805] To CMP-0300-003397-4[4u7 16V 0805] in [21] USB.SchDoc
+Update Managed Component C46 From CMP-0300-003397-3[4u7 16V 0805] To CMP-0300-003397-4[4u7 16V 0805] in [21] USB.SchDoc
+Update Managed Component C47 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [21] USB.SchDoc
+Update Managed Component C48 From CMP-0300-003397-3[4u7 16V 0805] To CMP-0300-003397-4[4u7 16V 0805] in [21] USB.SchDoc
+Update Managed Component C49 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [21] USB.SchDoc
+Update Managed Component C50 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [21] USB.SchDoc
+Update Managed Component C51 From CMP-0300-002442-2[27p 50V 0603] To CMP-0300-002442-4[27p 50V 0603] in [21] USB.SchDoc
+Update Managed Component C52 From CMP-0300-002442-2[27p 50V 0603] To CMP-0300-002442-4[27p 50V 0603] in [21] USB.SchDoc

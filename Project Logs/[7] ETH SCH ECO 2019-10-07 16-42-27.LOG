@@ -1,0 +1,2 @@
+Change Value of Parameter PartNumber in Part X3 Old=7A-25.000MAAJ-T New=7A-25.000MAHE-T
+Update Managed Component X3 From CMP-2400-000047-4[25MHz] To CMP-2400-000020-1[25MHz] in [7] ETH.SchDoc

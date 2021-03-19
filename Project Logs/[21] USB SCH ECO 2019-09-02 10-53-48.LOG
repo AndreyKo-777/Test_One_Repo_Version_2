@@ -1,0 +1,28 @@
+Change Value of Parameter Tolerance in Part C52 Old=±5% New=5%
+Change Value of Parameter Tolerance in Part C51 Old=±5% New=5%
+Change Value of Parameter Tolerance in Part C49 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C47 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C50 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C44 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C43 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C42 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C40 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C39 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C38 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C37 Old=±10% New=10%
+Update Managed Component C37 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [21] USB.SchDoc
+Update Managed Component C38 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [21] USB.SchDoc
+Update Managed Component C39 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [21] USB.SchDoc
+Update Managed Component C40 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [21] USB.SchDoc
+Update Managed Component C41 From CMP-0300-003397-3[4u7 16V 0805] To CMP-0300-003397-4[4u7 16V 0805] in [21] USB.SchDoc
+Update Managed Component C42 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [21] USB.SchDoc
+Update Managed Component C43 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [21] USB.SchDoc
+Update Managed Component C44 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [21] USB.SchDoc
+Update Managed Component C45 From CMP-0300-003397-3[4u7 16V 0805] To CMP-0300-003397-4[4u7 16V 0805] in [21] USB.SchDoc
+Update Managed Component C46 From CMP-0300-003397-3[4u7 16V 0805] To CMP-0300-003397-4[4u7 16V 0805] in [21] USB.SchDoc
+Update Managed Component C47 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [21] USB.SchDoc
+Update Managed Component C48 From CMP-0300-003397-3[4u7 16V 0805] To CMP-0300-003397-4[4u7 16V 0805] in [21] USB.SchDoc
+Update Managed Component C49 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [21] USB.SchDoc
+Update Managed Component C50 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [21] USB.SchDoc
+Update Managed Component C51 From CMP-0300-002442-2[27p 50V 0603] To CMP-0300-002442-4[27p 50V 0603] in [21] USB.SchDoc
+Update Managed Component C52 From CMP-0300-002442-2[27p 50V 0603] To CMP-0300-002442-4[27p 50V 0603] in [21] USB.SchDoc

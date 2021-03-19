@@ -1,0 +1,28 @@
+Removed Parameter Case-EIA:0603 from Part R11
+Removed Parameter Case-EIA:0603 from Part R12
+Removed Parameter Case-EIA:0603 from Part R15
+Removed Parameter Case-Metric:1608 from Part R11
+Removed Parameter Case-Metric:1608 from Part R12
+Removed Parameter Case-Metric:1608 from Part R15
+Removed Parameter PartNumber: from Part R12
+Removed Parameter PartNumber: from Part R15
+Removed Parameter Technology:SMT from Part R11
+Removed Parameter Technology:SMT from Part R12
+Removed Parameter Technology:SMT from Part R15
+Change Value of Parameter Power in Part R11 Old=0.1W New=100mW
+Change Value of Parameter Temp. Coefficent in Part R11 Old=15 New=0.0015%
+Change Value of Parameter Tolerance in Part R11 Old=±0.1 New=0.1%
+Change Value of Parameter Value in Part R11 Old=4120.00 New=4.12k
+Added Parameter Case/Package=0603/1608 to Part R11
+Added Parameter Case/Package=0603/1608 to Part R12
+Added Parameter Case/Package=0603/1608 to Part R15
+Added Parameter Composition=Thick film to Part R12
+Added Parameter Composition=Thick film to Part R15
+Added Parameter Composition=Thin film to Part R11
+Added Parameter Package/Case= to Part R11
+Added Parameter Weight= to Part R11
+Added Parameter Weight= to Part R12
+Added Parameter Weight= to Part R15
+Update Managed Component R11 From CMP-1800-002400-2[4K12 ±0.1% 0603] To CMP-1800-002400-3[4K12 ±0.1% 0603] in [6] CLOCK.SchDoc
+Update Managed Component R12 From CMP-1800-002038-3[5K1 ±1% 0603] To CMP-1800-002038-4[5K1 ±1% 0603] in [6] CLOCK.SchDoc
+Update Managed Component R15 From CMP-1800-002010-3[330R ±1% 0603] To CMP-1800-002010-4[330R ±1% 0603] in [6] CLOCK.SchDoc

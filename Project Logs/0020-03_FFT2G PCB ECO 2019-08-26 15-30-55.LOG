@@ -1,0 +1,72 @@
+Removed Pin From Net: NetName=GND Pin=D8.1-1
+Removed Pin From Net: NetName=PGOOD.1 Pin=D8.1-2
+Removed Pin From Net: NetName=GND Pin=D8.2-1
+Removed Pin From Net: NetName=PGOOD.2 Pin=D8.2-2
+Removed Pin From Net: NetName=GND Pin=D8.3-1
+Removed Pin From Net: NetName=PGOOD.3 Pin=D8.3-2
+Removed Pin From Net: NetName=GND Pin=D8.4-1
+Removed Pin From Net: NetName=PGOOD.4 Pin=D8.4-2
+Removed Member From Class: ClassName=Ch_A 1.0V Member=D8.1
+Removed Member From Class: ClassName=Ch_B 2.5V Member=D8.2
+Removed Member From Class: ClassName=Ch_C 2.3V Member=D8.3
+Removed Member From Class: ClassName=Ch_D 3.8VV Member=D8.4
+Change Component DesignItemId : Designator=R133.1 Old DesignItemId=CMP-1800-002045-3 New DesignItemId=CMP-1800-002045-3
+Change Component DesignItemId : Designator=R133.2 Old DesignItemId=CMP-1800-002045-3 New DesignItemId=CMP-1800-002045-3
+Change Component DesignItemId : Designator=R133.3 Old DesignItemId=CMP-1800-002045-3 New DesignItemId=CMP-1800-002045-3
+Change Component DesignItemId : Designator=R133.4 Old DesignItemId=CMP-1800-002045-3 New DesignItemId=CMP-1800-002045-3
+Change Component Comment : Designator=R133.1 Old Comment=680R ±1% 0603 New Comment=10K ±1% 0603
+Change Component Comment : Designator=R133.2 Old Comment=680R ±1% 0603 New Comment=10K ±1% 0603
+Change Component Comment : Designator=R133.3 Old Comment=680R ±1% 0603 New Comment=10K ±1% 0603
+Change Component Comment : Designator=R133.4 Old Comment=680R ±1% 0603 New Comment=10K ±1% 0603
+Change component parameters: Designator = "R133.1" ("R133"); Footprint = "RESC1608L"; UniqueID = "\LSFQQERN\FGGLTWQK\RAMJOKYV" ("\LSFQQERN\FGGLTWQK\RAMJOKYV")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp. Coefficent"; Value = "0.01%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R133.2" ("R133"); Footprint = "RESC1608L"; UniqueID = "\LSFQQERN\LJNKNUYR\RAMJOKYV" ("\LSFQQERN\LJNKNUYR\RAMJOKYV")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp. Coefficent"; Value = "0.01%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R133.3" ("R133"); Footprint = "RESC1608L"; UniqueID = "\LSFQQERN\KDCZMNRZ\RAMJOKYV" ("\LSFQQERN\KDCZMNRZ\RAMJOKYV")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp. Coefficent"; Value = "0.01%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R133.4" ("R133"); Footprint = "RESC1608L"; UniqueID = "\LSFQQERN\HOLPUNGC\RAMJOKYV" ("\LSFQQERN\HOLPUNGC\RAMJOKYV")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp. Coefficent"; Value = "0.01%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=J12.1(SMT_IO_PAD_2x1MM)
+Added Component: Designator=J12.2(SMT_IO_PAD_2x1MM)
+Added Component: Designator=J12.3(SMT_IO_PAD_2x1MM)
+Added Component: Designator=J12.4(SMT_IO_PAD_2x1MM)
+Added Pin To Net: NetName=PGOOD.1 Pin=J12.1-1
+Added Pin To Net: NetName=PGOOD.2 Pin=J12.2-1
+Added Pin To Net: NetName=PGOOD.3 Pin=J12.3-1
+Added Pin To Net: NetName=PGOOD.4 Pin=J12.4-1
+Added Member To Class: ClassName=Ch_A 1.0V Member=Component J12.1 (J12) IOPAD
+Added Member To Class: ClassName=Ch_B 2.5V Member=Component J12.2 (J12) IOPAD
+Added Member To Class: ClassName=Ch_C 2.3V Member=Component J12.3 (J12) IOPAD
+Added Member To Class: ClassName=Ch_D 3.8VV Member=Component J12.4 (J12) IOPAD

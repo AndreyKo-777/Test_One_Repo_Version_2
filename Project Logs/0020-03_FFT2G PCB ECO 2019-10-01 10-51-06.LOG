@@ -1,0 +1,103 @@
+Change Component DesignItemId : Designator=U18.1 Old DesignItemId=CMP-0074-00629-3 New DesignItemId=CMP-2100-000587-1
+Change Component DesignItemId : Designator=U18.2 Old DesignItemId=CMP-0074-00629-3 New DesignItemId=CMP-2100-000587-1
+Change Component DesignItemId : Designator=U18 Old DesignItemId=CMP-0074-00629-3 New DesignItemId=CMP-2100-000587-1
+Change Component Footprint: Designator=U18.1 Old Footprint=DBZ0003A_L New Footprint=SOT95P280X100-5N
+Change Component Footprint: Designator=U18.2 Old Footprint=DBZ0003A_L New Footprint=SOT95P280X100-5N
+Change Component Footprint: Designator=U18 Old Footprint=DBZ0003A_L New Footprint=SOT95P280X100-5N
+Change Component Designator: OldDesignator=P17.1 NewDesignator=P30.1
+Change Component Designator: OldDesignator=P17.2 NewDesignator=P30.2
+Change Component Designator: OldDesignator=P17.3 NewDesignator=P30.3
+Change Component Designator: OldDesignator=P17.4 NewDesignator=P30.4
+Change Component Designator: OldDesignator=P18.1 NewDesignator=P31.1
+Change Component Designator: OldDesignator=P18.2 NewDesignator=P31.2
+Change Component Designator: OldDesignator=P18.3 NewDesignator=P31.3
+Change Component Designator: OldDesignator=P18.4 NewDesignator=P31.4
+Change Component Designator: OldDesignator=U16 NewDesignator=U32
+Change Component Designator: OldDesignator=U18 NewDesignator=U31
+Change Component Description : Designator=U18.1 Old Description=Micropower Voltage Reference Diode, 3-pin SOT-23, Pb-Free New Description=Texas Instruments LM385M3-1.2/NOPB, Fixed Shunt Voltage Reference 1.235V, 2.0 %, 3-Pin SOT-23
+Change Component Description : Designator=U18.2 Old Description=Micropower Voltage Reference Diode, 3-pin SOT-23, Pb-Free New Description=Texas Instruments LM385M3-1.2/NOPB, Fixed Shunt Voltage Reference 1.235V, 2.0 %, 3-Pin SOT-23
+Change Component Description : Designator=U31 Old Description=Micropower Voltage Reference Diode, 3-pin SOT-23, Pb-Free New Description=Texas Instruments LM385M3-1.2/NOPB, Fixed Shunt Voltage Reference 1.235V, 2.0 %, 3-Pin SOT-23
+Change Component Library : Designator=U18.1 Old Library=Altium Content Vault New Library=Omnisys Vault
+Change Component Library : Designator=U18.2 Old Library=Altium Content Vault New Library=Omnisys Vault
+Change Component Library : Designator=U31 Old Library=Altium Content Vault New Library=Omnisys Vault
+Change Managed Component Library Link : Designator=U18.1 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=4D7FA81B-A7C5-4CAD-9FDA-135DF3DEE531 New ItemGUID=d514cc04-b234-4fae-9802-23c292584c88 Old RevisionGUID=F3DB2A14-0A24-4F6C-BFBC-21AB94DD9DAA New RevisionGUID=f640511f-8771-41ae-bf4a-f5d548550d5d
+Change Managed Component Library Link : Designator=U18.2 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=4D7FA81B-A7C5-4CAD-9FDA-135DF3DEE531 New ItemGUID=d514cc04-b234-4fae-9802-23c292584c88 Old RevisionGUID=F3DB2A14-0A24-4F6C-BFBC-21AB94DD9DAA New RevisionGUID=f640511f-8771-41ae-bf4a-f5d548550d5d
+Change Managed Component Library Link : Designator=U31 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=4D7FA81B-A7C5-4CAD-9FDA-135DF3DEE531 New ItemGUID=d514cc04-b234-4fae-9802-23c292584c88 Old RevisionGUID=F3DB2A14-0A24-4F6C-BFBC-21AB94DD9DAA New RevisionGUID=f640511f-8771-41ae-bf4a-f5d548550d5d
+Change component parameters: Designator = "U18" ("U18"); Footprint = "DBZ0003A_L"; UniqueID = "\LSFQQERN\ZWSXRURS" ("\LSFQQERN\ZWSXRURS")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "10mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.93mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "2.92mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Input Voltage"; Value = "1.235V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Output Current"; Value = "20mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Output Voltage"; Value = "1.235V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "0°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nominal Supply Current"; Value = "10uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Current"; Value = "20mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Voltage"; Value = "1.235V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference Type"; Value = "Shunt,Fixed"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference Voltage"; Value = "1.235V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "150ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "2%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "1.3mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U18.1" ("U18"); Footprint = "DBZ0003A_L"; UniqueID = "\CTQURWWQ\CLQGBQAY\STWIGWNY" ("\CTQURWWQ\CLQGBQAY\STWIGWNY")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "10mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.93mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "2.92mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Input Voltage"; Value = "1.235V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Output Current"; Value = "20mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Output Voltage"; Value = "1.235V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "0°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nominal Supply Current"; Value = "10uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Current"; Value = "20mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Voltage"; Value = "1.235V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference Type"; Value = "Shunt,Fixed"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference Voltage"; Value = "1.235V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "150ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "2%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "1.3mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U18.2" ("U18"); Footprint = "DBZ0003A_L"; UniqueID = "\MWZJRLAF\CLQGBQAY\STWIGWNY" ("\MWZJRLAF\CLQGBQAY\STWIGWNY")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "10mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.93mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "2.92mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Input Voltage"; Value = "1.235V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Output Current"; Value = "20mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Output Voltage"; Value = "1.235V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "0°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nominal Supply Current"; Value = "10uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Current"; Value = "20mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Voltage"; Value = "1.235V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference Type"; Value = "Shunt,Fixed"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference Voltage"; Value = "1.235V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "150ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "2%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "1.3mm"; VariantName = "[No Variations]"

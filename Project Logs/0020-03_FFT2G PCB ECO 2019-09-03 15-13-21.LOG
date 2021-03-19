@@ -1,0 +1,12 @@
+Added Component: Designator=P17(MH5-2_7MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P18(MH5-2_7MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P19(MH5-2_7MM)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=P17-MH
+Added Pin To Net: NetName=GND Pin=P18-MH
+Added Pin To Net: NetName=GND Pin=P19-MH
+Added Member To Class: ClassName=[1] 0020-03_FFT2G - Top Member=Component P17 M2.5-5mm pad
+Added Member To Class: ClassName=[1] 0020-03_FFT2G - Top Member=Component P18 M2.5-5mm pad
+Added Member To Class: ClassName=[1] 0020-03_FFT2G - Top Member=Component P19 M2.5-5mm pad

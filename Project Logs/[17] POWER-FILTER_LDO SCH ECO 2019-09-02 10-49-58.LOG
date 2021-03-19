@@ -1,0 +1,102 @@
+Removed Parameter Capacitance (F):10.0n from Part C56
+Removed Parameter Capacitance (F):100.0n from Part C57
+Removed Parameter Capacitance (F):100.0n from Part C59
+Removed Parameter Capacitance (F):100.0n from Part C61
+Removed Parameter Capacitance (F):100.0n from Part C65
+Removed Parameter Capacitance (F):100.0n from Part C70
+Removed Parameter PartNumber:GRM21BD71A226ME44 from Part C55
+Removed Parameter PartNumber:GRM21BD71A226ME44 from Part C58
+Removed Parameter PartNumber:GRM21BD71A226ME44 from Part C64
+Removed Parameter PartNumber:GRM21BD71A226ME44 from Part C66
+Removed Parameter PartNumber:GRM21BD71A226ME44 from Part C69
+Removed Parameter PartNumber:GRM21BD71A226ME44 from Part C71
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C57
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C59
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C61
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C65
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C70
+Removed Parameter PartNumber:GRM1885C1H103JA01 from Part C56
+Removed Parameter Rated volage:10 from Part C54
+Removed Parameter Rated volage:10 from Part C63
+Removed Parameter Rated volage:10 from Part C68
+Removed Parameter Rated voltage (V):50 from Part C56
+Removed Parameter Rated voltage (V):50 from Part C57
+Removed Parameter Rated voltage (V):50 from Part C59
+Removed Parameter Rated voltage (V):50 from Part C61
+Removed Parameter Rated voltage (V):50 from Part C65
+Removed Parameter Rated voltage (V):50 from Part C70
+Removed Parameter Thickness (mm):0.90 from Part C56
+Removed Parameter Thickness (mm):0.90 from Part C57
+Removed Parameter Thickness (mm):0.90 from Part C59
+Removed Parameter Thickness (mm):0.90 from Part C61
+Removed Parameter Thickness (mm):0.90 from Part C65
+Removed Parameter Thickness (mm):0.90 from Part C70
+Removed Parameter Value:330 from Part C54
+Removed Parameter Value:330 from Part C63
+Removed Parameter Value:330 from Part C68
+Change Value of Parameter DCL in Part C54 Old=33 New=33A
+Change Value of Parameter DCL in Part C68 Old=33 New=33A
+Change Value of Parameter DCL in Part C63 Old=33 New=33A
+Change Value of Parameter DF in Part C54 Old=8 New=8%
+Change Value of Parameter DF in Part C68 Old=8 New=8%
+Change Value of Parameter DF in Part C63 Old=8 New=8%
+Change Value of Parameter Tolerance in Part C56 Old=±5% New=5%
+Change Value of Parameter Tolerance in Part C61 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C57 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C59 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C70 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C65 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C54 Old=±20% New=20%
+Change Value of Parameter Tolerance in Part C68 Old=±20% New=20%
+Change Value of Parameter Tolerance in Part C63 Old=±20% New=20%
+Added Parameter Capacitance=10nF to Part C56
+Added Parameter Capacitance=100nF to Part C57
+Added Parameter Capacitance=100nF to Part C59
+Added Parameter Capacitance=100nF to Part C61
+Added Parameter Capacitance=100nF to Part C65
+Added Parameter Capacitance=100nF to Part C70
+Added Parameter Capacitance=330µF to Part C54
+Added Parameter Capacitance=330µF to Part C63
+Added Parameter Capacitance=330µF to Part C68
+Added Parameter Height= to Part C54
+Added Parameter Height= to Part C63
+Added Parameter Height= to Part C68
+Added Parameter Rated Voltage=10V to Part C54
+Added Parameter Rated Voltage=10V to Part C63
+Added Parameter Rated Voltage=10V to Part C68
+Added Parameter Rated Voltage=50V to Part C56
+Added Parameter Rated Voltage=50V to Part C57
+Added Parameter Rated Voltage=50V to Part C59
+Added Parameter Rated Voltage=50V to Part C61
+Added Parameter Rated Voltage=50V to Part C65
+Added Parameter Rated Voltage=50V to Part C70
+Added Parameter Thickness=900µm to Part C56
+Added Parameter Thickness=900µm to Part C57
+Added Parameter Thickness=900µm to Part C59
+Added Parameter Thickness=900µm to Part C61
+Added Parameter Thickness=900µm to Part C65
+Added Parameter Thickness=900µm to Part C70
+Added Parameter Weight=9mg to Part C56
+Added Parameter Weight=9mg to Part C57
+Added Parameter Weight=9mg to Part C59
+Added Parameter Weight=9mg to Part C61
+Added Parameter Weight=9mg to Part C65
+Added Parameter Weight=9mg to Part C70
+Added Parameter Weight= to Part C54
+Added Parameter Weight= to Part C63
+Added Parameter Weight= to Part C68
+Update Managed Component C54 From CMP-0300-000207-4[330u 10V 7343-43] To CMP-0300-000207-5[330u 10V 7343-43] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component C55 From CMP-0300-003942-3[22u 10V 0805] To CMP-0300-003942-4[22u 10V 0805] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component C56 From CMP-0300-002475-2[10n 50V 0603] To CMP-0300-002475-4[10n 50V 0603] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component C57 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component C58 From CMP-0300-003942-3[22u 10V 0805] To CMP-0300-003942-4[22u 10V 0805] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component C59 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component C61 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component C63 From CMP-0300-000207-4[330u 10V 7343-43] To CMP-0300-000207-5[330u 10V 7343-43] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component C64 From CMP-0300-003942-3[22u 10V 0805] To CMP-0300-003942-4[22u 10V 0805] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component C65 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component C66 From CMP-0300-003942-3[22u 10V 0805] To CMP-0300-003942-4[22u 10V 0805] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component C68 From CMP-0300-000207-4[330u 10V 7343-43] To CMP-0300-000207-5[330u 10V 7343-43] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component C69 From CMP-0300-003942-3[22u 10V 0805] To CMP-0300-003942-4[22u 10V 0805] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component C70 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component C71 From CMP-0300-003942-3[22u 10V 0805] To CMP-0300-003942-4[22u 10V 0805] in [17] POWER-FILTER_LDO.SchDoc

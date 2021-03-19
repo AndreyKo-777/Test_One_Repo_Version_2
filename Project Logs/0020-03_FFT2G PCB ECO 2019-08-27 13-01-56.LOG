@@ -1,0 +1,27 @@
+Added Component: Designator=C51(CAPC1608X90N)
+Add component (AddParameter): Name = "Capacitance (F)"; Value = "27.0p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1608/0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRM1885C1H270JA01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage (V)"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Charateristics"; Value = "C0G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (mm)"; Value = "0.90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Added Component: Designator=C52(CAPC1608X90N)
+Add component (AddParameter): Name = "Capacitance (F)"; Value = "27.0p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1608/0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRM1885C1H270JA01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage (V)"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Charateristics"; Value = "C0G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (mm)"; Value = "0.90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Added Component: Designator=X2(XTAL_5x3.2MM)
+Add component (AddParameter): Name = "PartNumber"; Value = "7A-12.000MAAJ-T"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C51-1
+Added Pin To Net: NetName=NetC51_2 Pin=C51-2
+Added Pin To Net: NetName=GND Pin=C52-1
+Added Pin To Net: NetName=NetC52_2 Pin=C52-2
+Added Pin To Net: NetName=NetC51_2 Pin=X2-1
+Added Pin To Net: NetName=NetC52_2 Pin=X2-2
+Added Member To Class: ClassName=USB Member=Component C51 27p 50V 0603
+Added Member To Class: ClassName=USB Member=Component C52 27p 50V 0603
+Added Member To Class: ClassName=USB Member=Component X2 12MHz

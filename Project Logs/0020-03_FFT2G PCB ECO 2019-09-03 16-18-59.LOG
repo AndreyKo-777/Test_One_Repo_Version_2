@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NetJ10_4 Pin=J10-4
+Removed Pin From Net: NetName=NetF4_2 Pin=J10-5
+Removed Pin From Net: NetName=NetF4_2 Pin=J10-6
+Change Component Footprint: Designator=J10 Old Footprint=FCI-61729-1011BLF_V New Footprint=629105150521
+Change Component Comment : Designator=J10 Old Comment=61729-1011BLF New Comment=629105150521
+Change component parameters: Designator = "J10"; Footprint = "629105150521"; UniqueID = "\RPUPIGRN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "MicroUSB2.0TypeB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "30mOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://katalog.we-online.de/em/datasheet/629105150521.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40to85degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "629105150521"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "629105150521"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "WurthElektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Working Voltage"; Value = "30VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ10_4 Pin=J10-5
+Added Pin To Net: NetName=NetF4_2 Pin=J10-Shell
+Added Pin To Net: NetName=NetF4_2 Pin=J10-Shell
+Added Pin To Net: NetName=NetF4_2 Pin=J10-Shell
+Added Pin To Net: NetName=NetF4_2 Pin=J10-Shell
+Change Net Name : Old Net Name=NetJ10_4 New Net Name=NetJ10_5

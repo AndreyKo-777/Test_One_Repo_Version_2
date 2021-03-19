@@ -1,0 +1,22 @@
+Change Component DesignItemId : Designator=R63.1 Old DesignItemId=CMP-1800-000000-3 New DesignItemId=CMP-1800-000000-4
+Change Component DesignItemId : Designator=R63.2 Old DesignItemId=CMP-1800-000000-3 New DesignItemId=CMP-1800-000000-4
+Change Component Footprint: Designator=R63.1 Old Footprint=RESC2012N New Footprint=RESC2012N
+Change Component Footprint: Designator=R63.2 Old Footprint=RESC2012N New Footprint=RESC2012N
+Change component parameters: Designator = "R63.1"; Footprint = "RESC2012N"; UniqueID = "\CTQURWWQ\OTMGSGDA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805/2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "150V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp. Coefficent"; Value = "0%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R63.2"; Footprint = "RESC2012N"; UniqueID = "\MWZJRLAF\OTMGSGDA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805/2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "150V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp. Coefficent"; Value = "0%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"

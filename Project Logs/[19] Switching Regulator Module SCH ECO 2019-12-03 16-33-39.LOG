@@ -1,0 +1,20 @@
+Removed Parameter Package/Case: from Part R48
+Change Value of Parameter Thickness in Part C197 Old=870µm New=900µm
+Change Value of Parameter Tolerance in Part C201 Old=20% New=10%
+Change Value of Parameter Tolerance in Part C199 Old=20% New=10%
+Change Value of Parameter Value in Part R131 Old=10G New=1G
+Change Value of Parameter Value in Part R132 Old=10G New=1G
+Change Value of Parameter Value in Part R130 Old=10G New=1G
+Update Managed Component C197 From CMP-0300-001436-4[27p 50V 0603] To CMP-0300-002442-6[27p 10% 50V C0G] in [19] Switching Regulator Module.SchDoc
+Update Managed Component C198 From CMP-0300-002431-4[6p8 50V 0603] To CMP-0300-002430-5[6p8 10% 50V C0G] in [19] Switching Regulator Module.SchDoc
+Update Managed Component C199 From CMP-0300-002666-5[100n 50V 0603] To CMP-0300-002665-6[100n 10% 50V X7R] in [19] Switching Regulator Module.SchDoc
+Update Managed Component C200 From CMP-0300-001552-4[100p 50V 0603] To CMP-0300-002450-6[100p 10% 50V C0G] in [19] Switching Regulator Module.SchDoc
+Update Managed Component C201 From CMP-0300-002666-5[100n 50V 0603] To CMP-0300-002665-6[100n 10% 50V X7R] in [19] Switching Regulator Module.SchDoc
+Update Managed Component R47 From CMP-1800-002089-4[680K ±1% 0603] To CMP-1800-002089-5[680K 1% 0603] in [19] Switching Regulator Module.SchDoc
+Update Managed Component R48 From CMP-1800-002529-3[90K9 ±0.1% 0603] To CMP-1800-002529-4[90K9 0.1% 0603] in [19] Switching Regulator Module.SchDoc
+Update Managed Component R130 From CMP-1800-003157-3[R ±1% 0603] To CMP-1800-003157-4[R 1% 0603] in [19] Switching Regulator Module.SchDoc
+Update Managed Component R131 From CMP-1800-003157-3[R ±1% 0603] To CMP-1800-003157-4[R 1% 0603] in [19] Switching Regulator Module.SchDoc
+Update Managed Component R132 From CMP-1800-003157-3[R ±1% 0603] To CMP-1800-003157-4[R 1% 0603] in [19] Switching Regulator Module.SchDoc
+Update Managed Component R133 From CMP-1800-002045-4[10K ±1% 0603] To CMP-1800-002045-5[10K 1% 0603] in [19] Switching Regulator Module.SchDoc
+Update Managed Component R144 From CMP-1800-001974-4[10R ±1% 0603] To CMP-1800-001974-5[10R 1% 0603] in [19] Switching Regulator Module.SchDoc
+Update Managed Component R145 From CMP-1800-001974-4[10R ±1% 0603] To CMP-1800-001974-5[10R 1% 0603] in [19] Switching Regulator Module.SchDoc

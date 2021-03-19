@@ -1,0 +1,13 @@
+Change Value of Parameter Temperature Charateristics in Part C3 Old=X7R New=C0G
+Change Value of Parameter Tolerance in Part C3 Old=10% New=5%
+Added Parameter Weight= to Part R63
+Update Managed Component C1 From CMP-0300-002665-5[100n 50V 0603] To CMP-0300-002665-6[100n 10% 50V X7R] in [2] ADC.SchDoc
+Update Managed Component C2 From CMP-0300-002665-5[100n 50V 0603] To CMP-0300-002665-6[100n 10% 50V X7R] in [2] ADC.SchDoc
+Update Managed Component C3 From CMP-0300-002637-4[1n0 50V 0603] To CMP-0300-002463-5[1n0 10% 50V C0G] in [2] ADC.SchDoc
+Update Managed Component R58 From CMP-1800-002037-4[4K7 ±1% 0603] To CMP-1800-002037-5[4K7 1% 0603] in [2] ADC.SchDoc
+Update Managed Component R59 From CMP-1800-002037-4[4K7 ±1% 0603] To CMP-1800-002037-5[4K7 1% 0603] in [2] ADC.SchDoc
+Update Managed Component R60 From CMP-1800-002037-4[4K7 ±1% 0603] To CMP-1800-002037-5[4K7 1% 0603] in [2] ADC.SchDoc
+Update Managed Component R61 From CMP-1800-002037-4[4K7 ±1% 0603] To CMP-1800-002037-5[4K7 1% 0603] in [2] ADC.SchDoc
+Update Managed Component R62 From CMP-1800-002037-4[4K7 ±1% 0603] To CMP-1800-002037-5[4K7 1% 0603] in [2] ADC.SchDoc
+Update Managed Component R63 From CMP-1800-000000-4[0R0 Jumper] To CMP-1800-000000-5[0R0 Jumper] in [2] ADC.SchDoc
+Update Managed Component R64 From CMP-1800-002037-4[4K7 ±1% 0603] To CMP-1800-002037-5[4K7 1% 0603] in [2] ADC.SchDoc

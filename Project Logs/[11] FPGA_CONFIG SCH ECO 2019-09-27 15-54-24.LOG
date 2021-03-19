@@ -1,0 +1,160 @@
+Removed Parameter Case-EIA:0603 from Part R100
+Removed Parameter Case-EIA:0603 from Part R101
+Removed Parameter Case-EIA:0603 from Part R102
+Removed Parameter Case-EIA:0603 from Part R103
+Removed Parameter Case-EIA:0603 from Part R104
+Removed Parameter Case-EIA:0603 from Part R105
+Removed Parameter Case-EIA:0603 from Part R106
+Removed Parameter Case-EIA:0603 from Part R107
+Removed Parameter Case-EIA:0603 from Part R108
+Removed Parameter Case-EIA:0603 from Part R109
+Removed Parameter Case-EIA:0603 from Part R110
+Removed Parameter Case-EIA:0603 from Part R111
+Removed Parameter Case-EIA:0603 from Part R112
+Removed Parameter Case-EIA:0603 from Part R113
+Removed Parameter Case-EIA:0603 from Part R114
+Removed Parameter Case-EIA:0603 from Part R115
+Removed Parameter Case-EIA:0603 from Part R116
+Removed Parameter Case-EIA:0603 from Part R117
+Removed Parameter Case-EIA:0603 from Part R118
+Removed Parameter Case-EIA:0603 from Part R119
+Removed Parameter Case-Metric:1608 from Part R100
+Removed Parameter Case-Metric:1608 from Part R101
+Removed Parameter Case-Metric:1608 from Part R102
+Removed Parameter Case-Metric:1608 from Part R103
+Removed Parameter Case-Metric:1608 from Part R104
+Removed Parameter Case-Metric:1608 from Part R105
+Removed Parameter Case-Metric:1608 from Part R106
+Removed Parameter Case-Metric:1608 from Part R107
+Removed Parameter Case-Metric:1608 from Part R108
+Removed Parameter Case-Metric:1608 from Part R109
+Removed Parameter Case-Metric:1608 from Part R110
+Removed Parameter Case-Metric:1608 from Part R111
+Removed Parameter Case-Metric:1608 from Part R112
+Removed Parameter Case-Metric:1608 from Part R113
+Removed Parameter Case-Metric:1608 from Part R114
+Removed Parameter Case-Metric:1608 from Part R115
+Removed Parameter Case-Metric:1608 from Part R116
+Removed Parameter Case-Metric:1608 from Part R117
+Removed Parameter Case-Metric:1608 from Part R118
+Removed Parameter Case-Metric:1608 from Part R119
+Removed Parameter PartNumber: from Part R100
+Removed Parameter PartNumber: from Part R101
+Removed Parameter PartNumber: from Part R102
+Removed Parameter PartNumber: from Part R103
+Removed Parameter PartNumber: from Part R104
+Removed Parameter PartNumber: from Part R105
+Removed Parameter PartNumber: from Part R106
+Removed Parameter PartNumber: from Part R107
+Removed Parameter PartNumber: from Part R108
+Removed Parameter PartNumber: from Part R109
+Removed Parameter PartNumber: from Part R110
+Removed Parameter PartNumber: from Part R111
+Removed Parameter PartNumber: from Part R112
+Removed Parameter PartNumber: from Part R113
+Removed Parameter PartNumber: from Part R114
+Removed Parameter PartNumber: from Part R115
+Removed Parameter PartNumber: from Part R116
+Removed Parameter PartNumber: from Part R117
+Removed Parameter PartNumber: from Part R118
+Removed Parameter PartNumber: from Part R119
+Removed Parameter Technology:SMT from Part R100
+Removed Parameter Technology:SMT from Part R101
+Removed Parameter Technology:SMT from Part R102
+Removed Parameter Technology:SMT from Part R103
+Removed Parameter Technology:SMT from Part R104
+Removed Parameter Technology:SMT from Part R105
+Removed Parameter Technology:SMT from Part R106
+Removed Parameter Technology:SMT from Part R107
+Removed Parameter Technology:SMT from Part R108
+Removed Parameter Technology:SMT from Part R109
+Removed Parameter Technology:SMT from Part R110
+Removed Parameter Technology:SMT from Part R111
+Removed Parameter Technology:SMT from Part R112
+Removed Parameter Technology:SMT from Part R113
+Removed Parameter Technology:SMT from Part R114
+Removed Parameter Technology:SMT from Part R115
+Removed Parameter Technology:SMT from Part R116
+Removed Parameter Technology:SMT from Part R117
+Removed Parameter Technology:SMT from Part R118
+Removed Parameter Technology:SMT from Part R119
+Added Parameter Case/Package=0603/1608 to Part R100
+Added Parameter Case/Package=0603/1608 to Part R101
+Added Parameter Case/Package=0603/1608 to Part R102
+Added Parameter Case/Package=0603/1608 to Part R103
+Added Parameter Case/Package=0603/1608 to Part R104
+Added Parameter Case/Package=0603/1608 to Part R105
+Added Parameter Case/Package=0603/1608 to Part R106
+Added Parameter Case/Package=0603/1608 to Part R107
+Added Parameter Case/Package=0603/1608 to Part R108
+Added Parameter Case/Package=0603/1608 to Part R109
+Added Parameter Case/Package=0603/1608 to Part R110
+Added Parameter Case/Package=0603/1608 to Part R111
+Added Parameter Case/Package=0603/1608 to Part R112
+Added Parameter Case/Package=0603/1608 to Part R113
+Added Parameter Case/Package=0603/1608 to Part R114
+Added Parameter Case/Package=0603/1608 to Part R115
+Added Parameter Case/Package=0603/1608 to Part R116
+Added Parameter Case/Package=0603/1608 to Part R117
+Added Parameter Case/Package=0603/1608 to Part R118
+Added Parameter Case/Package=0603/1608 to Part R119
+Added Parameter Composition=Thick film to Part R100
+Added Parameter Composition=Thick film to Part R101
+Added Parameter Composition=Thick film to Part R102
+Added Parameter Composition=Thick film to Part R103
+Added Parameter Composition=Thick film to Part R104
+Added Parameter Composition=Thick film to Part R105
+Added Parameter Composition=Thick film to Part R106
+Added Parameter Composition=Thick film to Part R107
+Added Parameter Composition=Thick film to Part R108
+Added Parameter Composition=Thick film to Part R109
+Added Parameter Composition=Thick film to Part R110
+Added Parameter Composition=Thick film to Part R111
+Added Parameter Composition=Thick film to Part R112
+Added Parameter Composition=Thick film to Part R113
+Added Parameter Composition=Thick film to Part R114
+Added Parameter Composition=Thick film to Part R115
+Added Parameter Composition=Thick film to Part R116
+Added Parameter Composition=Thick film to Part R117
+Added Parameter Composition=Thick film to Part R118
+Added Parameter Composition=Thick film to Part R119
+Added Parameter Weight= to Part R100
+Added Parameter Weight= to Part R101
+Added Parameter Weight= to Part R102
+Added Parameter Weight= to Part R103
+Added Parameter Weight= to Part R104
+Added Parameter Weight= to Part R105
+Added Parameter Weight= to Part R106
+Added Parameter Weight= to Part R107
+Added Parameter Weight= to Part R108
+Added Parameter Weight= to Part R109
+Added Parameter Weight= to Part R110
+Added Parameter Weight= to Part R111
+Added Parameter Weight= to Part R112
+Added Parameter Weight= to Part R113
+Added Parameter Weight= to Part R114
+Added Parameter Weight= to Part R115
+Added Parameter Weight= to Part R116
+Added Parameter Weight= to Part R117
+Added Parameter Weight= to Part R118
+Added Parameter Weight= to Part R119
+Update Managed Component R100 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [11] FPGA_CONFIG.SchDoc
+Update Managed Component R101 From CMP-1800-002049-3[15K ±1% 0603] To CMP-1800-002049-4[15K ±1% 0603] in [11] FPGA_CONFIG.SchDoc
+Update Managed Component R102 From CMP-1800-002061-3[47K ±1% 0603] To CMP-1800-002061-4[47K ±1% 0603] in [11] FPGA_CONFIG.SchDoc
+Update Managed Component R103 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [11] FPGA_CONFIG.SchDoc
+Update Managed Component R104 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [11] FPGA_CONFIG.SchDoc
+Update Managed Component R105 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [11] FPGA_CONFIG.SchDoc
+Update Managed Component R106 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [11] FPGA_CONFIG.SchDoc
+Update Managed Component R107 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [11] FPGA_CONFIG.SchDoc
+Update Managed Component R108 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [11] FPGA_CONFIG.SchDoc
+Update Managed Component R109 From CMP-1800-002005-3[200R ±1% 0603] To CMP-1800-002005-4[200R ±1% 0603] in [11] FPGA_CONFIG.SchDoc
+Update Managed Component R110 From CMP-1800-002010-3[330R ±1% 0603] To CMP-1800-002010-4[330R ±1% 0603] in [11] FPGA_CONFIG.SchDoc
+Update Managed Component R111 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [11] FPGA_CONFIG.SchDoc
+Update Managed Component R112 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [11] FPGA_CONFIG.SchDoc
+Update Managed Component R113 From CMP-1800-001949-3[0R0 Jumper 0603] To CMP-1800-001949-4[0R0 Jumper 0603] in [11] FPGA_CONFIG.SchDoc
+Update Managed Component R114 From CMP-1800-001949-3[0R0 Jumper 0603] To CMP-1800-001949-4[0R0 Jumper 0603] in [11] FPGA_CONFIG.SchDoc
+Update Managed Component R115 From CMP-1800-001949-3[0R0 Jumper 0603] To CMP-1800-001949-4[0R0 Jumper 0603] in [11] FPGA_CONFIG.SchDoc
+Update Managed Component R116 From CMP-1800-002049-3[15K ±1% 0603] To CMP-1800-002049-4[15K ±1% 0603] in [11] FPGA_CONFIG.SchDoc
+Update Managed Component R117 From CMP-1800-001949-3[0R0 Jumper 0603] To CMP-1800-001949-4[0R0 Jumper 0603] in [11] FPGA_CONFIG.SchDoc
+Update Managed Component R118 From CMP-1800-002061-3[47K ±1% 0603] To CMP-1800-002061-4[47K ±1% 0603] in [11] FPGA_CONFIG.SchDoc
+Update Managed Component R119 From CMP-1800-002005-3[200R ±1% 0603] To CMP-1800-002005-4[200R ±1% 0603] in [11] FPGA_CONFIG.SchDoc

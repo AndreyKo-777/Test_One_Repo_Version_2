@@ -1,0 +1,10 @@
+Change Component DesignItemId : Designator=U13 Old DesignItemId=CMP-2100-000548-1 New DesignItemId=CMP-2100-000583-1
+Change Component Comment : Designator=U13 Old Comment=VSC8531XMW-04 New Comment=VSC8531XMW-05
+Change Managed Component Library Link : Designator=U13 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=4724d432-0abd-46c7-8101-246f6de6d995 New ItemGUID=ad1c862b-7fcf-43c9-8f32-d15cd6e8da00 Old RevisionGUID=f087d4a5-a7de-4953-acf7-e79ffda3d479 New RevisionGUID=4d2f7efb-e787-4b07-b95d-0bf9809891a2
+Change component parameters: Designator = "U13" ("U13"); Footprint = "QFN40P600X600X90_HS-49N"; UniqueID = "\ZNLHZSSX\LPUGIJSM" ("\ZNLHZSSX\LPUGIJSM")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "QFN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Circuits"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "VSC8531XMW-05"; VariantName = "[No Variations]"

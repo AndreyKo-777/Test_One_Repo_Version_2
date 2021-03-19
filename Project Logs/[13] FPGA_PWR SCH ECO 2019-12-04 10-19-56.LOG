@@ -1,0 +1,8 @@
+Change Value of Parameter Rated Voltage in Part C190 Old=10V New=6.3V
+Change Value of Parameter Rated Voltage in Part C189 Old=10V New=6.3V
+Change Value of Parameter Rated Voltage in Part C192 Old=10V New=6.3V
+Change Value of Parameter Rated Voltage in Part C191 Old=10V New=6.3V
+Update Managed Component C189 From CMP-0300-002062-5[47u 10V 1210] To CMP-0300-002062-5[47u 10% 6.3V X7R] in [13] FPGA_PWR.SchDoc
+Update Managed Component C190 From CMP-0300-002062-5[47u 10V 1210] To CMP-0300-002062-5[47u 10% 6.3V X7R] in [13] FPGA_PWR.SchDoc
+Update Managed Component C191 From CMP-0300-002062-5[47u 10V 1210] To CMP-0300-002062-5[47u 10% 6.3V X7R] in [13] FPGA_PWR.SchDoc
+Update Managed Component C192 From CMP-0300-002062-5[47u 10V 1210] To CMP-0300-002062-5[47u 10% 6.3V X7R] in [13] FPGA_PWR.SchDoc

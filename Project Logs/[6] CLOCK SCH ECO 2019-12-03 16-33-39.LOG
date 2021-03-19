@@ -1,0 +1,34 @@
+Removed Parameter Package/Case: from Part R11
+Change Value of Parameter Package in Part C31 Old=1005/0402 New=0402/1005
+Change Value of Parameter Package in Part C30 Old=1005/0402 New=0402/1005
+Change Value of Parameter Package in Part C32 Old=1005/0402 New=0402/1005
+Change Value of Parameter Rated Voltage in Part C29 Old=50V New=6.3V
+Change Value of Parameter Temperature Charateristics in Part C30 Old=X7R New=C0G
+Change Value of Parameter Tolerance in Part C31 Old=2% New=10%
+Update Managed Component C8 From CMP-0300-002665-5[100n 50V 0603] To CMP-0300-002665-6[100n 10% 50V X7R] in [6] CLOCK.SchDoc
+Update Managed Component C9 From CMP-0300-002665-5[100n 50V 0603] To CMP-0300-002665-6[100n 10% 50V X7R] in [6] CLOCK.SchDoc
+Update Managed Component C10 From CMP-0300-002665-5[100n 50V 0603] To CMP-0300-002665-6[100n 10% 50V X7R] in [6] CLOCK.SchDoc
+Update Managed Component C11 From CMP-0300-002665-5[100n 50V 0603] To CMP-0300-002665-6[100n 10% 50V X7R] in [6] CLOCK.SchDoc
+Update Managed Component C21 From CMP-0300-002665-5[100n 50V 0603] To CMP-0300-002665-6[100n 10% 50V X7R] in [6] CLOCK.SchDoc
+Update Managed Component C23 From CMP-0300-002665-5[100n 50V 0603] To CMP-0300-002665-6[100n 10% 50V X7R] in [6] CLOCK.SchDoc
+Update Managed Component C28 From CMP-0300-002665-5[100n 50V 0603] To CMP-0300-002665-6[100n 10% 50V X7R] in [6] CLOCK.SchDoc
+Update Managed Component C29 From CMP-0300-002669-5[220n 50V 0603] To CMP-0300-002106-6[220n 10% 6.3V X7R] in [6] CLOCK.SchDoc
+Update Managed Component C30 From CMP-0300-002932-4[270p 50V 0402] To CMP-0300-002797-5[270p 10% 50V C0G] in [6] CLOCK.SchDoc
+Update Managed Component C31 From CMP-0300-002789-4[120p 50V 0402] To CMP-0300-002789-5[120p 10% 50V C0G] in [6] CLOCK.SchDoc
+Update Managed Component C32 From CMP-0300-002952-3[3n9 50V 0402] To CMP-0300-002952-4[3n9 10% 50V X7R] in [6] CLOCK.SchDoc
+Update Managed Component C36 From CMP-0300-002665-5[100n 50V 0603] To CMP-0300-002665-6[100n 10% 50V X7R] in [6] CLOCK.SchDoc
+Update Managed Component R5 From CMP-1800-001411-3[200R ±1% 0402] To CMP-1800-001411-4[200R 1% 0402] in [6] CLOCK.SchDoc
+Update Managed Component R6 From CMP-1800-001411-3[200R ±1% 0402] To CMP-1800-001411-4[200R 1% 0402] in [6] CLOCK.SchDoc
+Update Managed Component R7 From CMP-1800-001411-3[200R ±1% 0402] To CMP-1800-001411-4[200R 1% 0402] in [6] CLOCK.SchDoc
+Update Managed Component R8 From CMP-1800-001411-3[200R ±1% 0402] To CMP-1800-001411-4[200R 1% 0402] in [6] CLOCK.SchDoc
+Update Managed Component R9 From CMP-1800-001411-3[200R ±1% 0402] To CMP-1800-001411-4[200R 1% 0402] in [6] CLOCK.SchDoc
+Update Managed Component R10 From CMP-1800-001411-3[200R ±1% 0402] To CMP-1800-001411-4[200R 1% 0402] in [6] CLOCK.SchDoc
+Update Managed Component R11 From CMP-1800-002400-3[4K12 ±0.1% 0603] To CMP-1800-002400-4[4K12 0.1% 0603] in [6] CLOCK.SchDoc
+Update Managed Component R12 From CMP-1800-002038-4[5K1 ±1% 0603] To CMP-1800-002038-5[5K1 1% 0603] in [6] CLOCK.SchDoc
+Update Managed Component R13 From CMP-1800-001437-3[2K4 ±1% 0402] To CMP-1800-001437-4[2K4 1% 0402] in [6] CLOCK.SchDoc
+Update Managed Component R14 From CMP-1800-001430-3[1K2 ±1% 0402] To CMP-1800-001430-4[1K2 1% 0402] in [6] CLOCK.SchDoc
+Update Managed Component R15 From CMP-1800-002010-4[330R ±1% 0603] To CMP-1800-002010-5[330R 1% 0603] in [6] CLOCK.SchDoc
+Update Managed Component R16 From CMP-1800-001390-3[27R ±1% 0402] To CMP-1800-001390-4[27R 1% 0402] in [6] CLOCK.SchDoc
+Update Managed Component R17 From CMP-1800-001397-3[51R ±1% 0402] To CMP-1800-001397-4[51R 1% 0402] in [6] CLOCK.SchDoc
+Update Managed Component R18 From CMP-1800-001397-3[51R ±1% 0402] To CMP-1800-001397-4[51R 1% 0402] in [6] CLOCK.SchDoc
+Update Managed Component R19 From CMP-1800-001390-3[27R ±1% 0402] To CMP-1800-001390-4[27R 1% 0402] in [6] CLOCK.SchDoc

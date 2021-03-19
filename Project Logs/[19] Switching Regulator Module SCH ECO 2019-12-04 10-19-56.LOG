@@ -1,0 +1,4 @@
+Change Value of Parameter Rated Voltage in Part C187 Old=10V New=6.3V
+Change Value of Parameter Rated Voltage in Part C188 Old=10V New=6.3V
+Update Managed Component C187 From CMP-0300-002062-5[47u 10V 1210] To CMP-0300-002062-5[47u 10% 6.3V X7R] in [19] Switching Regulator Module.SchDoc
+Update Managed Component C188 From CMP-0300-002062-5[47u 10V 1210] To CMP-0300-002062-5[47u 10% 6.3V X7R] in [19] Switching Regulator Module.SchDoc

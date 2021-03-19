@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=+1V0 Pin=C199.2-1
+Removed Pin From Net: NetName=+2V5 Pin=C199.3-1
+Removed Pin From Net: NetName=+2V3 Pin=C199.4-1
+Removed Pin From Net: NetName=TRACK/SS.1 Pin=R130.1-2
+Removed Pin From Net: NetName=+1V0 Pin=U30.2-E2
+Removed Pin From Net: NetName=+2V5 Pin=U30.3-E2
+Removed Pin From Net: NetName=+2V3 Pin=U30.4-E2
+Added Pin To Net: NetName=TRACK/SS.1 Pin=R130.1-1
+Added Pin To Net: NetName=TRACK/SS.1 Pin=R131.1-2
+Added Pin To Net: NetName=NetR130.1_2 Pin=R130.1-2
+Added Net: Name=NetR130.1_2
+Added Pin To Net: NetName=TRACK/SS.2 Pin=C199.2-1
+Added Pin To Net: NetName=TRACK/SS.2 Pin=R130.2-1
+Added Pin To Net: NetName=TRACK/SS.2 Pin=R131.2-2
+Added Pin To Net: NetName=TRACK/SS.2 Pin=U30.2-E2
+Added Net: Name=TRACK/SS.2
+Added Pin To Net: NetName=TRACK/SS.3 Pin=C199.3-1
+Added Pin To Net: NetName=TRACK/SS.3 Pin=R130.3-1
+Added Pin To Net: NetName=TRACK/SS.3 Pin=R131.3-2
+Added Pin To Net: NetName=TRACK/SS.3 Pin=U30.3-E2
+Added Net: Name=TRACK/SS.3
+Added Pin To Net: NetName=TRACK/SS.4 Pin=C199.4-1
+Added Pin To Net: NetName=TRACK/SS.4 Pin=R130.4-1
+Added Pin To Net: NetName=TRACK/SS.4 Pin=R131.4-2
+Added Pin To Net: NetName=TRACK/SS.4 Pin=U30.4-E2
+Added Net: Name=TRACK/SS.4

@@ -1,0 +1,4 @@
+Change Value of Parameter Rated Voltage in Part C74 Old=16V New=10V
+Change Value of Parameter Rated Voltage in Part C72 Old=16V New=10V
+Update Managed Component C72 From CMP-0300-003397-4[4u7 16V 0805] To CMP-0300-003983-5[4u7 10% 10V X7R] in [7] ETH.SchDoc
+Update Managed Component C74 From CMP-0300-003397-4[4u7 16V 0805] To CMP-0300-003983-5[4u7 10% 10V X7R] in [7] ETH.SchDoc

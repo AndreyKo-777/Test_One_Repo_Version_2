@@ -1,0 +1,132 @@
+Removed Parameter Case-EIA:0402 from Part R5
+Removed Parameter Case-EIA:0402 from Part R6
+Removed Parameter Case-EIA:0402 from Part R7
+Removed Parameter Case-EIA:0402 from Part R8
+Removed Parameter Case-EIA:0402 from Part R9
+Removed Parameter Case-EIA:0402 from Part R10
+Removed Parameter Case-EIA:0402 from Part R13
+Removed Parameter Case-EIA:0402 from Part R14
+Removed Parameter Case-EIA:0402 from Part R16
+Removed Parameter Case-EIA:0402 from Part R17
+Removed Parameter Case-EIA:0402 from Part R18
+Removed Parameter Case-EIA:0402 from Part R19
+Removed Parameter Case-Metric:1005 from Part R5
+Removed Parameter Case-Metric:1005 from Part R6
+Removed Parameter Case-Metric:1005 from Part R7
+Removed Parameter Case-Metric:1005 from Part R8
+Removed Parameter Case-Metric:1005 from Part R9
+Removed Parameter Case-Metric:1005 from Part R10
+Removed Parameter Case-Metric:1005 from Part R13
+Removed Parameter Case-Metric:1005 from Part R14
+Removed Parameter Case-Metric:1005 from Part R16
+Removed Parameter Case-Metric:1005 from Part R17
+Removed Parameter Case-Metric:1005 from Part R18
+Removed Parameter Case-Metric:1005 from Part R19
+Removed Parameter Technology:SMT from Part R5
+Removed Parameter Technology:SMT from Part R6
+Removed Parameter Technology:SMT from Part R7
+Removed Parameter Technology:SMT from Part R8
+Removed Parameter Technology:SMT from Part R9
+Removed Parameter Technology:SMT from Part R10
+Removed Parameter Technology:SMT from Part R13
+Removed Parameter Technology:SMT from Part R14
+Removed Parameter Technology:SMT from Part R16
+Removed Parameter Technology:SMT from Part R17
+Removed Parameter Technology:SMT from Part R18
+Removed Parameter Technology:SMT from Part R19
+Change Value of Parameter Power in Part R19 Old=0.10W New=100mW
+Change Value of Parameter Power in Part R18 Old=0.10W New=100mW
+Change Value of Parameter Power in Part R17 Old=0.10W New=100mW
+Change Value of Parameter Power in Part R16 Old=0.10W New=100mW
+Change Value of Parameter Power in Part R14 Old=0.10W New=100mW
+Change Value of Parameter Power in Part R13 Old=0.10W New=100mW
+Change Value of Parameter Power in Part R10 Old=0.10W New=100mW
+Change Value of Parameter Power in Part R9 Old=0.10W New=100mW
+Change Value of Parameter Power in Part R8 Old=0.10W New=100mW
+Change Value of Parameter Power in Part R7 Old=0.10W New=100mW
+Change Value of Parameter Power in Part R6 Old=0.10W New=100mW
+Change Value of Parameter Power in Part R5 Old=0.10W New=100mW
+Change Value of Parameter Temp. Coefficent in Part R19 Old=±100 New=0.01%
+Change Value of Parameter Temp. Coefficent in Part R18 Old=±100 New=0.01%
+Change Value of Parameter Temp. Coefficent in Part R17 Old=±100 New=0.01%
+Change Value of Parameter Temp. Coefficent in Part R16 Old=±100 New=0.01%
+Change Value of Parameter Temp. Coefficent in Part R14 Old=±100 New=0.01%
+Change Value of Parameter Temp. Coefficent in Part R13 Old=±100 New=0.01%
+Change Value of Parameter Temp. Coefficent in Part R10 Old=±100 New=0.01%
+Change Value of Parameter Temp. Coefficent in Part R9 Old=±100 New=0.01%
+Change Value of Parameter Temp. Coefficent in Part R8 Old=±100 New=0.01%
+Change Value of Parameter Temp. Coefficent in Part R7 Old=±100 New=0.01%
+Change Value of Parameter Temp. Coefficent in Part R6 Old=±100 New=0.01%
+Change Value of Parameter Temp. Coefficent in Part R5 Old=±100 New=0.01%
+Change Value of Parameter Tolerance in Part R19 Old=1 New=1%
+Change Value of Parameter Tolerance in Part R18 Old=1 New=1%
+Change Value of Parameter Tolerance in Part R17 Old=1 New=1%
+Change Value of Parameter Tolerance in Part R16 Old=1 New=1%
+Change Value of Parameter Tolerance in Part R14 Old=1 New=1%
+Change Value of Parameter Tolerance in Part R13 Old=1 New=1%
+Change Value of Parameter Tolerance in Part R10 Old=1 New=1%
+Change Value of Parameter Tolerance in Part R9 Old=1 New=1%
+Change Value of Parameter Tolerance in Part R8 Old=1 New=1%
+Change Value of Parameter Tolerance in Part R7 Old=1 New=1%
+Change Value of Parameter Tolerance in Part R6 Old=1 New=1%
+Change Value of Parameter Tolerance in Part R5 Old=1 New=1%
+Change Value of Parameter Value in Part R14 Old=1200.00 New=1.2k
+Change Value of Parameter Value in Part R13 Old=2400.00 New=2.4k
+Change Value of Parameter Value in Part R19 Old=27.00 New=27
+Change Value of Parameter Value in Part R16 Old=27.00 New=27
+Change Value of Parameter Value in Part R18 Old=51.00 New=51
+Change Value of Parameter Value in Part R17 Old=51.00 New=51
+Change Value of Parameter Value in Part R10 Old=200.00 New=200
+Change Value of Parameter Value in Part R9 Old=200.00 New=200
+Change Value of Parameter Value in Part R8 Old=200.00 New=200
+Change Value of Parameter Value in Part R7 Old=200.00 New=200
+Change Value of Parameter Value in Part R6 Old=200.00 New=200
+Change Value of Parameter Value in Part R5 Old=200.00 New=200
+Added Parameter Case/Package=0402/1005 to Part R5
+Added Parameter Case/Package=0402/1005 to Part R6
+Added Parameter Case/Package=0402/1005 to Part R7
+Added Parameter Case/Package=0402/1005 to Part R8
+Added Parameter Case/Package=0402/1005 to Part R9
+Added Parameter Case/Package=0402/1005 to Part R10
+Added Parameter Case/Package=0402/1005 to Part R13
+Added Parameter Case/Package=0402/1005 to Part R14
+Added Parameter Case/Package=0402/1005 to Part R16
+Added Parameter Case/Package=0402/1005 to Part R17
+Added Parameter Case/Package=0402/1005 to Part R18
+Added Parameter Case/Package=0402/1005 to Part R19
+Added Parameter Composition=Thick film to Part R5
+Added Parameter Composition=Thick film to Part R6
+Added Parameter Composition=Thick film to Part R7
+Added Parameter Composition=Thick film to Part R8
+Added Parameter Composition=Thick film to Part R9
+Added Parameter Composition=Thick film to Part R10
+Added Parameter Composition=Thick film to Part R13
+Added Parameter Composition=Thick film to Part R14
+Added Parameter Composition=Thick film to Part R16
+Added Parameter Composition=Thick film to Part R17
+Added Parameter Composition=Thick film to Part R18
+Added Parameter Composition=Thick film to Part R19
+Added Parameter Weight= to Part R5
+Added Parameter Weight= to Part R6
+Added Parameter Weight= to Part R7
+Added Parameter Weight= to Part R8
+Added Parameter Weight= to Part R9
+Added Parameter Weight= to Part R10
+Added Parameter Weight= to Part R13
+Added Parameter Weight= to Part R14
+Added Parameter Weight= to Part R16
+Added Parameter Weight= to Part R17
+Added Parameter Weight= to Part R18
+Added Parameter Weight= to Part R19
+Update Managed Component R5 From CMP-1800-001411-2[200R ±1% 0402] To CMP-1800-001411-3[200R ±1% 0402] in [6] CLOCK.SchDoc
+Update Managed Component R6 From CMP-1800-001411-2[200R ±1% 0402] To CMP-1800-001411-3[200R ±1% 0402] in [6] CLOCK.SchDoc
+Update Managed Component R7 From CMP-1800-001411-2[200R ±1% 0402] To CMP-1800-001411-3[200R ±1% 0402] in [6] CLOCK.SchDoc
+Update Managed Component R8 From CMP-1800-001411-2[200R ±1% 0402] To CMP-1800-001411-3[200R ±1% 0402] in [6] CLOCK.SchDoc
+Update Managed Component R9 From CMP-1800-001411-2[200R ±1% 0402] To CMP-1800-001411-3[200R ±1% 0402] in [6] CLOCK.SchDoc
+Update Managed Component R10 From CMP-1800-001411-2[200R ±1% 0402] To CMP-1800-001411-3[200R ±1% 0402] in [6] CLOCK.SchDoc
+Update Managed Component R13 From CMP-1800-001437-2[2K4 ±1% 0402] To CMP-1800-001437-3[2K4 ±1% 0402] in [6] CLOCK.SchDoc
+Update Managed Component R14 From CMP-1800-001430-2[1K2 ±1% 0402] To CMP-1800-001430-3[1K2 ±1% 0402] in [6] CLOCK.SchDoc
+Update Managed Component R16 From CMP-1800-001390-2[27R ±1% 0402] To CMP-1800-001390-3[27R ±1% 0402] in [6] CLOCK.SchDoc
+Update Managed Component R17 From CMP-1800-001397-2[51R ±1% 0402] To CMP-1800-001397-3[51R ±1% 0402] in [6] CLOCK.SchDoc
+Update Managed Component R18 From CMP-1800-001397-2[51R ±1% 0402] To CMP-1800-001397-3[51R ±1% 0402] in [6] CLOCK.SchDoc
+Update Managed Component R19 From CMP-1800-001390-2[27R ±1% 0402] To CMP-1800-001390-3[27R ±1% 0402] in [6] CLOCK.SchDoc

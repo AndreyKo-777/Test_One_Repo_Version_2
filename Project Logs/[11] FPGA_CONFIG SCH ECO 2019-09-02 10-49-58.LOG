@@ -1,0 +1,80 @@
+Removed Parameter Capacitance (F):100.0n from Part C161
+Removed Parameter Capacitance (F):100.0n from Part C162
+Removed Parameter Capacitance (F):100.0n from Part C163
+Removed Parameter Capacitance (F):100.0n from Part C164
+Removed Parameter Capacitance (F):100.0n from Part C165
+Removed Parameter Capacitance (F):100.0n from Part C166
+Removed Parameter Capacitance (F):100.0n from Part C167
+Removed Parameter Capacitance (F):100.0n from Part C168
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C161
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C162
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C163
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C164
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C165
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C166
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C167
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C168
+Removed Parameter Rated voltage (V):50 from Part C161
+Removed Parameter Rated voltage (V):50 from Part C162
+Removed Parameter Rated voltage (V):50 from Part C163
+Removed Parameter Rated voltage (V):50 from Part C164
+Removed Parameter Rated voltage (V):50 from Part C165
+Removed Parameter Rated voltage (V):50 from Part C166
+Removed Parameter Rated voltage (V):50 from Part C167
+Removed Parameter Rated voltage (V):50 from Part C168
+Removed Parameter Thickness (mm):0.90 from Part C161
+Removed Parameter Thickness (mm):0.90 from Part C162
+Removed Parameter Thickness (mm):0.90 from Part C163
+Removed Parameter Thickness (mm):0.90 from Part C164
+Removed Parameter Thickness (mm):0.90 from Part C165
+Removed Parameter Thickness (mm):0.90 from Part C166
+Removed Parameter Thickness (mm):0.90 from Part C167
+Removed Parameter Thickness (mm):0.90 from Part C168
+Change Value of Parameter Tolerance in Part C168 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C162 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C166 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C165 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C164 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C167 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C163 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C161 Old=±10% New=10%
+Added Parameter Capacitance=100nF to Part C161
+Added Parameter Capacitance=100nF to Part C162
+Added Parameter Capacitance=100nF to Part C163
+Added Parameter Capacitance=100nF to Part C164
+Added Parameter Capacitance=100nF to Part C165
+Added Parameter Capacitance=100nF to Part C166
+Added Parameter Capacitance=100nF to Part C167
+Added Parameter Capacitance=100nF to Part C168
+Added Parameter Rated Voltage=50V to Part C161
+Added Parameter Rated Voltage=50V to Part C162
+Added Parameter Rated Voltage=50V to Part C163
+Added Parameter Rated Voltage=50V to Part C164
+Added Parameter Rated Voltage=50V to Part C165
+Added Parameter Rated Voltage=50V to Part C166
+Added Parameter Rated Voltage=50V to Part C167
+Added Parameter Rated Voltage=50V to Part C168
+Added Parameter Thickness=900µm to Part C161
+Added Parameter Thickness=900µm to Part C162
+Added Parameter Thickness=900µm to Part C163
+Added Parameter Thickness=900µm to Part C164
+Added Parameter Thickness=900µm to Part C165
+Added Parameter Thickness=900µm to Part C166
+Added Parameter Thickness=900µm to Part C167
+Added Parameter Thickness=900µm to Part C168
+Added Parameter Weight=9mg to Part C161
+Added Parameter Weight=9mg to Part C162
+Added Parameter Weight=9mg to Part C163
+Added Parameter Weight=9mg to Part C164
+Added Parameter Weight=9mg to Part C165
+Added Parameter Weight=9mg to Part C166
+Added Parameter Weight=9mg to Part C167
+Added Parameter Weight=9mg to Part C168
+Update Managed Component C161 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [11] FPGA_CONFIG.SchDoc
+Update Managed Component C162 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [11] FPGA_CONFIG.SchDoc
+Update Managed Component C163 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [11] FPGA_CONFIG.SchDoc
+Update Managed Component C164 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [11] FPGA_CONFIG.SchDoc
+Update Managed Component C165 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [11] FPGA_CONFIG.SchDoc
+Update Managed Component C166 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [11] FPGA_CONFIG.SchDoc
+Update Managed Component C167 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [11] FPGA_CONFIG.SchDoc
+Update Managed Component C168 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [11] FPGA_CONFIG.SchDoc

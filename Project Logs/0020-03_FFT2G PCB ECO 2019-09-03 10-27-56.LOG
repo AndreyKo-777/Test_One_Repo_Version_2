@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=TEMP_PWR_rtn Pin=J20.1-1
+Change Component Footprint: Designator=C29 Old Footprint=CAPC1608X90N New Footprint=CAPC1608X90L
+Added Pin To Net: NetName=GND Pin=J20.1-1

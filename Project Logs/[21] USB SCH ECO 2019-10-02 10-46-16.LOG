@@ -1,0 +1,27 @@
+Removed Parameter Code_IPC:SOIC127P600-8 from Part U7
+Removed Parameter Code_JEDEC:MS-012 from Part U7
+Removed Parameter DatasheetVersion:revG, May-2008 from Part U7
+Removed Parameter PackageDescription:8-Lead Plastic Small Outline (SN) - Narrow, 3.90mm Body [SOIC] from Part U7
+Removed Parameter PackageReference:SOIC-SN8 from Part U7
+Removed Parameter PackageVersion:revBB, Aug-2009 from Part U7
+Added Parameter Access Time=250ns to Part U7
+Added Parameter Case/Package=SOIC to Part U7
+Added Parameter Density=1Kb to Part U7
+Added Parameter Frequency=2MHz to Part U7
+Added Parameter Interface=Serial to Part U7
+Added Parameter Lead Free=Lead Free to Part U7
+Added Parameter Max Frequency=1MHz to Part U7
+Added Parameter Max Operating Temperature=85°C to Part U7
+Added Parameter Max Supply Voltage=5.5V to Part U7
+Added Parameter Memory Size=1Kb to Part U7
+Added Parameter Memory Type=EEPROM to Part U7
+Added Parameter Min Operating Temperature=-40°C to Part U7
+Added Parameter Min Supply Voltage=1.8V to Part U7
+Added Parameter Mount=Surface Mount to Part U7
+Added Parameter Nominal Supply Current=2mA to Part U7
+Added Parameter Number of Pins=8 to Part U7
+Added Parameter Package Quantity=3300 to Part U7
+Added Parameter Packaging=Tape and Reel to Part U7
+Added Parameter PartNumber= to Part U7
+Added Parameter Radiation Hardening=No to Part U7
+Update Managed Component U7 From CMP-0162-00270-1[93AA46BT-I/SN] To CMP-2100-000589-1[93AA46BT-I/SN] in [21] USB.SchDoc

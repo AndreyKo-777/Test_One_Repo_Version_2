@@ -1,0 +1,12 @@
+Removed Parameter Package:3528-21 from Part C89
+Removed Parameter Package:3528-21 from Part C138
+Removed Parameter Package:3528-21 from Part C155
+Removed Parameter PartNumber:TAJB106M025RNJ from Part C89
+Removed Parameter PartNumber:TAJB106M025RNJ from Part C138
+Removed Parameter PartNumber:TAJB106M025RNJ from Part C155
+Added Parameter Case/Package=3528 to Part C89
+Added Parameter Case/Package=3528 to Part C138
+Added Parameter Case/Package=3528 to Part C155
+Update Managed Component C89 From CMP-0300-000090-4[10u 25V 3528-21] To CMP-0300-000090-5[10u 20% 25V] in [4] ADC_DECOUPLING.SchDoc
+Update Managed Component C138 From CMP-0300-000090-4[10u 25V 3528-21] To CMP-0300-000090-5[10u 20% 25V] in [4] ADC_DECOUPLING.SchDoc
+Update Managed Component C155 From CMP-0300-000090-4[10u 25V 3528-21] To CMP-0300-000090-5[10u 20% 25V] in [4] ADC_DECOUPLING.SchDoc

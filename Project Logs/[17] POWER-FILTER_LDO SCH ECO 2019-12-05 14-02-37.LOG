@@ -1,0 +1,9 @@
+Removed Parameter Package:7343-43 from Part C54
+Removed Parameter Package:7343-43 from Part C63
+Removed Parameter Package:7343-43 from Part C68
+Added Parameter Case/Package=7343 to Part C54
+Added Parameter Case/Package=7343 to Part C63
+Added Parameter Case/Package=7343 to Part C68
+Update Managed Component C54 From CMP-0300-000208-6[330u 16V 7343-43] To CMP-0300-000208-8[330u 20% 16V] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component C63 From CMP-0300-000208-6[330u 16V 7343-43] To CMP-0300-000208-8[330u 20% 16V] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component C68 From CMP-0300-000208-6[330u 16V 7343-43] To CMP-0300-000208-8[330u 20% 16V] in [17] POWER-FILTER_LDO.SchDoc

@@ -1,0 +1,6 @@
+Added Component: Designator=P25(SolderJumper-Footprint-1)
+Added Pin To Net: NetName=GND Pin=P25-1
+Added Pin To Net: NetName=NetP25_2 Pin=P25-2
+Added Pin To Net: NetName=NetP25_2 Pin=U30.1-D2
+Added Net: Name=NetP25_2
+Added Member To Class: ClassName=POWER Member=Component P25 Solder Jumper

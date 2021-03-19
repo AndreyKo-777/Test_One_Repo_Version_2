@@ -1,0 +1,24 @@
+Change Component DesignItemId : Designator=P17.1 Old DesignItemId=CMP-1600-000025-4 New DesignItemId=CMP-1600-000025-5
+Change Component DesignItemId : Designator=P17.2 Old DesignItemId=CMP-1600-000025-4 New DesignItemId=CMP-1600-000025-5
+Change Component DesignItemId : Designator=P17.3 Old DesignItemId=CMP-1600-000025-4 New DesignItemId=CMP-1600-000025-5
+Change Component DesignItemId : Designator=P17.4 Old DesignItemId=CMP-1600-000025-4 New DesignItemId=CMP-1600-000025-5
+Change Component DesignItemId : Designator=P18.1 Old DesignItemId=CMP-1600-000025-4 New DesignItemId=CMP-1600-000025-5
+Change Component DesignItemId : Designator=P18.2 Old DesignItemId=CMP-1600-000025-4 New DesignItemId=CMP-1600-000025-5
+Change Component DesignItemId : Designator=P18.3 Old DesignItemId=CMP-1600-000025-4 New DesignItemId=CMP-1600-000025-5
+Change Component DesignItemId : Designator=P18.4 Old DesignItemId=CMP-1600-000025-4 New DesignItemId=CMP-1600-000025-5
+Change Component DesignItemId : Designator=P22 Old DesignItemId=CMP-1600-000025-4 New DesignItemId=CMP-1600-000025-5
+Change Component DesignItemId : Designator=P23 Old DesignItemId=CMP-1600-000025-4 New DesignItemId=CMP-1600-000025-5
+Change Component DesignItemId : Designator=P24 Old DesignItemId=CMP-1600-000025-4 New DesignItemId=CMP-1600-000025-5
+Change Component DesignItemId : Designator=P25 Old DesignItemId=CMP-1600-000025-4 New DesignItemId=CMP-1600-000025-5
+Change Component Footprint: Designator=P17.1 Old Footprint=SolderJumper-Footprint-1 New Footprint=SolderJumper-Footprint-1
+Change Component Footprint: Designator=P17.2 Old Footprint=SolderJumper-Footprint-1 New Footprint=SolderJumper-Footprint-1
+Change Component Footprint: Designator=P17.3 Old Footprint=SolderJumper-Footprint-1 New Footprint=SolderJumper-Footprint-1
+Change Component Footprint: Designator=P17.4 Old Footprint=SolderJumper-Footprint-1 New Footprint=SolderJumper-Footprint-1
+Change Component Footprint: Designator=P18.1 Old Footprint=SolderJumper-Footprint-1 New Footprint=SolderJumper-Footprint-1
+Change Component Footprint: Designator=P18.2 Old Footprint=SolderJumper-Footprint-1 New Footprint=SolderJumper-Footprint-1
+Change Component Footprint: Designator=P18.3 Old Footprint=SolderJumper-Footprint-1 New Footprint=SolderJumper-Footprint-1
+Change Component Footprint: Designator=P18.4 Old Footprint=SolderJumper-Footprint-1 New Footprint=SolderJumper-Footprint-1
+Change Component Footprint: Designator=P22 Old Footprint=SolderJumper-Footprint-1 New Footprint=SolderJumper-Footprint-1
+Change Component Footprint: Designator=P23 Old Footprint=SolderJumper-Footprint-1 New Footprint=SolderJumper-Footprint-1
+Change Component Footprint: Designator=P24 Old Footprint=SolderJumper-Footprint-1 New Footprint=SolderJumper-Footprint-1
+Change Component Footprint: Designator=P25 Old Footprint=SolderJumper-Footprint-1 New Footprint=SolderJumper-Footprint-1

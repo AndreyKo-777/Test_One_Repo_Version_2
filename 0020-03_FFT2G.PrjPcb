@@ -1,0 +1,4345 @@
+﻿[Design]
+Version=1.0
+HierarchyMode=4
+ChannelRoomNamingStyle=0
+ReleasesFolder=
+ChannelDesignatorFormatString=$Component.$ChannelIndex
+ChannelRoomLevelSeperator=_
+OpenOutputs=1
+ArchiveProject=0
+TimestampOutput=0
+SeparateFolders=0
+TemplateLocationPath=
+PinSwapBy_Netlabel=1
+PinSwapBy_Pin=0
+AllowPortNetNames=0
+AllowSheetEntryNetNames=0
+AppendSheetNumberToLocalNets=0
+NetlistSinglePinNets=0
+DefaultConfiguration=Fabrication
+UserID=0xFFFFFFFF
+DefaultPcbProtel=1
+DefaultPcbPcad=0
+ReorderDocumentsOnCompile=1
+NameNetsHierarchically=1
+PowerPortNamesTakePriority=1
+AutoSheetNumbering=0
+AutoCrossReferences=0
+PushECOToAnnotationFile=1
+DItemRevisionGUID=
+ReportSuppressedErrorsInMessages=0
+FSMCodingStyle=eFMSDropDownList_OneProcess
+FSMEncodingStyle=eFMSDropDownList_OneHot
+IsProjectConflictPreventionWarningsEnabled=1
+OutputPath=Project Outputs
+LogFolderPath=Project Logs
+
+
+[Preferences]
+PrefsVaultGUID=
+PrefsRevisionGUID=
+
+[Release]
+ReleaseTarget=3
+
+[Document1]
+DocumentPath=SCH\[17] POWER-FILTER_LDO.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=16
+DoLibraryUpdate=0
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DVQHCJUZ
+
+[Document2]
+DocumentPath=SCH\[6] CLOCK.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=0
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OHIVIOAI
+
+[Document3]
+DocumentPath=SCH\[9] FPGA_ADC_N.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=7
+DoLibraryUpdate=0
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BDUTYKTT
+
+[Document4]
+DocumentPath=SCH\[10] FPGA_ADC_S.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=8
+DoLibraryUpdate=0
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EPCKBHMX
+
+[Document5]
+DocumentPath=SCH\[11] FPGA_CONFIG.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=9
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZZCJBVXP
+
+[Document6]
+DocumentPath=SCH\[12] FPGA_MONITOR.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=10
+DoLibraryUpdate=0
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZVYYQPJK
+
+[Document7]
+DocumentPath=SCH\[13] FPGA_PWR.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=11
+DoLibraryUpdate=0
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AIUQWXNM
+
+[Document8]
+DocumentPath=SCH\[14] FPGA_SPI.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=12
+DoLibraryUpdate=0
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JHXDKMCR
+
+[Document9]
+DocumentPath=SCH\[7] ETH.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=17
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UAEYPAHN
+
+[Document10]
+DocumentPath=SCH\[8] FPGA.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=0
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WBEBFKLP
+
+[Document11]
+DocumentPath=SCH\[1] 0020-03_FFT2G - Top.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=0
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NFPOMGTO
+
+[Document12]
+DocumentPath=0020-03_FFT2G.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document13]
+DocumentPath=SCH\[3] ADC_INPUT_BIAS.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=4
+DoLibraryUpdate=0
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZNMDUOGY
+
+[Document14]
+DocumentPath=SCH\[4] ADC_DECOUPLING.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=3
+DoLibraryUpdate=0
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OTREEMFM
+
+[Document15]
+DocumentPath=SCH\[5] ADC_CURRENT_PUMP.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=0
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QDDOQCWZ
+
+[Document16]
+DocumentPath=PCB\0020-03_FFT2G.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YAJXAEUO
+
+[Document17]
+DocumentPath=PCB\0020-03_FFT2G Assembly.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document18]
+DocumentPath=SCH\FPGA_ADC_N.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document19]
+DocumentPath=SCH\FPGA_ADC_S.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document20]
+DocumentPath=SCH\FPGA_SPI.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document21]
+DocumentPath=SCH\FPGA_ADC_MONITOR.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document22]
+DocumentPath=SCH\[15] FPGA_UNUSED.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=13
+DoLibraryUpdate=0
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SRHGUOEO
+
+[Document23]
+DocumentPath=SCH\FPGA_MONITOR.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document24]
+DocumentPath=SCH\USB.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document25]
+DocumentPath=SCH\CLOCK.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document26]
+DocumentPath=SCH\FPGA_CONFIG.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document27]
+DocumentPath=SCH\ETH.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document28]
+DocumentPath=SCH\[16] POWER.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=18
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XPLAPJVR
+
+[Document29]
+DocumentPath=SCH\[21] USB.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=15
+DoLibraryUpdate=0
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LXRBHOHB
+
+[Document30]
+DocumentPath=SCH\ADC.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document31]
+DocumentPath=SCH\[9] FPGA_ADC_N.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document32]
+DocumentPath=SCH\[10] FPGA_ADC_S.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document33]
+DocumentPath=SCH\[11] FPGA_CONFIG.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document34]
+DocumentPath=SCH\[12] FPGA_MONITOR.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document35]
+DocumentPath=SCH\[14] FPGA_SPI.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document36]
+DocumentPath=SCH\[21] USB.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document37]
+DocumentPath=SCH\[19] Switching Regulator Module.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=19
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SFNUBREK
+
+[ProjectVariant1]
+UniqueID=F39D4A16-EB23-4498-8B09-9A428EA80BCC
+Description=Design Variant
+AllowFabrication=0
+ParameterCount=0
+VariationCount=142
+Variation1=Designator=C200.2|UniqueId=\LSFQQERN\LJNKNUYR\GRMKJLCS|Kind=2|AlternatePart=47p 10% 50V C0G|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=Omnisys Vault|AltLibLink_SymbolReference=CMP-0300-002446-6|AltLibLink_DesignItemID=CMP-0300-002446-6|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Omnisys Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B|AltLibLink_ItemGUID=7E3FB060-0B4D-4C85-8A0F-4A3519E56BE2|AltLibLink_RevisionGUID=832FC453-F48B-4B61-8B21-B7FA5D0B252F|AltLibLink_Footprint=CAPC1608X90N|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Comment|VariantValue=47p 10% 50V C0G
+ParamDesignator1=C200.2
+ParamVariation2=ParameterName=Capacitance|VariantValue=47pF
+ParamDesignator2=C200.2
+ParamVariation3=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator3=C200.2
+ParamVariation4=ParameterName=Description|VariantValue=Ceramic Chip Capacitor, 0603/1608
+ParamDesignator4=C200.2
+ParamVariation5=ParameterName=Footprint|VariantValue=CAPC1608X90N
+ParamDesignator5=C200.2
+ParamVariation6=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator6=C200.2
+ParamVariation7=ParameterName=Library Reference|VariantValue=CMP-0300-002446-6
+ParamDesignator7=C200.2
+ParamVariation8=ParameterName=Package|VariantValue=1608/0603
+ParamDesignator8=C200.2
+ParamVariation9=ParameterName=PCB3D|VariantValue= 
+ParamDesignator9=C200.2
+ParamVariation10=ParameterName=Pin Info|VariantValue= 
+ParamDesignator10=C200.2
+ParamVariation11=ParameterName=Rated Voltage|VariantValue=50V
+ParamDesignator11=C200.2
+ParamVariation12=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator12=C200.2
+ParamVariation13=ParameterName=Simulation|VariantValue= 
+ParamDesignator13=C200.2
+ParamVariation14=ParameterName=Temperature Charateristics|VariantValue=C0G
+ParamDesignator14=C200.2
+ParamVariation15=ParameterName=Thickness|VariantValue=900µm
+ParamDesignator15=C200.2
+ParamVariation16=ParameterName=Tolerance|VariantValue=5%
+ParamDesignator16=C200.2
+ParamVariation17=ParameterName=Weight|VariantValue=9mg
+ParamDesignator17=C200.2
+Variation2=Designator=C201.2|UniqueId=\LSFQQERN\LJNKNUYR\OUNVEYZN|Kind=2|AlternatePart=180p 10% 50V C0G|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=Omnisys Vault|AltLibLink_SymbolReference=CMP-0300-002453-6|AltLibLink_DesignItemID=CMP-0300-002453-6|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Omnisys Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B|AltLibLink_ItemGUID=85C00C31-17B3-4C18-8699-A1F1DBFBDD50|AltLibLink_RevisionGUID=06A2D97C-AE4B-4AB1-BEA9-DFF5798B3582|AltLibLink_Footprint=CAPC1608X90N|AltLibLink_IsSameFootprint=True
+ParamVariation18=ParameterName=Comment|VariantValue=180p 10% 50V C0G
+ParamDesignator18=C201.2
+ParamVariation19=ParameterName=Capacitance|VariantValue=180pF
+ParamDesignator19=C201.2
+ParamVariation20=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator20=C201.2
+ParamVariation21=ParameterName=Description|VariantValue=Ceramic Chip Capacitor, 0603/1608
+ParamDesignator21=C201.2
+ParamVariation22=ParameterName=Footprint|VariantValue=CAPC1608X90N
+ParamDesignator22=C201.2
+ParamVariation23=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator23=C201.2
+ParamVariation24=ParameterName=Library Reference|VariantValue=CMP-0300-002453-6
+ParamDesignator24=C201.2
+ParamVariation25=ParameterName=Package|VariantValue=1608/0603
+ParamDesignator25=C201.2
+ParamVariation26=ParameterName=PCB3D|VariantValue= 
+ParamDesignator26=C201.2
+ParamVariation27=ParameterName=Pin Info|VariantValue= 
+ParamDesignator27=C201.2
+ParamVariation28=ParameterName=Rated Voltage|VariantValue=50V
+ParamDesignator28=C201.2
+ParamVariation29=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator29=C201.2
+ParamVariation30=ParameterName=Simulation|VariantValue= 
+ParamDesignator30=C201.2
+ParamVariation31=ParameterName=Temperature Charateristics|VariantValue=C0G
+ParamDesignator31=C201.2
+ParamVariation32=ParameterName=Thickness|VariantValue=900µm
+ParamDesignator32=C201.2
+ParamVariation33=ParameterName=Tolerance|VariantValue=5%
+ParamDesignator33=C201.2
+ParamVariation34=ParameterName=Weight|VariantValue=9mg
+ParamDesignator34=C201.2
+Variation3=Designator=R132.2|UniqueId=\LSFQQERN\LJNKNUYR\TMLLVMTY|Kind=2|AlternatePart=5K6 1% 0603|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=Omnisys Vault|AltLibLink_SymbolReference=CMP-1800-002039-5|AltLibLink_DesignItemID=CMP-1800-002039-5|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Omnisys Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B|AltLibLink_ItemGUID=D642302B-D644-4932-98F0-E023F388D19A|AltLibLink_RevisionGUID=424B497C-45E3-425C-A713-1AA3AADDF129|AltLibLink_Footprint=RESC1608N|AltLibLink_IsSameFootprint=True
+ParamVariation35=ParameterName=Comment|VariantValue=5K6 1% 0603
+ParamDesignator35=R132.2
+ParamVariation36=ParameterName=Case/Package|VariantValue=0603/1608
+ParamDesignator36=R132.2
+ParamVariation37=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator37=R132.2
+ParamVariation38=ParameterName=Composition|VariantValue=Thick film
+ParamDesignator38=R132.2
+ParamVariation39=ParameterName=Description|VariantValue=Thick film Chip Resistor, 0603/1608
+ParamDesignator39=R132.2
+ParamVariation40=ParameterName=Footprint|VariantValue=RESC1608N
+ParamDesignator40=R132.2
+ParamVariation41=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator41=R132.2
+ParamVariation42=ParameterName=Library Reference|VariantValue=CMP-1800-002039-5
+ParamDesignator42=R132.2
+ParamVariation43=ParameterName=Maximum working voltage|VariantValue=75V
+ParamDesignator43=R132.2
+ParamVariation44=ParameterName=PCB3D|VariantValue= 
+ParamDesignator44=R132.2
+ParamVariation45=ParameterName=Pin Info|VariantValue= 
+ParamDesignator45=R132.2
+ParamVariation46=ParameterName=Power|VariantValue=100mW
+ParamDesignator46=R132.2
+ParamVariation47=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator47=R132.2
+ParamVariation48=ParameterName=Simulation|VariantValue= 
+ParamDesignator48=R132.2
+ParamVariation49=ParameterName=Temp. Coefficent|VariantValue=0.01%
+ParamDesignator49=R132.2
+ParamVariation50=ParameterName=Tolerance|VariantValue=1%
+ParamDesignator50=R132.2
+ParamVariation51=ParameterName=Value|VariantValue=5.6k
+ParamDesignator51=R132.2
+ParamVariation52=ParameterName=Weight|VariantValue= 
+ParamDesignator52=R132.2
+Variation4=Designator=R132.1|UniqueId=\LSFQQERN\FGGLTWQK\TMLLVMTY|Kind=2|AlternatePart=5K49 0.1% 0603|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=Omnisys Vault|AltLibLink_SymbolReference=CMP-1800-002412-4|AltLibLink_DesignItemID=CMP-1800-002412-4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Omnisys Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B|AltLibLink_ItemGUID=89F430CB-60AF-4DC1-B1B7-B0148FD91CDA|AltLibLink_RevisionGUID=48911D0C-2227-4B0B-9AAE-ED2A11798CC7|AltLibLink_Footprint=RESC1608N|AltLibLink_IsSameFootprint=True
+ParamVariation53=ParameterName=Comment|VariantValue=5K49 0.1% 0603
+ParamDesignator53=R132.1
+ParamVariation54=ParameterName=Case/Package|VariantValue=0603/1608
+ParamDesignator54=R132.1
+ParamVariation55=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator55=R132.1
+ParamVariation56=ParameterName=Composition|VariantValue=Thin film
+ParamDesignator56=R132.1
+ParamVariation57=ParameterName=Description|VariantValue=Thin film Chip Resistor, 0603/1608
+ParamDesignator57=R132.1
+ParamVariation58=ParameterName=Footprint|VariantValue=RESC1608N
+ParamDesignator58=R132.1
+ParamVariation59=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator59=R132.1
+ParamVariation60=ParameterName=Library Reference|VariantValue=CMP-1800-002412-4
+ParamDesignator60=R132.1
+ParamVariation61=ParameterName=Maximum working voltage|VariantValue=50V
+ParamDesignator61=R132.1
+ParamVariation62=ParameterName=PCB3D|VariantValue= 
+ParamDesignator62=R132.1
+ParamVariation63=ParameterName=Pin Info|VariantValue= 
+ParamDesignator63=R132.1
+ParamVariation64=ParameterName=Power|VariantValue=100mW
+ParamDesignator64=R132.1
+ParamVariation65=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator65=R132.1
+ParamVariation66=ParameterName=Simulation|VariantValue= 
+ParamDesignator66=R132.1
+ParamVariation67=ParameterName=Temp. Coefficent|VariantValue=0.0015%
+ParamDesignator67=R132.1
+ParamVariation68=ParameterName=Tolerance|VariantValue=0.1%
+ParamDesignator68=R132.1
+ParamVariation69=ParameterName=Value|VariantValue=5.49k
+ParamDesignator69=R132.1
+ParamVariation70=ParameterName=Weight|VariantValue= 
+ParamDesignator70=R132.1
+Variation5=Designator=C200.3|UniqueId=\LSFQQERN\KDCZMNRZ\GRMKJLCS|Kind=2|AlternatePart=47p 10% 50V C0G|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=Omnisys Vault|AltLibLink_SymbolReference=CMP-0300-002446-6|AltLibLink_DesignItemID=CMP-0300-002446-6|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Omnisys Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B|AltLibLink_ItemGUID=7E3FB060-0B4D-4C85-8A0F-4A3519E56BE2|AltLibLink_RevisionGUID=832FC453-F48B-4B61-8B21-B7FA5D0B252F|AltLibLink_Footprint=CAPC1608X90N|AltLibLink_IsSameFootprint=True
+ParamVariation71=ParameterName=Comment|VariantValue=47p 10% 50V C0G
+ParamDesignator71=C200.3
+ParamVariation72=ParameterName=Capacitance|VariantValue=47pF
+ParamDesignator72=C200.3
+ParamVariation73=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator73=C200.3
+ParamVariation74=ParameterName=Description|VariantValue=Ceramic Chip Capacitor, 0603/1608
+ParamDesignator74=C200.3
+ParamVariation75=ParameterName=Footprint|VariantValue=CAPC1608X90N
+ParamDesignator75=C200.3
+ParamVariation76=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator76=C200.3
+ParamVariation77=ParameterName=Library Reference|VariantValue=CMP-0300-002446-6
+ParamDesignator77=C200.3
+ParamVariation78=ParameterName=Package|VariantValue=1608/0603
+ParamDesignator78=C200.3
+ParamVariation79=ParameterName=PCB3D|VariantValue= 
+ParamDesignator79=C200.3
+ParamVariation80=ParameterName=Pin Info|VariantValue= 
+ParamDesignator80=C200.3
+ParamVariation81=ParameterName=Rated Voltage|VariantValue=50V
+ParamDesignator81=C200.3
+ParamVariation82=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator82=C200.3
+ParamVariation83=ParameterName=Simulation|VariantValue= 
+ParamDesignator83=C200.3
+ParamVariation84=ParameterName=Temperature Charateristics|VariantValue=C0G
+ParamDesignator84=C200.3
+ParamVariation85=ParameterName=Thickness|VariantValue=900µm
+ParamDesignator85=C200.3
+ParamVariation86=ParameterName=Tolerance|VariantValue=5%
+ParamDesignator86=C200.3
+ParamVariation87=ParameterName=Weight|VariantValue=9mg
+ParamDesignator87=C200.3
+Variation6=Designator=C201.3|UniqueId=\LSFQQERN\KDCZMNRZ\OUNVEYZN|Kind=2|AlternatePart=180p 10% 50V C0G|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=Omnisys Vault|AltLibLink_SymbolReference=CMP-0300-002453-6|AltLibLink_DesignItemID=CMP-0300-002453-6|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Omnisys Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B|AltLibLink_ItemGUID=85C00C31-17B3-4C18-8699-A1F1DBFBDD50|AltLibLink_RevisionGUID=06A2D97C-AE4B-4AB1-BEA9-DFF5798B3582|AltLibLink_Footprint=CAPC1608X90N|AltLibLink_IsSameFootprint=True
+ParamVariation88=ParameterName=Comment|VariantValue=180p 10% 50V C0G
+ParamDesignator88=C201.3
+ParamVariation89=ParameterName=Capacitance|VariantValue=180pF
+ParamDesignator89=C201.3
+ParamVariation90=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator90=C201.3
+ParamVariation91=ParameterName=Description|VariantValue=Ceramic Chip Capacitor, 0603/1608
+ParamDesignator91=C201.3
+ParamVariation92=ParameterName=Footprint|VariantValue=CAPC1608X90N
+ParamDesignator92=C201.3
+ParamVariation93=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator93=C201.3
+ParamVariation94=ParameterName=Library Reference|VariantValue=CMP-0300-002453-6
+ParamDesignator94=C201.3
+ParamVariation95=ParameterName=Package|VariantValue=1608/0603
+ParamDesignator95=C201.3
+ParamVariation96=ParameterName=PCB3D|VariantValue= 
+ParamDesignator96=C201.3
+ParamVariation97=ParameterName=Pin Info|VariantValue= 
+ParamDesignator97=C201.3
+ParamVariation98=ParameterName=Rated Voltage|VariantValue=50V
+ParamDesignator98=C201.3
+ParamVariation99=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator99=C201.3
+ParamVariation100=ParameterName=Simulation|VariantValue= 
+ParamDesignator100=C201.3
+ParamVariation101=ParameterName=Temperature Charateristics|VariantValue=C0G
+ParamDesignator101=C201.3
+ParamVariation102=ParameterName=Thickness|VariantValue=900µm
+ParamDesignator102=C201.3
+ParamVariation103=ParameterName=Tolerance|VariantValue=5%
+ParamDesignator103=C201.3
+ParamVariation104=ParameterName=Weight|VariantValue=9mg
+ParamDesignator104=C201.3
+Variation7=Designator=R132.3|UniqueId=\LSFQQERN\KDCZMNRZ\TMLLVMTY|Kind=2|AlternatePart=7K5 1% 0603|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=Omnisys Vault|AltLibLink_SymbolReference=CMP-1800-002042-5|AltLibLink_DesignItemID=CMP-1800-002042-5|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Omnisys Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B|AltLibLink_ItemGUID=C71A2BBC-AEA6-4910-A625-BAA5F7F18B46|AltLibLink_RevisionGUID=AB728C98-AA35-461F-98A7-535DECECC282|AltLibLink_Footprint=RESC1608N|AltLibLink_IsSameFootprint=True
+ParamVariation105=ParameterName=Comment|VariantValue=7K5 1% 0603
+ParamDesignator105=R132.3
+ParamVariation106=ParameterName=Case/Package|VariantValue=0603/1608
+ParamDesignator106=R132.3
+ParamVariation107=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator107=R132.3
+ParamVariation108=ParameterName=Composition|VariantValue=Thick film
+ParamDesignator108=R132.3
+ParamVariation109=ParameterName=Description|VariantValue=Thick film Chip Resistor, 0603/1608
+ParamDesignator109=R132.3
+ParamVariation110=ParameterName=Footprint|VariantValue=RESC1608N
+ParamDesignator110=R132.3
+ParamVariation111=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator111=R132.3
+ParamVariation112=ParameterName=Library Reference|VariantValue=CMP-1800-002042-5
+ParamDesignator112=R132.3
+ParamVariation113=ParameterName=Maximum working voltage|VariantValue=75V
+ParamDesignator113=R132.3
+ParamVariation114=ParameterName=PCB3D|VariantValue= 
+ParamDesignator114=R132.3
+ParamVariation115=ParameterName=Pin Info|VariantValue= 
+ParamDesignator115=R132.3
+ParamVariation116=ParameterName=Power|VariantValue=100mW
+ParamDesignator116=R132.3
+ParamVariation117=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator117=R132.3
+ParamVariation118=ParameterName=Simulation|VariantValue= 
+ParamDesignator118=R132.3
+ParamVariation119=ParameterName=Temp. Coefficent|VariantValue=0.01%
+ParamDesignator119=R132.3
+ParamVariation120=ParameterName=Tolerance|VariantValue=1%
+ParamDesignator120=R132.3
+ParamVariation121=ParameterName=Value|VariantValue=7.5k
+ParamDesignator121=R132.3
+ParamVariation122=ParameterName=Weight|VariantValue= 
+ParamDesignator122=R132.3
+Variation8=Designator=C200.4|UniqueId=\LSFQQERN\HOLPUNGC\GRMKJLCS|Kind=2|AlternatePart=39p 10% 50V C0G|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=Omnisys Vault|AltLibLink_SymbolReference=CMP-0300-002445-6|AltLibLink_DesignItemID=CMP-0300-002445-6|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Omnisys Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B|AltLibLink_ItemGUID=29B8E570-54F7-4E04-A1F8-5BB7352CFB66|AltLibLink_RevisionGUID=1A57F433-B701-4445-98A2-A668AB79FD77|AltLibLink_Footprint=CAPC1608X90N|AltLibLink_IsSameFootprint=True
+ParamVariation123=ParameterName=Comment|VariantValue=39p 10% 50V C0G
+ParamDesignator123=C200.4
+ParamVariation124=ParameterName=Capacitance|VariantValue=39pF
+ParamDesignator124=C200.4
+ParamVariation125=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator125=C200.4
+ParamVariation126=ParameterName=Description|VariantValue=Ceramic Chip Capacitor, 0603/1608
+ParamDesignator126=C200.4
+ParamVariation127=ParameterName=Footprint|VariantValue=CAPC1608X90N
+ParamDesignator127=C200.4
+ParamVariation128=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator128=C200.4
+ParamVariation129=ParameterName=Library Reference|VariantValue=CMP-0300-002445-6
+ParamDesignator129=C200.4
+ParamVariation130=ParameterName=Package|VariantValue=1608/0603
+ParamDesignator130=C200.4
+ParamVariation131=ParameterName=PCB3D|VariantValue= 
+ParamDesignator131=C200.4
+ParamVariation132=ParameterName=Pin Info|VariantValue= 
+ParamDesignator132=C200.4
+ParamVariation133=ParameterName=Rated Voltage|VariantValue=50V
+ParamDesignator133=C200.4
+ParamVariation134=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator134=C200.4
+ParamVariation135=ParameterName=Simulation|VariantValue= 
+ParamDesignator135=C200.4
+ParamVariation136=ParameterName=Temperature Charateristics|VariantValue=C0G
+ParamDesignator136=C200.4
+ParamVariation137=ParameterName=Thickness|VariantValue=900µm
+ParamDesignator137=C200.4
+ParamVariation138=ParameterName=Tolerance|VariantValue=5%
+ParamDesignator138=C200.4
+ParamVariation139=ParameterName=Weight|VariantValue=9mg
+ParamDesignator139=C200.4
+Variation9=Designator=C201.4|UniqueId=\LSFQQERN\HOLPUNGC\OUNVEYZN|Kind=2|AlternatePart=100p 10% 50V C0G|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=Omnisys Vault|AltLibLink_SymbolReference=CMP-0300-002450-6|AltLibLink_DesignItemID=CMP-0300-002450-6|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Omnisys Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B|AltLibLink_ItemGUID=9869977E-9A06-4734-A22E-A916CC1321A8|AltLibLink_RevisionGUID=E23A7FEF-383A-420A-A9F5-23C0903F9608|AltLibLink_Footprint=CAPC1608X90N|AltLibLink_IsSameFootprint=True
+ParamVariation140=ParameterName=Comment|VariantValue=100p 10% 50V C0G
+ParamDesignator140=C201.4
+ParamVariation141=ParameterName=Capacitance|VariantValue=100pF
+ParamDesignator141=C201.4
+ParamVariation142=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator142=C201.4
+ParamVariation143=ParameterName=Description|VariantValue=Ceramic Chip Capacitor, 0603/1608
+ParamDesignator143=C201.4
+ParamVariation144=ParameterName=Footprint|VariantValue=CAPC1608X90N
+ParamDesignator144=C201.4
+ParamVariation145=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator145=C201.4
+ParamVariation146=ParameterName=Library Reference|VariantValue=CMP-0300-002450-6
+ParamDesignator146=C201.4
+ParamVariation147=ParameterName=Package|VariantValue=1608/0603
+ParamDesignator147=C201.4
+ParamVariation148=ParameterName=PCB3D|VariantValue= 
+ParamDesignator148=C201.4
+ParamVariation149=ParameterName=Pin Info|VariantValue= 
+ParamDesignator149=C201.4
+ParamVariation150=ParameterName=Rated Voltage|VariantValue=50V
+ParamDesignator150=C201.4
+ParamVariation151=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator151=C201.4
+ParamVariation152=ParameterName=Simulation|VariantValue= 
+ParamDesignator152=C201.4
+ParamVariation153=ParameterName=Temperature Charateristics|VariantValue=C0G
+ParamDesignator153=C201.4
+ParamVariation154=ParameterName=Thickness|VariantValue=900µm
+ParamDesignator154=C201.4
+ParamVariation155=ParameterName=Tolerance|VariantValue=5%
+ParamDesignator155=C201.4
+ParamVariation156=ParameterName=Weight|VariantValue=9mg
+ParamDesignator156=C201.4
+Variation10=Designator=R132.4|UniqueId=\LSFQQERN\HOLPUNGC\TMLLVMTY|Kind=2|AlternatePart=12K 1% 0603|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=Omnisys Vault|AltLibLink_SymbolReference=CMP-1800-002047-5|AltLibLink_DesignItemID=CMP-1800-002047-5|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Omnisys Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B|AltLibLink_ItemGUID=A2391CAF-9342-4A3A-B14B-367556991D03|AltLibLink_RevisionGUID=D27DD8C9-A569-4EC8-B596-8570572DC921|AltLibLink_Footprint=RESC1608N|AltLibLink_IsSameFootprint=True
+ParamVariation157=ParameterName=Comment|VariantValue=12K 1% 0603
+ParamDesignator157=R132.4
+ParamVariation158=ParameterName=Case/Package|VariantValue=0603/1608
+ParamDesignator158=R132.4
+ParamVariation159=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator159=R132.4
+ParamVariation160=ParameterName=Composition|VariantValue=Thick film
+ParamDesignator160=R132.4
+ParamVariation161=ParameterName=Description|VariantValue=Thick film Chip Resistor, 0603/1608
+ParamDesignator161=R132.4
+ParamVariation162=ParameterName=Footprint|VariantValue=RESC1608N
+ParamDesignator162=R132.4
+ParamVariation163=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator163=R132.4
+ParamVariation164=ParameterName=Library Reference|VariantValue=CMP-1800-002047-5
+ParamDesignator164=R132.4
+ParamVariation165=ParameterName=Maximum working voltage|VariantValue=75V
+ParamDesignator165=R132.4
+ParamVariation166=ParameterName=PCB3D|VariantValue= 
+ParamDesignator166=R132.4
+ParamVariation167=ParameterName=Pin Info|VariantValue= 
+ParamDesignator167=R132.4
+ParamVariation168=ParameterName=Power|VariantValue=100mW
+ParamDesignator168=R132.4
+ParamVariation169=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator169=R132.4
+ParamVariation170=ParameterName=Simulation|VariantValue= 
+ParamDesignator170=R132.4
+ParamVariation171=ParameterName=Temp. Coefficent|VariantValue=0.01%
+ParamDesignator171=R132.4
+ParamVariation172=ParameterName=Tolerance|VariantValue=1%
+ParamDesignator172=R132.4
+ParamVariation173=ParameterName=Value|VariantValue=12k
+ParamDesignator173=R132.4
+ParamVariation174=ParameterName=Weight|VariantValue= 
+ParamDesignator174=R132.4
+Variation11=Designator=C200.1|UniqueId=\LSFQQERN\FGGLTWQK\GRMKJLCS|Kind=2|AlternatePart=56p 10% 50V C0G|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=Omnisys Vault|AltLibLink_SymbolReference=CMP-0300-002447-6|AltLibLink_DesignItemID=CMP-0300-002447-6|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Omnisys Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B|AltLibLink_ItemGUID=395008F7-A614-4A1F-AB49-BECD104429BE|AltLibLink_RevisionGUID=875E6AAC-39B0-4053-B4E9-1740244D6B1F|AltLibLink_Footprint=CAPC1608X90N|AltLibLink_IsSameFootprint=True
+ParamVariation175=ParameterName=Comment|VariantValue=56p 10% 50V C0G
+ParamDesignator175=C200.1
+ParamVariation176=ParameterName=Capacitance|VariantValue=56pF
+ParamDesignator176=C200.1
+ParamVariation177=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator177=C200.1
+ParamVariation178=ParameterName=Description|VariantValue=Ceramic Chip Capacitor, 0603/1608
+ParamDesignator178=C200.1
+ParamVariation179=ParameterName=Footprint|VariantValue=CAPC1608X90N
+ParamDesignator179=C200.1
+ParamVariation180=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator180=C200.1
+ParamVariation181=ParameterName=Library Reference|VariantValue=CMP-0300-002447-6
+ParamDesignator181=C200.1
+ParamVariation182=ParameterName=Package|VariantValue=1608/0603
+ParamDesignator182=C200.1
+ParamVariation183=ParameterName=PCB3D|VariantValue= 
+ParamDesignator183=C200.1
+ParamVariation184=ParameterName=Pin Info|VariantValue= 
+ParamDesignator184=C200.1
+ParamVariation185=ParameterName=Rated Voltage|VariantValue=50V
+ParamDesignator185=C200.1
+ParamVariation186=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator186=C200.1
+ParamVariation187=ParameterName=Simulation|VariantValue= 
+ParamDesignator187=C200.1
+ParamVariation188=ParameterName=Temperature Charateristics|VariantValue=C0G
+ParamDesignator188=C200.1
+ParamVariation189=ParameterName=Thickness|VariantValue=900µm
+ParamDesignator189=C200.1
+ParamVariation190=ParameterName=Tolerance|VariantValue=5%
+ParamDesignator190=C200.1
+ParamVariation191=ParameterName=Weight|VariantValue=9mg
+ParamDesignator191=C200.1
+Variation12=Designator=J1|UniqueId=\MSPOHUEG|Kind=1|AlternatePart= 
+Variation13=Designator=R3|UniqueId=\AHMBHSZX|Kind=1|AlternatePart= 
+Variation14=Designator=F3|UniqueId=\JPZTXZYP|Kind=1|AlternatePart= 
+Variation15=Designator=R1|UniqueId=\RJTJERLD|Kind=1|AlternatePart= 
+Variation16=Designator=R2|UniqueId=\XOHVHBZK|Kind=1|AlternatePart= 
+Variation17=Designator=C201.1|UniqueId=\LSFQQERN\FGGLTWQK\OUNVEYZN|Kind=2|AlternatePart=220p 10% 50V C0G|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=Omnisys Vault|AltLibLink_SymbolReference=CMP-0300-002454-6|AltLibLink_DesignItemID=CMP-0300-002454-6|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Omnisys Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B|AltLibLink_ItemGUID=E63677D9-696F-49DE-9B72-0B7916DE20BC|AltLibLink_RevisionGUID=C5239809-49CB-4DB2-9C4F-06B90297D31C|AltLibLink_Footprint=CAPC1608X90N|AltLibLink_IsSameFootprint=True
+ParamVariation192=ParameterName=Comment|VariantValue=220p 10% 50V C0G
+ParamDesignator192=C201.1
+ParamVariation193=ParameterName=Capacitance|VariantValue=220pF
+ParamDesignator193=C201.1
+ParamVariation194=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator194=C201.1
+ParamVariation195=ParameterName=Description|VariantValue=Ceramic Chip Capacitor, 0603/1608
+ParamDesignator195=C201.1
+ParamVariation196=ParameterName=Footprint|VariantValue=CAPC1608X90N
+ParamDesignator196=C201.1
+ParamVariation197=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator197=C201.1
+ParamVariation198=ParameterName=Library Reference|VariantValue=CMP-0300-002454-6
+ParamDesignator198=C201.1
+ParamVariation199=ParameterName=Package|VariantValue=1608/0603
+ParamDesignator199=C201.1
+ParamVariation200=ParameterName=PCB3D|VariantValue= 
+ParamDesignator200=C201.1
+ParamVariation201=ParameterName=Pin Info|VariantValue= 
+ParamDesignator201=C201.1
+ParamVariation202=ParameterName=Rated Voltage|VariantValue=50V
+ParamDesignator202=C201.1
+ParamVariation203=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator203=C201.1
+ParamVariation204=ParameterName=Simulation|VariantValue= 
+ParamDesignator204=C201.1
+ParamVariation205=ParameterName=Temperature Charateristics|VariantValue=C0G
+ParamDesignator205=C201.1
+ParamVariation206=ParameterName=Thickness|VariantValue=900µm
+ParamDesignator206=C201.1
+ParamVariation207=ParameterName=Tolerance|VariantValue=5%
+ParamDesignator207=C201.1
+ParamVariation208=ParameterName=Weight|VariantValue=9mg
+ParamDesignator208=C201.1
+Variation18=Designator=R134|UniqueId=\LSFQQERN\ZAXCABGN|Kind=0|AlternatePart= 
+Variation19=Designator=R135|UniqueId=\LSFQQERN\GWGPKQEM|Kind=0|AlternatePart= 
+Variation20=Designator=R136|UniqueId=\LSFQQERN\FOUUUPXU|Kind=0|AlternatePart= 
+Variation21=Designator=R137|UniqueId=\LSFQQERN\GGYZLDYH|Kind=0|AlternatePart= 
+Variation22=Designator=P22|UniqueId=\LSFQQERN\XRWFNSGM|Kind=1|AlternatePart= 
+Variation23=Designator=P23|UniqueId=\LSFQQERN\JKKGXAMQ|Kind=1|AlternatePart= 
+Variation24=Designator=P24|UniqueId=\LSFQQERN\LHBCSYNG|Kind=1|AlternatePart= 
+Variation25=Designator=P25|UniqueId=\LSFQQERN\UWADSDBE|Kind=1|AlternatePart= 
+Variation26=Designator=P21|UniqueId=\LSFQQERN\PXIOKGVR|Kind=1|AlternatePart= 
+Variation27=Designator=R48.2|UniqueId=\LSFQQERN\LJNKNUYR\UOXHSLSD|Kind=2|AlternatePart=19K1 0.1% 0603|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=Omnisys Vault|AltLibLink_SymbolReference=CMP-1800-002464-4|AltLibLink_DesignItemID=CMP-1800-002464-4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Omnisys Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B|AltLibLink_ItemGUID=5AC2F749-9A8B-4390-BA29-AD081F0324E3|AltLibLink_RevisionGUID=AEE529AC-8CBE-439E-9BF5-7E4B9805FCB6|AltLibLink_Footprint=RESC1608L|AltLibLink_IsSameFootprint=True
+ParamVariation209=ParameterName=Comment|VariantValue=19K1 0.1% 0603
+ParamDesignator209=R48.2
+ParamVariation210=ParameterName=Case/Package|VariantValue=0603/1608
+ParamDesignator210=R48.2
+ParamVariation211=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator211=R48.2
+ParamVariation212=ParameterName=Composition|VariantValue=Thin film
+ParamDesignator212=R48.2
+ParamVariation213=ParameterName=Description|VariantValue=Thin film Chip Resistor, 0603/1608
+ParamDesignator213=R48.2
+ParamVariation214=ParameterName=Footprint|VariantValue=RESC1608L
+ParamDesignator214=R48.2
+ParamVariation215=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator215=R48.2
+ParamVariation216=ParameterName=Library Reference|VariantValue=CMP-1800-002464-4
+ParamDesignator216=R48.2
+ParamVariation217=ParameterName=Maximum working voltage|VariantValue=50V
+ParamDesignator217=R48.2
+ParamVariation218=ParameterName=PCB3D|VariantValue= 
+ParamDesignator218=R48.2
+ParamVariation219=ParameterName=Pin Info|VariantValue= 
+ParamDesignator219=R48.2
+ParamVariation220=ParameterName=Power|VariantValue=100mW
+ParamDesignator220=R48.2
+ParamVariation221=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator221=R48.2
+ParamVariation222=ParameterName=Simulation|VariantValue= 
+ParamDesignator222=R48.2
+ParamVariation223=ParameterName=Temp. Coefficent|VariantValue=0.0015%
+ParamDesignator223=R48.2
+ParamVariation224=ParameterName=Tolerance|VariantValue=0.1%
+ParamDesignator224=R48.2
+ParamVariation225=ParameterName=Value|VariantValue=19.1k
+ParamDesignator225=R48.2
+ParamVariation226=ParameterName=Weight|VariantValue= 
+ParamDesignator226=R48.2
+Variation28=Designator=R48.3|UniqueId=\LSFQQERN\KDCZMNRZ\UOXHSLSD|Kind=2|AlternatePart=21K5 0.1% 0603|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=Omnisys Vault|AltLibLink_SymbolReference=CMP-1800-002469-4|AltLibLink_DesignItemID=CMP-1800-002469-4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Omnisys Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B|AltLibLink_ItemGUID=DB0D8DA7-A96F-4C3F-9AB6-E9F95DEA551D|AltLibLink_RevisionGUID=20F2D0D9-118A-4408-B866-749082DF38B3|AltLibLink_Footprint=RESC1608L|AltLibLink_IsSameFootprint=True
+ParamVariation227=ParameterName=Comment|VariantValue=21K5 0.1% 0603
+ParamDesignator227=R48.3
+ParamVariation228=ParameterName=Case/Package|VariantValue=0603/1608
+ParamDesignator228=R48.3
+ParamVariation229=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator229=R48.3
+ParamVariation230=ParameterName=Composition|VariantValue=Thin film
+ParamDesignator230=R48.3
+ParamVariation231=ParameterName=Description|VariantValue=Thin film Chip Resistor, 0603/1608
+ParamDesignator231=R48.3
+ParamVariation232=ParameterName=Footprint|VariantValue=RESC1608L
+ParamDesignator232=R48.3
+ParamVariation233=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator233=R48.3
+ParamVariation234=ParameterName=Library Reference|VariantValue=CMP-1800-002469-4
+ParamDesignator234=R48.3
+ParamVariation235=ParameterName=Maximum working voltage|VariantValue=50V
+ParamDesignator235=R48.3
+ParamVariation236=ParameterName=PCB3D|VariantValue= 
+ParamDesignator236=R48.3
+ParamVariation237=ParameterName=Pin Info|VariantValue= 
+ParamDesignator237=R48.3
+ParamVariation238=ParameterName=Power|VariantValue=100mW
+ParamDesignator238=R48.3
+ParamVariation239=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator239=R48.3
+ParamVariation240=ParameterName=Simulation|VariantValue= 
+ParamDesignator240=R48.3
+ParamVariation241=ParameterName=Temp. Coefficent|VariantValue=0.0015%
+ParamDesignator241=R48.3
+ParamVariation242=ParameterName=Tolerance|VariantValue=0.1%
+ParamDesignator242=R48.3
+ParamVariation243=ParameterName=Value|VariantValue=21.5k
+ParamDesignator243=R48.3
+ParamVariation244=ParameterName=Weight|VariantValue= 
+ParamDesignator244=R48.3
+Variation29=Designator=R48.4|UniqueId=\LSFQQERN\HOLPUNGC\UOXHSLSD|Kind=2|AlternatePart=11K3 0.1% 0603|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=Omnisys Vault|AltLibLink_SymbolReference=CMP-1800-002442-4|AltLibLink_DesignItemID=CMP-1800-002442-4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Omnisys Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B|AltLibLink_ItemGUID=07A26CE0-A8C7-4723-B7DC-147642640455|AltLibLink_RevisionGUID=0045FA6F-5E1E-4DEE-8792-A4657C50BEF9|AltLibLink_Footprint=RESC1608L|AltLibLink_IsSameFootprint=True
+ParamVariation245=ParameterName=Comment|VariantValue=11K3 0.1% 0603
+ParamDesignator245=R48.4
+ParamVariation246=ParameterName=Case/Package|VariantValue=0603/1608
+ParamDesignator246=R48.4
+ParamVariation247=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator247=R48.4
+ParamVariation248=ParameterName=Composition|VariantValue=Thin film
+ParamDesignator248=R48.4
+ParamVariation249=ParameterName=Description|VariantValue=Thin film Chip Resistor, 0603/1608
+ParamDesignator249=R48.4
+ParamVariation250=ParameterName=Footprint|VariantValue=RESC1608L
+ParamDesignator250=R48.4
+ParamVariation251=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator251=R48.4
+ParamVariation252=ParameterName=Library Reference|VariantValue=CMP-1800-002442-4
+ParamDesignator252=R48.4
+ParamVariation253=ParameterName=Maximum working voltage|VariantValue=50V
+ParamDesignator253=R48.4
+ParamVariation254=ParameterName=PCB3D|VariantValue= 
+ParamDesignator254=R48.4
+ParamVariation255=ParameterName=Pin Info|VariantValue= 
+ParamDesignator255=R48.4
+ParamVariation256=ParameterName=Power|VariantValue=100mW
+ParamDesignator256=R48.4
+ParamVariation257=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator257=R48.4
+ParamVariation258=ParameterName=Simulation|VariantValue= 
+ParamDesignator258=R48.4
+ParamVariation259=ParameterName=Temp. Coefficent|VariantValue=0.0015%
+ParamDesignator259=R48.4
+ParamVariation260=ParameterName=Tolerance|VariantValue=0.1%
+ParamDesignator260=R48.4
+ParamVariation261=ParameterName=Value|VariantValue=11.3k
+ParamDesignator261=R48.4
+ParamVariation262=ParameterName=Weight|VariantValue= 
+ParamDesignator262=R48.4
+Variation30=Designator=J2|UniqueId=\FQDZATIZ|Kind=1|AlternatePart= 
+Variation31=Designator=J4|UniqueId=\GDOIVRLA|Kind=1|AlternatePart= 
+Variation32=Designator=J5|UniqueId=\ZRJOEOAB|Kind=1|AlternatePart= 
+Variation33=Designator=J8|UniqueId=\KMYPBMBA|Kind=1|AlternatePart= 
+Variation34=Designator=J3|UniqueId=\JFGYFCQH|Kind=1|AlternatePart= 
+Variation35=Designator=J7|UniqueId=\OEGZWKOZ|Kind=1|AlternatePart= 
+Variation36=Designator=J9|UniqueId=\MTBQSLRY|Kind=1|AlternatePart= 
+Variation37=Designator=J6|UniqueId=\AUKTWWDE|Kind=1|AlternatePart= 
+Variation38=Designator=J12.1|UniqueId=\LSFQQERN\FGGLTWQK\TOOJZDUE|Kind=1|AlternatePart= 
+Variation39=Designator=J20.1|UniqueId=\LSFQQERN\FGGLTWQK\XVSCGCZH|Kind=1|AlternatePart= 
+Variation40=Designator=J21.3|UniqueId=\LSFQQERN\KDCZMNRZ\BWJYUSMI|Kind=1|AlternatePart= 
+Variation41=Designator=J16.2|UniqueId=\LSFQQERN\LJNKNUYR\MDDJIDXP|Kind=1|AlternatePart= 
+Variation42=Designator=J22|UniqueId=\JKZZRPTH|Kind=1|AlternatePart= 
+Variation43=Designator=J21.2|UniqueId=\LSFQQERN\LJNKNUYR\BWJYUSMI|Kind=1|AlternatePart= 
+Variation44=Designator=J19|UniqueId=\OCXTZITR\DYTJVKXR\RTTXTBGW|Kind=1|AlternatePart= 
+Variation45=Designator=J16.4|UniqueId=\LSFQQERN\HOLPUNGC\MDDJIDXP|Kind=1|AlternatePart= 
+Variation46=Designator=J20.4|UniqueId=\LSFQQERN\HOLPUNGC\XVSCGCZH|Kind=1|AlternatePart= 
+Variation47=Designator=J21.4|UniqueId=\LSFQQERN\HOLPUNGC\BWJYUSMI|Kind=1|AlternatePart= 
+Variation48=Designator=J20.2|UniqueId=\LSFQQERN\LJNKNUYR\XVSCGCZH|Kind=1|AlternatePart= 
+Variation49=Designator=J16.3|UniqueId=\LSFQQERN\KDCZMNRZ\MDDJIDXP|Kind=1|AlternatePart= 
+Variation50=Designator=J20.3|UniqueId=\LSFQQERN\KDCZMNRZ\XVSCGCZH|Kind=1|AlternatePart= 
+Variation51=Designator=J18|UniqueId=\KFCSCHOM|Kind=1|AlternatePart= 
+Variation52=Designator=J21.1|UniqueId=\LSFQQERN\FGGLTWQK\BWJYUSMI|Kind=1|AlternatePart= 
+Variation53=Designator=J23|UniqueId=\WSPUISHU|Kind=1|AlternatePart= 
+Variation54=Designator=J17|UniqueId=\TQIPWLDI|Kind=1|AlternatePart= 
+Variation55=Designator=J14.2|UniqueId=\LSFQQERN\LJNKNUYR\KSCUGFCC|Kind=1|AlternatePart= 
+Variation56=Designator=J13.2|UniqueId=\LSFQQERN\LJNKNUYR\BTLZNMUK|Kind=1|AlternatePart= 
+Variation57=Designator=J13.4|UniqueId=\LSFQQERN\HOLPUNGC\BTLZNMUK|Kind=1|AlternatePart= 
+Variation58=Designator=J13.3|UniqueId=\LSFQQERN\KDCZMNRZ\BTLZNMUK|Kind=1|AlternatePart= 
+Variation59=Designator=J16.1|UniqueId=\LSFQQERN\FGGLTWQK\MDDJIDXP|Kind=1|AlternatePart= 
+Variation60=Designator=J14.3|UniqueId=\LSFQQERN\KDCZMNRZ\KSCUGFCC|Kind=1|AlternatePart= 
+Variation61=Designator=J13.1|UniqueId=\LSFQQERN\FGGLTWQK\BTLZNMUK|Kind=1|AlternatePart= 
+Variation62=Designator=J14.1|UniqueId=\LSFQQERN\FGGLTWQK\KSCUGFCC|Kind=1|AlternatePart= 
+Variation63=Designator=J12.2|UniqueId=\LSFQQERN\LJNKNUYR\TOOJZDUE|Kind=1|AlternatePart= 
+Variation64=Designator=J14.4|UniqueId=\LSFQQERN\HOLPUNGC\KSCUGFCC|Kind=1|AlternatePart= 
+Variation65=Designator=J12.3|UniqueId=\LSFQQERN\KDCZMNRZ\TOOJZDUE|Kind=1|AlternatePart= 
+Variation66=Designator=J15|UniqueId=\HWGWWYGE|Kind=1|AlternatePart= 
+Variation67=Designator=J12.4|UniqueId=\LSFQQERN\HOLPUNGC\TOOJZDUE|Kind=1|AlternatePart= 
+Variation68=Designator=P1|UniqueId=\ZANWTMDR|Kind=1|AlternatePart= 
+Variation69=Designator=P4|UniqueId=\TVXZCFEP|Kind=1|AlternatePart= 
+Variation70=Designator=P9|UniqueId=\DEVTOGWE|Kind=1|AlternatePart= 
+Variation71=Designator=P17|UniqueId=\KFRXREQJ|Kind=1|AlternatePart= 
+Variation72=Designator=P15|UniqueId=\ZIULSFNS|Kind=1|AlternatePart= 
+Variation73=Designator=P7|UniqueId=\TMGEQVJH|Kind=1|AlternatePart= 
+Variation74=Designator=P16|UniqueId=\OOVRBOCV|Kind=1|AlternatePart= 
+Variation75=Designator=P14|UniqueId=\EWEAEGZN|Kind=1|AlternatePart= 
+Variation76=Designator=P5|UniqueId=\TUIFHNKY|Kind=1|AlternatePart= 
+Variation77=Designator=P18|UniqueId=\OEXURRYZ|Kind=1|AlternatePart= 
+Variation78=Designator=P2|UniqueId=\UUKSBDFD|Kind=1|AlternatePart= 
+Variation79=Designator=P12|UniqueId=\AIZGIGMA|Kind=1|AlternatePart= 
+Variation80=Designator=P20|UniqueId=\UWRGCQIQ|Kind=1|AlternatePart= 
+Variation81=Designator=P8|UniqueId=\TGSSDILW|Kind=1|AlternatePart= 
+Variation82=Designator=P11|UniqueId=\LEGURIOZ|Kind=1|AlternatePart= 
+Variation83=Designator=P13|UniqueId=\ALZPTKDF|Kind=1|AlternatePart= 
+Variation84=Designator=P6|UniqueId=\TMHJHTBV|Kind=1|AlternatePart= 
+Variation85=Designator=P10|UniqueId=\RFYOQQDE|Kind=1|AlternatePart= 
+Variation86=Designator=P3|UniqueId=\PVZBCRQJ|Kind=1|AlternatePart= 
+Variation87=Designator=P19|UniqueId=\IGFWWKVJ|Kind=1|AlternatePart= 
+Variation88=Designator=P26|UniqueId=\UDWCXPWD|Kind=1|AlternatePart= 
+Variation89=Designator=P27|UniqueId=\EQLZSTAR|Kind=1|AlternatePart= 
+Variation90=Designator=P28|UniqueId=\QFHPLZGT|Kind=1|AlternatePart= 
+Variation91=Designator=P29|UniqueId=\MCFYMGSM|Kind=1|AlternatePart= 
+Variation92=Designator=PCB1|UniqueId=\UALQTRCT|Kind=1|AlternatePart= 
+Variation93=Designator=PCB2|UniqueId=\JEUDNGNH|Kind=1|AlternatePart= 
+Variation94=Designator=C173|UniqueId=\OCXTZITR\REAQTCAG\VGDGSDFE|Kind=0|AlternatePart= 
+Variation95=Designator=R130.1|UniqueId=\LSFQQERN\FGGLTWQK\VGQGKFKN|Kind=1|AlternatePart= 
+Variation96=Designator=R130.2|UniqueId=\LSFQQERN\LJNKNUYR\VGQGKFKN|Kind=1|AlternatePart= 
+Variation97=Designator=R130.3|UniqueId=\LSFQQERN\KDCZMNRZ\VGQGKFKN|Kind=1|AlternatePart= 
+Variation98=Designator=R130.4|UniqueId=\LSFQQERN\HOLPUNGC\VGQGKFKN|Kind=1|AlternatePart= 
+Variation99=Designator=R131.1|UniqueId=\LSFQQERN\FGGLTWQK\DZHCQGOL|Kind=1|AlternatePart= 
+Variation100=Designator=R131.2|UniqueId=\LSFQQERN\LJNKNUYR\DZHCQGOL|Kind=1|AlternatePart= 
+Variation101=Designator=R131.3|UniqueId=\LSFQQERN\KDCZMNRZ\DZHCQGOL|Kind=1|AlternatePart= 
+Variation102=Designator=R131.4|UniqueId=\LSFQQERN\HOLPUNGC\DZHCQGOL|Kind=1|AlternatePart= 
+Variation103=Designator=X3|UniqueId=\ZNLHZSSX\UUNRXYJJ|Kind=1|AlternatePart= 
+Variation104=Designator=R139|UniqueId=\ZNLHZSSX\LYPDANSH|Kind=1|AlternatePart= 
+Variation105=Designator=R138|UniqueId=\ZNLHZSSX\CKATETUV|Kind=1|AlternatePart= 
+Variation106=Designator=U13|UniqueId=\ZNLHZSSX\LPUGIJSM|Kind=1|AlternatePart= 
+Variation107=Designator=C79|UniqueId=\ZNLHZSSX\XDBTREZO|Kind=1|AlternatePart= 
+Variation108=Designator=C80|UniqueId=\ZNLHZSSX\SEBXSXUT|Kind=1|AlternatePart= 
+Variation109=Designator=C76|UniqueId=\ZNLHZSSX\NSKJGAJX|Kind=1|AlternatePart= 
+Variation110=Designator=C82|UniqueId=\ZNLHZSSX\HMUMAFUC|Kind=1|AlternatePart= 
+Variation111=Designator=C83|UniqueId=\ZNLHZSSX\OZPQCBMN|Kind=1|AlternatePart= 
+Variation112=Designator=C73|UniqueId=\ZNLHZSSX\WROZFPUA|Kind=1|AlternatePart= 
+Variation113=Designator=C81|UniqueId=\ZNLHZSSX\UWGVCOHV|Kind=1|AlternatePart= 
+Variation114=Designator=C74|UniqueId=\ZNLHZSSX\CANEECJA|Kind=1|AlternatePart= 
+Variation115=Designator=C78|UniqueId=\ZNLHZSSX\NKPBSQVA|Kind=1|AlternatePart= 
+Variation116=Designator=C75|UniqueId=\ZNLHZSSX\LEDVDFCZ|Kind=1|AlternatePart= 
+Variation117=Designator=C72|UniqueId=\ZNLHZSSX\JXDJVFFB|Kind=1|AlternatePart= 
+Variation118=Designator=C77|UniqueId=\ZNLHZSSX\YGEFGEXI|Kind=1|AlternatePart= 
+Variation119=Designator=R57|UniqueId=\ZNLHZSSX\UKIRSNLG|Kind=1|AlternatePart= 
+Variation120=Designator=R56|UniqueId=\ZNLHZSSX\LFUPCUCO|Kind=1|AlternatePart= 
+Variation121=Designator=R55|UniqueId=\ZNLHZSSX\ESGERUUB|Kind=1|AlternatePart= 
+Variation122=Designator=R54|UniqueId=\ZNLHZSSX\YETWNWIA|Kind=1|AlternatePart= 
+Variation123=Designator=R53|UniqueId=\ZNLHZSSX\GIRNFOKM|Kind=1|AlternatePart= 
+Variation124=Designator=R52|UniqueId=\ZNLHZSSX\NXXMIASN|Kind=1|AlternatePart= 
+Variation125=Designator=R51|UniqueId=\ZNLHZSSX\TKRSZNLX|Kind=1|AlternatePart= 
+Variation126=Designator=R50|UniqueId=\ZNLHZSSX\LOFTRACD|Kind=1|AlternatePart= 
+Variation127=Designator=R49|UniqueId=\ZNLHZSSX\NOBEATVM|Kind=1|AlternatePart= 
+Variation128=Designator=F13|UniqueId=\ZNLHZSSX\CYPHMXII|Kind=1|AlternatePart= 
+Variation129=Designator=F12|UniqueId=\ZNLHZSSX\TEZEOVEO|Kind=1|AlternatePart= 
+Variation130=Designator=R35|UniqueId=\LSFQQERN\BOYEHSAW\NWGUHVJE|Kind=1|AlternatePart= 
+Variation131=Designator=R38|UniqueId=\LSFQQERN\BOYEHSAW\SQBQPMMF|Kind=1|AlternatePart= 
+Variation132=Designator=R41|UniqueId=\LSFQQERN\BOYEHSAW\NECOHKUH|Kind=0|AlternatePart= 
+Variation133=Designator=C199.4|UniqueId=\LSFQQERN\HOLPUNGC\OUBPMNNT|Kind=2|AlternatePart=470n 10% 6.3V X7R|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=Omnisys Vault|AltLibLink_SymbolReference=CMP-0300-002107-6|AltLibLink_DesignItemID=CMP-0300-002107-6|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Omnisys Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B|AltLibLink_ItemGUID=651935A7-942D-4DBC-B7A3-85AC89949BB6|AltLibLink_RevisionGUID=C168151B-0FAB-4247-AF15-904B804D9A69|AltLibLink_Footprint=CAPC1608X90N|AltLibLink_IsSameFootprint=False
+ParamVariation263=ParameterName=Comment|VariantValue=470n 10% 6.3V X7R
+ParamDesignator263=C199.4
+ParamVariation264=ParameterName=Capacitance|VariantValue=470nF
+ParamDesignator264=C199.4
+ParamVariation265=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator265=C199.4
+ParamVariation266=ParameterName=Description|VariantValue=Ceramic Chip Capacitor, 0603/1608
+ParamDesignator266=C199.4
+ParamVariation267=ParameterName=Footprint|VariantValue=CAPC1608X90N
+ParamDesignator267=C199.4
+ParamVariation268=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator268=C199.4
+ParamVariation269=ParameterName=Library Reference|VariantValue=CMP-0300-002107-6
+ParamDesignator269=C199.4
+ParamVariation270=ParameterName=Package|VariantValue=1608/0603
+ParamDesignator270=C199.4
+ParamVariation271=ParameterName=PCB3D|VariantValue= 
+ParamDesignator271=C199.4
+ParamVariation272=ParameterName=Pin Info|VariantValue= 
+ParamDesignator272=C199.4
+ParamVariation273=ParameterName=Rated Voltage|VariantValue=6.3V
+ParamDesignator273=C199.4
+ParamVariation274=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator274=C199.4
+ParamVariation275=ParameterName=Simulation|VariantValue= 
+ParamDesignator275=C199.4
+ParamVariation276=ParameterName=Temperature Charateristics|VariantValue=X7R
+ParamDesignator276=C199.4
+ParamVariation277=ParameterName=Thickness|VariantValue=900µm
+ParamDesignator277=C199.4
+ParamVariation278=ParameterName=Tolerance|VariantValue=10%
+ParamDesignator278=C199.4
+ParamVariation279=ParameterName=Weight|VariantValue=9mg
+ParamDesignator279=C199.4
+Variation134=Designator=R84|UniqueId=\OCXTZITR\JBLSONPA\TCNERIZW|Kind=1|AlternatePart= 
+Variation135=Designator=R85|UniqueId=\OCXTZITR\JBLSONPA\HVQZHRZG|Kind=1|AlternatePart= 
+Variation136=Designator=R86|UniqueId=\OCXTZITR\JBLSONPA\YAGJKQNO|Kind=1|AlternatePart= 
+Variation137=Designator=R87|UniqueId=\OCXTZITR\JBLSONPA\KDPFVKJN|Kind=1|AlternatePart= 
+Variation138=Designator=R88|UniqueId=\OCXTZITR\JBLSONPA\SMANQTZL|Kind=1|AlternatePart= 
+Variation139=Designator=R89|UniqueId=\OCXTZITR\JBLSONPA\UVBGCLWM|Kind=1|AlternatePart= 
+Variation140=Designator=R90|UniqueId=\OCXTZITR\JBLSONPA\MZBIUDOX|Kind=1|AlternatePart= 
+Variation141=Designator=R91|UniqueId=\OCXTZITR\JBLSONPA\UCEKHGPI|Kind=1|AlternatePart= 
+Variation142=Designator=R31|UniqueId=\LSFQQERN\BOYEHSAW\WNNIEORJ|Kind=1|AlternatePart= 
+ParamVariationCount=279
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs\Assembly\0020-03_Bill of Materials.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Assembly\Assembly\0020-03_Pick and place.csv
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs\Assembly\0020-03_Pick and place.csv
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Assembly\Assembly\0020-03_Pick and place.txt
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs\Assembly\0020-03_Pick and place.txt
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs\Fabrication_ODB\0021-03_ODB++ Files.REP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs\Fabrication_ODB\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs\Fabrication_ODB\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs\Fabrication_ODB\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs\Design Rule Check - 0020-03_FFT2G.html
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs\Fabrication_ODB\odb\steps\pcb\layers\board_outline\features
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs\Fabrication_ODB\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs\Fabrication_ODB\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs\Fabrication_ODB\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs\Fabrication_ODB\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs\Fabrication_ODB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs\Fabrication_ODB\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs\Fabrication_ODB\odb\steps\pcb\layers\gnd1\features
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs\Fabrication_ODB\odb\steps\pcb\layers\gnd2\features
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs\Fabrication_ODB\odb\steps\pcb\layers\lvds1\features
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs\Fabrication_ODB\odb\steps\pcb\layers\lvds2\features
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs\Fabrication_ODB\odb\steps\pcb\layers\lvds3\features
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs\Fabrication_ODB\odb\steps\pcb\layers\pwr1\features
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs\Fabrication_ODB\odb\steps\pcb\layers\pwr2\features
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs\Fabrication_ODB\odb\steps\pcb\layers\pwr3\features
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs\Fabrication_ODB\odb\steps\pcb\layers\rout\features
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs\Fabrication_ODB\odb\steps\pcb\layers\sig1\features
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs\Fabrication_ODB\odb\steps\pcb\layers\sig2\features
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs\Fabrication_ODB\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs\Fabrication_ODB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs\Fabrication_ODB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs\Fabrication_ODB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs\Fabrication_ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs\Fabrication_ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs\Fabrication_ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs\Fabrication_ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs\Fabrication_ODB\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs\Fabrication_ODB\odb\steps\pcb\layers\rout\tools
+DItemRevisionGUID=
+
+[Parameter1]
+Name=PCB_Part
+Value=0021-03
+
+[Parameter2]
+Name=PCBASY_Part
+Value=0020-03
+
+[Configuration1]
+Name=Fabrication
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=1
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=Fabrication.OutJob
+ContentTypeGUID=0C520D2A-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Fabrication
+
+[Configuration2]
+Name=Sources
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=0
+ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
+ConfigurationType=Source
+
+[Configuration3]
+Name=Assembly
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=1
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=Assembly.OutJob
+ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Assembly
+
+[Configuration4]
+Name=Assembly Design Variant
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=Design Variant
+OutputJobsCount=1
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=Assembly.OutJob
+ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Assembly
+
+[Generic_EDE]
+OutputDir=Project Outputs
+
+[OutputGroup1]
+Name=Netlist Outputs
+Description=
+TargetPrinter=Отправить в OneNote 2013 (redirected 2)
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=CadnetixNetlist
+OutputName1=Cadnetix Netlist
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=CalayNetlist
+OutputName2=Calay Netlist
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=EDIF
+OutputName3=EDIF for PCB
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=EESofNetlist
+OutputName4=EESof Netlist
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+OutputType5=IntergraphNetlist
+OutputName5=Intergraph Netlist
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+OutputType6=MentorBoardStationNetlist
+OutputName6=Mentor BoardStation Netlist
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+OutputType7=MultiWire
+OutputName7=MultiWire
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=OrCadPCB2Netlist
+OutputName8=Orcad/PCB2 Netlist
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=PADSNetlist
+OutputName9=PADS ASCII Netlist
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=Pcad
+OutputName10=Pcad for PCB
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=PCADNetlist
+OutputName11=PCAD Netlist
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=PCADnltNetlist
+OutputName12=PCADnlt Netlist
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=Protel2Netlist
+OutputName13=Protel2 Netlist
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=ProtelNetlist
+OutputName14=Protel
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=RacalNetlist
+OutputName15=Racal Netlist
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=RINFNetlist
+OutputName16=RINF Netlist
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SciCardsNetlist
+OutputName17=SciCards Netlist
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=TangoNetlist
+OutputName18=Tango Netlist
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+OutputType19=TelesisNetlist
+OutputName19=Telesis Netlist
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+OutputType20=WireListNetlist
+OutputName20=WireList Netlist
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+
+[OutputGroup2]
+Name=Simulator Outputs
+Description=
+TargetPrinter=Отправить в OneNote 2013 (redirected 2)
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+
+[OutputGroup3]
+Name=Documentation Outputs
+Description=
+TargetPrinter=Virtual Printer
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Composite
+OutputName1=Composite Drawing
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+OutputType2=PCB 3D Print
+OutputName2=PCB 3D Print
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+OutputType3=PCB 3D Video
+OutputName3=PCB 3D Video
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+OutputType4=PCB Print
+OutputName4=PCB Prints
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+OutputType5=Report Print
+OutputName5=Report Prints
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+OutputType6=Schematic Print
+OutputName6=Schematic Prints
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.35|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A3
+Configuration6_Name1=OutputConfigurationParameter1
+Configuration6_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
+OutputType7=SimView Print
+OutputName7=SimView Prints
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+OutputType8=PCBLIB Print
+OutputName8=PCBLIB Prints
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+OutputType9=PDF3D
+OutputName9=PDF3D
+OutputDocumentPath9=
+OutputVariantName9=[No Variations]
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=PCBDrawing
+OutputName10=Draftsman
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=PDF3D MBA
+OutputName11=PDF3D MBA
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[OutputGroup4]
+Name=Assembly Outputs
+Description=
+TargetPrinter=Отправить в OneNote 2013 (redirected 2)
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Assembly
+OutputName1=Assembly Drawings
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+OutputType2=Pick Place
+OutputName2=Generates pick and place files
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+OutputType3=Test Points For Assembly
+OutputName3=Test Point Report
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+
+[OutputGroup5]
+Name=Fabrication Outputs
+Description=
+TargetPrinter=Отправить в OneNote 2013 (redirected 2)
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=CompositeDrill
+OutputName1=Composite Drill Drawing
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+OutputType2=Drill
+OutputName2=Drill Drawing/Guides
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+OutputType3=Final
+OutputName3=Final Artwork Prints
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+OutputType4=Gerber
+OutputName4=Gerber Files
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+OutputType5=Mask
+OutputName5=Solder/Paste Mask Prints
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+OutputType6=NC Drill
+OutputName6=NC Drill Files
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+OutputType7=ODB
+OutputName7=ODB++ Files
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+Configuration7_Name1=OutputConfigurationParameter1
+Configuration7_Item1=AddToAllLayerClasses.Set= |AddToAllPlots_3D Body Top=False|AddToAllPlots_Assembly Bottom=False|AddToAllPlots_Assembly Top=False|AddToAllPlots_Board outline=False|AddToAllPlots_Bottom 3D Body=False|AddToAllPlots_Bottom Courtyard=False|AddToAllPlots_Bottom Designator=False|AddToAllPlots_Courtyard Bottom=False|AddToAllPlots_Courtyard Top=False|AddToAllPlots_Mechanical 3=False|AddToAllPlots_MechBox new=False|AddToAllPlots_MechLid=False|AddToAllPlots_Structure=False|AddToAllPlots_Top 3D Body=False|AddToAllPlots_Top Courtyard=False|AddToAllPlots_Top Designator=False|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=False|LayerClassesPlot.Set= |MergeNetTieNets=False|ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=True|PlotInternalPlane2Plot=True|PlotInternalPlane3Plot=True|PlotInternalPlane4Plot=True|PlotInternalPlane5Plot=True|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=True|PlotMechanical10Plot=True|PlotMechanical11Plot=True|PlotMechanical12Plot=False|PlotMechanical13Plot=True|PlotMechanical14Plot=True|PlotMechanical15Plot=True|PlotMechanical16Plot=True|PlotMechanical1Plot=True|PlotMechanical2Plot=True|PlotMechanical3Plot=False|PlotMechanical4Plot=True|PlotMechanical5Plot=False|PlotMechanical6Plot=True|PlotMechanical7Plot=False|PlotMechanical8Plot=True|PlotMechanical9Plot=True|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=True|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=True|PlotMidLayer30Plot=False|PlotMidLayer3Plot=True|PlotMidLayer4Plot=True|PlotMidLayer5Plot=True|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|Record=ODBView
+OutputType8=Plane
+OutputName8=Power-Plane Prints
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+OutputType9=Test Points
+OutputName9=Test Point Report
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=Board Stack Report
+OutputName10=Report Board Stack
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+OutputType11=Gerber X2
+OutputName11=Gerber X2 Files
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=IPC2581
+OutputName12=IPC-2581 Files
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+
+[OutputGroup6]
+Name=Report Outputs
+Description=
+TargetPrinter=Отправить в OneNote 2013 (redirected 2)
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=BOM_PartType
+OutputName1=Bill of Materials
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+OutputType2=ComponentCrossReference
+OutputName2=Component Cross Reference Report
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+OutputType3=ReportHierarchy
+OutputName3=Report Project Hierarchy
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+OutputType4=Script
+OutputName4=Script Output
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+OutputType5=SimpleBOM
+OutputName5=Simple BOM
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=SinglePinNetReporter
+OutputName6=Report Single Pin Nets
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+
+[OutputGroup7]
+Name=Other Outputs
+Description=
+TargetPrinter=Отправить в OneNote 2013 (redirected 2)
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Text Print
+OutputName1=Text Print
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+OutputType2=Text Print
+OutputName2=Text Print
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType3=Text Print
+OutputName3=Text Print
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType4=Text Print
+OutputName4=Text Print
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType5=Text Print
+OutputName5=Text Print
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType6=Text Print
+OutputName6=Text Print
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType7=Text Print
+OutputName7=Text Print
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType8=Text Print
+OutputName8=Text Print
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType9=Text Print
+OutputName9=Text Print
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType10=Text Print
+OutputName10=Text Print
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType11=Text Print
+OutputName11=Text Print
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType12=Text Print
+OutputName12=Text Print
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType13=Text Print
+OutputName13=Text Print
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType14=Text Print
+OutputName14=Text Print
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType15=Text Print
+OutputName15=Text Print
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType16=Text Print
+OutputName16=Text Print
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType17=Text Print
+OutputName17=Text Print
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+
+[OutputGroup8]
+Name=Validation Outputs
+Description=
+TargetPrinter=Отправить в OneNote 2013 (redirected 2)
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Design Rules Check
+OutputName1=Design Rules Check
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+OutputType2=Differences Report
+OutputName2=Differences Report
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+OutputType3=Electrical Rules Check
+OutputName3=Electrical Rules Check
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+OutputType4=Footprint Comparison Report
+OutputName4=Footprint Comparison Report
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+OutputType5=Configuration compliance
+OutputName5=Environment configuration compliance check
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+OutputType6=Component states check
+OutputName6=Vault's components states check
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+OutputType7=BOM_Violations
+OutputName7=BOM Checks Report
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+
+[OutputGroup9]
+Name=Export Outputs
+Description=
+TargetPrinter=Отправить в OneNote 2013 (redirected 2)
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=ExportSTEP
+OutputName1=Export STEP
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+OutputType2=AutoCAD dwg/dxf PCB
+OutputName2=AutoCAD dwg/dxf File PCB
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=AutoCAD dwg/dxf Schematic
+OutputName3=AutoCAD dwg/dxf File Schematic
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=ExportIDF
+OutputName4=Export IDF
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+OutputType5=ExportPARASOLID
+OutputName5=Export PARASOLID
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=ExportVRML
+OutputName6=Export VRML
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=Save As/Export PCB
+OutputName7=Save As/Export PCB
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=Save As/Export Schematic
+OutputName8=Save As/Export Schematic
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=Specctra Design PCB
+OutputName9=Specctra Design PCB
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=MBAExportPARASOLID
+OutputName10=Export PARASOLID
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=MBAExportSTEP
+OutputName11=Export STEP
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+
+[OutputGroup10]
+Name=PostProcess Outputs
+Description=
+TargetPrinter=Отправить в OneNote 2013 (redirected 2)
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Copy Files
+OutputName1=Copy Files
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+
+[Modification Levels]
+Type1=1
+Type2=1
+Type3=1
+Type4=1
+Type5=1
+Type6=1
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=1
+Type12=1
+Type13=1
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=0
+Type19=0
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=1
+Type26=1
+Type27=1
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=1
+Type33=1
+Type34=1
+Type35=1
+Type36=1
+Type37=1
+Type38=1
+Type39=1
+Type40=1
+Type41=1
+Type42=1
+Type43=1
+Type44=1
+Type45=1
+Type46=1
+Type47=1
+Type48=1
+Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
+Type66=1
+Type67=1
+Type68=1
+Type69=1
+Type70=1
+Type71=1
+Type72=1
+Type73=1
+Type74=1
+Type75=1
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=1
+Type81=1
+Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
+Type87=1
+Type88=1
+Type89=1
+Type90=1
+Type91=1
+Type92=1
+Type93=1
+Type94=1
+Type95=1
+Type96=1
+Type97=1
+Type98=1
+Type99=1
+Type100=1
+Type101=1
+Type102=1
+Type103=1
+Type104=1
+Type105=1
+Type106=1
+Type107=1
+Type108=1
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+Type114=1
+Type115=1
+Type116=1
+Type117=1
+Type118=1
+Type119=1
+
+[Difference Levels]
+Type1=1
+Type2=1
+Type3=1
+Type4=1
+Type5=1
+Type6=1
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=1
+Type12=1
+Type13=1
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=1
+Type26=1
+Type27=1
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=1
+Type33=1
+Type34=1
+Type35=1
+Type36=1
+Type37=1
+Type38=1
+Type39=1
+Type40=1
+Type41=1
+Type42=1
+Type43=1
+Type44=0
+Type45=1
+Type46=1
+Type47=1
+Type48=1
+Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
+Type66=1
+Type67=1
+Type68=1
+
+[Electrical Rules Check]
+Type1=1
+Type2=1
+Type3=2
+Type4=1
+Type5=2
+Type6=2
+Type7=0
+Type8=1
+Type9=1
+Type10=0
+Type11=2
+Type12=0
+Type13=0
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=0
+Type21=0
+Type22=0
+Type23=0
+Type24=1
+Type25=2
+Type26=0
+Type27=2
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=2
+Type33=0
+Type34=2
+Type35=1
+Type36=2
+Type37=1
+Type38=2
+Type39=2
+Type40=2
+Type41=0
+Type42=2
+Type43=1
+Type44=0
+Type45=0
+Type46=0
+Type47=0
+Type48=0
+Type49=0
+Type50=2
+Type51=0
+Type52=0
+Type53=0
+Type54=1
+Type55=1
+Type56=2
+Type57=1
+Type58=1
+Type59=2
+Type60=0
+Type61=0
+Type62=0
+Type63=0
+Type64=0
+Type65=2
+Type66=3
+Type67=2
+Type68=2
+Type69=1
+Type70=2
+Type71=2
+Type72=2
+Type73=2
+Type74=1
+Type75=2
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=2
+Type81=3
+Type82=3
+Type83=3
+Type84=3
+Type85=3
+Type86=2
+Type87=2
+Type88=2
+Type89=1
+Type90=1
+Type91=3
+Type92=3
+Type93=2
+Type94=2
+Type95=2
+Type96=2
+Type97=2
+Type98=0
+Type99=1
+Type100=2
+Type101=0
+Type102=2
+Type103=2
+Type104=1
+Type105=2
+Type106=2
+Type107=2
+Type108=2
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+Type114=2
+Type115=2
+Type116=2
+Type117=3
+Type118=3
+Type119=3
+MultiChannelAlternate=2
+AlternateItemFail=3
+Type122=2
+Type123=1
+Type124=1
+Type125=1
+
+[ERC Connection Matrix]
+L1=NNNNNNNNNNNNNNNNW
+L2=NNNNNNNNNNNNNNNWN
+L3=NNEENEEEENEWNEEWN
+L4=NNENNNWEENNWNENWN
+L5=NNNNNNNNNNNNNNNNN
+L6=NNENNNNEENNWNENWN
+L7=NNEWNNWEENNWNENWN
+L8=NNEENEENNENNNENNN
+L9=NNEENEENENEWNEEWW
+L10=NNNNNNNENNEWNNEWN
+L11=NNENNNNNEENWNENWN
+L12=NNWWNWWNWWWNWWWNN
+L13=NNNNNNNNNNNWNNNWW
+L14=NNEENEEEENEWNEEWW
+L15=NNENNNNNEENWNENWW
+L16=NWWWNWWNWWWNWWWNW
+L17=WNNNNNNNWNNNWWWWN
+
+[Annotate]
+SortOrder=3
+SortLocation=0
+ReplaceSubparts=0
+MatchParameter1=Comment
+MatchStrictly1=1
+MatchParameter2=Library Reference
+MatchStrictly2=1
+PhysicalNamingFormat=$Component_$RoomName
+GlobalIndexSortOrder=3
+GlobalIndexSortLocation=0
+
+[PrjClassGen]
+CompClassManualEnabled=1
+CompClassManualRoomEnabled=0
+NetClassAutoBusEnabled=1
+NetClassAutoCompEnabled=0
+NetClassAutoNamedHarnessEnabled=0
+NetClassManualEnabled=1
+NetClassSeparateForBusSections=0
+
+[LibraryUpdateOptions]
+SelectedOnly=0
+UpdateVariants=1
+UpdateToLatestRevision=1
+PartTypes=0
+ComponentLibIdentifierKind0=Library Name Only
+ComponentLibraryIdentifier0=Altium Content Vault
+ComponentDesignItemID0=CMP-0055-01333-3
+ComponentSymbolReference0=AMP-OPA-LMC7101-5
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name Only
+ComponentLibraryIdentifier1=Altium Content Vault
+ComponentDesignItemID1=CMP-0074-00629-3
+ComponentSymbolReference1=PM-REF-LM113-SOT3
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name Only
+ComponentLibraryIdentifier2=Altium Content Vault
+ComponentDesignItemID2=CMP-0083-00172-1
+ComponentSymbolReference2=FPGA-XVR6-XC6VXXXXXT-GA1156
+ComponentUpdate2=0
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name Only
+ComponentLibraryIdentifier3=Altium Content Vault
+ComponentDesignItemID3=CMP-0162-00270-1
+ComponentSymbolReference3=MEM-SEEPROM-93AA46B-P-8
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name Only
+ComponentLibraryIdentifier4=Altium Content Vault
+ComponentDesignItemID4=CMP-0359-03568-2
+ComponentSymbolReference4=LT-LT1638-S8-8
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name Only
+ComponentLibraryIdentifier5=Altium Content Vault
+ComponentDesignItemID5=CMP-0440-00318-3
+ComponentSymbolReference5=TI-SN74AHC125-D0014A-14
+ComponentUpdate5=0
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name Only
+ComponentLibraryIdentifier6=Altium Content Vault
+ComponentDesignItemID6=CMP-0476-01160-1
+ComponentSymbolReference6=LT-LT1764A_1963A_1965-Q-5
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name Only
+ComponentLibraryIdentifier7=Altium Content Vault
+ComponentDesignItemID7=CMP-0884-00066-1
+ComponentSymbolReference7=ADI-AD9518-1-CP-48-8
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name Only
+ComponentLibraryIdentifier8=Altium Content Vault
+ComponentDesignItemID8=CMP-1176-00014-1
+ComponentSymbolReference8=INF-D_A1K2C3-3
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name Only
+ComponentLibraryIdentifier9=Altium Content Vault
+ComponentDesignItemID9=CMP-1698-00004-1
+ComponentSymbolReference9=USB-4-2SHLD
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name Only
+ComponentLibraryIdentifier10=Altium Content Vault
+ComponentDesignItemID10=CMP-2000-04934-1
+ComponentSymbolReference10=NEMOS-GSD-3
+ComponentUpdate10=0
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name Only
+ComponentLibraryIdentifier11=Altium Content Vault
+ComponentDesignItemID11=CMP-2000-05520-1
+ComponentSymbolReference11=CN-2P-M-R14
+ComponentUpdate11=0
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name Only
+ComponentLibraryIdentifier12=Altium Content Vault
+ComponentDesignItemID12=CMP-2000-06251-1
+ComponentSymbolReference12=PEMOS-GSD-3
+ComponentUpdate12=0
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name Only
+ComponentLibraryIdentifier13=Altium Content Vault
+ComponentDesignItemID13=CMP-2000-06287-1
+ComponentSymbolReference13=FTDI-FT2232HL-LQFP-64
+ComponentUpdate13=1
+ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Library Name Only
+ComponentLibraryIdentifier14=Omnisys Vault
+ComponentDesignItemID14=CMP-00001-1
+ComponentSymbolReference14=DV75D-020.0M
+ComponentUpdate14=0
+ComponentIsDeviceSheet14=0
+ComponentLibIdentifierKind15=Library Name Only
+ComponentLibraryIdentifier15=Omnisys Vault
+ComponentDesignItemID15=CMP-00002-1
+ComponentSymbolReference15=ETC1-1-13TR
+ComponentUpdate15=1
+ComponentIsDeviceSheet15=0
+ComponentLibIdentifierKind16=Library Name Only
+ComponentLibraryIdentifier16=Omnisys Vault
+ComponentDesignItemID16=CMP-0300-000000-1
+ComponentSymbolReference16=CAP-2PIN
+ComponentUpdate16=1
+ComponentIsDeviceSheet16=0
+ComponentLibIdentifierKind17=Library Name Only
+ComponentLibraryIdentifier17=Omnisys Vault
+ComponentDesignItemID17=CMP-0300-000090-2
+ComponentSymbolReference17=CAP-2PIN-POL
+ComponentUpdate17=1
+ComponentIsDeviceSheet17=0
+ComponentLibIdentifierKind18=Library Name Only
+ComponentLibraryIdentifier18=Omnisys Vault
+ComponentDesignItemID18=CMP-0300-000207-4
+ComponentSymbolReference18=CAP-2PIN-POL
+ComponentUpdate18=1
+ComponentIsDeviceSheet18=0
+ComponentLibIdentifierKind19=Library Name Only
+ComponentLibraryIdentifier19=Omnisys Vault
+ComponentDesignItemID19=CMP-0300-000277-1
+ComponentSymbolReference19=CAP-2PIN-POL
+ComponentUpdate19=1
+ComponentIsDeviceSheet19=0
+ComponentLibIdentifierKind20=Library Name Only
+ComponentLibraryIdentifier20=Omnisys Vault
+ComponentDesignItemID20=CMP-0300-002442-2
+ComponentSymbolReference20=CAP-2PIN
+ComponentUpdate20=1
+ComponentIsDeviceSheet20=0
+ComponentLibIdentifierKind21=Library Name Only
+ComponentLibraryIdentifier21=Omnisys Vault
+ComponentDesignItemID21=CMP-0300-002475-2
+ComponentSymbolReference21=CAP-2PIN
+ComponentUpdate21=1
+ComponentIsDeviceSheet21=0
+ComponentLibIdentifierKind22=Library Name Only
+ComponentLibraryIdentifier22=Omnisys Vault
+ComponentDesignItemID22=CMP-0300-002637-1
+ComponentSymbolReference22=CAP-2PIN
+ComponentUpdate22=1
+ComponentIsDeviceSheet22=0
+ComponentLibIdentifierKind23=Library Name Only
+ComponentLibraryIdentifier23=Omnisys Vault
+ComponentDesignItemID23=CMP-0300-002654-2
+ComponentSymbolReference23=CAP-2PIN
+ComponentUpdate23=1
+ComponentIsDeviceSheet23=0
+ComponentLibIdentifierKind24=Library Name Only
+ComponentLibraryIdentifier24=Omnisys Vault
+ComponentDesignItemID24=CMP-0300-002665-2
+ComponentSymbolReference24=CAP-2PIN
+ComponentUpdate24=0
+ComponentIsDeviceSheet24=0
+ComponentLibIdentifierKind25=Library Name Only
+ComponentLibraryIdentifier25=Omnisys Vault
+ComponentDesignItemID25=CMP-0300-002669-2
+ComponentSymbolReference25=CAP-2PIN
+ComponentUpdate25=1
+ComponentIsDeviceSheet25=0
+ComponentLibIdentifierKind26=Library Name Only
+ComponentLibraryIdentifier26=Omnisys Vault
+ComponentDesignItemID26=CMP-0300-002789-3
+ComponentSymbolReference26=CAP-2PIN
+ComponentUpdate26=1
+ComponentIsDeviceSheet26=0
+ComponentLibIdentifierKind27=Library Name Only
+ComponentLibraryIdentifier27=Omnisys Vault
+ComponentDesignItemID27=CMP-0300-002931-3
+ComponentSymbolReference27=CAP-2PIN
+ComponentUpdate27=1
+ComponentIsDeviceSheet27=0
+ComponentLibIdentifierKind28=Library Name Only
+ComponentLibraryIdentifier28=Omnisys Vault
+ComponentDesignItemID28=CMP-0300-002932-3
+ComponentSymbolReference28=CAP-2PIN
+ComponentUpdate28=1
+ComponentIsDeviceSheet28=0
+ComponentLibIdentifierKind29=Library Name Only
+ComponentLibraryIdentifier29=Omnisys Vault
+ComponentDesignItemID29=CMP-0300-002952-2
+ComponentSymbolReference29=CAP-2PIN
+ComponentUpdate29=1
+ComponentIsDeviceSheet29=0
+ComponentLibIdentifierKind30=Library Name Only
+ComponentLibraryIdentifier30=Omnisys Vault
+ComponentDesignItemID30=CMP-0300-002959-3
+ComponentSymbolReference30=CAP-2PIN
+ComponentUpdate30=1
+ComponentIsDeviceSheet30=0
+ComponentLibIdentifierKind31=Library Name Only
+ComponentLibraryIdentifier31=Omnisys Vault
+ComponentDesignItemID31=CMP-0300-003189-2
+ComponentSymbolReference31=CAP-2PIN
+ComponentUpdate31=1
+ComponentIsDeviceSheet31=0
+ComponentLibIdentifierKind32=Library Name Only
+ComponentLibraryIdentifier32=Omnisys Vault
+ComponentDesignItemID32=CMP-0300-003397-3
+ComponentSymbolReference32=CAP-2PIN
+ComponentUpdate32=1
+ComponentIsDeviceSheet32=0
+ComponentLibIdentifierKind33=Library Name Only
+ComponentLibraryIdentifier33=Omnisys Vault
+ComponentDesignItemID33=CMP-0300-003493-3
+ComponentSymbolReference33=CAP-2PIN
+ComponentUpdate33=1
+ComponentIsDeviceSheet33=0
+ComponentLibIdentifierKind34=Library Name Only
+ComponentLibraryIdentifier34=Omnisys Vault
+ComponentDesignItemID34=CMP-0300-003942-3
+ComponentSymbolReference34=CAP-2PIN
+ComponentUpdate34=1
+ComponentIsDeviceSheet34=0
+ComponentLibIdentifierKind35=Library Name Only
+ComponentLibraryIdentifier35=Omnisys Vault
+ComponentDesignItemID35=CMP-0600-000010-1
+ComponentSymbolReference35=BEAD-2PIN
+ComponentUpdate35=1
+ComponentIsDeviceSheet35=0
+ComponentLibIdentifierKind36=Library Name Only
+ComponentLibraryIdentifier36=Omnisys Vault
+ComponentDesignItemID36=CMP-0600-000183-1
+ComponentSymbolReference36=BNX012-01
+ComponentUpdate36=1
+ComponentIsDeviceSheet36=0
+ComponentLibIdentifierKind37=Library Name Only
+ComponentLibraryIdentifier37=Omnisys Vault
+ComponentDesignItemID37=CMP-1000-000152-4
+ComponentSymbolReference37=SMT_IOPAD
+ComponentUpdate37=1
+ComponentIsDeviceSheet37=0
+ComponentLibIdentifierKind38=Library Name Only
+ComponentLibraryIdentifier38=Omnisys Vault
+ComponentDesignItemID38=CMP-1500-000001-2
+ComponentSymbolReference38=LED-2PIN-RED
+ComponentUpdate38=0
+ComponentIsDeviceSheet38=0
+ComponentLibIdentifierKind39=Library Name Only
+ComponentLibraryIdentifier39=Omnisys Vault
+ComponentDesignItemID39=CMP-1500-000004-2
+ComponentSymbolReference39=LED-2PIN-GREEN
+ComponentUpdate39=0
+ComponentIsDeviceSheet39=0
+ComponentLibIdentifierKind40=Library Name Only
+ComponentLibraryIdentifier40=Omnisys Vault
+ComponentDesignItemID40=CMP-1600-000001-1
+ComponentSymbolReference40=CMP-1600-000001-1
+ComponentUpdate40=1
+ComponentIsDeviceSheet40=0
+ComponentLibIdentifierKind41=Library Name Only
+ComponentLibraryIdentifier41=Omnisys Vault
+ComponentDesignItemID41=CMP-1600-000005-2
+ComponentSymbolReference41=MH
+ComponentUpdate41=1
+ComponentIsDeviceSheet41=0
+ComponentLibIdentifierKind42=Library Name Only
+ComponentLibraryIdentifier42=Omnisys Vault
+ComponentDesignItemID42=CMP-1800-000000-3
+ComponentSymbolReference42=RES-2PIN
+ComponentUpdate42=1
+ComponentIsDeviceSheet42=0
+ComponentLibIdentifierKind43=Library Name Only
+ComponentLibraryIdentifier43=Omnisys Vault
+ComponentDesignItemID43=CMP-1800-001397-2
+ComponentSymbolReference43=RES-2PIN
+ComponentUpdate43=1
+ComponentIsDeviceSheet43=0
+ComponentLibIdentifierKind44=Library Name Only
+ComponentLibraryIdentifier44=Omnisys Vault
+ComponentDesignItemID44=CMP-1800-001411-2
+ComponentSymbolReference44=RES-2PIN
+ComponentUpdate44=1
+ComponentIsDeviceSheet44=0
+ComponentLibIdentifierKind45=Library Name Only
+ComponentLibraryIdentifier45=Omnisys Vault
+ComponentDesignItemID45=CMP-1800-001430-2
+ComponentSymbolReference45=RES-2PIN
+ComponentUpdate45=1
+ComponentIsDeviceSheet45=0
+ComponentLibIdentifierKind46=Library Name Only
+ComponentLibraryIdentifier46=Omnisys Vault
+ComponentDesignItemID46=CMP-1800-001437-2
+ComponentSymbolReference46=RES-2PIN
+ComponentUpdate46=1
+ComponentIsDeviceSheet46=0
+ComponentLibIdentifierKind47=Library Name Only
+ComponentLibraryIdentifier47=Omnisys Vault
+ComponentDesignItemID47=CMP-1800-001949-3
+ComponentSymbolReference47=RES-2PIN
+ComponentUpdate47=0
+ComponentIsDeviceSheet47=0
+ComponentLibIdentifierKind48=Library Name Only
+ComponentLibraryIdentifier48=Omnisys Vault
+ComponentDesignItemID48=CMP-1800-001998-3
+ComponentSymbolReference48=RES-2PIN
+ComponentUpdate48=1
+ComponentIsDeviceSheet48=0
+ComponentLibIdentifierKind49=Library Name Only
+ComponentLibraryIdentifier49=Omnisys Vault
+ComponentDesignItemID49=CMP-1800-002005-3
+ComponentSymbolReference49=RES-2PIN
+ComponentUpdate49=0
+ComponentIsDeviceSheet49=0
+ComponentLibIdentifierKind50=Library Name Only
+ComponentLibraryIdentifier50=Omnisys Vault
+ComponentDesignItemID50=CMP-1800-002010-3
+ComponentSymbolReference50=RES-2PIN
+ComponentUpdate50=0
+ComponentIsDeviceSheet50=0
+ComponentLibIdentifierKind51=Library Name Only
+ComponentLibraryIdentifier51=Omnisys Vault
+ComponentDesignItemID51=CMP-1800-002021-3
+ComponentSymbolReference51=RES-2PIN
+ComponentUpdate51=1
+ComponentIsDeviceSheet51=0
+ComponentLibIdentifierKind52=Library Name Only
+ComponentLibraryIdentifier52=Omnisys Vault
+ComponentDesignItemID52=CMP-1800-002024-3
+ComponentSymbolReference52=RES-2PIN
+ComponentUpdate52=1
+ComponentIsDeviceSheet52=0
+ComponentLibIdentifierKind53=Library Name Only
+ComponentLibraryIdentifier53=Omnisys Vault
+ComponentDesignItemID53=CMP-1800-002029-3
+ComponentSymbolReference53=RES-2PIN
+ComponentUpdate53=1
+ComponentIsDeviceSheet53=0
+ComponentLibIdentifierKind54=Library Name Only
+ComponentLibraryIdentifier54=Omnisys Vault
+ComponentDesignItemID54=CMP-1800-002031-3
+ComponentSymbolReference54=RES-2PIN
+ComponentUpdate54=1
+ComponentIsDeviceSheet54=0
+ComponentLibIdentifierKind55=Library Name Only
+ComponentLibraryIdentifier55=Omnisys Vault
+ComponentDesignItemID55=CMP-1800-002037-3
+ComponentSymbolReference55=RES-2PIN
+ComponentUpdate55=0
+ComponentIsDeviceSheet55=0
+ComponentLibIdentifierKind56=Library Name Only
+ComponentLibraryIdentifier56=Omnisys Vault
+ComponentDesignItemID56=CMP-1800-002038-3
+ComponentSymbolReference56=RES-2PIN
+ComponentUpdate56=1
+ComponentIsDeviceSheet56=0
+ComponentLibIdentifierKind57=Library Name Only
+ComponentLibraryIdentifier57=Omnisys Vault
+ComponentDesignItemID57=CMP-1800-002045-3
+ComponentSymbolReference57=RES-2PIN
+ComponentUpdate57=1
+ComponentIsDeviceSheet57=0
+ComponentLibIdentifierKind58=Library Name Only
+ComponentLibraryIdentifier58=Omnisys Vault
+ComponentDesignItemID58=CMP-1800-002047-3
+ComponentSymbolReference58=RES-2PIN
+ComponentUpdate58=1
+ComponentIsDeviceSheet58=0
+ComponentLibIdentifierKind59=Library Name Only
+ComponentLibraryIdentifier59=Omnisys Vault
+ComponentDesignItemID59=CMP-1800-002049-3
+ComponentSymbolReference59=RES-2PIN
+ComponentUpdate59=0
+ComponentIsDeviceSheet59=0
+ComponentLibIdentifierKind60=Library Name Only
+ComponentLibraryIdentifier60=Omnisys Vault
+ComponentDesignItemID60=CMP-1800-002061-3
+ComponentSymbolReference60=RES-2PIN
+ComponentUpdate60=0
+ComponentIsDeviceSheet60=0
+ComponentLibIdentifierKind61=Library Name Only
+ComponentLibraryIdentifier61=Omnisys Vault
+ComponentDesignItemID61=CMP-1800-002062-3
+ComponentSymbolReference61=RES-2PIN
+ComponentUpdate61=1
+ComponentIsDeviceSheet61=0
+ComponentLibIdentifierKind62=Library Name Only
+ComponentLibraryIdentifier62=Omnisys Vault
+ComponentDesignItemID62=CMP-1800-002071-3
+ComponentSymbolReference62=RES-2PIN
+ComponentUpdate62=1
+ComponentIsDeviceSheet62=0
+ComponentLibIdentifierKind63=Library Name Only
+ComponentLibraryIdentifier63=Omnisys Vault
+ComponentDesignItemID63=CMP-1800-002400-2
+ComponentSymbolReference63=RES-2PIN
+ComponentUpdate63=1
+ComponentIsDeviceSheet63=0
+ComponentLibIdentifierKind64=Library Name Only
+ComponentLibraryIdentifier64=Omnisys Vault
+ComponentDesignItemID64=CMP-1800-002821-2
+ComponentSymbolReference64=RES-2PIN
+ComponentUpdate64=1
+ComponentIsDeviceSheet64=0
+ComponentLibIdentifierKind65=Library Name Only
+ComponentLibraryIdentifier65=Omnisys Vault
+ComponentDesignItemID65=CMP-1800-003166-1
+ComponentSymbolReference65=RES-2PIN-NTC
+ComponentUpdate65=1
+ComponentIsDeviceSheet65=0
+ComponentLibIdentifierKind66=Library Name Only
+ComponentLibraryIdentifier66=Omnisys Vault
+ComponentDesignItemID66=CMP-2100-000126-1
+ComponentSymbolReference66=74AHC1G125
+ComponentUpdate66=1
+ComponentIsDeviceSheet66=0
+ComponentLibIdentifierKind67=Library Name Only
+ComponentLibraryIdentifier67=Omnisys Vault
+ComponentDesignItemID67=CMP-2100-000175-1
+ComponentSymbolReference67=MAX825_EUK
+ComponentUpdate67=0
+ComponentIsDeviceSheet67=0
+ComponentLibIdentifierKind68=Library Name Only
+ComponentLibraryIdentifier68=Omnisys Vault
+ComponentDesignItemID68=CMP-2100-000329-1
+ComponentSymbolReference68=OPAMP-SOT23-5
+ComponentUpdate68=1
+ComponentIsDeviceSheet68=0
+ComponentLibIdentifierKind69=Library Name Only
+ComponentLibraryIdentifier69=Omnisys Vault
+ComponentDesignItemID69=CMP-2100-000558-1
+ComponentSymbolReference69=EV10AQ190AVTPY
+ComponentUpdate69=1
+ComponentIsDeviceSheet69=0
+ComponentLibIdentifierKind70=Library Name Only
+ComponentLibraryIdentifier70=Omnisys Vault
+ComponentDesignItemID70=CMP-2100-000560-1
+ComponentSymbolReference70=TXB0108RGYR
+ComponentUpdate70=1
+ComponentIsDeviceSheet70=0
+ComponentLibIdentifierKind71=Library Name Only
+ComponentLibraryIdentifier71=Omnisys Vault
+ComponentDesignItemID71=CMP-2100-000561-1
+ComponentSymbolReference71=S29GL512S11DHIV23
+ComponentUpdate71=0
+ComponentIsDeviceSheet71=0
+ComponentLibIdentifierKind72=Library Name Only
+ComponentLibraryIdentifier72=Omnisys Vault
+ComponentDesignItemID72=CMP-2100-000562-1
+ComponentSymbolReference72=SN74AHC125D
+ComponentUpdate72=1
+ComponentIsDeviceSheet72=0
+ComponentLibIdentifierKind73=Library Name Only
+ComponentLibraryIdentifier73=Omnisys Vault
+ComponentDesignItemID73=CMP-2100-000562-2
+ComponentSymbolReference73=SN74AHC125D
+ComponentUpdate73=1
+ComponentIsDeviceSheet73=0
+ComponentLibIdentifierKind74=Library Name Only
+ComponentLibraryIdentifier74=Omnisys Vault
+ComponentDesignItemID74=CMP-2400-000043-3
+ComponentSymbolReference74=XTAL-2PIN
+ComponentUpdate74=1
+ComponentIsDeviceSheet74=0
+ComponentLibIdentifierKind75=Library Name Only
+ComponentLibraryIdentifier75=Omnisys Vault
+ComponentDesignItemID75=CMP-3600-000004-1
+ComponentSymbolReference75=1-PIN_TP
+ComponentUpdate75=0
+ComponentIsDeviceSheet75=0
+ComponentLibIdentifierKind76=Library Name Only
+ComponentLibraryIdentifier76=Omnisys Vault
+ComponentDesignItemID76=CMP-4700-000000-3
+ComponentSymbolReference76=CMP-4700-000000-3
+ComponentUpdate76=1
+ComponentIsDeviceSheet76=0
+ComponentLibIdentifierKind77=Library Name Only
+ComponentLibraryIdentifier77=Omnisys Vault
+ComponentDesignItemID77=CMP-4700-000008-1
+ComponentSymbolReference77=CMP-4700-000008-1
+ComponentUpdate77=1
+ComponentIsDeviceSheet77=0
+FullReplace=1
+UpdateDesignatorLock=1
+UpdatePartIDLock=1
+PreserveParameterLocations=1
+PreserveParameterVisibility=1
+DoGraphics=1
+DoParameters=1
+DoModels=1
+AddParameters=0
+RemoveParameters=0
+AddModels=1
+RemoveModels=1
+UpdateCurrentModels=1
+ParameterName0=# of Inputs
+ParameterUpdate0=1
+ParameterName1=# of Outputs
+ParameterUpdate1=1
+ParameterName2=Attenuation Value
+ParameterUpdate2=1
+ParameterName3=Bits(#)
+ParameterUpdate3=1
+ParameterName4=Capacitance
+ParameterUpdate4=1
+ParameterName5=Capacitance (F)
+ParameterUpdate5=1
+ParameterName6=Case/Package
+ParameterUpdate6=1
+ParameterName7=Case\Package
+ParameterUpdate7=1
+ParameterName8=Case-EIA
+ParameterUpdate8=1
+ParameterName9=Case-Metric
+ParameterUpdate9=1
+ParameterName10=Category
+ParameterUpdate10=1
+ParameterName11=Channel Mode
+ParameterUpdate11=1
+ParameterName12=Channel Type
+ParameterUpdate12=1
+ParameterName13=Channels (#)
+ParameterUpdate13=1
+ParameterName14=Circuit Type
+ParameterUpdate14=1
+ParameterName15=Code_IPC
+ParameterUpdate15=1
+ParameterName16=Code_JEDEC
+ParameterUpdate16=1
+ParameterName17=Code_JEITA
+ParameterUpdate17=1
+ParameterName18=Comment
+ParameterUpdate18=1
+ParameterName19=Component Kind
+ParameterUpdate19=1
+ParameterName20=ComponentLink1Description
+ParameterUpdate20=1
+ParameterName21=ComponentLink1URL
+ParameterUpdate21=1
+ParameterName22=ComponentLink2Description
+ParameterUpdate22=1
+ParameterName23=ComponentLink2URL
+ParameterUpdate23=1
+ParameterName24=ComponentLink3Description
+ParameterUpdate24=1
+ParameterName25=ComponentLink3URL
+ParameterUpdate25=1
+ParameterName26=ComponentLink4Description
+ParameterUpdate26=1
+ParameterName27=ComponentLink4URL
+ParameterUpdate27=1
+ParameterName28=CompType
+ParameterUpdate28=1
+ParameterName29=Contact Plating
+ParameterUpdate29=1
+ParameterName30=Current
+ParameterUpdate30=1
+ParameterName31=Current - Continuous Drain (Id) @ 25°C
+ParameterUpdate31=1
+ParameterName32=Current Rating
+ParameterUpdate32=1
+ParameterName33=Data Rate
+ParameterUpdate33=1
+ParameterName34=Datasheet URL
+ParameterUpdate34=1
+ParameterName35=Datasheet Version
+ParameterUpdate35=1
+ParameterName36=DatasheetVersion
+ParameterUpdate36=1
+ParameterName37=DCL
+ParameterUpdate37=1
+ParameterName38=Depth
+ParameterUpdate38=1
+ParameterName39=Description
+ParameterUpdate39=1
+ParameterName40=DF
+ParameterUpdate40=1
+ParameterName41=Diameter
+ParameterUpdate41=1
+ParameterName42=Dielectric
+ParameterUpdate42=1
+ParameterName43=Dimensions
+ParameterUpdate43=1
+ParameterName44=Discrete Pass Element
+ParameterUpdate44=1
+ParameterName45=Drain to Source Voltage (Vdss)
+ParameterUpdate45=1
+ParameterName46=Dropout Voltage(V)
+ParameterUpdate46=1
+ParameterName47=ESD Protection
+ParameterUpdate47=1
+ParameterName48=ESR
+ParameterUpdate48=1
+ParameterName49=F @ Nom Voltage(Max)(Mhz)
+ParameterUpdate49=1
+ParameterName50=Family
+ParameterUpdate50=1
+ParameterName51=FET Feature
+ParameterUpdate51=1
+ParameterName52=FET Type
+ParameterUpdate52=1
+ParameterName53=Frequency
+ParameterUpdate53=1
+ParameterName54=Frequency Stability
+ParameterUpdate54=1
+ParameterName55=Gate Charge (Qg) @ Vgs
+ParameterUpdate55=1
+ParameterName56=GBW (MHz) Typical
+ParameterUpdate56=1
+ParameterName57=Generic Part Number
+ParameterUpdate57=1
+ParameterName58=Green
+ParameterUpdate58=1
+ParameterName59=Height
+ParameterUpdate59=1
+ParameterName60=High Level Output Current
+ParameterUpdate60=1
+ParameterName61=High-Reliability
+ParameterUpdate61=1
+ParameterName62=I/O Interface
+ParameterUpdate62=1
+ParameterName63=ICC @ Nom Voltage(Max)(mA)
+ParameterUpdate63=1
+ParameterName64=IDC
+ParameterUpdate64=1
+ParameterName65=Impedance
+ParameterUpdate65=1
+ParameterName66=Input Capacitance (Ciss) @ Vds
+ParameterUpdate66=1
+ParameterName67=Input Type
+ParameterUpdate67=1
+ParameterName68=Interface
+ParameterUpdate68=1
+ParameterName69=Iout(mA)
+ParameterUpdate69=1
+ParameterName70=Is (mA) Typical
+ParameterUpdate70=1
+ParameterName71=Isupply(mA)
+ParameterUpdate71=1
+ParameterName72=Lead Free
+ParameterUpdate72=1
+ParameterName73=Lead Pitch
+ParameterUpdate73=1
+ParameterName74=Length
+ParameterUpdate74=1
+ParameterName75=Library Reference
+ParameterUpdate75=1
+ParameterName76=Linear Technology Part Number
+ParameterUpdate76=1
+ParameterName77=Logic Function
+ParameterUpdate77=1
+ParameterName78=Low Level Output Current
+ParameterUpdate78=1
+ParameterName79=Manufacturer
+ParameterUpdate79=1
+ParameterName80=Manufacturer URL
+ParameterUpdate80=1
+ParameterName81=Max Current Rating
+ParameterUpdate81=1
+ParameterName82=Max DC Current
+ParameterUpdate82=1
+ParameterName83=Max f-out
+ParameterUpdate83=1
+ParameterName84=Max Operating Temperature
+ParameterUpdate84=1
+ParameterName85=Max Supply Current
+ParameterUpdate85=1
+ParameterName86=Max Supply Voltage
+ParameterUpdate86=1
+ParameterName87=Max Voltage Rating (DC)
+ParameterUpdate87=1
+ParameterName88=Maximum Continuous Drain Current
+ParameterUpdate88=1
+ParameterName89=Maximum Data Rate
+ParameterUpdate89=1
+ParameterName90=Maximum Drain Source Voltage
+ParameterUpdate90=1
+ParameterName91=Maximum Gate Source Voltage
+ParameterUpdate91=1
+ParameterName92=Maximum Operating Temperature
+ParameterUpdate92=1
+ParameterName93=Maximum working voltage
+ParameterUpdate93=1
+ParameterName94=Memory Type
+ParameterUpdate94=1
+ParameterName95=Min Operating Temperature
+ParameterUpdate95=1
+ParameterName96=Min Supply Voltage
+ParameterUpdate96=1
+ParameterName97=Minimum Operating Temperature
+ParameterUpdate97=1
+ParameterName98=Mount
+ParameterUpdate98=1
+ParameterName99=Mounting
+ParameterUpdate99=1
+ParameterName100=Mounting Technology
+ParameterUpdate100=1
+ParameterName101=Mounting Type
+ParameterUpdate101=1
+ParameterName102=Noise(uV)
+ParameterUpdate102=1
+ParameterName103=Nominal Supply Current
+ParameterUpdate103=1
+ParameterName104=Number of A/D Converters
+ParameterUpdate104=1
+ParameterName105=Number of Analog Inputs
+ParameterUpdate105=1
+ParameterName106=Number of Bits
+ParameterUpdate106=1
+ParameterName107=Number of Bits per Element
+ParameterUpdate107=1
+ParameterName108=Number of Channels
+ParameterUpdate108=1
+ParameterName109=Number of Channels per Chip
+ParameterUpdate109=1
+ParameterName110=Number of Elements
+ParameterUpdate110=1
+ParameterName111=Number of Input Lines
+ParameterUpdate111=1
+ParameterName112=Number of Inputs
+ParameterUpdate112=1
+ParameterName113=Number of Output Lines
+ParameterUpdate113=1
+ParameterName114=Number of Outputs
+ParameterUpdate114=1
+ParameterName115=Number of Pins
+ParameterUpdate115=1
+ParameterName116=OmnisysBuy
+ParameterUpdate116=1
+ParameterName117=On-Chip VCO or DCO
+ParameterUpdate117=1
+ParameterName118=Online Catalog
+ParameterUpdate118=1
+ParameterName119=Operating Temperature
+ParameterUpdate119=1
+ParameterName120=Operating Temperature Range(C)
+ParameterUpdate120=1
+ParameterName121=Other Names
+ParameterUpdate121=1
+ParameterName122=Output Current
+ParameterUpdate122=1
+ParameterName123=Output Logic
+ParameterUpdate123=1
+ParameterName124=Output Type
+ParameterUpdate124=1
+ParameterName125=Output Voltage
+ParameterUpdate125=1
+ParameterName126=Package
+ParameterUpdate126=1
+ParameterName127=Package / Case
+ParameterUpdate127=1
+ParameterName128=Package Description
+ParameterUpdate128=1
+ParameterName129=Package Quantity
+ParameterUpdate129=1
+ParameterName130=Package Reference
+ParameterUpdate130=1
+ParameterName131=Package Type
+ParameterUpdate131=1
+ParameterName132=Package URL
+ParameterUpdate132=1
+ParameterName133=Package Version
+ParameterUpdate133=1
+ParameterName134=PackageDescription
+ParameterUpdate134=1
+ParameterName135=PackageReference
+ParameterUpdate135=1
+ParameterName136=PackageTopMarking
+ParameterUpdate136=1
+ParameterName137=PackageVersion
+ParameterUpdate137=1
+ParameterName138=Packaging
+ParameterUpdate138=1
+ParameterName139=Packing
+ParameterUpdate139=1
+ParameterName140=PartId
+ParameterUpdate140=1
+ParameterName141=PartNumber
+ParameterUpdate141=1
+ParameterName142=PCN Design/Specification
+ParameterUpdate142=1
+ParameterName143=PCN Packaging
+ParameterUpdate143=1
+ParameterName144=Pin Count
+ParameterUpdate144=1
+ParameterName145=PinCount
+ParameterUpdate145=1
+ParameterName146=Pins
+ParameterUpdate146=1
+ParameterName147=Polarity
+ParameterUpdate147=1
+ParameterName148=Power
+ParameterUpdate148=1
+ParameterName149=Power - Max
+ParameterUpdate149=1
+ParameterName150=Power Rating
+ParameterUpdate150=1
+ParameterName151=PowerWise
+ParameterUpdate151=1
+ParameterName152=Product Training Modules
+ParameterUpdate152=1
+ParameterName153=Propagation Delay
+ParameterUpdate153=1
+ParameterName154=PSRR(dB)
+ParameterUpdate154=1
+ParameterName155=Quiescent Current
+ParameterUpdate155=1
+ParameterName156=Rad Hard
+ParameterUpdate156=1
+ParameterName157=Radiation Hardening
+ParameterUpdate157=1
+ParameterName158=Rated volage
+ParameterUpdate158=1
+ParameterName159=Rated Voltage
+ParameterUpdate159=1
+ParameterName160=Rated voltage (V)
+ParameterUpdate160=1
+ParameterName161=Rated Voltgae
+ParameterUpdate161=1
+ParameterName162=Rating
+ParameterUpdate162=1
+ParameterName163=RDC
+ParameterUpdate163=1
+ParameterName164=Rds On (Max) @ Id, Vgs
+ParameterUpdate164=1
+ParameterName165=RDS-on
+ParameterUpdate165=1
+ParameterName166=REACH SVHC
+ParameterUpdate166=1
+ParameterName167=Resolution
+ParameterUpdate167=1
+ParameterName168=RevisionNote
+ParameterUpdate168=1
+ParameterName169=Rise Time
+ParameterUpdate169=1
+ParameterName170=RoHS
+ParameterUpdate170=1
+ParameterName171=RoHSCompliant
+ParameterUpdate171=1
+ParameterName172=Sampling Rate
+ParameterUpdate172=1
+ParameterName173=Series
+ParameterUpdate173=1
+ParameterName174=Shielding
+ParameterUpdate174=1
+ParameterName175=Shutdown Current(uA)
+ParameterUpdate175=1
+ParameterName176=SR (V/us) Typical
+ParameterUpdate176=1
+ParameterName177=Standard Package
+ParameterUpdate177=1
+ParameterName178=Standard Supported
+ParameterUpdate178=1
+ParameterName179=Supplier Device Package
+ParameterUpdate179=1
+ParameterName180=Supply Voltage (V)
+ParameterUpdate180=1
+ParameterName181=Technology
+ParameterUpdate181=1
+ParameterName182=Temp. Coefficent
+ParameterUpdate182=1
+ParameterName183=Temperature Charateristics
+ParameterUpdate183=1
+ParameterName184=Termination
+ParameterUpdate184=1
+ParameterName185=Thickness
+ParameterUpdate185=1
+ParameterName186=Thickness (mm)
+ParameterUpdate186=1
+ParameterName187=Tolerance
+ParameterUpdate187=1
+ParameterName188=tpd @ Nom Voltage(Max)(ns)
+ParameterUpdate188=1
+ParameterName189=Turn-On Delay Time
+ParameterUpdate189=1
+ParameterName190=Turns Ratio
+ParameterUpdate190=1
+ParameterName191=Type
+ParameterUpdate191=1
+ParameterName192=Typical Fall Time
+ParameterUpdate192=1
+ParameterName193=Typical Rise Time
+ParameterUpdate193=1
+ParameterName194=Typical Turn-Off Delay Time
+ParameterUpdate194=1
+ParameterName195=Typical Turn-On Delay Time
+ParameterUpdate195=1
+ParameterName196=Value
+ParameterUpdate196=1
+ParameterName197=VCC(Max)(V)
+ParameterUpdate197=1
+ParameterName198=VCC(Min)(V)
+ParameterUpdate198=1
+ParameterName199=Vgs(th) (Max) @ Id
+ParameterUpdate199=1
+ParameterName200=Vin Max(V)
+ParameterUpdate200=1
+ParameterName201=Vin Min(V)
+ParameterUpdate201=1
+ParameterName202=Voltage Rating
+ParameterUpdate202=1
+ParameterName203=Voltage Rating (DC)
+ParameterUpdate203=1
+ParameterName204=Voltage(Nom)(V)
+ParameterUpdate204=1
+ParameterName205=Vos (mV) Guaranteed
+ParameterUpdate205=1
+ParameterName206=Vos (mV) Typical
+ParameterUpdate206=1
+ParameterName207=Vout Max(V)
+ParameterUpdate207=1
+ParameterName208=Vout Min(V)
+ParameterUpdate208=1
+ParameterName209=Vs Max (V)
+ParameterUpdate209=1
+ParameterName210=Vs Min (V)
+ParameterUpdate210=1
+ParameterName211=Weight
+ParameterUpdate211=1
+ParameterName212=Width
+ParameterUpdate212=1
+ParameterName213=Z@Freq
+ParameterUpdate213=1
+ParameterName214=Zmax@Freq
+ParameterUpdate214=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=ADI-CP-48-8_L
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=ADI-CP-48-8_M
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=ADI-CP-48-8_N
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=BGA380C127P24X24_3100X3100X160
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=BGA64C100P8X8_900X900X140
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=BNX012-01-Footprint-1
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=CAPC1005X06L
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=CAPC1005X06M
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=CAPC1005X06N
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=CAPC1005X55L
+ModelUpdate9=1
+ModelType10=PCBLIB
+ModelName10=CAPC1005X55M
+ModelUpdate10=1
+ModelType11=PCBLIB
+ModelName11=CAPC1005X55N
+ModelUpdate11=1
+ModelType12=PCBLIB
+ModelName12=CAPC1608X90L
+ModelUpdate12=1
+ModelType13=PCBLIB
+ModelName13=CAPC1608X90M
+ModelUpdate13=1
+ModelType14=PCBLIB
+ModelName14=CAPC1608X90N
+ModelUpdate14=1
+ModelType15=PCBLIB
+ModelName15=CAPC2012X140L
+ModelUpdate15=1
+ModelType16=PCBLIB
+ModelName16=CAPC2012X140M
+ModelUpdate16=1
+ModelType17=PCBLIB
+ModelName17=CAPC2012X140N
+ModelUpdate17=1
+ModelType18=PCBLIB
+ModelName18=CAPC2012X145L
+ModelUpdate18=1
+ModelType19=PCBLIB
+ModelName19=CAPC2012X145M
+ModelUpdate19=1
+ModelType20=PCBLIB
+ModelName20=CAPC2012X145N
+ModelUpdate20=1
+ModelType21=PCBLIB
+ModelName21=CAPMP3528X21L
+ModelUpdate21=1
+ModelType22=PCBLIB
+ModelName22=CAPMP3528X21M
+ModelUpdate22=1
+ModelType23=PCBLIB
+ModelName23=CAPMP3528X21N
+ModelUpdate23=1
+ModelType24=PCBLIB
+ModelName24=CAPMP7343X43L
+ModelUpdate24=1
+ModelType25=PCBLIB
+ModelName25=CAPMP7343X43M
+ModelUpdate25=1
+ModelType26=PCBLIB
+ModelName26=CAPMP7343X43N
+ModelUpdate26=1
+ModelType27=PCBLIB
+ModelName27=D0014A_L
+ModelUpdate27=1
+ModelType28=PCBLIB
+ModelName28=D0014A_M
+ModelUpdate28=1
+ModelType29=PCBLIB
+ModelName29=D0014A_N
+ModelUpdate29=1
+ModelType30=PCBLIB
+ModelName30=DBV0005A_L
+ModelUpdate30=1
+ModelType31=PCBLIB
+ModelName31=DBV0005A_M
+ModelUpdate31=1
+ModelType32=PCBLIB
+ModelName32=DBV0005A_N
+ModelUpdate32=1
+ModelType33=PCBLIB
+ModelName33=DBZ0003A_L
+ModelUpdate33=1
+ModelType34=PCBLIB
+ModelName34=DBZ0003A_M
+ModelUpdate34=1
+ModelType35=PCBLIB
+ModelName35=DBZ0003A_N
+ModelUpdate35=1
+ModelType36=PCBLIB
+ModelName36=FAIR-SOT23-3_V
+ModelUpdate36=1
+ModelType37=PCBLIB
+ModelName37=FAIR-SSOT3L-3_V
+ModelUpdate37=1
+ModelType38=PCBLIB
+ModelName38=FCI-61729-1011BLF_V
+ModelUpdate38=1
+ModelType39=PCBLIB
+ModelName39=FFG1156
+ModelUpdate39=1
+ModelType40=PCBLIB
+ModelName40=FID
+ModelUpdate40=1
+ModelType41=PCBLIB
+ModelName41=FTDI-LQFP-64_L
+ModelUpdate41=1
+ModelType42=PCBLIB
+ModelName42=FTDI-LQFP-64_M
+ModelUpdate42=1
+ModelType43=PCBLIB
+ModelName43=FTDI-LQFP-64_N
+ModelUpdate43=1
+ModelType44=PCBLIB
+ModelName44=INDC2012X11L
+ModelUpdate44=1
+ModelType45=PCBLIB
+ModelName45=INDC2012X11M
+ModelUpdate45=1
+ModelType46=PCBLIB
+ModelName46=INDC2012X11N
+ModelUpdate46=1
+ModelType47=PCBLIB
+ModelName47=INF-SOT23_L
+ModelUpdate47=1
+ModelType48=PCBLIB
+ModelName48=INF-SOT23_M
+ModelUpdate48=1
+ModelType49=PCBLIB
+ModelName49=INF-SOT23_N
+ModelUpdate49=1
+ModelType50=PCBLIB
+ModelName50=LED2012-GREEN
+ModelUpdate50=1
+ModelType51=PCBLIB
+ModelName51=LED2012-RED
+ModelUpdate51=1
+ModelType52=PCBLIB
+ModelName52=LOGO-FULL-SILK
+ModelUpdate52=1
+ModelType53=PCBLIB
+ModelName53=LT-Q-5_L
+ModelUpdate53=1
+ModelType54=PCBLIB
+ModelName54=LT-Q-5_M
+ModelUpdate54=1
+ModelType55=PCBLIB
+ModelName55=LT-Q-5_N
+ModelUpdate55=1
+ModelType56=PCBLIB
+ModelName56=LT-S8-8_L
+ModelUpdate56=1
+ModelType57=PCBLIB
+ModelName57=LT-S8-8_M
+ModelUpdate57=1
+ModelType58=PCBLIB
+ModelName58=LT-S8-8_N
+ModelUpdate58=1
+ModelType59=PCBLIB
+ModelName59=MH5-2_2MM_WS
+ModelUpdate59=1
+ModelType60=PCBLIB
+ModelName60=MOLX-878321420_V
+ModelUpdate60=1
+ModelType61=PCBLIB
+ModelName61=PCBNo_SILK
+ModelUpdate61=1
+ModelType62=PCBLIB
+ModelName62=RESC1005L
+ModelUpdate62=1
+ModelType63=PCBLIB
+ModelName63=RESC1005M
+ModelUpdate63=1
+ModelType64=PCBLIB
+ModelName64=RESC1005N
+ModelUpdate64=1
+ModelType65=PCBLIB
+ModelName65=RESC1608L
+ModelUpdate65=1
+ModelType66=PCBLIB
+ModelName66=RESC1608M
+ModelUpdate66=1
+ModelType67=PCBLIB
+ModelName67=RESC1608N
+ModelUpdate67=1
+ModelType68=PCBLIB
+ModelName68=RESC2012L
+ModelUpdate68=1
+ModelType69=PCBLIB
+ModelName69=RESC2012M
+ModelUpdate69=1
+ModelType70=PCBLIB
+ModelName70=RESC2012N
+ModelUpdate70=1
+ModelType71=PCBLIB
+ModelName71=RESC3216L
+ModelUpdate71=1
+ModelType72=PCBLIB
+ModelName72=RESC3216M
+ModelUpdate72=1
+ModelType73=PCBLIB
+ModelName73=RESC3216N
+ModelUpdate73=1
+ModelType74=PCBLIB
+ModelName74=S1751-46
+ModelUpdate74=1
+ModelType75=PCBLIB
+ModelName75=SMT_IO_PAD_2x1MM
+ModelUpdate75=1
+ModelType76=PCBLIB
+ModelName76=SMT_IO_PAD_4x1MM
+ModelUpdate76=1
+ModelType77=PCBLIB
+ModelName77=SMT_IO_PAD_4x2MM
+ModelUpdate77=1
+ModelType78=PCBLIB
+ModelName78=SMT_IO_PAD_8x4MM
+ModelUpdate78=1
+ModelType79=PCBLIB
+ModelName79=SOIC127P600X175-14L
+ModelUpdate79=1
+ModelType80=PCBLIB
+ModelName80=SOIC127P600X175-14M
+ModelUpdate80=1
+ModelType81=PCBLIB
+ModelName81=SOIC127P600X175-14N
+ModelUpdate81=1
+ModelType82=PCBLIB
+ModelName82=SOIC-SN8_L
+ModelUpdate82=1
+ModelType83=PCBLIB
+ModelName83=SOIC-SN8_M
+ModelUpdate83=1
+ModelType84=PCBLIB
+ModelName84=SOIC-SN8_N
+ModelUpdate84=1
+ModelType85=PCBLIB
+ModelName85=SON127P420X200-4N
+ModelUpdate85=1
+ModelType86=PCBLIB
+ModelName86=SOT95P280X100-5L
+ModelUpdate86=1
+ModelType87=PCBLIB
+ModelName87=SOT95P280X100-5M
+ModelUpdate87=1
+ModelType88=PCBLIB
+ModelName88=SOT95P280X100-5N
+ModelUpdate88=1
+ModelType89=PCBLIB
+ModelName89=SOTFL50P160X73-3N
+ModelUpdate89=1
+ModelType90=PCBLIB
+ModelName90=TXB0108RGYR
+ModelUpdate90=1
+ModelType91=PCBLIB
+ModelName91=XTAL_5x3.2MM
+ModelUpdate91=1
+
+[DatabaseUpdateOptions]
+SelectedOnly=0
+UpdateVariants=1
+UpdateToLatestRevision=1
+PartTypes=0
+ComponentLibIdentifierKind0=Library Name Only
+ComponentLibraryIdentifier0=Altium Content Vault
+ComponentDesignItemID0=CMP-0055-01333-3
+ComponentSymbolReference0=AMP-OPA-LMC7101-5
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name Only
+ComponentLibraryIdentifier1=Altium Content Vault
+ComponentDesignItemID1=CMP-0074-00629-3
+ComponentSymbolReference1=PM-REF-LM113-SOT3
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name Only
+ComponentLibraryIdentifier2=Altium Content Vault
+ComponentDesignItemID2=CMP-0083-00172-1
+ComponentSymbolReference2=FPGA-XVR6-XC6VXXXXXT-GA1156
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name Only
+ComponentLibraryIdentifier3=Altium Content Vault
+ComponentDesignItemID3=CMP-0162-00270-1
+ComponentSymbolReference3=MEM-SEEPROM-93AA46B-P-8
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name Only
+ComponentLibraryIdentifier4=Altium Content Vault
+ComponentDesignItemID4=CMP-0226-00140-1
+ComponentSymbolReference4=PAS-IND-INDUCTOR-2
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name Only
+ComponentLibraryIdentifier5=Altium Content Vault
+ComponentDesignItemID5=CMP-0359-03568-2
+ComponentSymbolReference5=LT-LT1638-S8-8
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name Only
+ComponentLibraryIdentifier6=Altium Content Vault
+ComponentDesignItemID6=CMP-0884-00066-1
+ComponentSymbolReference6=ADI-AD9518-1-CP-48-8
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name Only
+ComponentLibraryIdentifier7=Altium Content Vault
+ComponentDesignItemID7=CMP-1176-00014-1
+ComponentSymbolReference7=INF-D_A1K2C3-3
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name Only
+ComponentLibraryIdentifier8=Altium Content Vault
+ComponentDesignItemID8=CMP-1698-00004-1
+ComponentSymbolReference8=USB-4-2SHLD
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name Only
+ComponentLibraryIdentifier9=Altium Content Vault
+ComponentDesignItemID9=CMP-2000-04934-1
+ComponentSymbolReference9=NEMOS-GSD-3
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name Only
+ComponentLibraryIdentifier10=Altium Content Vault
+ComponentDesignItemID10=CMP-2000-06251-1
+ComponentSymbolReference10=PEMOS-GSD-3
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name Only
+ComponentLibraryIdentifier11=Altium Content Vault
+ComponentDesignItemID11=CMP-2000-06287-1
+ComponentSymbolReference11=FTDI-FT2232HL-LQFP-64
+ComponentUpdate11=1
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name Only
+ComponentLibraryIdentifier12=Omnisys Vault
+ComponentDesignItemID12=CMP-00001-1
+ComponentSymbolReference12=DV75D-020.0M
+ComponentUpdate12=1
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name Only
+ComponentLibraryIdentifier13=Omnisys Vault
+ComponentDesignItemID13=CMP-00002-1
+ComponentSymbolReference13=ETC1-1-13TR
+ComponentUpdate13=1
+ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Library Name Only
+ComponentLibraryIdentifier14=Omnisys Vault
+ComponentDesignItemID14=CMP-0300-000000-1
+ComponentSymbolReference14=CAP-2PIN
+ComponentUpdate14=1
+ComponentIsDeviceSheet14=0
+ComponentLibIdentifierKind15=Library Name Only
+ComponentLibraryIdentifier15=Omnisys Vault
+ComponentDesignItemID15=CMP-0300-000090-3
+ComponentSymbolReference15=CAP-2PIN-POL
+ComponentUpdate15=1
+ComponentIsDeviceSheet15=0
+ComponentLibIdentifierKind16=Library Name Only
+ComponentLibraryIdentifier16=Omnisys Vault
+ComponentDesignItemID16=CMP-0300-000207-5
+ComponentSymbolReference16=CAP-2PIN-POL
+ComponentUpdate16=1
+ComponentIsDeviceSheet16=0
+ComponentLibIdentifierKind17=Library Name Only
+ComponentLibraryIdentifier17=Omnisys Vault
+ComponentDesignItemID17=CMP-0300-000208-5
+ComponentSymbolReference17=CAP-2PIN-POL
+ComponentUpdate17=1
+ComponentIsDeviceSheet17=0
+ComponentLibIdentifierKind18=Library Name Only
+ComponentLibraryIdentifier18=Omnisys Vault
+ComponentDesignItemID18=CMP-0300-000235-5
+ComponentSymbolReference18=CAP-2PIN-POL
+ComponentUpdate18=1
+ComponentIsDeviceSheet18=0
+ComponentLibIdentifierKind19=Library Name Only
+ComponentLibraryIdentifier19=Omnisys Vault
+ComponentDesignItemID19=CMP-0300-000277-1
+ComponentSymbolReference19=CAP-2PIN-POL
+ComponentUpdate19=1
+ComponentIsDeviceSheet19=0
+ComponentLibIdentifierKind20=Library Name Only
+ComponentLibraryIdentifier20=Omnisys Vault
+ComponentDesignItemID20=CMP-0300-001408-1
+ComponentSymbolReference20=CAP-2PIN
+ComponentUpdate20=1
+ComponentIsDeviceSheet20=0
+ComponentLibIdentifierKind21=Library Name Only
+ComponentLibraryIdentifier21=Omnisys Vault
+ComponentDesignItemID21=CMP-0300-001411-3
+ComponentSymbolReference21=CAP-2PIN
+ComponentUpdate21=1
+ComponentIsDeviceSheet21=0
+ComponentLibIdentifierKind22=Library Name Only
+ComponentLibraryIdentifier22=Omnisys Vault
+ComponentDesignItemID22=CMP-0300-001445-3
+ComponentSymbolReference22=CAP-2PIN
+ComponentUpdate22=1
+ComponentIsDeviceSheet22=0
+ComponentLibIdentifierKind23=Library Name Only
+ComponentLibraryIdentifier23=Omnisys Vault
+ComponentDesignItemID23=CMP-0300-001494-1
+ComponentSymbolReference23=CAP-2PIN
+ComponentUpdate23=1
+ComponentIsDeviceSheet23=0
+ComponentLibIdentifierKind24=Library Name Only
+ComponentLibraryIdentifier24=Omnisys Vault
+ComponentDesignItemID24=CMP-0300-002153-2
+ComponentSymbolReference24=CAP-2PIN
+ComponentUpdate24=1
+ComponentIsDeviceSheet24=0
+ComponentLibIdentifierKind25=Library Name Only
+ComponentLibraryIdentifier25=Omnisys Vault
+ComponentDesignItemID25=CMP-0300-002431-3
+ComponentSymbolReference25=CAP-2PIN
+ComponentUpdate25=1
+ComponentIsDeviceSheet25=0
+ComponentLibIdentifierKind26=Library Name Only
+ComponentLibraryIdentifier26=Omnisys Vault
+ComponentDesignItemID26=CMP-0300-002440-4
+ComponentSymbolReference26=CAP-2PIN
+ComponentUpdate26=1
+ComponentIsDeviceSheet26=0
+ComponentLibIdentifierKind27=Library Name Only
+ComponentLibraryIdentifier27=Omnisys Vault
+ComponentDesignItemID27=CMP-0300-002442-4
+ComponentSymbolReference27=CAP-2PIN
+ComponentUpdate27=1
+ComponentIsDeviceSheet27=0
+ComponentLibIdentifierKind28=Library Name Only
+ComponentLibraryIdentifier28=Omnisys Vault
+ComponentDesignItemID28=CMP-0300-002475-4
+ComponentSymbolReference28=CAP-2PIN
+ComponentUpdate28=1
+ComponentIsDeviceSheet28=0
+ComponentLibIdentifierKind29=Library Name Only
+ComponentLibraryIdentifier29=Omnisys Vault
+ComponentDesignItemID29=CMP-0300-002637-3
+ComponentSymbolReference29=CAP-2PIN
+ComponentUpdate29=1
+ComponentIsDeviceSheet29=0
+ComponentLibIdentifierKind30=Library Name Only
+ComponentLibraryIdentifier30=Omnisys Vault
+ComponentDesignItemID30=CMP-0300-002654-4
+ComponentSymbolReference30=CAP-2PIN
+ComponentUpdate30=1
+ComponentIsDeviceSheet30=0
+ComponentLibIdentifierKind31=Library Name Only
+ComponentLibraryIdentifier31=Omnisys Vault
+ComponentDesignItemID31=CMP-0300-002665-4
+ComponentSymbolReference31=CAP-2PIN
+ComponentUpdate31=1
+ComponentIsDeviceSheet31=0
+ComponentLibIdentifierKind32=Library Name Only
+ComponentLibraryIdentifier32=Omnisys Vault
+ComponentDesignItemID32=CMP-0300-002666-4
+ComponentSymbolReference32=CAP-2PIN
+ComponentUpdate32=1
+ComponentIsDeviceSheet32=0
+ComponentLibIdentifierKind33=Library Name Only
+ComponentLibraryIdentifier33=Omnisys Vault
+ComponentDesignItemID33=CMP-0300-002669-4
+ComponentSymbolReference33=CAP-2PIN
+ComponentUpdate33=1
+ComponentIsDeviceSheet33=0
+ComponentLibIdentifierKind34=Library Name Only
+ComponentLibraryIdentifier34=Omnisys Vault
+ComponentDesignItemID34=CMP-0300-002789-3
+ComponentSymbolReference34=CAP-2PIN
+ComponentUpdate34=1
+ComponentIsDeviceSheet34=0
+ComponentLibIdentifierKind35=Library Name Only
+ComponentLibraryIdentifier35=Omnisys Vault
+ComponentDesignItemID35=CMP-0300-002931-3
+ComponentSymbolReference35=CAP-2PIN
+ComponentUpdate35=1
+ComponentIsDeviceSheet35=0
+ComponentLibIdentifierKind36=Library Name Only
+ComponentLibraryIdentifier36=Omnisys Vault
+ComponentDesignItemID36=CMP-0300-002932-3
+ComponentSymbolReference36=CAP-2PIN
+ComponentUpdate36=1
+ComponentIsDeviceSheet36=0
+ComponentLibIdentifierKind37=Library Name Only
+ComponentLibraryIdentifier37=Omnisys Vault
+ComponentDesignItemID37=CMP-0300-002952-2
+ComponentSymbolReference37=CAP-2PIN
+ComponentUpdate37=1
+ComponentIsDeviceSheet37=0
+ComponentLibIdentifierKind38=Library Name Only
+ComponentLibraryIdentifier38=Omnisys Vault
+ComponentDesignItemID38=CMP-0300-002959-3
+ComponentSymbolReference38=CAP-2PIN
+ComponentUpdate38=1
+ComponentIsDeviceSheet38=0
+ComponentLibIdentifierKind39=Library Name Only
+ComponentLibraryIdentifier39=Omnisys Vault
+ComponentDesignItemID39=CMP-0300-003004-3
+ComponentSymbolReference39=CAP-2PIN
+ComponentUpdate39=1
+ComponentIsDeviceSheet39=0
+ComponentLibIdentifierKind40=Library Name Only
+ComponentLibraryIdentifier40=Omnisys Vault
+ComponentDesignItemID40=CMP-0300-003189-4
+ComponentSymbolReference40=CAP-2PIN
+ComponentUpdate40=1
+ComponentIsDeviceSheet40=0
+ComponentLibIdentifierKind41=Library Name Only
+ComponentLibraryIdentifier41=Omnisys Vault
+ComponentDesignItemID41=CMP-0300-003397-4
+ComponentSymbolReference41=CAP-2PIN
+ComponentUpdate41=1
+ComponentIsDeviceSheet41=0
+ComponentLibIdentifierKind42=Library Name Only
+ComponentLibraryIdentifier42=Omnisys Vault
+ComponentDesignItemID42=CMP-0300-003493-3
+ComponentSymbolReference42=CAP-2PIN
+ComponentUpdate42=1
+ComponentIsDeviceSheet42=0
+ComponentLibIdentifierKind43=Library Name Only
+ComponentLibraryIdentifier43=Omnisys Vault
+ComponentDesignItemID43=CMP-0300-003910-3
+ComponentSymbolReference43=CAP-2PIN
+ComponentUpdate43=1
+ComponentIsDeviceSheet43=0
+ComponentLibIdentifierKind44=Library Name Only
+ComponentLibraryIdentifier44=Omnisys Vault
+ComponentDesignItemID44=CMP-0300-003942-4
+ComponentSymbolReference44=CAP-2PIN
+ComponentUpdate44=1
+ComponentIsDeviceSheet44=0
+ComponentLibIdentifierKind45=Library Name Only
+ComponentLibraryIdentifier45=Omnisys Vault
+ComponentDesignItemID45=CMP-0600-000010-1
+ComponentSymbolReference45=BEAD-2PIN
+ComponentUpdate45=1
+ComponentIsDeviceSheet45=0
+ComponentLibIdentifierKind46=Library Name Only
+ComponentLibraryIdentifier46=Omnisys Vault
+ComponentDesignItemID46=CMP-0600-000138-3
+ComponentSymbolReference46=EMI-LC-3PIN
+ComponentUpdate46=1
+ComponentIsDeviceSheet46=0
+ComponentLibIdentifierKind47=Library Name Only
+ComponentLibraryIdentifier47=Omnisys Vault
+ComponentDesignItemID47=CMP-1000-000152-4
+ComponentSymbolReference47=SMT_IOPAD
+ComponentUpdate47=1
+ComponentIsDeviceSheet47=0
+ComponentLibIdentifierKind48=Library Name Only
+ComponentLibraryIdentifier48=Omnisys Vault
+ComponentDesignItemID48=CMP-1000-000509-2
+ComponentSymbolReference48=CON-2ROW-10PIN
+ComponentUpdate48=1
+ComponentIsDeviceSheet48=0
+ComponentLibIdentifierKind49=Library Name Only
+ComponentLibraryIdentifier49=Omnisys Vault
+ComponentDesignItemID49=CMP-1000-000522-1
+ComponentSymbolReference49=7498111120R
+ComponentUpdate49=1
+ComponentIsDeviceSheet49=0
+ComponentLibIdentifierKind50=Library Name Only
+ComponentLibraryIdentifier50=Omnisys Vault
+ComponentDesignItemID50=CMP-1000-000523-2
+ComponentSymbolReference50=CON-2ROW-10PIN-COL
+ComponentUpdate50=1
+ComponentIsDeviceSheet50=0
+ComponentLibIdentifierKind51=Library Name Only
+ComponentLibraryIdentifier51=Omnisys Vault
+ComponentDesignItemID51=CMP-1500-000001-2
+ComponentSymbolReference51=LED-2PIN-RED
+ComponentUpdate51=1
+ComponentIsDeviceSheet51=0
+ComponentLibIdentifierKind52=Library Name Only
+ComponentLibraryIdentifier52=Omnisys Vault
+ComponentDesignItemID52=CMP-1500-000004-2
+ComponentSymbolReference52=LED-2PIN-GREEN
+ComponentUpdate52=1
+ComponentIsDeviceSheet52=0
+ComponentLibIdentifierKind53=Library Name Only
+ComponentLibraryIdentifier53=Omnisys Vault
+ComponentDesignItemID53=CMP-1600-000001-1
+ComponentSymbolReference53=CMP-1600-000001-1
+ComponentUpdate53=1
+ComponentIsDeviceSheet53=0
+ComponentLibIdentifierKind54=Library Name Only
+ComponentLibraryIdentifier54=Omnisys Vault
+ComponentDesignItemID54=CMP-1600-000005-2
+ComponentSymbolReference54=MH
+ComponentUpdate54=1
+ComponentIsDeviceSheet54=0
+ComponentLibIdentifierKind55=Library Name Only
+ComponentLibraryIdentifier55=Omnisys Vault
+ComponentDesignItemID55=CMP-1600-000016-1
+ComponentSymbolReference55=NETTIE
+ComponentUpdate55=1
+ComponentIsDeviceSheet55=0
+ComponentLibIdentifierKind56=Library Name Only
+ComponentLibraryIdentifier56=Omnisys Vault
+ComponentDesignItemID56=CMP-1600-000025-4
+ComponentSymbolReference56=SolderJumper
+ComponentUpdate56=1
+ComponentIsDeviceSheet56=0
+ComponentLibIdentifierKind57=Library Name Only
+ComponentLibraryIdentifier57=Omnisys Vault
+ComponentDesignItemID57=CMP-1800-000000-3
+ComponentSymbolReference57=RES-2PIN
+ComponentUpdate57=1
+ComponentIsDeviceSheet57=0
+ComponentLibIdentifierKind58=Library Name Only
+ComponentLibraryIdentifier58=Omnisys Vault
+ComponentDesignItemID58=CMP-1800-001390-2
+ComponentSymbolReference58=RES-2PIN
+ComponentUpdate58=1
+ComponentIsDeviceSheet58=0
+ComponentLibIdentifierKind59=Library Name Only
+ComponentLibraryIdentifier59=Omnisys Vault
+ComponentDesignItemID59=CMP-1800-001397-2
+ComponentSymbolReference59=RES-2PIN
+ComponentUpdate59=1
+ComponentIsDeviceSheet59=0
+ComponentLibIdentifierKind60=Library Name Only
+ComponentLibraryIdentifier60=Omnisys Vault
+ComponentDesignItemID60=CMP-1800-001411-2
+ComponentSymbolReference60=RES-2PIN
+ComponentUpdate60=1
+ComponentIsDeviceSheet60=0
+ComponentLibIdentifierKind61=Library Name Only
+ComponentLibraryIdentifier61=Omnisys Vault
+ComponentDesignItemID61=CMP-1800-001430-2
+ComponentSymbolReference61=RES-2PIN
+ComponentUpdate61=1
+ComponentIsDeviceSheet61=0
+ComponentLibIdentifierKind62=Library Name Only
+ComponentLibraryIdentifier62=Omnisys Vault
+ComponentDesignItemID62=CMP-1800-001437-2
+ComponentSymbolReference62=RES-2PIN
+ComponentUpdate62=1
+ComponentIsDeviceSheet62=0
+ComponentLibIdentifierKind63=Library Name Only
+ComponentLibraryIdentifier63=Omnisys Vault
+ComponentDesignItemID63=CMP-1800-001949-3
+ComponentSymbolReference63=RES-2PIN
+ComponentUpdate63=1
+ComponentIsDeviceSheet63=0
+ComponentLibIdentifierKind64=Library Name Only
+ComponentLibraryIdentifier64=Omnisys Vault
+ComponentDesignItemID64=CMP-1800-001974-3
+ComponentSymbolReference64=RES-2PIN
+ComponentUpdate64=1
+ComponentIsDeviceSheet64=0
+ComponentLibIdentifierKind65=Library Name Only
+ComponentLibraryIdentifier65=Omnisys Vault
+ComponentDesignItemID65=CMP-1800-001988-3
+ComponentSymbolReference65=RES-2PIN
+ComponentUpdate65=1
+ComponentIsDeviceSheet65=0
+ComponentLibIdentifierKind66=Library Name Only
+ComponentLibraryIdentifier66=Omnisys Vault
+ComponentDesignItemID66=CMP-1800-001998-3
+ComponentSymbolReference66=RES-2PIN
+ComponentUpdate66=1
+ComponentIsDeviceSheet66=0
+ComponentLibIdentifierKind67=Library Name Only
+ComponentLibraryIdentifier67=Omnisys Vault
+ComponentDesignItemID67=CMP-1800-002005-3
+ComponentSymbolReference67=RES-2PIN
+ComponentUpdate67=1
+ComponentIsDeviceSheet67=0
+ComponentLibIdentifierKind68=Library Name Only
+ComponentLibraryIdentifier68=Omnisys Vault
+ComponentDesignItemID68=CMP-1800-002010-3
+ComponentSymbolReference68=RES-2PIN
+ComponentUpdate68=1
+ComponentIsDeviceSheet68=0
+ComponentLibIdentifierKind69=Library Name Only
+ComponentLibraryIdentifier69=Omnisys Vault
+ComponentDesignItemID69=CMP-1800-002021-3
+ComponentSymbolReference69=RES-2PIN
+ComponentUpdate69=1
+ComponentIsDeviceSheet69=0
+ComponentLibIdentifierKind70=Library Name Only
+ComponentLibraryIdentifier70=Omnisys Vault
+ComponentDesignItemID70=CMP-1800-002024-3
+ComponentSymbolReference70=RES-2PIN
+ComponentUpdate70=1
+ComponentIsDeviceSheet70=0
+ComponentLibIdentifierKind71=Library Name Only
+ComponentLibraryIdentifier71=Omnisys Vault
+ComponentDesignItemID71=CMP-1800-002028-3
+ComponentSymbolReference71=RES-2PIN
+ComponentUpdate71=1
+ComponentIsDeviceSheet71=0
+ComponentLibIdentifierKind72=Library Name Only
+ComponentLibraryIdentifier72=Omnisys Vault
+ComponentDesignItemID72=CMP-1800-002029-3
+ComponentSymbolReference72=RES-2PIN
+ComponentUpdate72=1
+ComponentIsDeviceSheet72=0
+ComponentLibIdentifierKind73=Library Name Only
+ComponentLibraryIdentifier73=Omnisys Vault
+ComponentDesignItemID73=CMP-1800-002031-3
+ComponentSymbolReference73=RES-2PIN
+ComponentUpdate73=1
+ComponentIsDeviceSheet73=0
+ComponentLibIdentifierKind74=Library Name Only
+ComponentLibraryIdentifier74=Omnisys Vault
+ComponentDesignItemID74=CMP-1800-002037-3
+ComponentSymbolReference74=RES-2PIN
+ComponentUpdate74=1
+ComponentIsDeviceSheet74=0
+ComponentLibIdentifierKind75=Library Name Only
+ComponentLibraryIdentifier75=Omnisys Vault
+ComponentDesignItemID75=CMP-1800-002038-3
+ComponentSymbolReference75=RES-2PIN
+ComponentUpdate75=1
+ComponentIsDeviceSheet75=0
+ComponentLibIdentifierKind76=Library Name Only
+ComponentLibraryIdentifier76=Omnisys Vault
+ComponentDesignItemID76=CMP-1800-002045-3
+ComponentSymbolReference76=RES-2PIN
+ComponentUpdate76=1
+ComponentIsDeviceSheet76=0
+ComponentLibIdentifierKind77=Library Name Only
+ComponentLibraryIdentifier77=Omnisys Vault
+ComponentDesignItemID77=CMP-1800-002047-3
+ComponentSymbolReference77=RES-2PIN
+ComponentUpdate77=1
+ComponentIsDeviceSheet77=0
+ComponentLibIdentifierKind78=Library Name Only
+ComponentLibraryIdentifier78=Omnisys Vault
+ComponentDesignItemID78=CMP-1800-002049-3
+ComponentSymbolReference78=RES-2PIN
+ComponentUpdate78=1
+ComponentIsDeviceSheet78=0
+ComponentLibIdentifierKind79=Library Name Only
+ComponentLibraryIdentifier79=Omnisys Vault
+ComponentDesignItemID79=CMP-1800-002061-3
+ComponentSymbolReference79=RES-2PIN
+ComponentUpdate79=1
+ComponentIsDeviceSheet79=0
+ComponentLibIdentifierKind80=Library Name Only
+ComponentLibraryIdentifier80=Omnisys Vault
+ComponentDesignItemID80=CMP-1800-002062-3
+ComponentSymbolReference80=RES-2PIN
+ComponentUpdate80=1
+ComponentIsDeviceSheet80=0
+ComponentLibIdentifierKind81=Library Name Only
+ComponentLibraryIdentifier81=Omnisys Vault
+ComponentDesignItemID81=CMP-1800-002071-3
+ComponentSymbolReference81=RES-2PIN
+ComponentUpdate81=1
+ComponentIsDeviceSheet81=0
+ComponentLibIdentifierKind82=Library Name Only
+ComponentLibraryIdentifier82=Omnisys Vault
+ComponentDesignItemID82=CMP-1800-002089-3
+ComponentSymbolReference82=RES-2PIN
+ComponentUpdate82=1
+ComponentIsDeviceSheet82=0
+ComponentLibIdentifierKind83=Library Name Only
+ComponentLibraryIdentifier83=Omnisys Vault
+ComponentDesignItemID83=CMP-1800-002093-3
+ComponentSymbolReference83=RES-2PIN
+ComponentUpdate83=1
+ComponentIsDeviceSheet83=0
+ComponentLibIdentifierKind84=Library Name Only
+ComponentLibraryIdentifier84=Omnisys Vault
+ComponentDesignItemID84=CMP-1800-002400-2
+ComponentSymbolReference84=RES-2PIN
+ComponentUpdate84=1
+ComponentIsDeviceSheet84=0
+ComponentLibIdentifierKind85=Library Name Only
+ComponentLibraryIdentifier85=Omnisys Vault
+ComponentDesignItemID85=CMP-1800-002529-2
+ComponentSymbolReference85=RES-2PIN
+ComponentUpdate85=1
+ComponentIsDeviceSheet85=0
+ComponentLibIdentifierKind86=Library Name Only
+ComponentLibraryIdentifier86=Omnisys Vault
+ComponentDesignItemID86=CMP-1800-002821-2
+ComponentSymbolReference86=RES-2PIN
+ComponentUpdate86=1
+ComponentIsDeviceSheet86=0
+ComponentLibIdentifierKind87=Library Name Only
+ComponentLibraryIdentifier87=Omnisys Vault
+ComponentDesignItemID87=CMP-1800-003024-2
+ComponentSymbolReference87=RES_ARRAY-8PIN
+ComponentUpdate87=1
+ComponentIsDeviceSheet87=0
+ComponentLibIdentifierKind88=Library Name Only
+ComponentLibraryIdentifier88=Omnisys Vault
+ComponentDesignItemID88=CMP-1800-003157-2
+ComponentSymbolReference88=RES-2PIN
+ComponentUpdate88=1
+ComponentIsDeviceSheet88=0
+ComponentLibIdentifierKind89=Library Name Only
+ComponentLibraryIdentifier89=Omnisys Vault
+ComponentDesignItemID89=CMP-1800-003166-1
+ComponentSymbolReference89=RES-2PIN-NTC
+ComponentUpdate89=1
+ComponentIsDeviceSheet89=0
+ComponentLibIdentifierKind90=Library Name Only
+ComponentLibraryIdentifier90=Omnisys Vault
+ComponentDesignItemID90=CMP-1800-003168-1
+ComponentSymbolReference90=RES-2PIN
+ComponentUpdate90=1
+ComponentIsDeviceSheet90=0
+ComponentLibIdentifierKind91=Library Name Only
+ComponentLibraryIdentifier91=Omnisys Vault
+ComponentDesignItemID91=CMP-2100-000126-1
+ComponentSymbolReference91=74AHC1G125
+ComponentUpdate91=1
+ComponentIsDeviceSheet91=0
+ComponentLibIdentifierKind92=Library Name Only
+ComponentLibraryIdentifier92=Omnisys Vault
+ComponentDesignItemID92=CMP-2100-000175-1
+ComponentSymbolReference92=MAX825_EUK
+ComponentUpdate92=1
+ComponentIsDeviceSheet92=0
+ComponentLibIdentifierKind93=Library Name Only
+ComponentLibraryIdentifier93=Omnisys Vault
+ComponentDesignItemID93=CMP-2100-000275-2
+ComponentSymbolReference93=LT1764
+ComponentUpdate93=1
+ComponentIsDeviceSheet93=0
+ComponentLibIdentifierKind94=Library Name Only
+ComponentLibraryIdentifier94=Omnisys Vault
+ComponentDesignItemID94=CMP-2100-000329-1
+ComponentSymbolReference94=OPAMP-SOT23-5
+ComponentUpdate94=1
+ComponentIsDeviceSheet94=0
+ComponentLibIdentifierKind95=Library Name Only
+ComponentLibraryIdentifier95=Omnisys Vault
+ComponentDesignItemID95=CMP-2100-000548-1
+ComponentSymbolReference95=VSC8531XMW-04
+ComponentUpdate95=1
+ComponentIsDeviceSheet95=0
+ComponentLibIdentifierKind96=Library Name Only
+ComponentLibraryIdentifier96=Omnisys Vault
+ComponentDesignItemID96=CMP-2100-000558-2
+ComponentSymbolReference96=EV10AQ190AVTPY
+ComponentUpdate96=1
+ComponentIsDeviceSheet96=0
+ComponentLibIdentifierKind97=Library Name Only
+ComponentLibraryIdentifier97=Omnisys Vault
+ComponentDesignItemID97=CMP-2100-000560-1
+ComponentSymbolReference97=TXB0108RGYR
+ComponentUpdate97=1
+ComponentIsDeviceSheet97=0
+ComponentLibIdentifierKind98=Library Name Only
+ComponentLibraryIdentifier98=Omnisys Vault
+ComponentDesignItemID98=CMP-2100-000561-1
+ComponentSymbolReference98=S29GL512S11DHIV23
+ComponentUpdate98=1
+ComponentIsDeviceSheet98=0
+ComponentLibIdentifierKind99=Library Name Only
+ComponentLibraryIdentifier99=Omnisys Vault
+ComponentDesignItemID99=CMP-2100-000562-2
+ComponentSymbolReference99=SN74AHC125D
+ComponentUpdate99=1
+ComponentIsDeviceSheet99=0
+ComponentLibIdentifierKind100=Library Name Only
+ComponentLibraryIdentifier100=Omnisys Vault
+ComponentDesignItemID100=CMP-2100-000582-2
+ComponentSymbolReference100=LTM4638IY#PBF
+ComponentUpdate100=1
+ComponentIsDeviceSheet100=0
+ComponentLibIdentifierKind101=Library Name Only
+ComponentLibraryIdentifier101=Omnisys Vault
+ComponentDesignItemID101=CMP-2400-000043-3
+ComponentSymbolReference101=XTAL-2PIN
+ComponentUpdate101=1
+ComponentIsDeviceSheet101=0
+ComponentLibIdentifierKind102=Library Name Only
+ComponentLibraryIdentifier102=Omnisys Vault
+ComponentDesignItemID102=CMP-2400-000047-3
+ComponentSymbolReference102=XTAL-2PIN
+ComponentUpdate102=1
+ComponentIsDeviceSheet102=0
+ComponentLibIdentifierKind103=Library Name Only
+ComponentLibraryIdentifier103=Omnisys Vault
+ComponentDesignItemID103=CMP-3600-000000-1
+ComponentSymbolReference103=1-PIN_TP
+ComponentUpdate103=1
+ComponentIsDeviceSheet103=0
+ComponentLibIdentifierKind104=Library Name Only
+ComponentLibraryIdentifier104=Omnisys Vault
+ComponentDesignItemID104=CMP-3600-000004-1
+ComponentSymbolReference104=1-PIN_TP
+ComponentUpdate104=1
+ComponentIsDeviceSheet104=0
+ComponentLibIdentifierKind105=Library Name Only
+ComponentLibraryIdentifier105=Omnisys Vault
+ComponentDesignItemID105=CMP-4700-000000-3
+ComponentSymbolReference105=CMP-4700-000000-3
+ComponentUpdate105=1
+ComponentIsDeviceSheet105=0
+ComponentLibIdentifierKind106=Library Name Only
+ComponentLibraryIdentifier106=Omnisys Vault
+ComponentDesignItemID106=CMP-4700-000008-1
+ComponentSymbolReference106=CMP-4700-000008-1
+ComponentUpdate106=1
+ComponentIsDeviceSheet106=0
+
+[Comparison Options]
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+
+[SmartPDF]
+PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+

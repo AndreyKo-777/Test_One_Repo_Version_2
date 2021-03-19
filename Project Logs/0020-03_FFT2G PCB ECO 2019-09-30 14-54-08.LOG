@@ -1,0 +1,68 @@
+Change Component DesignItemId : Designator=U19 Old DesignItemId=CMP-0083-00172-1 New DesignItemId=CMP-2100-000586-1
+Change Component DesignItemId : Designator=J17 Old DesignItemId=CMP-1000-000152-4 New DesignItemId=CMP-1000-000152-5
+Change Component DesignItemId : Designator=J18 Old DesignItemId=CMP-1000-000152-4 New DesignItemId=CMP-1000-000152-5
+Change Component DesignItemId : Designator=J22 Old DesignItemId=CMP-1000-000152-4 New DesignItemId=CMP-1000-000152-5
+Change Component DesignItemId : Designator=J23 Old DesignItemId=CMP-1000-000152-4 New DesignItemId=CMP-1000-000152-5
+Change Component DesignItemId : Designator=TP1 Old DesignItemId=CMP-3600-000004-1 New DesignItemId=CMP-3600-000004-2
+Change Component DesignItemId : Designator=TP2 Old DesignItemId=CMP-3600-000004-1 New DesignItemId=CMP-3600-000004-2
+Change Component DesignItemId : Designator=TP3 Old DesignItemId=CMP-3600-000004-1 New DesignItemId=CMP-3600-000004-2
+Change Component DesignItemId : Designator=TP4 Old DesignItemId=CMP-3600-000004-1 New DesignItemId=CMP-3600-000004-2
+Change Component DesignItemId : Designator=TP5 Old DesignItemId=CMP-3600-000004-1 New DesignItemId=CMP-3600-000004-2
+Change Component DesignItemId : Designator=TP6 Old DesignItemId=CMP-3600-000004-1 New DesignItemId=CMP-3600-000004-2
+Change Component DesignItemId : Designator=TP7 Old DesignItemId=CMP-3600-000004-1 New DesignItemId=CMP-3600-000004-2
+Change Component DesignItemId : Designator=TP8 Old DesignItemId=CMP-3600-000004-1 New DesignItemId=CMP-3600-000004-2
+Change Component DesignItemId : Designator=TP9 Old DesignItemId=CMP-3600-000004-1 New DesignItemId=CMP-3600-000004-2
+Change Component DesignItemId : Designator=TP10 Old DesignItemId=CMP-3600-000004-1 New DesignItemId=CMP-3600-000004-2
+Change Component DesignItemId : Designator=TP14 Old DesignItemId=CMP-3600-000004-1 New DesignItemId=CMP-3600-000004-2
+Change Component DesignItemId : Designator=TP15 Old DesignItemId=CMP-3600-000004-1 New DesignItemId=CMP-3600-000004-2
+Change Component Footprint: Designator=U19 Old Footprint=FFG1156 New Footprint=FFG1156
+Change Component Footprint: Designator=TP1 Old Footprint=S1751-46 New Footprint=S1751-46
+Change Component Footprint: Designator=TP2 Old Footprint=S1751-46 New Footprint=S1751-46
+Change Component Footprint: Designator=TP3 Old Footprint=S1751-46 New Footprint=S1751-46
+Change Component Footprint: Designator=TP4 Old Footprint=S1751-46 New Footprint=S1751-46
+Change Component Footprint: Designator=TP5 Old Footprint=S1751-46 New Footprint=S1751-46
+Change Component Footprint: Designator=TP6 Old Footprint=S1751-46 New Footprint=S1751-46
+Change Component Footprint: Designator=TP7 Old Footprint=S1751-46 New Footprint=S1751-46
+Change Component Footprint: Designator=TP8 Old Footprint=S1751-46 New Footprint=S1751-46
+Change Component Footprint: Designator=TP9 Old Footprint=S1751-46 New Footprint=S1751-46
+Change Component Footprint: Designator=TP10 Old Footprint=S1751-46 New Footprint=S1751-46
+Change Component Footprint: Designator=TP14 Old Footprint=S1751-46 New Footprint=S1751-46
+Change Component Footprint: Designator=TP15 Old Footprint=S1751-46 New Footprint=S1751-46
+Change Component Footprint: Designator=J17 Old Footprint=SMT_IO_PAD_2x1MM New Footprint=SMT_IO_PAD_2x1MM
+Change Component Footprint: Designator=J18 Old Footprint=SMT_IO_PAD_2x1MM New Footprint=SMT_IO_PAD_2x1MM
+Change Component Footprint: Designator=J22 Old Footprint=SMT_IO_PAD_4x2MM New Footprint=SMT_IO_PAD_4x2MM
+Change Component Footprint: Designator=J23 Old Footprint=SMT_IO_PAD_4x2MM New Footprint=SMT_IO_PAD_4x2MM
+Change Component Comment : Designator=U19 Old Comment=XC6VSX475T-2FFG1156C New Comment=XC6VLX240T-2FFG1156I
+Change Component Description : Designator=U19 Old Description=Virtex-6 SXT Platform FPGA, 600 User I/Os, 20 GTXs, 1156-Ball FFBGA, Speed Grade 2, Commercial Grade, Pb-Free New Description=FPGA Virtex-6 LXT Family 241152 Cells 40nm (CMOS) Technology 1V 1156-Pin FCBGA
+Change Component Library : Designator=U19 Old Library=Altium Content Vault New Library=Omnisys Vault
+Change Managed Component Library Link : Designator=J17 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=FA86E3E7-880E-4CF8-A347-E78ABC12F2D2 New ItemGUID=FA86E3E7-880E-4CF8-A347-E78ABC12F2D2 Old RevisionGUID=703B6858-20A4-4DF7-9E8F-57BE4CCA342B New RevisionGUID=27576b8d-ee87-44e4-bbcd-a17fc0410199
+Change Managed Component Library Link : Designator=J18 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=FA86E3E7-880E-4CF8-A347-E78ABC12F2D2 New ItemGUID=FA86E3E7-880E-4CF8-A347-E78ABC12F2D2 Old RevisionGUID=703B6858-20A4-4DF7-9E8F-57BE4CCA342B New RevisionGUID=27576b8d-ee87-44e4-bbcd-a17fc0410199
+Change Managed Component Library Link : Designator=J22 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=FA86E3E7-880E-4CF8-A347-E78ABC12F2D2 New ItemGUID=FA86E3E7-880E-4CF8-A347-E78ABC12F2D2 Old RevisionGUID=703B6858-20A4-4DF7-9E8F-57BE4CCA342B New RevisionGUID=27576b8d-ee87-44e4-bbcd-a17fc0410199
+Change Managed Component Library Link : Designator=J23 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=FA86E3E7-880E-4CF8-A347-E78ABC12F2D2 New ItemGUID=FA86E3E7-880E-4CF8-A347-E78ABC12F2D2 Old RevisionGUID=703B6858-20A4-4DF7-9E8F-57BE4CCA342B New RevisionGUID=27576b8d-ee87-44e4-bbcd-a17fc0410199
+Change Managed Component Library Link : Designator=TP1 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=A657341F-86DC-4A85-9D61-FA5B8129DFB6 New ItemGUID=A657341F-86DC-4A85-9D61-FA5B8129DFB6 Old RevisionGUID=CC7AC39F-9CE9-4AFD-98A0-C017E8539200 New RevisionGUID=449aa871-a1da-4551-a87b-32753769a11f
+Change Managed Component Library Link : Designator=TP2 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=A657341F-86DC-4A85-9D61-FA5B8129DFB6 New ItemGUID=A657341F-86DC-4A85-9D61-FA5B8129DFB6 Old RevisionGUID=CC7AC39F-9CE9-4AFD-98A0-C017E8539200 New RevisionGUID=449aa871-a1da-4551-a87b-32753769a11f
+Change Managed Component Library Link : Designator=TP3 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=A657341F-86DC-4A85-9D61-FA5B8129DFB6 New ItemGUID=A657341F-86DC-4A85-9D61-FA5B8129DFB6 Old RevisionGUID=CC7AC39F-9CE9-4AFD-98A0-C017E8539200 New RevisionGUID=449aa871-a1da-4551-a87b-32753769a11f
+Change Managed Component Library Link : Designator=TP4 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=A657341F-86DC-4A85-9D61-FA5B8129DFB6 New ItemGUID=A657341F-86DC-4A85-9D61-FA5B8129DFB6 Old RevisionGUID=CC7AC39F-9CE9-4AFD-98A0-C017E8539200 New RevisionGUID=449aa871-a1da-4551-a87b-32753769a11f
+Change Managed Component Library Link : Designator=TP5 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=A657341F-86DC-4A85-9D61-FA5B8129DFB6 New ItemGUID=A657341F-86DC-4A85-9D61-FA5B8129DFB6 Old RevisionGUID=CC7AC39F-9CE9-4AFD-98A0-C017E8539200 New RevisionGUID=449aa871-a1da-4551-a87b-32753769a11f
+Change Managed Component Library Link : Designator=TP6 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=A657341F-86DC-4A85-9D61-FA5B8129DFB6 New ItemGUID=A657341F-86DC-4A85-9D61-FA5B8129DFB6 Old RevisionGUID=CC7AC39F-9CE9-4AFD-98A0-C017E8539200 New RevisionGUID=449aa871-a1da-4551-a87b-32753769a11f
+Change Managed Component Library Link : Designator=TP7 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=A657341F-86DC-4A85-9D61-FA5B8129DFB6 New ItemGUID=A657341F-86DC-4A85-9D61-FA5B8129DFB6 Old RevisionGUID=CC7AC39F-9CE9-4AFD-98A0-C017E8539200 New RevisionGUID=449aa871-a1da-4551-a87b-32753769a11f
+Change Managed Component Library Link : Designator=TP8 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=A657341F-86DC-4A85-9D61-FA5B8129DFB6 New ItemGUID=A657341F-86DC-4A85-9D61-FA5B8129DFB6 Old RevisionGUID=CC7AC39F-9CE9-4AFD-98A0-C017E8539200 New RevisionGUID=449aa871-a1da-4551-a87b-32753769a11f
+Change Managed Component Library Link : Designator=TP9 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=A657341F-86DC-4A85-9D61-FA5B8129DFB6 New ItemGUID=A657341F-86DC-4A85-9D61-FA5B8129DFB6 Old RevisionGUID=CC7AC39F-9CE9-4AFD-98A0-C017E8539200 New RevisionGUID=449aa871-a1da-4551-a87b-32753769a11f
+Change Managed Component Library Link : Designator=TP10 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=A657341F-86DC-4A85-9D61-FA5B8129DFB6 New ItemGUID=A657341F-86DC-4A85-9D61-FA5B8129DFB6 Old RevisionGUID=CC7AC39F-9CE9-4AFD-98A0-C017E8539200 New RevisionGUID=449aa871-a1da-4551-a87b-32753769a11f
+Change Managed Component Library Link : Designator=TP14 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=A657341F-86DC-4A85-9D61-FA5B8129DFB6 New ItemGUID=A657341F-86DC-4A85-9D61-FA5B8129DFB6 Old RevisionGUID=CC7AC39F-9CE9-4AFD-98A0-C017E8539200 New RevisionGUID=449aa871-a1da-4551-a87b-32753769a11f
+Change Managed Component Library Link : Designator=TP15 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=A657341F-86DC-4A85-9D61-FA5B8129DFB6 New ItemGUID=A657341F-86DC-4A85-9D61-FA5B8129DFB6 Old RevisionGUID=CC7AC39F-9CE9-4AFD-98A0-C017E8539200 New RevisionGUID=449aa871-a1da-4551-a87b-32753769a11f
+Change Managed Component Library Link : Designator=U19 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=7A78E6E7-21A0-44D6-8C1F-32B5D239E1DD New ItemGUID=ef01aaec-a08d-476d-ab1e-b54d4c0dcb1a Old RevisionGUID=18D8AA6C-D8FB-48F0-A579-0CA9485D806A New RevisionGUID=f39d76b1-ef54-40da-8eb8-e2e24db5111b
+Change component parameters: Designator = "U19" ("U19"); Footprint = "FFG1156"; UniqueID = "\OCXTZITR\JBLSONPA\LSHYLXJA" ("\OCXTZITR\JBLSONPA\LSHYLXJA")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "FCBGA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "100°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of I/Os"; Value = "600"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Logic Blocks (LABs)"; Value = "18840"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Logic Elements/Cells"; Value = "241152"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "1156"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Voltage"; Value = "1V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RAM Size"; Value = "15335424b"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Speed Grade"; Value = "2"; VariantName = "[No Variations]"

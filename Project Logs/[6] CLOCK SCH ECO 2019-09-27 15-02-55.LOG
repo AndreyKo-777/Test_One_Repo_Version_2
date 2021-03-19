@@ -1,0 +1,68 @@
+Removed Parameter PartNumber:GRM155R71C104KA88 from Part C12
+Removed Parameter PartNumber:GRM155R71C104KA88 from Part C19
+Removed Parameter PartNumber:GRM155R71C104KA88 from Part C20
+Removed Parameter PartNumber:GRM155R71C104KA88 from Part C22
+Removed Parameter PartNumber:GRM155R71C104KA88 from Part C24
+Removed Parameter PartNumber:GRM155R71C104KA88 from Part C25
+Removed Parameter PartNumber:GRM155R71C104KA88 from Part C26
+Removed Parameter PartNumber:GRM155R71C104KA88 from Part C27
+Removed Parameter PartNumber:GRM155R71H221KA01 from Part C13
+Removed Parameter PartNumber:GRM155R71H221KA01 from Part C14
+Removed Parameter PartNumber:GRM155R71H221KA01 from Part C15
+Removed Parameter PartNumber:GRM155R71H221KA01 from Part C16
+Removed Parameter PartNumber:GRM155R71H221KA01 from Part C17
+Removed Parameter PartNumber:GRM155R71H221KA01 from Part C18
+Removed Parameter PartNumber:GRM155R71H271KA01 from Part C30
+Removed Parameter PartNumber:GRM155R71H392KA01 from Part C32
+Removed Parameter PartNumber:GRM1555C1H121GA01 from Part C31
+Removed Parameter Rated Voltgae:16V from Part C12
+Removed Parameter Rated Voltgae:16V from Part C19
+Removed Parameter Rated Voltgae:16V from Part C20
+Removed Parameter Rated Voltgae:16V from Part C22
+Removed Parameter Rated Voltgae:16V from Part C24
+Removed Parameter Rated Voltgae:16V from Part C25
+Removed Parameter Rated Voltgae:16V from Part C26
+Removed Parameter Rated Voltgae:16V from Part C27
+Removed Parameter Rated Voltgae:50V from Part C13
+Removed Parameter Rated Voltgae:50V from Part C14
+Removed Parameter Rated Voltgae:50V from Part C15
+Removed Parameter Rated Voltgae:50V from Part C16
+Removed Parameter Rated Voltgae:50V from Part C17
+Removed Parameter Rated Voltgae:50V from Part C18
+Removed Parameter Rated Voltgae:50V from Part C30
+Removed Parameter Rated Voltgae:50V from Part C31
+Removed Parameter Rated Voltgae:50V from Part C32
+Added Parameter Rated Voltage=16V to Part C12
+Added Parameter Rated Voltage=16V to Part C19
+Added Parameter Rated Voltage=16V to Part C20
+Added Parameter Rated Voltage=16V to Part C22
+Added Parameter Rated Voltage=16V to Part C24
+Added Parameter Rated Voltage=16V to Part C25
+Added Parameter Rated Voltage=16V to Part C26
+Added Parameter Rated Voltage=16V to Part C27
+Added Parameter Rated Voltage=50V to Part C13
+Added Parameter Rated Voltage=50V to Part C14
+Added Parameter Rated Voltage=50V to Part C15
+Added Parameter Rated Voltage=50V to Part C16
+Added Parameter Rated Voltage=50V to Part C17
+Added Parameter Rated Voltage=50V to Part C18
+Added Parameter Rated Voltage=50V to Part C30
+Added Parameter Rated Voltage=50V to Part C31
+Added Parameter Rated Voltage=50V to Part C32
+Update Managed Component C12 From CMP-0300-003493-3[100n 16V 0402] To CMP-0300-003493-4[100n 16V 0402] in [6] CLOCK.SchDoc
+Update Managed Component C13 From CMP-0300-002931-3[220p 50V 0402] To CMP-0300-002931-4[220p 50V 0402] in [6] CLOCK.SchDoc
+Update Managed Component C14 From CMP-0300-002931-3[220p 50V 0402] To CMP-0300-002931-4[220p 50V 0402] in [6] CLOCK.SchDoc
+Update Managed Component C15 From CMP-0300-002931-3[220p 50V 0402] To CMP-0300-002931-4[220p 50V 0402] in [6] CLOCK.SchDoc
+Update Managed Component C16 From CMP-0300-002931-3[220p 50V 0402] To CMP-0300-002931-4[220p 50V 0402] in [6] CLOCK.SchDoc
+Update Managed Component C17 From CMP-0300-002931-3[220p 50V 0402] To CMP-0300-002931-4[220p 50V 0402] in [6] CLOCK.SchDoc
+Update Managed Component C18 From CMP-0300-002931-3[220p 50V 0402] To CMP-0300-002931-4[220p 50V 0402] in [6] CLOCK.SchDoc
+Update Managed Component C19 From CMP-0300-003493-3[100n 16V 0402] To CMP-0300-003493-4[100n 16V 0402] in [6] CLOCK.SchDoc
+Update Managed Component C20 From CMP-0300-003493-3[100n 16V 0402] To CMP-0300-003493-4[100n 16V 0402] in [6] CLOCK.SchDoc
+Update Managed Component C22 From CMP-0300-003493-3[100n 16V 0402] To CMP-0300-003493-4[100n 16V 0402] in [6] CLOCK.SchDoc
+Update Managed Component C24 From CMP-0300-003493-3[100n 16V 0402] To CMP-0300-003493-4[100n 16V 0402] in [6] CLOCK.SchDoc
+Update Managed Component C25 From CMP-0300-003493-3[100n 16V 0402] To CMP-0300-003493-4[100n 16V 0402] in [6] CLOCK.SchDoc
+Update Managed Component C26 From CMP-0300-003493-3[100n 16V 0402] To CMP-0300-003493-4[100n 16V 0402] in [6] CLOCK.SchDoc
+Update Managed Component C27 From CMP-0300-003493-3[100n 16V 0402] To CMP-0300-003493-4[100n 16V 0402] in [6] CLOCK.SchDoc
+Update Managed Component C30 From CMP-0300-002932-3[270p 50V 0402] To CMP-0300-002932-4[270p 50V 0402] in [6] CLOCK.SchDoc
+Update Managed Component C31 From CMP-0300-002789-3[120p 50V 0402] To CMP-0300-002789-4[120p 50V 0402] in [6] CLOCK.SchDoc
+Update Managed Component C32 From CMP-0300-002952-2[3n9 50V 0402] To CMP-0300-002952-3[3n9 50V 0402] in [6] CLOCK.SchDoc

@@ -1,0 +1,90 @@
+Removed Parameter Capacitance (F):100.0n from Part C8
+Removed Parameter Capacitance (F):100.0n from Part C9
+Removed Parameter Capacitance (F):100.0n from Part C10
+Removed Parameter Capacitance (F):100.0n from Part C11
+Removed Parameter Capacitance (F):100.0n from Part C21
+Removed Parameter Capacitance (F):100.0n from Part C23
+Removed Parameter Capacitance (F):100.0n from Part C28
+Removed Parameter Capacitance (F):100.0n from Part C36
+Removed Parameter Capacitance (F):220.0n from Part C29
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C8
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C9
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C10
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C11
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C21
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C23
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C28
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C36
+Removed Parameter PartNumber:GRM188R71H224KAC4 from Part C29
+Removed Parameter Rated voltage (V):50 from Part C8
+Removed Parameter Rated voltage (V):50 from Part C9
+Removed Parameter Rated voltage (V):50 from Part C10
+Removed Parameter Rated voltage (V):50 from Part C11
+Removed Parameter Rated voltage (V):50 from Part C21
+Removed Parameter Rated voltage (V):50 from Part C23
+Removed Parameter Rated voltage (V):50 from Part C28
+Removed Parameter Rated voltage (V):50 from Part C29
+Removed Parameter Rated voltage (V):50 from Part C36
+Removed Parameter Thickness (mm):0.90 from Part C8
+Removed Parameter Thickness (mm):0.90 from Part C9
+Removed Parameter Thickness (mm):0.90 from Part C10
+Removed Parameter Thickness (mm):0.90 from Part C11
+Removed Parameter Thickness (mm):0.90 from Part C21
+Removed Parameter Thickness (mm):0.90 from Part C23
+Removed Parameter Thickness (mm):0.90 from Part C28
+Removed Parameter Thickness (mm):0.90 from Part C29
+Removed Parameter Thickness (mm):0.90 from Part C36
+Change Value of Parameter Tolerance in Part C29 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C8 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C11 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C10 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C9 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C36 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C28 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C21 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C23 Old=±10% New=10%
+Added Parameter Capacitance=100nF to Part C8
+Added Parameter Capacitance=100nF to Part C9
+Added Parameter Capacitance=100nF to Part C10
+Added Parameter Capacitance=100nF to Part C11
+Added Parameter Capacitance=100nF to Part C21
+Added Parameter Capacitance=100nF to Part C23
+Added Parameter Capacitance=100nF to Part C28
+Added Parameter Capacitance=100nF to Part C36
+Added Parameter Capacitance=220nF to Part C29
+Added Parameter Rated Voltage=50V to Part C8
+Added Parameter Rated Voltage=50V to Part C9
+Added Parameter Rated Voltage=50V to Part C10
+Added Parameter Rated Voltage=50V to Part C11
+Added Parameter Rated Voltage=50V to Part C21
+Added Parameter Rated Voltage=50V to Part C23
+Added Parameter Rated Voltage=50V to Part C28
+Added Parameter Rated Voltage=50V to Part C29
+Added Parameter Rated Voltage=50V to Part C36
+Added Parameter Thickness=900µm to Part C8
+Added Parameter Thickness=900µm to Part C9
+Added Parameter Thickness=900µm to Part C10
+Added Parameter Thickness=900µm to Part C11
+Added Parameter Thickness=900µm to Part C21
+Added Parameter Thickness=900µm to Part C23
+Added Parameter Thickness=900µm to Part C28
+Added Parameter Thickness=900µm to Part C29
+Added Parameter Thickness=900µm to Part C36
+Added Parameter Weight=9mg to Part C8
+Added Parameter Weight=9mg to Part C9
+Added Parameter Weight=9mg to Part C10
+Added Parameter Weight=9mg to Part C11
+Added Parameter Weight=9mg to Part C21
+Added Parameter Weight=9mg to Part C23
+Added Parameter Weight=9mg to Part C28
+Added Parameter Weight=9mg to Part C29
+Added Parameter Weight=9mg to Part C36
+Update Managed Component C8 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [6] CLOCK.SchDoc
+Update Managed Component C9 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [6] CLOCK.SchDoc
+Update Managed Component C10 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [6] CLOCK.SchDoc
+Update Managed Component C11 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [6] CLOCK.SchDoc
+Update Managed Component C21 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [6] CLOCK.SchDoc
+Update Managed Component C23 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [6] CLOCK.SchDoc
+Update Managed Component C28 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [6] CLOCK.SchDoc
+Update Managed Component C29 From CMP-0300-002669-2[220n 50V 0603] To CMP-0300-002669-4[220n 50V 0603] in [6] CLOCK.SchDoc
+Update Managed Component C36 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [6] CLOCK.SchDoc

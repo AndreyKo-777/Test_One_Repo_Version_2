@@ -1,0 +1,3 @@
+Removed Parameter Package:1608/0603 from Part C174
+Added Parameter Case/Package=0603/1608 to Part C174
+Update Managed Component C174 From CMP-0300-002107-6[470n 10% 6.3V X7R] To CMP-0300-002107-8[470n 10% 6.3V X7R] in [13] FPGA_PWR.SchDoc

@@ -1,0 +1,24 @@
+Removed Parameter Current Rating:10mA from Part U31
+Removed Parameter Max Input Voltage:1.235V from Part U31
+Removed Parameter Mount:Surface Mount from Part U31
+Removed Parameter Nominal Supply Current:10uA from Part U31
+Change Value of Parameter Case/Package in Part U31 Old=SOT-23 New=SOT
+Change Value of Parameter Height in Part U31 Old=0.93mm New=1.02mm
+Change Value of Parameter Lead Free in Part U31 Old=Lead Free New=Contains Lead
+Change Value of Parameter Length in Part U31 Old=2.92mm New=3.04mm
+Change Value of Parameter Max Operating Temperature in Part U31 Old=70°C New=85°C
+Change Value of Parameter Max Output Current in Part U31 Old=20mA New=10mA
+Change Value of Parameter Max Output Voltage in Part U31 Old=1.235V New=1.2V
+Change Value of Parameter Min Operating Temperature in Part U31 Old=0°C New=-40°C
+Change Value of Parameter Output Current in Part U31 Old=20mA New=10mA
+Change Value of Parameter Output Voltage in Part U31 Old=1.235V New=1.2V
+Change Value of Parameter Package Quantity in Part U31 Old=1000 New=1
+Change Value of Parameter Reference Type in Part U31 Old=Shunt,Fixed New=Shunt
+Change Value of Parameter Reference Voltage in Part U31 Old=1.235V New=1.2V
+Change Value of Parameter Temperature Coefficient in Part U31 Old=150ppm/°C New=60ppm/°C
+Change Value of Parameter Tolerance in Part U31 Old=2% New=0.3%
+Change Value of Parameter Width in Part U31 Old=1.3mm New=1.4mm
+Added Parameter Cathode Current=100uA to Part U31
+Added Parameter Min Output Voltage=1.2V to Part U31
+Added Parameter Output Type=Fixed to Part U31
+Update Managed Component U31 From CMP-2100-000594-1[LM385M3-1.2/NOPB] To CMP-2100-000594-1[ADR512ARTZ-REEL7] in [16] POWER.SchDoc

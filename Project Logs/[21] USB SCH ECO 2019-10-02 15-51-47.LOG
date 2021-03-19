@@ -1,0 +1,49 @@
+Removed Parameter Datasheet URL:http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT2232H.pdf from Part U6
+Removed Parameter Datasheet URL:http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT2232H.pdf from Part U6
+Removed Parameter Datasheet Version:Rev. 2.5, 07/2016 from Part U6
+Removed Parameter Datasheet Version:Rev. 2.5, 07/2016 from Part U6
+Removed Parameter Dimensions:10x10x1.4mm from Part U6
+Removed Parameter Dimensions:10x10x1.4mm from Part U6
+Removed Parameter Manufacturer:FTDI from Part U6
+Removed Parameter Manufacturer:FTDI from Part U6
+Removed Parameter Manufacturer URL:http://www.nxp.com/ from Part U6
+Removed Parameter Manufacturer URL:http://www.nxp.com/ from Part U6
+Removed Parameter Maximum Data Rate:480Mbit/s from Part U6
+Removed Parameter Maximum Data Rate:480Mbit/s from Part U6
+Removed Parameter Maximum Operating Temperature:+85°C from Part U6
+Removed Parameter Maximum Operating Temperature:+85°C from Part U6
+Removed Parameter Minimum Operating Temperature:-40°C from Part U6
+Removed Parameter Minimum Operating Temperature:-40°C from Part U6
+Removed Parameter Mounting Technology:SurfaceMount from Part U6
+Removed Parameter Mounting Technology:SurfaceMount from Part U6
+Removed Parameter Mounting Type:SurfaceMount from Part U6
+Removed Parameter Mounting Type:SurfaceMount from Part U6
+Removed Parameter Number of Channels per Chip:2 from Part U6
+Removed Parameter Number of Channels per Chip:2 from Part U6
+Removed Parameter Package Description:64-Pin Low-profile Quad Flat Package, Body 10 x 10 mm, Pitch 0.5 mm from Part U6
+Removed Parameter Package Description:64-Pin Low-profile Quad Flat Package, Body 10 x 10 mm, Pitch 0.5 mm from Part U6
+Removed Parameter Package Reference:LQFP-64 from Part U6
+Removed Parameter Package Reference:LQFP-64 from Part U6
+Removed Parameter Package Type:LQFP from Part U6
+Removed Parameter Package Type:LQFP from Part U6
+Removed Parameter PartId:2 from Part U6
+Removed Parameter Pin Count:64 from Part U6
+Removed Parameter Pin Count:64 from Part U6
+Removed Parameter Standard Supported:RS232,RS422,RS485 from Part U6
+Removed Parameter Standard Supported:RS232,RS422,RS485 from Part U6
+Added Parameter Case/Package=LQFP to Part U6
+Added Parameter Case/Package=LQFP to Part U6
+Added Parameter Lead Free=Lead Free to Part U6
+Added Parameter Lead Free=Lead Free to Part U6
+Added Parameter Max Operating Temperature=85°C to Part U6
+Added Parameter Max Operating Temperature=85°C to Part U6
+Added Parameter Min Operating Temperature=-40°C to Part U6
+Added Parameter Min Operating Temperature=-40°C to Part U6
+Added Parameter Mount=Surface Mount to Part U6
+Added Parameter Mount=Surface Mount to Part U6
+Added Parameter Number of Pins=64 to Part U6
+Added Parameter Number of Pins=64 to Part U6
+Added Parameter PartNumber= to Part U6
+Added Parameter PartNumber= to Part U6
+Update Managed Component U6 From CMP-2100-000591-1[FT2232HL] To CMP-2100-000591-1[FT2232HL] in [21] USB.SchDoc
+Update Managed Component U6 From CMP-2100-000591-1[FT2232HL] To CMP-2100-000591-1[FT2232HL] in [21] USB.SchDoc

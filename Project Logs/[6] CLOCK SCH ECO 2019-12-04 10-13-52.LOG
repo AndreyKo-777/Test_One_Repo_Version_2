@@ -1,0 +1,42 @@
+Change Value of Parameter Package in Part C18 Old=1005/0402 New=0402/1005
+Change Value of Parameter Package in Part C12 Old=1005/0402 New=0402/1005
+Change Value of Parameter Package in Part C16 Old=1005/0402 New=0402/1005
+Change Value of Parameter Package in Part C27 Old=1005/0402 New=0402/1005
+Change Value of Parameter Package in Part C15 Old=1005/0402 New=0402/1005
+Change Value of Parameter Package in Part C17 Old=1005/0402 New=0402/1005
+Change Value of Parameter Package in Part C22 Old=1005/0402 New=0402/1005
+Change Value of Parameter Package in Part C26 Old=1005/0402 New=0402/1005
+Change Value of Parameter Package in Part C25 Old=1005/0402 New=0402/1005
+Change Value of Parameter Package in Part C20 Old=1005/0402 New=0402/1005
+Change Value of Parameter Package in Part C24 Old=1005/0402 New=0402/1005
+Change Value of Parameter Package in Part C13 Old=1005/0402 New=0402/1005
+Change Value of Parameter Package in Part C14 Old=1005/0402 New=0402/1005
+Change Value of Parameter Package in Part C19 Old=1005/0402 New=0402/1005
+Change Value of Parameter Rated Voltage in Part C12 Old=16V New=50V
+Change Value of Parameter Rated Voltage in Part C27 Old=16V New=50V
+Change Value of Parameter Rated Voltage in Part C22 Old=16V New=50V
+Change Value of Parameter Rated Voltage in Part C26 Old=16V New=50V
+Change Value of Parameter Rated Voltage in Part C25 Old=16V New=50V
+Change Value of Parameter Rated Voltage in Part C20 Old=16V New=50V
+Change Value of Parameter Rated Voltage in Part C24 Old=16V New=50V
+Change Value of Parameter Rated Voltage in Part C19 Old=16V New=50V
+Change Value of Parameter Temperature Charateristics in Part C18 Old=X7R New=C0G
+Change Value of Parameter Temperature Charateristics in Part C16 Old=X7R New=C0G
+Change Value of Parameter Temperature Charateristics in Part C15 Old=X7R New=C0G
+Change Value of Parameter Temperature Charateristics in Part C17 Old=X7R New=C0G
+Change Value of Parameter Temperature Charateristics in Part C13 Old=X7R New=C0G
+Change Value of Parameter Temperature Charateristics in Part C14 Old=X7R New=C0G
+Update Managed Component C12 From CMP-0300-003493-4[100n 16V 0402] To CMP-0300-002965-5[100n 10% 50V X7R] in [6] CLOCK.SchDoc
+Update Managed Component C13 From CMP-0300-002931-4[220p 50V 0402] To CMP-0300-002795-5[220p 10% 50V C0G] in [6] CLOCK.SchDoc
+Update Managed Component C14 From CMP-0300-002931-4[220p 50V 0402] To CMP-0300-002795-5[220p 10% 50V C0G] in [6] CLOCK.SchDoc
+Update Managed Component C15 From CMP-0300-002931-4[220p 50V 0402] To CMP-0300-002795-5[220p 10% 50V C0G] in [6] CLOCK.SchDoc
+Update Managed Component C16 From CMP-0300-002931-4[220p 50V 0402] To CMP-0300-002795-5[220p 10% 50V C0G] in [6] CLOCK.SchDoc
+Update Managed Component C17 From CMP-0300-002931-4[220p 50V 0402] To CMP-0300-002795-5[220p 10% 50V C0G] in [6] CLOCK.SchDoc
+Update Managed Component C18 From CMP-0300-002931-4[220p 50V 0402] To CMP-0300-002795-5[220p 10% 50V C0G] in [6] CLOCK.SchDoc
+Update Managed Component C19 From CMP-0300-003493-4[100n 16V 0402] To CMP-0300-002965-5[100n 10% 50V X7R] in [6] CLOCK.SchDoc
+Update Managed Component C20 From CMP-0300-003493-4[100n 16V 0402] To CMP-0300-002965-5[100n 10% 50V X7R] in [6] CLOCK.SchDoc
+Update Managed Component C22 From CMP-0300-003493-4[100n 16V 0402] To CMP-0300-002965-5[100n 10% 50V X7R] in [6] CLOCK.SchDoc
+Update Managed Component C24 From CMP-0300-003493-4[100n 16V 0402] To CMP-0300-002965-5[100n 10% 50V X7R] in [6] CLOCK.SchDoc
+Update Managed Component C25 From CMP-0300-003493-4[100n 16V 0402] To CMP-0300-002965-5[100n 10% 50V X7R] in [6] CLOCK.SchDoc
+Update Managed Component C26 From CMP-0300-003493-4[100n 16V 0402] To CMP-0300-002965-5[100n 10% 50V X7R] in [6] CLOCK.SchDoc
+Update Managed Component C27 From CMP-0300-003493-4[100n 16V 0402] To CMP-0300-002965-5[100n 10% 50V X7R] in [6] CLOCK.SchDoc

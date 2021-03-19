@@ -1,0 +1,288 @@
+Removed Member From Class: ClassName=U_ADC_INPUT_BIAS3 Member=C158.1
+Removed Member From Class: ClassName=U_ADC_INPUT_BIAS1 Member=C158.3
+Removed Member From Class: ClassName=ADC_INPUT_BIAS2 Member=C158.6
+Removed Member From Class: ClassName=U_ADC_INPUT_BIAS6 Member=C158.6
+Removed Member From Class: ClassName=ADC_INPUT_BIAS1 Member=C159.2
+Removed Member From Class: ClassName=U_ADC_INPUT_BIAS3 Member=C159.2
+Removed Member From Class: ClassName=ADC_INPUT_BIAS2 Member=C159.7
+Removed Member From Class: ClassName=U_ADC_INPUT_BIAS4 Member=C159.7
+Removed Member From Class: ClassName=ADC_INPUT_BIAS1 Member=C160.2
+Removed Member From Class: ClassName=U_ADC_INPUT_BIAS2 Member=C160.4
+Removed Member From Class: ClassName=ADC_INPUT_BIAS2 Member=C160.6
+Removed Member From Class: ClassName=U_ADC_INPUT_BIAS6 Member=C160.6
+Removed Member From Class: ClassName=POWER Member=P2PWR
+Removed Member From Class: ClassName=POWER Member=P3PWR
+Removed Member From Class: ClassName=POWER Member=P4PWR
+Removed Member From Class: ClassName=POWER Member=P5PWR
+Removed Member From Class: ClassName=POWER Member=P6PWR
+Removed Member From Class: ClassName=POWER Member=P7PWR
+Removed Member From Class: ClassName=POWER Member=P9PWR
+Removed Member From Class: ClassName=POWER Member=P10PWR
+Removed Member From Class: ClassName=POWER Member=P11PWR
+Removed Member From Class: ClassName=ADC_INPUT_BIAS1 Member=R81.2
+Removed Member From Class: ClassName=U_ADC_INPUT_BIAS2 Member=R81.4
+Removed Member From Class: ClassName=ADC_INPUT_BIAS2 Member=R81.7
+Removed Member From Class: ClassName=U_ADC_INPUT_BIAS4 Member=R81.7
+Removed Member From Class: ClassName=U_ADC_INPUT_BIAS3 Member=R82.1
+Removed Member From Class: ClassName=U_ADC_INPUT_BIAS1 Member=R82.3
+Removed Member From Class: ClassName=ADC_INPUT_BIAS2 Member=R82.6
+Removed Member From Class: ClassName=U_ADC_INPUT_BIAS5 Member=R82.8
+Removed Member From Class: ClassName=ADC_INPUT_BIAS1 Member=R83.2
+Removed Member From Class: ClassName=U_ADC_INPUT_BIAS2 Member=R83.4
+Removed Member From Class: ClassName=U_ADC_INPUT_BIAS6 Member=R83.5
+Removed Member From Class: ClassName=U_ADC_INPUT_BIAS4 Member=R83.7
+Removed Member From Class: ClassName=ADC_INPUT_BIAS1 Member=T2.2
+Removed Member From Class: ClassName=U_ADC_INPUT_BIAS2 Member=T2.4
+Removed Member From Class: ClassName=U_ADC_INPUT_BIAS6 Member=T2.5
+Removed Member From Class: ClassName=U_ADC_INPUT_BIAS4 Member=T2.7
+Removed Member From Class: ClassName=Power Member=NetC2.1PWR_2
+Removed Member From Class: ClassName=Power Member=NetC2.2PWR_2
+Change Component Designator: OldDesignator=C1.1PWR NewDesignator=C191
+Change Component Designator: OldDesignator=C1.2PWR NewDesignator=C214
+Change Component Designator: OldDesignator=C2.1PWR NewDesignator=C190
+Change Component Designator: OldDesignator=C2.2PWR NewDesignator=C213
+Change Component Designator: OldDesignator=C4.1PWR NewDesignator=C192
+Change Component Designator: OldDesignator=C4.2PWR NewDesignator=C215
+Change Component Designator: OldDesignator=C5PWR.1 NewDesignator=C186.1
+Change Component Designator: OldDesignator=C5PWR.2 NewDesignator=C186.2
+Change Component Designator: OldDesignator=C5PWR.3 NewDesignator=C186.3
+Change Component Designator: OldDesignator=C5PWR.4 NewDesignator=C186.4
+Change Component Designator: OldDesignator=C6.1PWR NewDesignator=C193
+Change Component Designator: OldDesignator=C6.2PWR NewDesignator=C216
+Change Component Designator: OldDesignator=C7.1PWR NewDesignator=C195
+Change Component Designator: OldDesignator=C7.2PWR NewDesignator=C218
+Change Component Designator: OldDesignator=C8.1PWR NewDesignator=C199
+Change Component Designator: OldDesignator=C8.2PWR NewDesignator=C223
+Change Component Designator: OldDesignator=C9.1PWR NewDesignator=C200
+Change Component Designator: OldDesignator=C9.2PWR NewDesignator=C224
+Change Component Designator: OldDesignator=C11.2PWR NewDesignator=C220
+Change Component Designator: OldDesignator=C13.1PWR NewDesignator=C201
+Change Component Designator: OldDesignator=C13.2PWR NewDesignator=C225
+Change Component Designator: OldDesignator=C14.1PWR NewDesignator=C202
+Change Component Designator: OldDesignator=C14.2PWR NewDesignator=C226
+Change Component Designator: OldDesignator=C15.1PWR NewDesignator=C203
+Change Component Designator: OldDesignator=C16.1PWR NewDesignator=C205
+Change Component Designator: OldDesignator=C16.2PWR NewDesignator=C228
+Change Component Designator: OldDesignator=C17.1PWR NewDesignator=C204
+Change Component Designator: OldDesignator=C17.2PWR NewDesignator=C227
+Change Component Designator: OldDesignator=C18.1PWR NewDesignator=C206
+Change Component Designator: OldDesignator=C18.2PWR NewDesignator=C229
+Change Component Designator: OldDesignator=C19.1PWR NewDesignator=C207
+Change Component Designator: OldDesignator=C19.2PWR NewDesignator=C230
+Change Component Designator: OldDesignator=C20.1PWR NewDesignator=C208
+Change Component Designator: OldDesignator=C20.2PWR NewDesignator=C231
+Change Component Designator: OldDesignator=C21.1PWR NewDesignator=C210
+Change Component Designator: OldDesignator=C21.2PWR NewDesignator=C233
+Change Component Designator: OldDesignator=C22.1PWR NewDesignator=C211
+Change Component Designator: OldDesignator=C22.2PWR NewDesignator=C234
+Change Component Designator: OldDesignator=C23.1PWR NewDesignator=C212
+Change Component Designator: OldDesignator=C23.2PWR NewDesignator=C235
+Change Component Designator: OldDesignator=C24.1PWR NewDesignator=C209
+Change Component Designator: OldDesignator=C24.2PWR NewDesignator=C232
+Change Component Designator: OldDesignator=C25.1PWR NewDesignator=C198
+Change Component Designator: OldDesignator=C25.2PWR NewDesignator=C222
+Change Component Designator: OldDesignator=C26.1PWR NewDesignator=C197
+Change Component Designator: OldDesignator=C26.2PWR NewDesignator=C221
+Change Component Designator: OldDesignator=C27PWR NewDesignator=C185
+Change Component Designator: OldDesignator=C28PWR.1 NewDesignator=C187.1
+Change Component Designator: OldDesignator=C28PWR.2 NewDesignator=C187.2
+Change Component Designator: OldDesignator=C28PWR.3 NewDesignator=C187.3
+Change Component Designator: OldDesignator=C28PWR.4 NewDesignator=C187.4
+Change Component Designator: OldDesignator=C29PWR.1 NewDesignator=C188.1
+Change Component Designator: OldDesignator=C29PWR.2 NewDesignator=C188.2
+Change Component Designator: OldDesignator=C29PWR.3 NewDesignator=C188.3
+Change Component Designator: OldDesignator=C29PWR.4 NewDesignator=C188.4
+Change Component Designator: OldDesignator=C30PWR.1 NewDesignator=C189.1
+Change Component Designator: OldDesignator=C30PWR.2 NewDesignator=C189.2
+Change Component Designator: OldDesignator=C30PWR.3 NewDesignator=C189.3
+Change Component Designator: OldDesignator=C30PWR.4 NewDesignator=C189.4
+Change Component Designator: OldDesignator=C33PWR NewDesignator=C184
+Change Component Designator: OldDesignator=C34PWR NewDesignator=C183
+Change Component Designator: OldDesignator=C35.1PWR NewDesignator=C194
+Change Component Designator: OldDesignator=C35.2PWR NewDesignator=C217
+Change Component Designator: OldDesignator=C36.1PWR NewDesignator=C196
+Change Component Designator: OldDesignator=C36.2PWR NewDesignator=C219
+Change Component Designator: OldDesignator=D1.1PWR NewDesignator=D9
+Change Component Designator: OldDesignator=D1.2PWR NewDesignator=D12
+Change Component Designator: OldDesignator=D2.1PWR NewDesignator=D8
+Change Component Designator: OldDesignator=D2.2PWR NewDesignator=D11
+Change Component Designator: OldDesignator=D3.1PWR NewDesignator=D10
+Change Component Designator: OldDesignator=D3.2PWR NewDesignator=D13
+Change Component Designator: OldDesignator=J2PWR NewDesignator=J16
+Change Component Designator: OldDesignator=L1.1PWR NewDesignator=L1
+Change Component Designator: OldDesignator=L1.2PWR NewDesignator=L4
+Change Component Designator: OldDesignator=L2.1PWR NewDesignator=L3
+Change Component Designator: OldDesignator=L2.2PWR NewDesignator=L5
+Change Component Designator: OldDesignator=L3.1PWR NewDesignator=L2
+Change Component Designator: OldDesignator=L3.2PWR NewDesignator=L6
+Change Component Designator: OldDesignator=Q1.1PWR NewDesignator=Q7
+Change Component Designator: OldDesignator=Q1.2PWR NewDesignator=Q12
+Change Component Designator: OldDesignator=Q2.1PWR NewDesignator=Q6
+Change Component Designator: OldDesignator=Q2.2PWR NewDesignator=Q11
+Change Component Designator: OldDesignator=Q3.1PWR NewDesignator=Q8
+Change Component Designator: OldDesignator=Q3.2PWR NewDesignator=Q13
+Change Component Designator: OldDesignator=Q4.1PWR NewDesignator=Q9
+Change Component Designator: OldDesignator=Q4.2PWR NewDesignator=Q14
+Change Component Designator: OldDesignator=Q5.1PWR NewDesignator=Q10
+Change Component Designator: OldDesignator=Q5.2PWR NewDesignator=Q15
+Change Component Designator: OldDesignator=R1.1PWR NewDesignator=R150
+Change Component Designator: OldDesignator=R1.2PWR NewDesignator=R166
+Change Component Designator: OldDesignator=R2.1PWR NewDesignator=R152
+Change Component Designator: OldDesignator=R2.2PWR NewDesignator=R167
+Change Component Designator: OldDesignator=R3.1PWR NewDesignator=R149
+Change Component Designator: OldDesignator=R3.2PWR NewDesignator=R173
+Change Component Designator: OldDesignator=R4.1PWR NewDesignator=R151
+Change Component Designator: OldDesignator=R4.2PWR NewDesignator=R172
+Change Component Designator: OldDesignator=R5.1PWR NewDesignator=R145
+Change Component Designator: OldDesignator=R5.2PWR NewDesignator=R162
+Change Component Designator: OldDesignator=R6.1PWR NewDesignator=R146
+Change Component Designator: OldDesignator=R6.2PWR NewDesignator=R163
+Change Component Designator: OldDesignator=R7.1PWR NewDesignator=R155
+Change Component Designator: OldDesignator=R7.2PWR NewDesignator=R169
+Change Component Designator: OldDesignator=R8.1PWR NewDesignator=R156
+Change Component Designator: OldDesignator=R8.2PWR NewDesignator=R171
+Change Component Designator: OldDesignator=R9.1PWR NewDesignator=R153
+Change Component Designator: OldDesignator=R9.2PWR NewDesignator=R168
+Change Component Designator: OldDesignator=R10.1PWR NewDesignator=R154
+Change Component Designator: OldDesignator=R10.2PWR NewDesignator=R170
+Change Component Designator: OldDesignator=R11PWR NewDesignator=R128
+Change Component Designator: OldDesignator=R12PWR NewDesignator=R129
+Change Component Designator: OldDesignator=R13PWR NewDesignator=R130
+Change Component Designator: OldDesignator=R14PWR NewDesignator=R131
+Change Component Designator: OldDesignator=R15.1PWR NewDesignator=R141
+Change Component Designator: OldDesignator=R15.2PWR NewDesignator=R158
+Change Component Designator: OldDesignator=R17.1PWR NewDesignator=R157
+Change Component Designator: OldDesignator=R17.2PWR NewDesignator=R174
+Change Component Designator: OldDesignator=R23PWR.1 NewDesignator=R134.1
+Change Component Designator: OldDesignator=R23PWR.2 NewDesignator=R134.2
+Change Component Designator: OldDesignator=R23PWR.3 NewDesignator=R134.3
+Change Component Designator: OldDesignator=R23PWR.4 NewDesignator=R134.4
+Change Component Designator: OldDesignator=R24PWR.1 NewDesignator=R135.1
+Change Component Designator: OldDesignator=R24PWR.2 NewDesignator=R135.2
+Change Component Designator: OldDesignator=R24PWR.3 NewDesignator=R135.3
+Change Component Designator: OldDesignator=R24PWR.4 NewDesignator=R135.4
+Change Component Designator: OldDesignator=R25PWR.1 NewDesignator=R137.1
+Change Component Designator: OldDesignator=R25PWR.2 NewDesignator=R137.2
+Change Component Designator: OldDesignator=R25PWR.3 NewDesignator=R137.3
+Change Component Designator: OldDesignator=R25PWR.4 NewDesignator=R137.4
+Change Component Designator: OldDesignator=R26PWR.1 NewDesignator=R138.1
+Change Component Designator: OldDesignator=R26PWR.2 NewDesignator=R138.2
+Change Component Designator: OldDesignator=R26PWR.3 NewDesignator=R138.3
+Change Component Designator: OldDesignator=R26PWR.4 NewDesignator=R138.4
+Change Component Designator: OldDesignator=R27PWR.1 NewDesignator=R139.1
+Change Component Designator: OldDesignator=R27PWR.2 NewDesignator=R139.2
+Change Component Designator: OldDesignator=R27PWR.3 NewDesignator=R139.3
+Change Component Designator: OldDesignator=R27PWR.4 NewDesignator=R139.4
+Change Component Designator: OldDesignator=R28PWR.1 NewDesignator=R140.1
+Change Component Designator: OldDesignator=R28PWR.2 NewDesignator=R140.2
+Change Component Designator: OldDesignator=R28PWR.3 NewDesignator=R140.3
+Change Component Designator: OldDesignator=R28PWR.4 NewDesignator=R140.4
+Change Component Designator: OldDesignator=R29PWR NewDesignator=R132
+Change Component Designator: OldDesignator=R30.1PWR NewDesignator=R143
+Change Component Designator: OldDesignator=R30.2PWR NewDesignator=R160
+Change Component Designator: OldDesignator=R31.1PWR NewDesignator=R144
+Change Component Designator: OldDesignator=R31.2PWR NewDesignator=R161
+Change Component Designator: OldDesignator=R32.1PWR NewDesignator=R147
+Change Component Designator: OldDesignator=R32.2PWR NewDesignator=R164
+Change Component Designator: OldDesignator=R33.1PWR NewDesignator=R148
+Change Component Designator: OldDesignator=R33.2PWR NewDesignator=R165
+Change Component Designator: OldDesignator=R34.1PWR NewDesignator=R142
+Change Component Designator: OldDesignator=R34.2PWR NewDesignator=R159
+Change Component Designator: OldDesignator=R35PWR.1 NewDesignator=R133.1
+Change Component Designator: OldDesignator=R35PWR.2 NewDesignator=R133.2
+Change Component Designator: OldDesignator=R35PWR.3 NewDesignator=R133.3
+Change Component Designator: OldDesignator=R35PWR.4 NewDesignator=R133.4
+Change Component Designator: OldDesignator=R36PWR.1 NewDesignator=R136.1
+Change Component Designator: OldDesignator=R36PWR.2 NewDesignator=R136.2
+Change Component Designator: OldDesignator=R36PWR.3 NewDesignator=R136.3
+Change Component Designator: OldDesignator=R36PWR.4 NewDesignator=R136.4
+Change Component Designator: OldDesignator=U1.1PWR NewDesignator=U33
+Change Component Designator: OldDesignator=U1.2PWR NewDesignator=U34
+Change Component Designator: OldDesignator=U2PWR NewDesignator=U31
+Change Component Designator: OldDesignator=U3PWR NewDesignator=U30
+Change Component Designator: OldDesignator=U4PWR.1 NewDesignator=U32.1
+Change Component Designator: OldDesignator=U4PWR.2 NewDesignator=U32.2
+Change Component Designator: OldDesignator=U4PWR.3 NewDesignator=U32.3
+Change Component Designator: OldDesignator=U4PWR.4 NewDesignator=U32.4
+Change Component Designator: OldDesignator=Z1.1PWR NewDesignator=Z1
+Change Component Designator: OldDesignator=Z1.2PWR NewDesignator=Z2
+Change Net Name : Old Net Name=NetC2.1PWR_2 New Net Name=NetC190_2
+Change Net Name : Old Net Name=NetC2.2PWR_2 New Net Name=NetC213_2
+Change Net Name : Old Net Name=NetC20.1PWR_2 New Net Name=NetC208_2
+Change Net Name : Old Net Name=NetC20.2PWR_2 New Net Name=NetC231_2
+Change Net Name : Old Net Name=NetC21.1PWR_2 New Net Name=NetC210_2
+Change Net Name : Old Net Name=NetC21.2PWR_2 New Net Name=NetC233_2
+Change Net Name : Old Net Name=NetC24.1PWR_1 New Net Name=NetC209_1
+Change Net Name : Old Net Name=NetC24.1PWR_2 New Net Name=NetC209_2
+Change Net Name : Old Net Name=NetC24.2PWR_1 New Net Name=NetC232_1
+Change Net Name : Old Net Name=NetC24.2PWR_2 New Net Name=NetC232_2
+Change Net Name : Old Net Name=NetC29PWR.1_2 New Net Name=NetC188.1_2
+Change Net Name : Old Net Name=NetC29PWR.2_2 New Net Name=NetC188.2_2
+Change Net Name : Old Net Name=NetC29PWR.3_2 New Net Name=NetC188.3_2
+Change Net Name : Old Net Name=NetC29PWR.4_2 New Net Name=NetC188.4_2
+Change Net Name : Old Net Name=NetC30PWR.1_1 New Net Name=NetC189.1_1
+Change Net Name : Old Net Name=NetC30PWR.1_2 New Net Name=NetC189.1_2
+Change Net Name : Old Net Name=NetC30PWR.2_1 New Net Name=NetC189.2_1
+Change Net Name : Old Net Name=NetC30PWR.2_2 New Net Name=NetC189.2_2
+Change Net Name : Old Net Name=NetC30PWR.3_1 New Net Name=NetC189.3_1
+Change Net Name : Old Net Name=NetC30PWR.3_2 New Net Name=NetC189.3_2
+Change Net Name : Old Net Name=NetC30PWR.4_1 New Net Name=NetC189.4_1
+Change Net Name : Old Net Name=NetC30PWR.4_2 New Net Name=NetC189.4_2
+Change Net Name : Old Net Name=NetC36.1PWR_1 New Net Name=NetC196_1
+Change Net Name : Old Net Name=NetC36.2PWR_1 New Net Name=NetC219_1
+Change Net Name : Old Net Name=NetJ2PWR_1 New Net Name=NetJ16_1
+Change Net Name : Old Net Name=NetQ1.1PWR_G New Net Name=NetQ7_G
+Change Net Name : Old Net Name=NetQ1.2PWR_G New Net Name=NetQ12_G
+Change Net Name : Old Net Name=NetQ2.1PWR_G New Net Name=NetQ6_G
+Change Net Name : Old Net Name=NetQ2.2PWR_G New Net Name=NetQ11_G
+Change Net Name : Old Net Name=NetQ3.1PWR_G New Net Name=NetQ8_G
+Change Net Name : Old Net Name=NetQ3.2PWR_G New Net Name=NetQ13_G
+Change Net Name : Old Net Name=NetQ4.1PWR_G New Net Name=NetQ9_G
+Change Net Name : Old Net Name=NetQ4.2PWR_G New Net Name=NetQ14_G
+Change Net Name : Old Net Name=NetQ5.1PWR_1 New Net Name=NetQ10_1
+Change Net Name : Old Net Name=NetQ5.2PWR_1 New Net Name=NetQ15_1
+Change Net Name : Old Net Name=NetR1.1PWR_2 New Net Name=NetR150_2
+Change Net Name : Old Net Name=NetR1.2PWR_2 New Net Name=NetR166_2
+Change Net Name : Old Net Name=NetR2.1PWR_2 New Net Name=NetR152_2
+Change Net Name : Old Net Name=NetR2.2PWR_2 New Net Name=NetR167_2
+Added Member To Class: ClassName=U_ADC_INPUT_BIAS1 Member=Component C158.2 (C158) ATC530L
+Added Member To Class: ClassName=U_ADC_INPUT_BIAS3 Member=Component C158.4 (C158) ATC530L
+Added Member To Class: ClassName=ADC_INPUT_BIAS2 Member=Component C158.5 (C158) ATC530L
+Added Member To Class: ClassName=U_ADC_INPUT_BIAS6 Member=Component C158.8 (C158) ATC530L
+Added Member To Class: ClassName=ADC_INPUT_BIAS1 Member=Component C159.1 (C159) ATC530L
+Added Member To Class: ClassName=U_ADC_INPUT_BIAS3 Member=Component C159.4 (C159) ATC530L
+Added Member To Class: ClassName=ADC_INPUT_BIAS2 Member=Component C159.5 (C159) ATC530L
+Added Member To Class: ClassName=U_ADC_INPUT_BIAS4 Member=Component C159.6 (C159) ATC530L
+Added Member To Class: ClassName=ADC_INPUT_BIAS1 Member=Component C160.1 (C160) ATC530L
+Added Member To Class: ClassName=U_ADC_INPUT_BIAS2 Member=Component C160.3 (C160) ATC530L
+Added Member To Class: ClassName=ADC_INPUT_BIAS2 Member=Component C160.5 (C160) ATC530L
+Added Member To Class: ClassName=U_ADC_INPUT_BIAS6 Member=Component C160.8 (C160) ATC530L
+Added Member To Class: ClassName=ADC_INPUT_BIAS1 Member=Component R81.1 (R81) 51R ±1% 0402
+Added Member To Class: ClassName=U_ADC_INPUT_BIAS2 Member=Component R81.3 (R81) 51R ±1% 0402
+Added Member To Class: ClassName=ADC_INPUT_BIAS2 Member=Component R81.5 (R81) 51R ±1% 0402
+Added Member To Class: ClassName=U_ADC_INPUT_BIAS4 Member=Component R81.6 (R81) 51R ±1% 0402
+Added Member To Class: ClassName=U_ADC_INPUT_BIAS1 Member=Component R82.2 (R82) 51R ±1% 0402
+Added Member To Class: ClassName=U_ADC_INPUT_BIAS3 Member=Component R82.4 (R82) 51R ±1% 0402
+Added Member To Class: ClassName=ADC_INPUT_BIAS2 Member=Component R82.5 (R82) 51R ±1% 0402
+Added Member To Class: ClassName=U_ADC_INPUT_BIAS5 Member=Component R82.7 (R82) 51R ±1% 0402
+Added Member To Class: ClassName=ADC_INPUT_BIAS1 Member=Component R83.1 (R83) 51R ±1% 0402
+Added Member To Class: ClassName=U_ADC_INPUT_BIAS2 Member=Component R83.3 (R83) 51R ±1% 0402
+Added Member To Class: ClassName=U_ADC_INPUT_BIAS4 Member=Component R83.6 (R83) 51R ±1% 0402
+Added Member To Class: ClassName=U_ADC_INPUT_BIAS6 Member=Component R83.8 (R83) 51R ±1% 0402
+Added Member To Class: ClassName=ADC_INPUT_BIAS1 Member=Component T2.1 (T2) ETC1-1-13TR
+Added Member To Class: ClassName=U_ADC_INPUT_BIAS2 Member=Component T2.3 (T2) ETC1-1-13TR
+Added Member To Class: ClassName=U_ADC_INPUT_BIAS4 Member=Component T2.6 (T2) ETC1-1-13TR
+Added Member To Class: ClassName=U_ADC_INPUT_BIAS6 Member=Component T2.8 (T2) ETC1-1-13TR
+Added Member To Class: ClassName=DiffPairs_Input Member=Wire ADC_INP.1_P
+Added Member To Class: ClassName=DiffPairs_Input Member=Wire ADC_INP.3_N
+Added Member To Class: ClassName=DiffPairs_Input Member=Wire ADC_INP.3_P
+Added Member To Class: ClassName=DiffPairs_Input Member=Wire ADC_INP.4_N
+Added Member To Class: ClassName=DiffPairs_Input Member=Wire ADC_INP.4_P
+Added Member To Class: ClassName=DiffPairs_Input Member=Wire ADC_INP.5_P
+Added Member To Class: ClassName=DiffPairs_Input Member=Wire ADC_INP.6_N
+Added Member To Class: ClassName=DiffPairs_Input Member=Wire ADC_INP.6_P
+Added Member To Class: ClassName=DiffPairs_Input Member=Wire ADC_INP.7_N
+Added Member To Class: ClassName=DiffPairs_Input Member=Wire ADC_INP.8_N
+Added Member To Class: ClassName=Power Member=Wire NetC190_2
+Added Member To Class: ClassName=Power Member=Wire NetC213_2
+Change Room Name: Old Name=USB_1 New Name=USB

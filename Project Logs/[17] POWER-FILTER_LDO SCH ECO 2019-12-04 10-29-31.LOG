@@ -1,0 +1,18 @@
+Change Value of Parameter Capacitance in Part C55 Old=22µF New=10µF
+Change Value of Parameter Capacitance in Part C69 Old=22µF New=10µF
+Change Value of Parameter Capacitance in Part C64 Old=22µF New=10µF
+Change Value of Parameter Rated Voltage in Part C55 Old=10V New=6.3V
+Change Value of Parameter Rated Voltage in Part C69 Old=10V New=6.3V
+Change Value of Parameter Rated Voltage in Part C64 Old=10V New=6.3V
+Change Value of Parameter Temperature Charateristics in Part C55 Old=X7T New=X7R
+Change Value of Parameter Temperature Charateristics in Part C69 Old=X7T New=X7R
+Change Value of Parameter Temperature Charateristics in Part C64 Old=X7T New=X7R
+Change Value of Parameter Thickness in Part C55 Old=1.45mm New=1.4mm
+Change Value of Parameter Thickness in Part C69 Old=1.45mm New=1.4mm
+Change Value of Parameter Thickness in Part C64 Old=1.45mm New=1.4mm
+Change Value of Parameter Tolerance in Part C55 Old=20% New=10%
+Change Value of Parameter Tolerance in Part C69 Old=20% New=10%
+Change Value of Parameter Tolerance in Part C64 Old=20% New=10%
+Update Managed Component C55 From CMP-0300-002090-7[22u 10V 0805] To CMP-0300-002090-7[10u 10% 6.3V X7R] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component C64 From CMP-0300-002090-7[22u 10V 0805] To CMP-0300-002090-7[10u 10% 6.3V X7R] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component C69 From CMP-0300-002090-7[22u 10V 0805] To CMP-0300-002090-7[10u 10% 6.3V X7R] in [17] POWER-FILTER_LDO.SchDoc

@@ -1,0 +1,11 @@
+Added Component: Designator=C199.4(CAPC1608X90N)
+Add component (AddParameter): Name = "Capacitance"; Value = "470nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1608/0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Charateristics"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "900µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "9mg"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TRACK/SS.4 Pin=C199.4-1
+Added Pin To Net: NetName=GND Pin=C199.4-2
+Added Member To Class: ClassName=Ch_D 3.8V Member=Component C199.4 (C199) 100n 10% 50V X7R

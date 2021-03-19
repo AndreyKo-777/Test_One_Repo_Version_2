@@ -1,0 +1,90 @@
+Removed Parameter Capacitance (F):1.0n from Part C4
+Removed Parameter Capacitance (F):1.0n from Part C6
+Removed Parameter Capacitance (F):1.0n from Part C7
+Removed Parameter Capacitance (F):1.0n from Part C85
+Removed Parameter Capacitance (F):1.0n from Part C86
+Removed Parameter Capacitance (F):1.0n from Part C87
+Removed Parameter Capacitance (F):100.0n from Part C5
+Removed Parameter Capacitance (F):100.0n from Part C84
+Removed Parameter Capacitance (F):100.0n from Part C88
+Removed Parameter PartNumber:GRM188R71H102KA01 from Part C4
+Removed Parameter PartNumber:GRM188R71H102KA01 from Part C6
+Removed Parameter PartNumber:GRM188R71H102KA01 from Part C7
+Removed Parameter PartNumber:GRM188R71H102KA01 from Part C85
+Removed Parameter PartNumber:GRM188R71H102KA01 from Part C86
+Removed Parameter PartNumber:GRM188R71H102KA01 from Part C87
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C5
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C84
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C88
+Removed Parameter Rated voltage (V):50 from Part C4
+Removed Parameter Rated voltage (V):50 from Part C5
+Removed Parameter Rated voltage (V):50 from Part C6
+Removed Parameter Rated voltage (V):50 from Part C7
+Removed Parameter Rated voltage (V):50 from Part C84
+Removed Parameter Rated voltage (V):50 from Part C85
+Removed Parameter Rated voltage (V):50 from Part C86
+Removed Parameter Rated voltage (V):50 from Part C87
+Removed Parameter Rated voltage (V):50 from Part C88
+Removed Parameter Thickness (mm):0.90 from Part C4
+Removed Parameter Thickness (mm):0.90 from Part C5
+Removed Parameter Thickness (mm):0.90 from Part C6
+Removed Parameter Thickness (mm):0.90 from Part C7
+Removed Parameter Thickness (mm):0.90 from Part C84
+Removed Parameter Thickness (mm):0.90 from Part C85
+Removed Parameter Thickness (mm):0.90 from Part C86
+Removed Parameter Thickness (mm):0.90 from Part C87
+Removed Parameter Thickness (mm):0.90 from Part C88
+Change Value of Parameter Tolerance in Part C88 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C7 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C86 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C87 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C85 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C84 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C4 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C5 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C6 Old=±10% New=10%
+Added Parameter Capacitance=1nF to Part C4
+Added Parameter Capacitance=1nF to Part C6
+Added Parameter Capacitance=1nF to Part C7
+Added Parameter Capacitance=1nF to Part C85
+Added Parameter Capacitance=1nF to Part C86
+Added Parameter Capacitance=1nF to Part C87
+Added Parameter Capacitance=100nF to Part C5
+Added Parameter Capacitance=100nF to Part C84
+Added Parameter Capacitance=100nF to Part C88
+Added Parameter Rated Voltage=50V to Part C4
+Added Parameter Rated Voltage=50V to Part C5
+Added Parameter Rated Voltage=50V to Part C6
+Added Parameter Rated Voltage=50V to Part C7
+Added Parameter Rated Voltage=50V to Part C84
+Added Parameter Rated Voltage=50V to Part C85
+Added Parameter Rated Voltage=50V to Part C86
+Added Parameter Rated Voltage=50V to Part C87
+Added Parameter Rated Voltage=50V to Part C88
+Added Parameter Thickness=900µm to Part C4
+Added Parameter Thickness=900µm to Part C5
+Added Parameter Thickness=900µm to Part C6
+Added Parameter Thickness=900µm to Part C7
+Added Parameter Thickness=900µm to Part C84
+Added Parameter Thickness=900µm to Part C85
+Added Parameter Thickness=900µm to Part C86
+Added Parameter Thickness=900µm to Part C87
+Added Parameter Thickness=900µm to Part C88
+Added Parameter Weight=9mg to Part C4
+Added Parameter Weight=9mg to Part C5
+Added Parameter Weight=9mg to Part C6
+Added Parameter Weight=9mg to Part C7
+Added Parameter Weight=9mg to Part C84
+Added Parameter Weight=9mg to Part C85
+Added Parameter Weight=9mg to Part C86
+Added Parameter Weight=9mg to Part C87
+Added Parameter Weight=9mg to Part C88
+Update Managed Component C4 From CMP-0300-002637-1[1n0 50V 0603] To CMP-0300-002637-3[1n0 50V 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component C5 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component C6 From CMP-0300-002637-1[1n0 50V 0603] To CMP-0300-002637-3[1n0 50V 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component C7 From CMP-0300-002637-1[1n0 50V 0603] To CMP-0300-002637-3[1n0 50V 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component C84 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component C85 From CMP-0300-002637-1[1n0 50V 0603] To CMP-0300-002637-3[1n0 50V 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component C86 From CMP-0300-002637-1[1n0 50V 0603] To CMP-0300-002637-3[1n0 50V 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component C87 From CMP-0300-002637-1[1n0 50V 0603] To CMP-0300-002637-3[1n0 50V 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component C88 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [5] ADC_CURRENT_PUMP.SchDoc

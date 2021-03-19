@@ -1,0 +1,4 @@
+Change Value of Parameter Temperature Charateristics in Part C175 Old=X7R New=C0G
+Update Managed Component C175 From CMP-0300-002654-5[10n 50V 0603] To CMP-0300-002475-6[10n 10% 50V X7R] in [13] FPGA_PWR.SchDoc
+Update Managed Component F1 From CMP-0600-000010-1[30.0 O  @  100.0MHz] To CMP-0600-000010-2[30.0 O  @  100.0MHz] in [13] FPGA_PWR.SchDoc
+Update Managed Component F2 From CMP-0600-000010-1[30.0 O  @  100.0MHz] To CMP-0600-000010-2[30.0 O  @  100.0MHz] in [13] FPGA_PWR.SchDoc

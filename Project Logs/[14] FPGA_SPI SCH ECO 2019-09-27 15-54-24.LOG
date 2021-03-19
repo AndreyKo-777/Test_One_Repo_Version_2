@@ -1,0 +1,40 @@
+Removed Parameter Case-EIA:0603 from Part R123
+Removed Parameter Case-EIA:0603 from Part R124
+Removed Parameter Case-EIA:0603 from Part R125
+Removed Parameter Case-EIA:0603 from Part R126
+Removed Parameter Case-EIA:0603 from Part R127
+Removed Parameter Case-Metric:1608 from Part R123
+Removed Parameter Case-Metric:1608 from Part R124
+Removed Parameter Case-Metric:1608 from Part R125
+Removed Parameter Case-Metric:1608 from Part R126
+Removed Parameter Case-Metric:1608 from Part R127
+Removed Parameter PartNumber: from Part R123
+Removed Parameter PartNumber: from Part R124
+Removed Parameter PartNumber: from Part R125
+Removed Parameter PartNumber: from Part R126
+Removed Parameter PartNumber: from Part R127
+Removed Parameter Technology:SMT from Part R123
+Removed Parameter Technology:SMT from Part R124
+Removed Parameter Technology:SMT from Part R125
+Removed Parameter Technology:SMT from Part R126
+Removed Parameter Technology:SMT from Part R127
+Added Parameter Case/Package=0603/1608 to Part R123
+Added Parameter Case/Package=0603/1608 to Part R124
+Added Parameter Case/Package=0603/1608 to Part R125
+Added Parameter Case/Package=0603/1608 to Part R126
+Added Parameter Case/Package=0603/1608 to Part R127
+Added Parameter Composition=Thick film to Part R123
+Added Parameter Composition=Thick film to Part R124
+Added Parameter Composition=Thick film to Part R125
+Added Parameter Composition=Thick film to Part R126
+Added Parameter Composition=Thick film to Part R127
+Added Parameter Weight= to Part R123
+Added Parameter Weight= to Part R124
+Added Parameter Weight= to Part R125
+Added Parameter Weight= to Part R126
+Added Parameter Weight= to Part R127
+Update Managed Component R123 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [14] FPGA_SPI.SchDoc
+Update Managed Component R124 From CMP-1800-002045-3[10K ±1% 0603] To CMP-1800-002045-4[10K ±1% 0603] in [14] FPGA_SPI.SchDoc
+Update Managed Component R125 From CMP-1800-002045-3[10K ±1% 0603] To CMP-1800-002045-4[10K ±1% 0603] in [14] FPGA_SPI.SchDoc
+Update Managed Component R126 From CMP-1800-002045-3[10K ±1% 0603] To CMP-1800-002045-4[10K ±1% 0603] in [14] FPGA_SPI.SchDoc
+Update Managed Component R127 From CMP-1800-002045-3[10K ±1% 0603] To CMP-1800-002045-4[10K ±1% 0603] in [14] FPGA_SPI.SchDoc

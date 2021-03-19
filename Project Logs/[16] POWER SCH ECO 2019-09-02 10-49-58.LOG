@@ -1,0 +1,40 @@
+Removed Parameter Capacitance (F):1.0n from Part C202
+Removed Parameter Capacitance (F):1.0n from Part C205
+Removed Parameter Capacitance (F):100.0n from Part C203
+Removed Parameter Capacitance (F):100.0n from Part C204
+Removed Parameter PartNumber:GRM188R71H102KA01 from Part C202
+Removed Parameter PartNumber:GRM188R71H102KA01 from Part C205
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C203
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C204
+Removed Parameter Rated voltage (V):50 from Part C202
+Removed Parameter Rated voltage (V):50 from Part C203
+Removed Parameter Rated voltage (V):50 from Part C204
+Removed Parameter Rated voltage (V):50 from Part C205
+Removed Parameter Thickness (mm):0.90 from Part C202
+Removed Parameter Thickness (mm):0.90 from Part C203
+Removed Parameter Thickness (mm):0.90 from Part C204
+Removed Parameter Thickness (mm):0.90 from Part C205
+Change Value of Parameter Tolerance in Part C204 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C202 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C203 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C205 Old=±10% New=10%
+Added Parameter Capacitance=1nF to Part C202
+Added Parameter Capacitance=1nF to Part C205
+Added Parameter Capacitance=100nF to Part C203
+Added Parameter Capacitance=100nF to Part C204
+Added Parameter Rated Voltage=50V to Part C202
+Added Parameter Rated Voltage=50V to Part C203
+Added Parameter Rated Voltage=50V to Part C204
+Added Parameter Rated Voltage=50V to Part C205
+Added Parameter Thickness=900µm to Part C202
+Added Parameter Thickness=900µm to Part C203
+Added Parameter Thickness=900µm to Part C204
+Added Parameter Thickness=900µm to Part C205
+Added Parameter Weight=9mg to Part C202
+Added Parameter Weight=9mg to Part C203
+Added Parameter Weight=9mg to Part C204
+Added Parameter Weight=9mg to Part C205
+Update Managed Component C202 From CMP-0300-002637-1[1n0 50V 0603] To CMP-0300-002637-3[1n0 50V 0603] in [16] POWER.SchDoc
+Update Managed Component C203 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [16] POWER.SchDoc
+Update Managed Component C204 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [16] POWER.SchDoc
+Update Managed Component C205 From CMP-0300-002637-1[1n0 50V 0603] To CMP-0300-002637-3[1n0 50V 0603] in [16] POWER.SchDoc

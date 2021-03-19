@@ -1,0 +1,15 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 09:54:36 On 2020-02-18
+
+Output: Pick and place
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [0020-03_FFT2G.PcbDoc]
+   Generated File[0020-03_Pick and place.txt]
+   Generated File[0020-03_Pick and place.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 09:54:46 On 2020-02-18

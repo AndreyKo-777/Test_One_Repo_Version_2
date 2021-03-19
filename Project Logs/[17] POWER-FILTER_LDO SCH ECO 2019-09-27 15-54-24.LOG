@@ -1,0 +1,120 @@
+Removed Parameter Case-EIA:0603 from Part R31
+Removed Parameter Case-EIA:0603 from Part R32
+Removed Parameter Case-EIA:0603 from Part R33
+Removed Parameter Case-EIA:0603 from Part R34
+Removed Parameter Case-EIA:0603 from Part R35
+Removed Parameter Case-EIA:0603 from Part R36
+Removed Parameter Case-EIA:0603 from Part R38
+Removed Parameter Case-EIA:0603 from Part R39
+Removed Parameter Case-EIA:0603 from Part R40
+Removed Parameter Case-EIA:0603 from Part R41
+Removed Parameter Case-EIA:0603 from Part R42
+Removed Parameter Case-EIA:0603 from Part R43
+Removed Parameter Case-EIA:0603 from Part R44
+Removed Parameter Case-EIA:0603 from Part R45
+Removed Parameter Case-EIA:0603 from Part R46
+Removed Parameter Case-Metric:1608 from Part R31
+Removed Parameter Case-Metric:1608 from Part R32
+Removed Parameter Case-Metric:1608 from Part R33
+Removed Parameter Case-Metric:1608 from Part R34
+Removed Parameter Case-Metric:1608 from Part R35
+Removed Parameter Case-Metric:1608 from Part R36
+Removed Parameter Case-Metric:1608 from Part R38
+Removed Parameter Case-Metric:1608 from Part R39
+Removed Parameter Case-Metric:1608 from Part R40
+Removed Parameter Case-Metric:1608 from Part R41
+Removed Parameter Case-Metric:1608 from Part R42
+Removed Parameter Case-Metric:1608 from Part R43
+Removed Parameter Case-Metric:1608 from Part R44
+Removed Parameter Case-Metric:1608 from Part R45
+Removed Parameter Case-Metric:1608 from Part R46
+Removed Parameter PartNumber: from Part R31
+Removed Parameter PartNumber: from Part R32
+Removed Parameter PartNumber: from Part R33
+Removed Parameter PartNumber: from Part R34
+Removed Parameter PartNumber: from Part R35
+Removed Parameter PartNumber: from Part R36
+Removed Parameter PartNumber: from Part R38
+Removed Parameter PartNumber: from Part R39
+Removed Parameter PartNumber: from Part R40
+Removed Parameter PartNumber: from Part R41
+Removed Parameter PartNumber: from Part R42
+Removed Parameter PartNumber: from Part R43
+Removed Parameter PartNumber: from Part R44
+Removed Parameter PartNumber: from Part R45
+Removed Parameter PartNumber: from Part R46
+Removed Parameter Technology:SMT from Part R31
+Removed Parameter Technology:SMT from Part R32
+Removed Parameter Technology:SMT from Part R33
+Removed Parameter Technology:SMT from Part R34
+Removed Parameter Technology:SMT from Part R35
+Removed Parameter Technology:SMT from Part R36
+Removed Parameter Technology:SMT from Part R38
+Removed Parameter Technology:SMT from Part R39
+Removed Parameter Technology:SMT from Part R40
+Removed Parameter Technology:SMT from Part R41
+Removed Parameter Technology:SMT from Part R42
+Removed Parameter Technology:SMT from Part R43
+Removed Parameter Technology:SMT from Part R44
+Removed Parameter Technology:SMT from Part R45
+Removed Parameter Technology:SMT from Part R46
+Added Parameter Case/Package=0603/1608 to Part R31
+Added Parameter Case/Package=0603/1608 to Part R32
+Added Parameter Case/Package=0603/1608 to Part R33
+Added Parameter Case/Package=0603/1608 to Part R34
+Added Parameter Case/Package=0603/1608 to Part R35
+Added Parameter Case/Package=0603/1608 to Part R36
+Added Parameter Case/Package=0603/1608 to Part R38
+Added Parameter Case/Package=0603/1608 to Part R39
+Added Parameter Case/Package=0603/1608 to Part R40
+Added Parameter Case/Package=0603/1608 to Part R41
+Added Parameter Case/Package=0603/1608 to Part R42
+Added Parameter Case/Package=0603/1608 to Part R43
+Added Parameter Case/Package=0603/1608 to Part R44
+Added Parameter Case/Package=0603/1608 to Part R45
+Added Parameter Case/Package=0603/1608 to Part R46
+Added Parameter Composition=Thick film to Part R31
+Added Parameter Composition=Thick film to Part R32
+Added Parameter Composition=Thick film to Part R33
+Added Parameter Composition=Thick film to Part R34
+Added Parameter Composition=Thick film to Part R35
+Added Parameter Composition=Thick film to Part R36
+Added Parameter Composition=Thick film to Part R38
+Added Parameter Composition=Thick film to Part R39
+Added Parameter Composition=Thick film to Part R40
+Added Parameter Composition=Thick film to Part R41
+Added Parameter Composition=Thick film to Part R42
+Added Parameter Composition=Thick film to Part R43
+Added Parameter Composition=Thick film to Part R44
+Added Parameter Composition=Thick film to Part R45
+Added Parameter Composition=Thick film to Part R46
+Added Parameter Weight= to Part R31
+Added Parameter Weight= to Part R32
+Added Parameter Weight= to Part R33
+Added Parameter Weight= to Part R34
+Added Parameter Weight= to Part R35
+Added Parameter Weight= to Part R36
+Added Parameter Weight= to Part R38
+Added Parameter Weight= to Part R39
+Added Parameter Weight= to Part R40
+Added Parameter Weight= to Part R41
+Added Parameter Weight= to Part R42
+Added Parameter Weight= to Part R43
+Added Parameter Weight= to Part R44
+Added Parameter Weight= to Part R45
+Added Parameter Weight= to Part R46
+Update Managed Component R31 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component R32 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component R33 From CMP-1800-002031-3[2K7 ±1% 0603] To CMP-1800-002031-4[2K7 ±1% 0603] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component R34 From CMP-1800-002029-3[2K2 ±1% 0603] To CMP-1800-002029-4[2K2 ±1% 0603] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component R35 From CMP-1800-002021-3[1K0 ±1% 0603] To CMP-1800-002021-4[1K0 ±1% 0603] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component R36 From CMP-1800-002029-3[2K2 ±1% 0603] To CMP-1800-002029-4[2K2 ±1% 0603] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component R38 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component R39 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component R40 From CMP-1800-002031-3[2K7 ±1% 0603] To CMP-1800-002031-4[2K7 ±1% 0603] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component R41 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component R42 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component R43 From CMP-1800-002031-3[2K7 ±1% 0603] To CMP-1800-002031-4[2K7 ±1% 0603] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component R44 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component R45 From CMP-1800-002024-3[1K3 ±1% 0603] To CMP-1800-002024-4[1K3 ±1% 0603] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component R46 From CMP-1800-002031-3[2K7 ±1% 0603] To CMP-1800-002031-4[2K7 ±1% 0603] in [17] POWER-FILTER_LDO.SchDoc

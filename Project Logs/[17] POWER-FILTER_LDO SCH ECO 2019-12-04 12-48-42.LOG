@@ -1,0 +1,5 @@
+Change Value of Parameter DCL in Part C68 Old=33A New=52.8A
+Change Value of Parameter DF in Part C68 Old=8% New=30%
+Change Value of Parameter ESR in Part C68 Old=0.9 New=0.4
+Change Value of Parameter Rated Voltage in Part C68 Old=10V New=16V
+Update Managed Component C68 From CMP-0300-000208-6[330u 10V 7343-43] To CMP-0300-000208-6[330u 16V 7343-43] in [17] POWER-FILTER_LDO.SchDoc

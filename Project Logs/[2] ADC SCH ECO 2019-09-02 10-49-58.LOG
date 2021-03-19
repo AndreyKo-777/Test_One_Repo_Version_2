@@ -1,0 +1,45 @@
+Removed Parameter Capacitance (F):1.0n from Part C3
+Removed Parameter Capacitance (F):100.0n from Part C1
+Removed Parameter Capacitance (F):100.0n from Part C2
+Removed Parameter PartId:2 from Part U1
+Removed Parameter PartId:2 from Part U1
+Removed Parameter PartId:2 from Part U1
+Removed Parameter PartId:2 from Part U1
+Removed Parameter PartId:2 from Part U1
+Removed Parameter PartId:2 from Part U1
+Removed Parameter PartId:2 from Part U1
+Removed Parameter PartNumber:GRM188R71H102KA01 from Part C3
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C1
+Removed Parameter PartNumber:GRM188R71H104KA93 from Part C2
+Removed Parameter Rated voltage (V):50 from Part C1
+Removed Parameter Rated voltage (V):50 from Part C2
+Removed Parameter Rated voltage (V):50 from Part C3
+Removed Parameter Thickness (mm):0.90 from Part C1
+Removed Parameter Thickness (mm):0.90 from Part C2
+Removed Parameter Thickness (mm):0.90 from Part C3
+Change Value of Parameter Tolerance in Part C1 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C2 Old=±10% New=10%
+Change Value of Parameter Tolerance in Part C3 Old=±10% New=10%
+Added Parameter Capacitance=1nF to Part C3
+Added Parameter Capacitance=100nF to Part C1
+Added Parameter Capacitance=100nF to Part C2
+Added Parameter Rated Voltage=50V to Part C1
+Added Parameter Rated Voltage=50V to Part C2
+Added Parameter Rated Voltage=50V to Part C3
+Added Parameter Thickness=900µm to Part C1
+Added Parameter Thickness=900µm to Part C2
+Added Parameter Thickness=900µm to Part C3
+Added Parameter Weight=9mg to Part C1
+Added Parameter Weight=9mg to Part C2
+Added Parameter Weight=9mg to Part C3
+Update Managed Component C1 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [2] ADC.SchDoc
+Update Managed Component C2 From CMP-0300-002665-2[100n 50V 0603] To CMP-0300-002665-4[100n 50V 0603] in [2] ADC.SchDoc
+Update Managed Component C3 From CMP-0300-002637-1[1n0 50V 0603] To CMP-0300-002637-3[1n0 50V 0603] in [2] ADC.SchDoc
+Update Managed Component U1 From CMP-2100-000558-1[EV10AQ190AVTPY] To CMP-2100-000558-2[EV10AQ190AVTPY] in [2] ADC.SchDoc
+Update Managed Component U1 From CMP-2100-000558-1[EV10AQ190AVTPY] To CMP-2100-000558-2[EV10AQ190AVTPY] in [2] ADC.SchDoc
+Update Managed Component U1 From CMP-2100-000558-1[EV10AQ190AVTPY] To CMP-2100-000558-2[EV10AQ190AVTPY] in [2] ADC.SchDoc
+Update Managed Component U1 From CMP-2100-000558-1[EV10AQ190AVTPY] To CMP-2100-000558-2[EV10AQ190AVTPY] in [2] ADC.SchDoc
+Update Managed Component U1 From CMP-2100-000558-1[EV10AQ190AVTPY] To CMP-2100-000558-2[EV10AQ190AVTPY] in [2] ADC.SchDoc
+Update Managed Component U1 From CMP-2100-000558-1[EV10AQ190AVTPY] To CMP-2100-000558-2[EV10AQ190AVTPY] in [2] ADC.SchDoc
+Update Managed Component U1 From CMP-2100-000558-1[EV10AQ190AVTPY] To CMP-2100-000558-2[EV10AQ190AVTPY] in [2] ADC.SchDoc
+Update Managed Component U1 From CMP-2100-000558-1[EV10AQ190AVTPY] To CMP-2100-000558-2[EV10AQ190AVTPY] in [2] ADC.SchDoc

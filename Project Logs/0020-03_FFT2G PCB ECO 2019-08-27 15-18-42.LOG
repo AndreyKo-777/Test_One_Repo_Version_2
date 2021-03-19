@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=J20.1-1
+Removed Pin From Net: NetName=GND Pin=U30.1-A7
+Added Component: Designator=P21(NETTIE_0.15MM)
+Added Pin To Net: NetName=GND Pin=P21-1
+Added Pin To Net: NetName=TS-.1 Pin=J20.1-1
+Added Pin To Net: NetName=TS-.1 Pin=P21-2
+Added Pin To Net: NetName=TS-.1 Pin=U30.1-A7
+Added Net: Name=TS-.1
+Added Member To Class: ClassName=POWER Member=Component P21 0.15mm Nettie

@@ -1,0 +1,42 @@
+Removed Parameter Code_IPC: from Part U18
+Removed Parameter Code_JEDEC: from Part U18
+Removed Parameter Code_JEITA: from Part U18
+Removed Parameter ComponentLink1Description:Datasheet URL from Part U18
+Removed Parameter ComponentLink1URL:http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=LM385-1.2-N&fileType=pdf from Part U18
+Removed Parameter CompType:Voltage Reference IC from Part U18
+Removed Parameter DatasheetVersion:Jan-2008 from Part U18
+Removed Parameter High-Reliability: from Part U18
+Removed Parameter Manufacturer:Texas Instruments from Part U18
+Removed Parameter PackageDescription:Molded SOT-23, .115 x .051 x .037in Body, 3 Lead, .075 in Pitch from Part U18
+Removed Parameter PackageReference:DBZ0003A from Part U18
+Removed Parameter PackageTopMarking:R11*XTT from Part U18
+Removed Parameter PackageVersion:revB, Mar-2003 from Part U18
+Removed Parameter PinCount:3 from Part U18
+Removed Parameter PowerWise:N from Part U18
+Removed Parameter RevisionNote:Component URLs added from Part U18
+Removed Parameter RoHS:Y from Part U18
+Added Parameter Case/Package=SOT-23 to Part U18
+Added Parameter Current Rating=10mA to Part U18
+Added Parameter Height=0.93mm to Part U18
+Added Parameter Lead Free=Lead Free to Part U18
+Added Parameter Length=2.92mm to Part U18
+Added Parameter Max Input Voltage=1.235V to Part U18
+Added Parameter Max Operating Temperature=70°C to Part U18
+Added Parameter Max Output Current=20mA to Part U18
+Added Parameter Max Output Voltage=1.235V to Part U18
+Added Parameter Min Operating Temperature=0°C to Part U18
+Added Parameter Mount=Surface Mount to Part U18
+Added Parameter Nominal Supply Current=10uA to Part U18
+Added Parameter Number of Pins=3 to Part U18
+Added Parameter Output Current=20mA to Part U18
+Added Parameter Output Voltage=1.235V to Part U18
+Added Parameter Package Quantity=1000 to Part U18
+Added Parameter Packaging=Tape and Reel to Part U18
+Added Parameter Radiation Hardening=No to Part U18
+Added Parameter REACH SVHC=No SVHC to Part U18
+Added Parameter Reference Type=Shunt,Fixed to Part U18
+Added Parameter Reference Voltage=1.235V to Part U18
+Added Parameter Temperature Coefficient=150ppm/°C to Part U18
+Added Parameter Tolerance=2% to Part U18
+Added Parameter Width=1.3mm to Part U18
+Update Managed Component U18 From CMP-2100-000587-1[LM385M3-1.2/NOPB] To CMP-2100-000587-1[LM385M3-1.2/NOPB] in [5] ADC_CURRENT_PUMP.SchDoc

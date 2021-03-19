@@ -1,0 +1,207 @@
+Change Component DesignItemId : Designator=C185 Old DesignItemId=CMP-0300-002153-2 New DesignItemId=CMP-0300-002153-3
+Change Component DesignItemId : Designator=C195.1 Old DesignItemId=CMP-0300-003004-3 New DesignItemId=CMP-0300-003004-4
+Change Component DesignItemId : Designator=C195.2 Old DesignItemId=CMP-0300-003004-3 New DesignItemId=CMP-0300-003004-4
+Change Component DesignItemId : Designator=C195.3 Old DesignItemId=CMP-0300-003004-3 New DesignItemId=CMP-0300-003004-4
+Change Component DesignItemId : Designator=C195.4 Old DesignItemId=CMP-0300-003004-3 New DesignItemId=CMP-0300-003004-4
+Change Component DesignItemId : Designator=C187.1 Old DesignItemId=CMP-0300-003910-3 New DesignItemId=CMP-0300-003910-4
+Change Component DesignItemId : Designator=C187.2 Old DesignItemId=CMP-0300-003910-3 New DesignItemId=CMP-0300-003910-4
+Change Component DesignItemId : Designator=C187.3 Old DesignItemId=CMP-0300-003910-3 New DesignItemId=CMP-0300-003910-4
+Change Component DesignItemId : Designator=C187.4 Old DesignItemId=CMP-0300-003910-3 New DesignItemId=CMP-0300-003910-4
+Change Component DesignItemId : Designator=C188.1 Old DesignItemId=CMP-0300-003910-3 New DesignItemId=CMP-0300-003910-4
+Change Component DesignItemId : Designator=C188.2 Old DesignItemId=CMP-0300-003910-3 New DesignItemId=CMP-0300-003910-4
+Change Component DesignItemId : Designator=C188.3 Old DesignItemId=CMP-0300-003910-3 New DesignItemId=CMP-0300-003910-4
+Change Component DesignItemId : Designator=C188.4 Old DesignItemId=CMP-0300-003910-3 New DesignItemId=CMP-0300-003910-4
+Change Component DesignItemId : Designator=C189 Old DesignItemId=CMP-0300-003910-3 New DesignItemId=CMP-0300-003910-4
+Change Component DesignItemId : Designator=C190 Old DesignItemId=CMP-0300-003910-3 New DesignItemId=CMP-0300-003910-4
+Change Component DesignItemId : Designator=C191 Old DesignItemId=CMP-0300-003910-3 New DesignItemId=CMP-0300-003910-4
+Change Component DesignItemId : Designator=C192 Old DesignItemId=CMP-0300-003910-3 New DesignItemId=CMP-0300-003910-4
+Change Component DesignItemId : Designator=J19 Old DesignItemId=CMP-1000-000509-2 New DesignItemId=CMP-1000-000509-3
+Change Component Footprint: Designator=C185 Old Footprint=CAPC3225X270N New Footprint=CAPC3225X270N
+Change Component Footprint: Designator=C187.1 Old Footprint=CAPC3225X270N New Footprint=CAPC3225X270N
+Change Component Footprint: Designator=C187.2 Old Footprint=CAPC3225X270N New Footprint=CAPC3225X270N
+Change Component Footprint: Designator=C187.3 Old Footprint=CAPC3225X270N New Footprint=CAPC3225X270N
+Change Component Footprint: Designator=C187.4 Old Footprint=CAPC3225X270N New Footprint=CAPC3225X270N
+Change Component Footprint: Designator=C188.1 Old Footprint=CAPC3225X270N New Footprint=CAPC3225X270N
+Change Component Footprint: Designator=C188.2 Old Footprint=CAPC3225X270N New Footprint=CAPC3225X270N
+Change Component Footprint: Designator=C188.3 Old Footprint=CAPC3225X270N New Footprint=CAPC3225X270N
+Change Component Footprint: Designator=C188.4 Old Footprint=CAPC3225X270N New Footprint=CAPC3225X270N
+Change Component Footprint: Designator=C189 Old Footprint=CAPC3225X270N New Footprint=CAPC3225X270N
+Change Component Footprint: Designator=C190 Old Footprint=CAPC3225X270N New Footprint=CAPC3225X270N
+Change Component Footprint: Designator=C191 Old Footprint=CAPC3225X270N New Footprint=CAPC3225X270N
+Change Component Footprint: Designator=C192 Old Footprint=CAPC3225X270N New Footprint=CAPC3225X270N
+Change Component Footprint: Designator=C195.1 Old Footprint=CAPC3225X270N New Footprint=CAPC3225X270N
+Change Component Footprint: Designator=C195.2 Old Footprint=CAPC3225X270N New Footprint=CAPC3225X270N
+Change Component Footprint: Designator=C195.3 Old Footprint=CAPC3225X270N New Footprint=CAPC3225X270N
+Change Component Footprint: Designator=C195.4 Old Footprint=CAPC3225X270N New Footprint=CAPC3225X270N
+Change Component Footprint: Designator=J19 Old Footprint=TC2050-IDC without connector New Footprint=TC2050-IDC without connector
+Change Managed Component Library Link : Designator=C185 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=6391E4AE-722A-438A-B644-EF9FD788A437 New ItemGUID=6391E4AE-722A-438A-B644-EF9FD788A437 Old RevisionGUID=7E67CAD2-99F2-47A0-8886-33D78F8E6A09 New RevisionGUID=145F25E3-0CE0-4EA2-93CA-B215FF0474EB
+Change Managed Component Library Link : Designator=C187.1 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=8322A830-D116-4FF2-922A-33C6A0B6D11A New ItemGUID=8322A830-D116-4FF2-922A-33C6A0B6D11A Old RevisionGUID=1687E70B-F4B4-484C-8FD4-5823ABF47EBA New RevisionGUID=CD09A7C7-992B-42AA-9249-C7B3771381E5
+Change Managed Component Library Link : Designator=C187.2 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=8322A830-D116-4FF2-922A-33C6A0B6D11A New ItemGUID=8322A830-D116-4FF2-922A-33C6A0B6D11A Old RevisionGUID=1687E70B-F4B4-484C-8FD4-5823ABF47EBA New RevisionGUID=CD09A7C7-992B-42AA-9249-C7B3771381E5
+Change Managed Component Library Link : Designator=C187.3 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=8322A830-D116-4FF2-922A-33C6A0B6D11A New ItemGUID=8322A830-D116-4FF2-922A-33C6A0B6D11A Old RevisionGUID=1687E70B-F4B4-484C-8FD4-5823ABF47EBA New RevisionGUID=CD09A7C7-992B-42AA-9249-C7B3771381E5
+Change Managed Component Library Link : Designator=C187.4 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=8322A830-D116-4FF2-922A-33C6A0B6D11A New ItemGUID=8322A830-D116-4FF2-922A-33C6A0B6D11A Old RevisionGUID=1687E70B-F4B4-484C-8FD4-5823ABF47EBA New RevisionGUID=CD09A7C7-992B-42AA-9249-C7B3771381E5
+Change Managed Component Library Link : Designator=C188.1 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=8322A830-D116-4FF2-922A-33C6A0B6D11A New ItemGUID=8322A830-D116-4FF2-922A-33C6A0B6D11A Old RevisionGUID=1687E70B-F4B4-484C-8FD4-5823ABF47EBA New RevisionGUID=CD09A7C7-992B-42AA-9249-C7B3771381E5
+Change Managed Component Library Link : Designator=C188.2 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=8322A830-D116-4FF2-922A-33C6A0B6D11A New ItemGUID=8322A830-D116-4FF2-922A-33C6A0B6D11A Old RevisionGUID=1687E70B-F4B4-484C-8FD4-5823ABF47EBA New RevisionGUID=CD09A7C7-992B-42AA-9249-C7B3771381E5
+Change Managed Component Library Link : Designator=C188.3 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=8322A830-D116-4FF2-922A-33C6A0B6D11A New ItemGUID=8322A830-D116-4FF2-922A-33C6A0B6D11A Old RevisionGUID=1687E70B-F4B4-484C-8FD4-5823ABF47EBA New RevisionGUID=CD09A7C7-992B-42AA-9249-C7B3771381E5
+Change Managed Component Library Link : Designator=C188.4 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=8322A830-D116-4FF2-922A-33C6A0B6D11A New ItemGUID=8322A830-D116-4FF2-922A-33C6A0B6D11A Old RevisionGUID=1687E70B-F4B4-484C-8FD4-5823ABF47EBA New RevisionGUID=CD09A7C7-992B-42AA-9249-C7B3771381E5
+Change Managed Component Library Link : Designator=C189 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=8322A830-D116-4FF2-922A-33C6A0B6D11A New ItemGUID=8322A830-D116-4FF2-922A-33C6A0B6D11A Old RevisionGUID=1687E70B-F4B4-484C-8FD4-5823ABF47EBA New RevisionGUID=CD09A7C7-992B-42AA-9249-C7B3771381E5
+Change Managed Component Library Link : Designator=C190 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=8322A830-D116-4FF2-922A-33C6A0B6D11A New ItemGUID=8322A830-D116-4FF2-922A-33C6A0B6D11A Old RevisionGUID=1687E70B-F4B4-484C-8FD4-5823ABF47EBA New RevisionGUID=CD09A7C7-992B-42AA-9249-C7B3771381E5
+Change Managed Component Library Link : Designator=C191 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=8322A830-D116-4FF2-922A-33C6A0B6D11A New ItemGUID=8322A830-D116-4FF2-922A-33C6A0B6D11A Old RevisionGUID=1687E70B-F4B4-484C-8FD4-5823ABF47EBA New RevisionGUID=CD09A7C7-992B-42AA-9249-C7B3771381E5
+Change Managed Component Library Link : Designator=C192 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=8322A830-D116-4FF2-922A-33C6A0B6D11A New ItemGUID=8322A830-D116-4FF2-922A-33C6A0B6D11A Old RevisionGUID=1687E70B-F4B4-484C-8FD4-5823ABF47EBA New RevisionGUID=CD09A7C7-992B-42AA-9249-C7B3771381E5
+Change Managed Component Library Link : Designator=C195.1 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=9065F9C5-5744-4CD2-9C34-FDBC5C9B1839 New ItemGUID=9065F9C5-5744-4CD2-9C34-FDBC5C9B1839 Old RevisionGUID=87802CE4-6426-482E-B12E-96300CBEBBE9 New RevisionGUID=D9E0CDDC-09CA-41B5-84B4-E1C760317485
+Change Managed Component Library Link : Designator=C195.2 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=9065F9C5-5744-4CD2-9C34-FDBC5C9B1839 New ItemGUID=9065F9C5-5744-4CD2-9C34-FDBC5C9B1839 Old RevisionGUID=87802CE4-6426-482E-B12E-96300CBEBBE9 New RevisionGUID=D9E0CDDC-09CA-41B5-84B4-E1C760317485
+Change Managed Component Library Link : Designator=C195.3 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=9065F9C5-5744-4CD2-9C34-FDBC5C9B1839 New ItemGUID=9065F9C5-5744-4CD2-9C34-FDBC5C9B1839 Old RevisionGUID=87802CE4-6426-482E-B12E-96300CBEBBE9 New RevisionGUID=D9E0CDDC-09CA-41B5-84B4-E1C760317485
+Change Managed Component Library Link : Designator=C195.4 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=9065F9C5-5744-4CD2-9C34-FDBC5C9B1839 New ItemGUID=9065F9C5-5744-4CD2-9C34-FDBC5C9B1839 Old RevisionGUID=87802CE4-6426-482E-B12E-96300CBEBBE9 New RevisionGUID=D9E0CDDC-09CA-41B5-84B4-E1C760317485
+Change Managed Component Library Link : Designator=J19 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=0B4235C9-5D4C-4D4E-9FDC-855EC5D732BB New ItemGUID=0B4235C9-5D4C-4D4E-9FDC-855EC5D732BB Old RevisionGUID=22221541-dde0-499c-9533-a94eaaecbdd7 New RevisionGUID=fd88c1c1-812e-4283-835f-c0419403c1c2
+Change component parameters: Designator = "C185" ("C185"); Footprint = "CAPC3225X270N"; UniqueID = "\LSFQQERN\GSPAMQCW" ("\LSFQQERN\GSPAMQCW")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "4.7µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "1210/3225"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "2.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C187.1" ("C187"); Footprint = "CAPC3225X270N"; UniqueID = "\LSFQQERN\FGGLTWQK\FFGGIQGO" ("\LSFQQERN\FGGLTWQK\FFGGIQGO")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "47µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "1210/3225"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "2.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C187.2" ("C187"); Footprint = "CAPC3225X270N"; UniqueID = "\LSFQQERN\LJNKNUYR\FFGGIQGO" ("\LSFQQERN\LJNKNUYR\FFGGIQGO")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "47µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "1210/3225"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "2.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C187.3" ("C187"); Footprint = "CAPC3225X270N"; UniqueID = "\LSFQQERN\KDCZMNRZ\FFGGIQGO" ("\LSFQQERN\KDCZMNRZ\FFGGIQGO")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "47µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "1210/3225"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "2.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C187.4" ("C187"); Footprint = "CAPC3225X270N"; UniqueID = "\LSFQQERN\HOLPUNGC\FFGGIQGO" ("\LSFQQERN\HOLPUNGC\FFGGIQGO")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "47µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "1210/3225"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "2.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C188.1" ("C188"); Footprint = "CAPC3225X270N"; UniqueID = "\LSFQQERN\FGGLTWQK\WPHKSFSA" ("\LSFQQERN\FGGLTWQK\WPHKSFSA")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "47µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "1210/3225"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "2.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C188.2" ("C188"); Footprint = "CAPC3225X270N"; UniqueID = "\LSFQQERN\LJNKNUYR\WPHKSFSA" ("\LSFQQERN\LJNKNUYR\WPHKSFSA")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "47µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "1210/3225"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "2.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C188.3" ("C188"); Footprint = "CAPC3225X270N"; UniqueID = "\LSFQQERN\KDCZMNRZ\WPHKSFSA" ("\LSFQQERN\KDCZMNRZ\WPHKSFSA")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "47µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "1210/3225"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "2.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C188.4" ("C188"); Footprint = "CAPC3225X270N"; UniqueID = "\LSFQQERN\HOLPUNGC\WPHKSFSA" ("\LSFQQERN\HOLPUNGC\WPHKSFSA")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "47µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "1210/3225"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "2.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C189" ("C189"); Footprint = "CAPC3225X270N"; UniqueID = "\OCXTZITR\REAQTCAG\RVYQWTFG" ("\OCXTZITR\REAQTCAG\RVYQWTFG")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "47µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "1210/3225"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "2.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C190" ("C190"); Footprint = "CAPC3225X270N"; UniqueID = "\OCXTZITR\REAQTCAG\FSOORKTT" ("\OCXTZITR\REAQTCAG\FSOORKTT")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "47µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "1210/3225"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "2.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C191" ("C191"); Footprint = "CAPC3225X270N"; UniqueID = "\OCXTZITR\REAQTCAG\MHFRKRWO" ("\OCXTZITR\REAQTCAG\MHFRKRWO")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "47µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "1210/3225"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "2.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C192" ("C192"); Footprint = "CAPC3225X270N"; UniqueID = "\OCXTZITR\REAQTCAG\YWBMZGGI" ("\OCXTZITR\REAQTCAG\YWBMZGGI")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "47µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "1210/3225"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "2.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C195.1" ("C195"); Footprint = "CAPC3225X270N"; UniqueID = "\LSFQQERN\FGGLTWQK\SGVWDJUF" ("\LSFQQERN\FGGLTWQK\SGVWDJUF")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "22µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "1210/3225"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "2.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C195.2" ("C195"); Footprint = "CAPC3225X270N"; UniqueID = "\LSFQQERN\LJNKNUYR\SGVWDJUF" ("\LSFQQERN\LJNKNUYR\SGVWDJUF")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "22µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "1210/3225"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "2.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C195.3" ("C195"); Footprint = "CAPC3225X270N"; UniqueID = "\LSFQQERN\KDCZMNRZ\SGVWDJUF" ("\LSFQQERN\KDCZMNRZ\SGVWDJUF")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "22µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "1210/3225"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "2.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C195.4" ("C195"); Footprint = "CAPC3225X270N"; UniqueID = "\LSFQQERN\HOLPUNGC\SGVWDJUF" ("\LSFQQERN\HOLPUNGC\SGVWDJUF")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "22µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "1210/3225"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "2.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = ""; VariantName = "[No Variations]"

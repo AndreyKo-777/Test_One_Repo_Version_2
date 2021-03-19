@@ -1,0 +1,128 @@
+Removed Parameter Case-EIA:0603 from Part R84
+Removed Parameter Case-EIA:0603 from Part R85
+Removed Parameter Case-EIA:0603 from Part R86
+Removed Parameter Case-EIA:0603 from Part R87
+Removed Parameter Case-EIA:0603 from Part R88
+Removed Parameter Case-EIA:0603 from Part R89
+Removed Parameter Case-EIA:0603 from Part R90
+Removed Parameter Case-EIA:0603 from Part R91
+Removed Parameter Case-EIA:0603 from Part R92
+Removed Parameter Case-EIA:0603 from Part R93
+Removed Parameter Case-EIA:0603 from Part R94
+Removed Parameter Case-EIA:0603 from Part R95
+Removed Parameter Case-EIA:0603 from Part R96
+Removed Parameter Case-EIA:0603 from Part R97
+Removed Parameter Case-EIA:0603 from Part R98
+Removed Parameter Case-EIA:0603 from Part R99
+Removed Parameter Case-Metric:1608 from Part R84
+Removed Parameter Case-Metric:1608 from Part R85
+Removed Parameter Case-Metric:1608 from Part R86
+Removed Parameter Case-Metric:1608 from Part R87
+Removed Parameter Case-Metric:1608 from Part R88
+Removed Parameter Case-Metric:1608 from Part R89
+Removed Parameter Case-Metric:1608 from Part R90
+Removed Parameter Case-Metric:1608 from Part R91
+Removed Parameter Case-Metric:1608 from Part R92
+Removed Parameter Case-Metric:1608 from Part R93
+Removed Parameter Case-Metric:1608 from Part R94
+Removed Parameter Case-Metric:1608 from Part R95
+Removed Parameter Case-Metric:1608 from Part R96
+Removed Parameter Case-Metric:1608 from Part R97
+Removed Parameter Case-Metric:1608 from Part R98
+Removed Parameter Case-Metric:1608 from Part R99
+Removed Parameter PartNumber: from Part R84
+Removed Parameter PartNumber: from Part R85
+Removed Parameter PartNumber: from Part R86
+Removed Parameter PartNumber: from Part R87
+Removed Parameter PartNumber: from Part R88
+Removed Parameter PartNumber: from Part R89
+Removed Parameter PartNumber: from Part R90
+Removed Parameter PartNumber: from Part R91
+Removed Parameter PartNumber: from Part R92
+Removed Parameter PartNumber: from Part R93
+Removed Parameter PartNumber: from Part R94
+Removed Parameter PartNumber: from Part R95
+Removed Parameter PartNumber: from Part R96
+Removed Parameter PartNumber: from Part R97
+Removed Parameter PartNumber: from Part R98
+Removed Parameter PartNumber: from Part R99
+Removed Parameter Technology:SMT from Part R84
+Removed Parameter Technology:SMT from Part R85
+Removed Parameter Technology:SMT from Part R86
+Removed Parameter Technology:SMT from Part R87
+Removed Parameter Technology:SMT from Part R88
+Removed Parameter Technology:SMT from Part R89
+Removed Parameter Technology:SMT from Part R90
+Removed Parameter Technology:SMT from Part R91
+Removed Parameter Technology:SMT from Part R92
+Removed Parameter Technology:SMT from Part R93
+Removed Parameter Technology:SMT from Part R94
+Removed Parameter Technology:SMT from Part R95
+Removed Parameter Technology:SMT from Part R96
+Removed Parameter Technology:SMT from Part R97
+Removed Parameter Technology:SMT from Part R98
+Removed Parameter Technology:SMT from Part R99
+Added Parameter Case/Package=0603/1608 to Part R84
+Added Parameter Case/Package=0603/1608 to Part R85
+Added Parameter Case/Package=0603/1608 to Part R86
+Added Parameter Case/Package=0603/1608 to Part R87
+Added Parameter Case/Package=0603/1608 to Part R88
+Added Parameter Case/Package=0603/1608 to Part R89
+Added Parameter Case/Package=0603/1608 to Part R90
+Added Parameter Case/Package=0603/1608 to Part R91
+Added Parameter Case/Package=0603/1608 to Part R92
+Added Parameter Case/Package=0603/1608 to Part R93
+Added Parameter Case/Package=0603/1608 to Part R94
+Added Parameter Case/Package=0603/1608 to Part R95
+Added Parameter Case/Package=0603/1608 to Part R96
+Added Parameter Case/Package=0603/1608 to Part R97
+Added Parameter Case/Package=0603/1608 to Part R98
+Added Parameter Case/Package=0603/1608 to Part R99
+Added Parameter Composition=Thick film to Part R84
+Added Parameter Composition=Thick film to Part R85
+Added Parameter Composition=Thick film to Part R86
+Added Parameter Composition=Thick film to Part R87
+Added Parameter Composition=Thick film to Part R88
+Added Parameter Composition=Thick film to Part R89
+Added Parameter Composition=Thick film to Part R90
+Added Parameter Composition=Thick film to Part R91
+Added Parameter Composition=Thick film to Part R92
+Added Parameter Composition=Thick film to Part R93
+Added Parameter Composition=Thick film to Part R94
+Added Parameter Composition=Thick film to Part R95
+Added Parameter Composition=Thick film to Part R96
+Added Parameter Composition=Thick film to Part R97
+Added Parameter Composition=Thick film to Part R98
+Added Parameter Composition=Thick film to Part R99
+Added Parameter Weight= to Part R84
+Added Parameter Weight= to Part R85
+Added Parameter Weight= to Part R86
+Added Parameter Weight= to Part R87
+Added Parameter Weight= to Part R88
+Added Parameter Weight= to Part R89
+Added Parameter Weight= to Part R90
+Added Parameter Weight= to Part R91
+Added Parameter Weight= to Part R92
+Added Parameter Weight= to Part R93
+Added Parameter Weight= to Part R94
+Added Parameter Weight= to Part R95
+Added Parameter Weight= to Part R96
+Added Parameter Weight= to Part R97
+Added Parameter Weight= to Part R98
+Added Parameter Weight= to Part R99
+Update Managed Component R84 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [9] FPGA_ADC_N.SchDoc
+Update Managed Component R85 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [9] FPGA_ADC_N.SchDoc
+Update Managed Component R86 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [9] FPGA_ADC_N.SchDoc
+Update Managed Component R87 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [9] FPGA_ADC_N.SchDoc
+Update Managed Component R88 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [9] FPGA_ADC_N.SchDoc
+Update Managed Component R89 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [9] FPGA_ADC_N.SchDoc
+Update Managed Component R90 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [9] FPGA_ADC_N.SchDoc
+Update Managed Component R91 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [9] FPGA_ADC_N.SchDoc
+Update Managed Component R92 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [9] FPGA_ADC_N.SchDoc
+Update Managed Component R93 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [9] FPGA_ADC_N.SchDoc
+Update Managed Component R94 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [9] FPGA_ADC_N.SchDoc
+Update Managed Component R95 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [9] FPGA_ADC_N.SchDoc
+Update Managed Component R96 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [9] FPGA_ADC_N.SchDoc
+Update Managed Component R97 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [9] FPGA_ADC_N.SchDoc
+Update Managed Component R98 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [9] FPGA_ADC_N.SchDoc
+Update Managed Component R99 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [9] FPGA_ADC_N.SchDoc

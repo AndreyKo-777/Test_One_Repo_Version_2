@@ -1,0 +1,7 @@
+Removed Parameter Case-EIA:0805 from Part R63
+Removed Parameter Case-Metric:2012 from Part R63
+Removed Parameter PartNumber: from Part R63
+Removed Parameter Technology:SMT from Part R63
+Added Parameter Case/Package=0805/2012 to Part R63
+Added Parameter Composition=Thick film to Part R63
+Update Managed Component R63 From CMP-1800-000000-3[0R0 Jumper] To CMP-1800-000000-4[0R0 Jumper] in [2] ADC.SchDoc

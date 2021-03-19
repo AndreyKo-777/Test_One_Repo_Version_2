@@ -1,0 +1,24 @@
+Removed Parameter Package:3225/1210 from Part C189
+Removed Parameter Package:3225/1210 from Part C190
+Removed Parameter Package:3225/1210 from Part C191
+Removed Parameter Package:3225/1210 from Part C192
+Removed Parameter Rated Voltgae:10V from Part C189
+Removed Parameter Rated Voltgae:10V from Part C190
+Removed Parameter Rated Voltgae:10V from Part C191
+Removed Parameter Rated Voltgae:10V from Part C192
+Change Value of Parameter PartNumber in Part C192 Old=GRM32ER71A476KE15 New=
+Change Value of Parameter PartNumber in Part C191 Old=GRM32ER71A476KE15 New=
+Change Value of Parameter PartNumber in Part C190 Old=GRM32ER71A476KE15 New=
+Change Value of Parameter PartNumber in Part C189 Old=GRM32ER71A476KE15 New=
+Added Parameter Case/Package=1210/3225 to Part C189
+Added Parameter Case/Package=1210/3225 to Part C190
+Added Parameter Case/Package=1210/3225 to Part C191
+Added Parameter Case/Package=1210/3225 to Part C192
+Added Parameter Rated Voltage=10V to Part C189
+Added Parameter Rated Voltage=10V to Part C190
+Added Parameter Rated Voltage=10V to Part C191
+Added Parameter Rated Voltage=10V to Part C192
+Update Managed Component C189 From CMP-0300-003910-3[47u 10V 1210] To CMP-0300-003910-4[47u 10V 1210] in [13] FPGA_PWR.SchDoc
+Update Managed Component C190 From CMP-0300-003910-3[47u 10V 1210] To CMP-0300-003910-4[47u 10V 1210] in [13] FPGA_PWR.SchDoc
+Update Managed Component C191 From CMP-0300-003910-3[47u 10V 1210] To CMP-0300-003910-4[47u 10V 1210] in [13] FPGA_PWR.SchDoc
+Update Managed Component C192 From CMP-0300-003910-3[47u 10V 1210] To CMP-0300-003910-4[47u 10V 1210] in [13] FPGA_PWR.SchDoc

@@ -1,0 +1,573 @@
+Removed Pin From Net: NetName=EXT_GND Pin=C186.4-1
+Removed Pin From Net: NetName=EXT_GND Pin=C220-1
+Removed Pin From Net: NetName=EXT_GND Pin=C221-1
+Removed Pin From Net: NetName=EXT_GND Pin=C225-1
+Removed Pin From Net: NetName=EXT_GND Pin=C228-2
+Removed Pin From Net: NetName=EXT_GND Pin=F7-3
+Removed Pin From Net: NetName=EXT_GND Pin=F8-3
+Removed Pin From Net: NetName=EXT_GND Pin=F9-3
+Removed Pin From Net: NetName=EXT_GND Pin=F10-3
+Removed Pin From Net: NetName=EXT_GND Pin=F11-3
+Removed Pin From Net: NetName=EXT_GND Pin=L6-2
+Removed Pin From Net: NetName=EXT_GND Pin=R133.4-2
+Removed Pin From Net: NetName=EXT_GND Pin=R134.4-2
+Removed Pin From Net: NetName=EXT_GND Pin=R138.3-1
+Removed Pin From Net: NetName=EXT_GND Pin=R140.3-2
+Removed Pin From Net: NetName=EXT_GND Pin=U34-3
+Change Component Description : Designator=R30 Old Description=0R01 ±1% ±100 ppm/°C 0.25W 200V 1206 (3216 metric) New Description=0R01 ±1% ±100 ppm/°C 0.25W 200V 1206 (3216 metric)
+Change Component Description : Designator=R37 Old Description=0R01 ±1% ±100 ppm/°C 0.25W 200V 1206 (3216 metric) New Description=0R01 ±1% ±100 ppm/°C 0.25W 200V 1206 (3216 metric)
+Change Component Description : Designator=R35 Old Description=1K0 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=1K0 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R80.1 Old Description=1K0 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=1K0 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R80.2 Old Description=1K0 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=1K0 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R157 Old Description=1K0 ±1% ±100 ppm/°C 0.25W 200V 1206 (3216 metric) New Description=1K0 ±1% ±100 ppm/°C 0.25W 200V 1206 (3216 metric)
+Change Component Description : Designator=R174 Old Description=1K0 ±1% ±100 ppm/°C 0.25W 200V 1206 (3216 metric) New Description=1K0 ±1% ±100 ppm/°C 0.25W 200V 1206 (3216 metric)
+Change Component Description : Designator=R146 Old Description=1K0 ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=1K0 ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R14 Old Description=1K2 ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=1K2 ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R45 Old Description=1K3 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=1K3 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R141 Old Description=1R0 ±1% ±100 ppm/°C 1W 500V 2512 (6332 metric) New Description=1R0 ±1% ±100 ppm/°C 1W 500V 2512 (6332 metric)
+Change Component Description : Designator=R158 Old Description=1R0 ±1% ±100 ppm/°C 1W 500V 2512 (6332 metric) New Description=1R0 ±1% ±100 ppm/°C 1W 500V 2512 (6332 metric)
+Change Component Description : Designator=R51 Old Description=2K0 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=2K0 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R53 Old Description=2K0 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=2K0 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R54 Old Description=2K0 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=2K0 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R55 Old Description=2K0 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=2K0 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R56 Old Description=2K0 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=2K0 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R57 Old Description=2K0 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=2K0 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R153 Old Description=2K0 ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=2K0 ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R168 Old Description=2K0 ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=2K0 ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R23 Old Description=2K2 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=2K2 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R34 Old Description=2K2 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=2K2 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R36 Old Description=2K2 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=2K2 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R13 Old Description=2K4 ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=2K4 ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R33 Old Description=2K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=2K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R40 Old Description=2K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=2K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R43 Old Description=2K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=2K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R46 Old Description=2K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=2K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R143 Old Description=3R3 ±1% ±200 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=3R3 ±1% ±200 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R144 Old Description=3R3 ±1% ±200 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=3R3 ±1% ±200 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R147 Old Description=3R3 ±1% ±200 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=3R3 ±1% ±200 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R148 Old Description=3R3 ±1% ±200 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=3R3 ±1% ±200 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R160 Old Description=3R3 ±1% ±200 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=3R3 ±1% ±200 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R161 Old Description=3R3 ±1% ±200 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=3R3 ±1% ±200 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R164 Old Description=3R3 ±1% ±200 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=3R3 ±1% ±200 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R165 Old Description=3R3 ±1% ±200 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=3R3 ±1% ±200 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R142 Old Description=3R9 ±1% ±100 ppm/°C 0.25W 200V 1206 (3216 metric) New Description=3R9 ±1% ±100 ppm/°C 0.25W 200V 1206 (3216 metric)
+Change Component Description : Designator=R159 Old Description=3R9 ±1% ±100 ppm/°C 0.25W 200V 1206 (3216 metric) New Description=3R9 ±1% ±100 ppm/°C 0.25W 200V 1206 (3216 metric)
+Change Component Description : Designator=R31 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R32 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R38 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R39 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R41 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R42 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R44 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R58.1 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R58.2 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R59.1 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R59.2 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R60.1 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R60.2 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R61.1 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R61.2 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R62.1 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R62.2 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R64.1 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R64.2 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R84 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R85 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R86 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R87 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R88 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R89 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R90 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R91 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R92 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R93 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R94 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R95 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R96 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R97 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R98 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R99 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R100 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R103 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R104 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R105 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R106 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R107 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R108 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R111 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R112 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R123 Old Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=4K7 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R11 Old Description=4K12 ±0.1% ±15 ppm/°C 0.1W 50V 0603 (1608 metric) Thinfilm New Description=4K12 ±0.1% ±15 ppm/°C 0.1W 50V 0603 (1608 metric) Thinfilm
+Change Component Description : Designator=R12 Old Description=5K1 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=5K1 ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R131 Old Description=6K2 ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=6K2 ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R163 Old Description=6K8 ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=6K8 ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R145 Old Description=7K5 ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=7K5 ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R152 Old Description=7K5 ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=7K5 ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R162 Old Description=7K5 ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=7K5 ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R20 Old Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R21 Old Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R22 Old Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R24 Old Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R26 Old Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R27 Old Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R65.1 Old Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R65.2 Old Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R69.1 Old Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R69.2 Old Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R70.1 Old Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R70.2 Old Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R74.1 Old Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R74.2 Old Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R75.1 Old Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R75.2 Old Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R79.1 Old Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R79.2 Old Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R124 Old Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R125 Old Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R126 Old Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R127 Old Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=10K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R154 Old Description=10K ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=10K ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R156 Old Description=10K ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=10K ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R170 Old Description=10K ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=10K ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R136.1 Old Description=10R0 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm New Description=10R0 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm
+Change Component Description : Designator=R136.2 Old Description=10R0 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm New Description=10R0 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm
+Change Component Description : Designator=R136.3 Old Description=10R0 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm New Description=10R0 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm
+Change Component Description : Designator=R136.4 Old Description=10R0 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm New Description=10R0 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm
+Change Component Description : Designator=R130 Old Description=12K4 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm New Description=12K4 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm
+Change Component Description : Designator=R25 Old Description=12K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=12K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R71.1 Old Description=12K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=12K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R71.2 Old Description=12K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=12K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R73.1 Old Description=12K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=12K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R73.2 Old Description=12K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=12K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R76.1 Old Description=12K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=12K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R76.2 Old Description=12K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=12K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R78.1 Old Description=12K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=12K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R78.2 Old Description=12K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=12K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R101 Old Description=15K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=15K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R116 Old Description=15K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=15K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R149 Old Description=22K ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=22K ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R173 Old Description=22K ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=22K ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R135.1 Old Description=23K2 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm New Description=23K2 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm
+Change Component Description : Designator=R135.2 Old Description=23K2 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm New Description=23K2 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm
+Change Component Description : Designator=R135.3 Old Description=23K2 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm New Description=23K2 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm
+Change Component Description : Designator=R135.4 Old Description=23K2 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm New Description=23K2 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm
+Change Component Description : Designator=R137.1 Old Description=23K2 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm New Description=23K2 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm
+Change Component Description : Designator=R137.2 Old Description=23K2 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm New Description=23K2 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm
+Change Component Description : Designator=R137.3 Old Description=23K2 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm New Description=23K2 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm
+Change Component Description : Designator=R137.4 Old Description=23K2 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm New Description=23K2 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm
+Change Component Description : Designator=R138.1 Old Description=23K2 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm New Description=23K2 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm
+Change Component Description : Designator=R138.2 Old Description=23K2 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm New Description=23K2 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm
+Change Component Description : Designator=R138.3 Old Description=23K2 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm New Description=23K2 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm
+Change Component Description : Designator=R138.4 Old Description=23K2 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm New Description=23K2 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm
+Change Component Description : Designator=R139.1 Old Description=23K2 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm New Description=23K2 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm
+Change Component Description : Designator=R139.2 Old Description=23K2 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm New Description=23K2 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm
+Change Component Description : Designator=R139.3 Old Description=23K2 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm New Description=23K2 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm
+Change Component Description : Designator=R139.4 Old Description=23K2 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm New Description=23K2 ±0.1% ±10 ppm/°C 0.1W 100V 0805 (2012 metric) Thinfilm
+Change Component Description : Designator=R151 Old Description=24K ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=24K ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R172 Old Description=27K ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=27K ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R16 Old Description=27R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=27R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R19 Old Description=27R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=27R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R155 Old Description=36K ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=36K ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R49 Old Description=39R ±5% ±200 ppm/°C 0.031W 50V 0804 (2010 metric) New Description=39R ±5% ±200 ppm/°C 0.031W 50V 0804 (2010 metric)
+Change Component Description : Designator=R50 Old Description=39R ±5% ±200 ppm/°C 0.031W 50V 0804 (2010 metric) New Description=39R ±5% ±200 ppm/°C 0.031W 50V 0804 (2010 metric)
+Change Component Description : Designator=R52 Old Description=39R ±5% ±200 ppm/°C 0.031W 50V 0804 (2010 metric) New Description=39R ±5% ±200 ppm/°C 0.031W 50V 0804 (2010 metric)
+Change Component Description : Designator=R102 Old Description=47K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=47K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R118 Old Description=47K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=47K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R150 Old Description=47K ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=47K ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R121 Old Description=51K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=51K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R167 Old Description=51K ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=51K ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R17 Old Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R18 Old Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R81.1 Old Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R81.2 Old Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R81.3 Old Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R81.4 Old Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R81.5 Old Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R81.6 Old Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R81.7 Old Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R81.8 Old Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R82.1 Old Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R82.2 Old Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R82.3 Old Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R82.4 Old Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R82.5 Old Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R82.6 Old Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R82.7 Old Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R82.8 Old Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R83.1 Old Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R83.2 Old Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R83.3 Old Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R83.4 Old Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R83.5 Old Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R83.6 Old Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R83.7 Old Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R83.8 Old Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=51R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R166 Old Description=82K ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=82K ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R67.1 Old Description=100R ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=100R ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R67.2 Old Description=100R ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=100R ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R72.1 Old Description=100R ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=100R ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R72.2 Old Description=100R ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=100R ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R77.1 Old Description=100R ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=100R ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R77.2 Old Description=100R ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=100R ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R122 Old Description=100R ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=100R ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R133.1 Old Description=100R ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=100R ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R133.2 Old Description=100R ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=100R ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R133.3 Old Description=100R ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=100R ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R133.4 Old Description=100R ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=100R ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R134.1 Old Description=100R ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=100R ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R134.2 Old Description=100R ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=100R ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R134.3 Old Description=100R ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=100R ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R134.4 Old Description=100R ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=100R ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R140.1 Old Description=100R ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=100R ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R140.2 Old Description=100R ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=100R ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R140.3 Old Description=100R ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=100R ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R140.4 Old Description=100R ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=100R ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R171 Old Description=110K ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric) Thickfilm New Description=110K ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric) Thickfilm
+Change Component Description : Designator=R66.1 Old Description=120K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=120K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R66.2 Old Description=120K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=120K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R68.1 Old Description=120K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=120K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R68.2 Old Description=120K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=120K ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R169 Old Description=120K ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric) New Description=120K ±1% ±100 ppm/°C 0.125W 150V 0805 (2012 metric)
+Change Component Description : Designator=R5 Old Description=200R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=200R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R6 Old Description=200R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=200R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R7 Old Description=200R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=200R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R8 Old Description=200R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=200R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R9 Old Description=200R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=200R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R10 Old Description=200R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric) New Description=200R ±1% ±100 ppm/°C 0.05W 50V 0402 (1005 metric)
+Change Component Description : Designator=R1 Old Description=200R ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=200R ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R2 Old Description=200R ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=200R ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R109 Old Description=200R ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=200R ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R119 Old Description=200R ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=200R ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R15 Old Description=330R ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=330R ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R28 Old Description=330R ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=330R ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R29 Old Description=330R ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=330R ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=R110 Old Description=330R ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric) New Description=330R ±1% ±100 ppm/°C 0.10W 75V 0603 (1608 metric)
+Change Component Description : Designator=F1 Old Description=Ferrite bead, Würth Elektronik WE-CBF 2012 (0805), 74279206 ,  30.0 O  @  100.0MHz New Description=Ferrite bead, Würth Elektronik WE-CBF 2012 (0805), 74279206 ,  30.0 O  @  100.0MHz
+Change Component Description : Designator=F2 Old Description=Ferrite bead, Würth Elektronik WE-CBF 2012 (0805), 74279206 ,  30.0 O  @  100.0MHz New Description=Ferrite bead, Würth Elektronik WE-CBF 2012 (0805), 74279206 ,  30.0 O  @  100.0MHz
+Change Component Description : Designator=F3 Old Description=Ferrite bead, Würth Elektronik WE-CBF 2012 (0805), 74279206 ,  30.0 O  @  100.0MHz New Description=Ferrite bead, Würth Elektronik WE-CBF 2012 (0805), 74279206 ,  30.0 O  @  100.0MHz
+Change Component Description : Designator=F4 Old Description=Ferrite bead, Würth Elektronik WE-CBF 2012 (0805), 74279206 ,  30.0 O  @  100.0MHz New Description=Ferrite bead, Würth Elektronik WE-CBF 2012 (0805), 74279206 ,  30.0 O  @  100.0MHz
+Change Component Description : Designator=F5 Old Description=Ferrite bead, Würth Elektronik WE-CBF 2012 (0805), 74279206 ,  30.0 O  @  100.0MHz New Description=Ferrite bead, Würth Elektronik WE-CBF 2012 (0805), 74279206 ,  30.0 O  @  100.0MHz
+Change Component Description : Designator=F6 Old Description=Ferrite bead, Würth Elektronik WE-CBF 2012 (0805), 74279206 ,  30.0 O  @  100.0MHz New Description=Ferrite bead, Würth Elektronik WE-CBF 2012 (0805), 74279206 ,  30.0 O  @  100.0MHz
+Change Component Description : Designator=F12 Old Description=Ferrite bead, Würth Elektronik WE-CBF 2012 (0805), 74279206 ,  30.0 O  @  100.0MHz New Description=Ferrite bead, Würth Elektronik WE-CBF 2012 (0805), 74279206 ,  30.0 O  @  100.0MHz
+Change Component Description : Designator=F13 Old Description=Ferrite bead, Würth Elektronik WE-CBF 2012 (0805), 74279206 ,  30.0 O  @  100.0MHz New Description=Ferrite bead, Würth Elektronik WE-CBF 2012 (0805), 74279206 ,  30.0 O  @  100.0MHz
+Change component parameters: Designator = "R30"; Footprint = "RESC3216N"; UniqueID = "\LSFQQERN\BOYEHSAW\IDHVNSGN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "200V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp. Coefficent"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R37"; Footprint = "RESC3216N"; UniqueID = "\LSFQQERN\BOYEHSAW\IGJUNQYC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "200V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp. Coefficent"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R49"; Footprint = "RESCAXS50P100X200X45-8N"; UniqueID = "\ZNLHZSSX\NOBEATVM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0804"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "2010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "EXB-28V390J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp. Coefficent"; Value = "±200 ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "39.00"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R50"; Footprint = "RESCAXS50P100X200X45-8N"; UniqueID = "\ZNLHZSSX\LOFTRACD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0804"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "2010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "EXB-28V390J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp. Coefficent"; Value = "±200 ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "39.00"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R52"; Footprint = "RESCAXS50P100X200X45-8N"; UniqueID = "\ZNLHZSSX\NXXMIASN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0804"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "2010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "EXB-28V390J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp. Coefficent"; Value = "±200 ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "39.00"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F1"; Footprint = "INDC2012X11L"; UniqueID = "\OCXTZITR\REAQTCAG\OBAUNHIQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "IDC"; Value = "3.0 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "74279206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RDC"; Value = "25.0 mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "High Current "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Z@Freq"; Value = "30.0 O  @  100.0MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Zmax@Freq"; Value = "55.0 O  @      1.0 GHz"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F2"; Footprint = "INDC2012X11L"; UniqueID = "\OCXTZITR\REAQTCAG\JKCZWMMK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "IDC"; Value = "3.0 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "74279206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RDC"; Value = "25.0 mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "High Current "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Z@Freq"; Value = "30.0 O  @  100.0MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Zmax@Freq"; Value = "55.0 O  @      1.0 GHz"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F3"; Footprint = "INDC2012X11N"; UniqueID = "\JPZTXZYP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "IDC"; Value = "3.0 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "74279206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RDC"; Value = "25.0 mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "High Current "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Z@Freq"; Value = "30.0 O  @  100.0MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Zmax@Freq"; Value = "55.0 O  @      1.0 GHz"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F4"; Footprint = "INDC2012X11N"; UniqueID = "\MPRUFHDM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "IDC"; Value = "3.0 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "74279206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RDC"; Value = "25.0 mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "High Current "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Z@Freq"; Value = "30.0 O  @  100.0MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Zmax@Freq"; Value = "55.0 O  @      1.0 GHz"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F5"; Footprint = "INDC2012X11N"; UniqueID = "\HFNXYQCY\SXUOFUCP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "IDC"; Value = "3.0 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "74279206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RDC"; Value = "25.0 mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "High Current "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Z@Freq"; Value = "30.0 O  @  100.0MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Zmax@Freq"; Value = "55.0 O  @      1.0 GHz"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F6"; Footprint = "INDC2012X11N"; UniqueID = "\HFNXYQCY\QZTBHPJO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "IDC"; Value = "3.0 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "74279206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RDC"; Value = "25.0 mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "High Current "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Z@Freq"; Value = "30.0 O  @  100.0MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Zmax@Freq"; Value = "55.0 O  @      1.0 GHz"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F12"; Footprint = "INDC2012X11L"; UniqueID = "\ZNLHZSSX\TEZEOVEO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "IDC"; Value = "3.0 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "74279206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RDC"; Value = "25.0 mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "High Current "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Z@Freq"; Value = "30.0 O  @  100.0MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Zmax@Freq"; Value = "55.0 O  @      1.0 GHz"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F13"; Footprint = "INDC2012X11L"; UniqueID = "\ZNLHZSSX\CYPHMXII"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "IDC"; Value = "3.0 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "74279206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RDC"; Value = "25.0 mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "High Current "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Z@Freq"; Value = "30.0 O  @  100.0MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Zmax@Freq"; Value = "55.0 O  @      1.0 GHz"; VariantName = "[No Variations]"
+Added Component: Designator=C236(CAPMP7343X43N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "150µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DCL"; Value = "23A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DF"; Value = "8%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "7343-43"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C237(CAPC6050X50N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "2220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "6050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum working voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Added Component: Designator=C238(CAPC6050X50N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "2220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "6050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum working voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Added Component: Designator=C239(CAPC6050X50N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "2220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "6050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum working voltage"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Added Component: Designator=C240(CAPC6050X50N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "2220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "6050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum working voltage"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Added Component: Designator=C241(CAPC6050X50N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "2220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "6050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum working voltage"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Added Component: Designator=C242(CAPMP7343X43N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "330µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DCL"; Value = "52.8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DF"; Value = "30%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = "0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "7343-43"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C243(CAPMP7343X43N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "150µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DCL"; Value = "23A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DF"; Value = "8%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "7343-43"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C244(CAPMP7343X43N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "330µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DCL"; Value = "52.8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DF"; Value = "30%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = "0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "7343-43"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C245(CAPMP7343X43N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "330µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DCL"; Value = "52.8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DF"; Value = "30%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = "0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "7343-43"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C246(CAPC3225X270N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "4.7µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3225/1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRM32ER71H475KA88"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltgae"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Charateristics"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "2.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L7(WE-HCI-1050)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.we-online.de/katalog/media/pdf/744325072.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "ver 2, Jan-2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "0.72 ÂµH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SMD Inductor, 2-Leads, Body 10.5 x 10.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "WE-HCI-1050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "2008"; VariantName = "[No Variations]"
+Added Component: Designator=L8(WE-HCI-1050)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.we-online.de/katalog/media/pdf/744325072.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "ver 2, Jan-2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "0.72 ÂµH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SMD Inductor, 2-Leads, Body 10.5 x 10.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "WE-HCI-1050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "2008"; VariantName = "[No Variations]"
+Added Component: Designator=R175(RESC3216N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum working voltage"; Value = "200V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Coefficent"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.5"; VariantName = "[No Variations]"
+Added Component: Designator=R176(RESC3216N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum working voltage"; Value = "200V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Coefficent"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.5"; VariantName = "[No Variations]"
+Added Component: Designator=R177(RESC3216N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum working voltage"; Value = "200V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Coefficent"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.5"; VariantName = "[No Variations]"
+Added Component: Designator=U35(BGA49C80P7X7_625X625X536)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=EXT_GND Pin=C186.4-1
+Added Pin To Net: NetName=EXT_GND Pin=C220-1
+Added Pin To Net: NetName=EXT_GND Pin=C221-1
+Added Pin To Net: NetName=EXT_GND Pin=C225-1
+Added Pin To Net: NetName=EXT_GND Pin=C228-2
+Added Pin To Net: NetName=EXT_GND Pin=F7-3
+Added Pin To Net: NetName=EXT_GND Pin=F8-3
+Added Pin To Net: NetName=EXT_GND Pin=F9-3
+Added Pin To Net: NetName=EXT_GND Pin=F10-3
+Added Pin To Net: NetName=EXT_GND Pin=F11-3
+Added Pin To Net: NetName=EXT_GND Pin=L6-2
+Added Pin To Net: NetName=EXT_GND Pin=R133.4-2
+Added Pin To Net: NetName=EXT_GND Pin=R134.4-2
+Added Pin To Net: NetName=EXT_GND Pin=R138.3-1
+Added Pin To Net: NetName=EXT_GND Pin=R140.3-2
+Added Pin To Net: NetName=EXT_GND Pin=U34-3
+Added Pin To Net: NetName=NetC236_1 Pin=C236-1
+Added Pin To Net: NetName=NetC236_1 Pin=C237-1
+Added Pin To Net: NetName=NetC236_1 Pin=C238-1
+Added Pin To Net: NetName=NetC236_1 Pin=C244-1
+Added Pin To Net: NetName=NetC236_1 Pin=C245-1
+Added Pin To Net: NetName=NetC236_1 Pin=C246-1
+Added Pin To Net: NetName=NetC236_1 Pin=L7-2
+Added Pin To Net: NetName=NetC236_1 Pin=U35-D3
+Added Pin To Net: NetName=NetC236_1 Pin=U35-D4
+Added Pin To Net: NetName=NetC236_1 Pin=U35-E3
+Added Pin To Net: NetName=NetC236_1 Pin=U35-E4
+Added Pin To Net: NetName=NetC236_1 Pin=U35-F4
+Added Pin To Net: NetName=NetC236_1 Pin=U35-G4
+Added Net: Name=NetC236_1
+Added Pin To Net: NetName=NetC243_1 Pin=C243-1
+Added Pin To Net: NetName=NetC243_1 Pin=L7-1
+Added Net: Name=NetC243_1
+Added Pin To Net: NetName=NetC243_2 Pin=C243-2
+Added Pin To Net: NetName=NetC243_2 Pin=R175-1
+Added Net: Name=NetC243_2
+Added Pin To Net: NetName=NetC244_2 Pin=C244-2
+Added Pin To Net: NetName=NetC244_2 Pin=R176-1
+Added Net: Name=NetC244_2
+Added Pin To Net: NetName=NetC245_2 Pin=C245-2
+Added Pin To Net: NetName=NetC245_2 Pin=R177-1
+Added Net: Name=NetC245_2
+Added Class: Name=U_LTM4638
+Added Room: Name=U_LTM4638

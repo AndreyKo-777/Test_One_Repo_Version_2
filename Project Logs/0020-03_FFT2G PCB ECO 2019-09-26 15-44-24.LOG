@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=U1.1 Old DesignItemId=CMP-2100-000558-2 New DesignItemId=CMP-2100-000558-3
+Change Component DesignItemId : Designator=U1.2 Old DesignItemId=CMP-2100-000558-2 New DesignItemId=CMP-2100-000558-3
+Change Component Footprint: Designator=U1.1 Old Footprint=BGA380C127P24X24_3100X3100X160 New Footprint=BGA380C127P24X24_3100X3100X160
+Change Component Footprint: Designator=U1.2 Old Footprint=BGA380C127P24X24_3100X3100X160 New Footprint=BGA380C127P24X24_3100X3100X160

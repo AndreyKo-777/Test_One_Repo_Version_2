@@ -1,0 +1,66 @@
+Change Component DesignItemId : Designator=C200.1 Old DesignItemId=CMP-0300-001411-3 New DesignItemId=CMP-0300-001552-3
+Change Component DesignItemId : Designator=C200.2 Old DesignItemId=CMP-0300-001411-3 New DesignItemId=CMP-0300-001552-3
+Change Component DesignItemId : Designator=C200.3 Old DesignItemId=CMP-0300-001411-3 New DesignItemId=CMP-0300-001552-3
+Change Component DesignItemId : Designator=C200.4 Old DesignItemId=CMP-0300-001411-3 New DesignItemId=CMP-0300-001552-3
+Change Component Comment : Designator=C200.1 Old Comment=18p 50V 0603 New Comment=100p 50V 0603
+Change Component Comment : Designator=C200.2 Old Comment=18p 50V 0603 New Comment=100p 50V 0603
+Change Component Comment : Designator=C200.3 Old Comment=18p 50V 0603 New Comment=100p 50V 0603
+Change Component Comment : Designator=C200.4 Old Comment=18p 50V 0603 New Comment=100p 50V 0603
+Change Component Description : Designator=C200.1 Old Description=18p 50V 0603 C0G +/-5% 0603 (1608 metric) New Description=100p 50V 0603 C0G +/-5% 0603 (1608 metric)
+Change Component Description : Designator=C200.2 Old Description=18p 50V 0603 C0G +/-5% 0603 (1608 metric) New Description=100p 50V 0603 C0G +/-5% 0603 (1608 metric)
+Change Component Description : Designator=C200.3 Old Description=18p 50V 0603 C0G +/-5% 0603 (1608 metric) New Description=100p 50V 0603 C0G +/-5% 0603 (1608 metric)
+Change Component Description : Designator=C200.4 Old Description=18p 50V 0603 C0G +/-5% 0603 (1608 metric) New Description=100p 50V 0603 C0G +/-5% 0603 (1608 metric)
+Change component parameters: Designator = "C200.1" ("C200"); Footprint = "CAPC1608X90N"; UniqueID = "\LSFQQERN\FGGLTWQK\HYIUEQTQ" ("\LSFQQERN\FGGLTWQK\HYIUEQTQ")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608/0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "C0G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "900µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "9mg"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C200.2" ("C200"); Footprint = "CAPC1608X90N"; UniqueID = "\LSFQQERN\LJNKNUYR\HYIUEQTQ" ("\LSFQQERN\LJNKNUYR\HYIUEQTQ")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608/0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "C0G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "900µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "9mg"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "39pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608/0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "C0G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "870?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "9mg"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C200.3" ("C200"); Footprint = "CAPC1608X90N"; UniqueID = "\LSFQQERN\KDCZMNRZ\HYIUEQTQ" ("\LSFQQERN\KDCZMNRZ\HYIUEQTQ")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608/0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "C0G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "900µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "9mg"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "43pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608/0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "C0G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "870?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "9mg"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C200.4" ("C200"); Footprint = "CAPC1608X90N"; UniqueID = "\LSFQQERN\HOLPUNGC\HYIUEQTQ" ("\LSFQQERN\HOLPUNGC\HYIUEQTQ")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608/0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "C0G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "900µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "9mg"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "43pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608/0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "C0G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "870?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "9mg"; VariantName = "[No Variations]"
+Added Component: Designator=C200.1(CAPC1608X87N)

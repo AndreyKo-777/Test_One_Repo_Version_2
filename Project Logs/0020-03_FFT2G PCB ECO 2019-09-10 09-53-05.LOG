@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=[1] 0020-03_FFT2G - Top Member=P21
+Removed Member From Class: ClassName=[1] 0020-03_FFT2G - Top Member=P22
+Removed Member From Class: ClassName=[1] 0020-03_FFT2G - Top Member=P23
+Removed Member From Class: ClassName=[1] 0020-03_FFT2G - Top Member=P24
+Change Component Designator: OldDesignator=P21 NewDesignator=P26
+Change Component Designator: OldDesignator=P22 NewDesignator=P28
+Change Component Designator: OldDesignator=P23 NewDesignator=P29
+Change Component Designator: OldDesignator=P24 NewDesignator=P27
+Added Member To Class: ClassName=[1] 0020-03_FFT2G - Top Member=Component F4 30.0 O  @  100.0MHz
+Added Member To Class: ClassName=[1] 0020-03_FFT2G - Top Member=Component J10 632723300011
+Added Member To Class: ClassName=[1] 0020-03_FFT2G - Top Member=Component P26 M2.5-6.3mm pad
+Added Member To Class: ClassName=[1] 0020-03_FFT2G - Top Member=Component P27 M2.5-6.3mm pad
+Added Member To Class: ClassName=[1] 0020-03_FFT2G - Top Member=Component P28 M2.5-6.3mm pad
+Added Member To Class: ClassName=[1] 0020-03_FFT2G - Top Member=Component P29 M2.5-6.3mm pad

@@ -1,0 +1,189 @@
+Change Component DesignItemId : Designator=C82 Old DesignItemId=CMP-0300-002440-2 New DesignItemId=CMP-0300-002440-2
+Change Component DesignItemId : Designator=C83 Old DesignItemId=CMP-0300-002440-2 New DesignItemId=CMP-0300-002440-2
+Change Component DesignItemId : Designator=R139 Old DesignItemId=CMP-1800-001988-3 New DesignItemId=CMP-1800-001988-3
+Change Component DesignItemId : Designator=R138 Old DesignItemId=CMP-1800-002093-3 New DesignItemId=CMP-1800-002093-3
+Change Component DesignItemId : Designator=X3 Old DesignItemId=CMP-2400-000047-3 New DesignItemId=CMP-2400-000047-3
+Change Component Footprint: Designator=C82 Old Footprint=CAPC1608X90N New Footprint=CAPC1608X90L
+Change Component Footprint: Designator=C83 Old Footprint=CAPC1608X90N New Footprint=CAPC1608X90L
+Change Component Footprint: Designator=R139 Old Footprint=RESC1608N New Footprint=RESC1608L
+Change Component Footprint: Designator=X3 Old Footprint=XTAL_5x3.2MM New Footprint=XTAL_5x3.2MM
+Change Component Comment : Designator=R139 Old Comment=1K00 ±0.1% 0603 New Comment=39R ±1% 0603
+Change Component Comment : Designator=C82 Old Comment=10p 50V 0603 New Comment=18p 50V 0603
+Change Component Comment : Designator=C83 Old Comment=10p 50V 0603 New Comment=18p 50V 0603
+Change Component Comment : Designator=R138 Old Comment=470K ±1% 0603 New Comment=1M0 ±1% 0603
+Change Component Comment : Designator=X3 Old Comment=NX5032GA-10.000M-STD-CSU-1 New Comment=25MHz
+Change component parameters: Designator = "R30" ("R30"); Footprint = "RESC3216N"; UniqueID = "\LSFQQERN\BOYEHSAW\IDHVNSGN" ("\LSFQQERN\BOYEHSAW\IDHVNSGN")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "200V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp. Coefficent"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R37" ("R37"); Footprint = "RESC3216N"; UniqueID = "\LSFQQERN\BOYEHSAW\IGJUNQYC" ("\LSFQQERN\BOYEHSAW\IGJUNQYC")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "200V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp. Coefficent"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R49" ("R49"); Footprint = "RESCAXS50P100X200X45-8N"; UniqueID = "\ZNLHZSSX\NOBEATVM" ("\ZNLHZSSX\NOBEATVM")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0804"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "2010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "EXB-28V390J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp. Coefficent"; Value = "±200 ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "39.00"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R50" ("R50"); Footprint = "RESCAXS50P100X200X45-8N"; UniqueID = "\ZNLHZSSX\LOFTRACD" ("\ZNLHZSSX\LOFTRACD")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0804"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "2010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "EXB-28V390J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp. Coefficent"; Value = "±200 ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "39.00"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R52" ("R52"); Footprint = "RESCAXS50P100X200X45-8N"; UniqueID = "\ZNLHZSSX\NXXMIASN" ("\ZNLHZSSX\NXXMIASN")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0804"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "2010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "EXB-28V390J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp. Coefficent"; Value = "±200 ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "39.00"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R128" ("R128"); Footprint = "RESC3216N"; UniqueID = "\LSFQQERN\XRAJZJLL" ("\LSFQQERN\XRAJZJLL")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "200V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp. Coefficent"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R129" ("R129"); Footprint = "RESC3216N"; UniqueID = "\LSFQQERN\JSRYOJNM" ("\LSFQQERN\JSRYOJNM")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "200V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp. Coefficent"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R138" ("R138"); Footprint = "RESC1608N"; UniqueID = "\ZNLHZSSX\CKATETUV" ("\ZNLHZSSX\CKATETUV")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp. Coefficent"; Value = "0.01%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C82" ("C82"); Footprint = "CAPC1608X90N"; UniqueID = "\ZNLHZSSX\HMUMAFUC" ("\ZNLHZSSX\HMUMAFUC")
+Change component parameters (AddParameter): Name = "Capacitance (F)"; Value = "18.0p"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608/0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GRM1885C1H180JA01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated voltage (V)"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "C0G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness (mm)"; Value = "0.90"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C83" ("C83"); Footprint = "CAPC1608X90N"; UniqueID = "\ZNLHZSSX\OZPQCBMN" ("\ZNLHZSSX\OZPQCBMN")
+Change component parameters (AddParameter): Name = "Capacitance (F)"; Value = "18.0p"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608/0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GRM1885C1H180JA01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated voltage (V)"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Charateristics"; Value = "C0G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness (mm)"; Value = "0.90"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F1" ("F1"); Footprint = "INDC2012X11L"; UniqueID = "\OCXTZITR\REAQTCAG\OBAUNHIQ" ("\OCXTZITR\REAQTCAG\OBAUNHIQ")
+Change component parameters (AddParameter): Name = "IDC"; Value = "3.0 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "74279206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RDC"; Value = "25.0 mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "High Current "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Z@Freq"; Value = "30.0 O  @  100.0MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Zmax@Freq"; Value = "55.0 O  @      1.0 GHz"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F2" ("F2"); Footprint = "INDC2012X11L"; UniqueID = "\OCXTZITR\REAQTCAG\JKCZWMMK" ("\OCXTZITR\REAQTCAG\JKCZWMMK")
+Change component parameters (AddParameter): Name = "IDC"; Value = "3.0 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "74279206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RDC"; Value = "25.0 mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "High Current "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Z@Freq"; Value = "30.0 O  @  100.0MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Zmax@Freq"; Value = "55.0 O  @      1.0 GHz"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F3" ("F3"); Footprint = "INDC2012X11N"; UniqueID = "\JPZTXZYP" ("\JPZTXZYP")
+Change component parameters (AddParameter): Name = "IDC"; Value = "3.0 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "74279206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RDC"; Value = "25.0 mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "High Current "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Z@Freq"; Value = "30.0 O  @  100.0MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Zmax@Freq"; Value = "55.0 O  @      1.0 GHz"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F4" ("F4"); Footprint = "INDC2012X11N"; UniqueID = "\MPRUFHDM" ("\MPRUFHDM")
+Change component parameters (AddParameter): Name = "IDC"; Value = "3.0 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "74279206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RDC"; Value = "25.0 mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "High Current "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Z@Freq"; Value = "30.0 O  @  100.0MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Zmax@Freq"; Value = "55.0 O  @      1.0 GHz"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F5" ("F5"); Footprint = "INDC2012X11N"; UniqueID = "\HFNXYQCY\SXUOFUCP" ("\HFNXYQCY\SXUOFUCP")
+Change component parameters (AddParameter): Name = "IDC"; Value = "3.0 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "74279206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RDC"; Value = "25.0 mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "High Current "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Z@Freq"; Value = "30.0 O  @  100.0MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Zmax@Freq"; Value = "55.0 O  @      1.0 GHz"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F6" ("F6"); Footprint = "INDC2012X11N"; UniqueID = "\HFNXYQCY\QZTBHPJO" ("\HFNXYQCY\QZTBHPJO")
+Change component parameters (AddParameter): Name = "IDC"; Value = "3.0 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "74279206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RDC"; Value = "25.0 mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "High Current "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Z@Freq"; Value = "30.0 O  @  100.0MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Zmax@Freq"; Value = "55.0 O  @      1.0 GHz"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F12" ("F12"); Footprint = "INDC2012X11L"; UniqueID = "\ZNLHZSSX\TEZEOVEO" ("\ZNLHZSSX\TEZEOVEO")
+Change component parameters (AddParameter): Name = "IDC"; Value = "3.0 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "74279206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RDC"; Value = "25.0 mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "High Current "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Z@Freq"; Value = "30.0 O  @  100.0MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Zmax@Freq"; Value = "55.0 O  @      1.0 GHz"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F13" ("F13"); Footprint = "INDC2012X11L"; UniqueID = "\ZNLHZSSX\CYPHMXII" ("\ZNLHZSSX\CYPHMXII")
+Change component parameters (AddParameter): Name = "IDC"; Value = "3.0 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "74279206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RDC"; Value = "25.0 mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "High Current "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Z@Freq"; Value = "30.0 O  @  100.0MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Zmax@Freq"; Value = "55.0 O  @      1.0 GHz"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R139" ("R139"); Footprint = "RESC1608N"; UniqueID = "\ZNLHZSSX\LYPDANSH" ("\ZNLHZSSX\LYPDANSH")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp. Coefficent"; Value = "0.01%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "39"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X3" ("X3"); Footprint = "XTAL_5x3.2MM"; UniqueID = "\ZNLHZSSX\UUNRXYJJ" ("\ZNLHZSSX\UUNRXYJJ")
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "7A-25.000MAAJ-T"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C82-1
+Added Pin To Net: NetName=NetC82_2 Pin=C82-2
+Added Pin To Net: NetName=GND Pin=C83-1
+Added Pin To Net: NetName=NetC83_2 Pin=C83-2
+Added Pin To Net: NetName=NetR138_1 Pin=R138-1
+Added Pin To Net: NetName=NetC83_2 Pin=R138-2
+Added Pin To Net: NetName=NetR138_1 Pin=R139-1
+Added Pin To Net: NetName=NetC82_2 Pin=R139-2
+Added Pin To Net: NetName=NetC82_2 Pin=X3-1
+Added Pin To Net: NetName=NetC83_2 Pin=X3-2
+Added Member To Class: ClassName=ETH Member=Component C82 18p 50V 0603
+Added Member To Class: ClassName=ETH Member=Component C83 18p 50V 0603
+Added Member To Class: ClassName=ETH Member=Component R138 1M0 ±1% 0603
+Added Member To Class: ClassName=ETH Member=Component R139 39R ±1% 0603
+Added Member To Class: ClassName=ETH Member=Component X3 25MHz

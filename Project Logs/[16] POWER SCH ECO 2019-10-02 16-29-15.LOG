@@ -1,0 +1,2 @@
+Change Value of Parameter Inductance in Part L8 Old=0.72 µH New=720nH
+Update Managed Component L8 From CMP-0226-00140-1[744325072] To CMP-1200-000454-1[744325072] in [16] POWER.SchDoc

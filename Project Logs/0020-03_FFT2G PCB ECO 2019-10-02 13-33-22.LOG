@@ -1,0 +1,26 @@
+Change Component DesignItemId : Designator=U27 Old DesignItemId=CMP-0162-00270-1 New DesignItemId=CMP-2100-000589-1
+Change Component Footprint: Designator=U27 Old Footprint=SOIC-SN8_L New Footprint=SOIC127P600X175-8N
+Change Component Description : Designator=U27 Old Description=1K, 64x16-bit, 1.8V Microwire Serial EEPROM, 8-Pin SOIC 150mil, Industrial Temperature, Tape and Reel New Description=IC EEPROM 1KBIT 2MHZ 8SOIC
+Change Component Library : Designator=U27 Old Library=Altium Content Vault New Library=Omnisys Vault
+Change Managed Component Library Link : Designator=U27 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=1400574F-C668-4D11-B524-B74DF93074BC New ItemGUID=0c1988cb-c79b-4c97-8aa3-58a94a001650 Old RevisionGUID=407C3422-1B02-407F-BE8A-B047CE00E1B1 New RevisionGUID=6b3b43dc-6243-4cd0-8f62-d6ebf9a62c20
+Change component parameters: Designator = "U27" ("U27"); Footprint = "SOIC-SN8_L"; UniqueID = "\OCXTZITR\MEEGDFHB\SISJDSQX" ("\OCXTZITR\MEEGDFHB\SISJDSQX")
+Change component parameters (AddParameter): Name = "Access Time"; Value = "250ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Density"; Value = "1Kb"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency"; Value = "2MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Interface"; Value = "Serial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Frequency"; Value = "1MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Memory Size"; Value = "1Kb"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Memory Type"; Value = "EEPROM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Supply Voltage"; Value = "1.8V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nominal Supply Current"; Value = "2mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "3300"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"

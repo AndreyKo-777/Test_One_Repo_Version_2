@@ -1,0 +1,22 @@
+Removed Parameter Case-EIA:1206 from Part R30
+Removed Parameter Case-EIA:1206 from Part R37
+Removed Parameter Case-Metric:3216 from Part R30
+Removed Parameter Case-Metric:3216 from Part R37
+Removed Parameter Technology:SMT from Part R30
+Removed Parameter Technology:SMT from Part R37
+Change Value of Parameter Power in Part R37 Old=0.25W New=250mW
+Change Value of Parameter Power in Part R30 Old=0.25W New=250mW
+Change Value of Parameter Temp. Coefficent in Part R37 Old=±100 ppm/°C New=0.01%
+Change Value of Parameter Temp. Coefficent in Part R30 Old=±100 ppm/°C New=0.01%
+Change Value of Parameter Tolerance in Part R37 Old=1 New=1%
+Change Value of Parameter Tolerance in Part R30 Old=1 New=1%
+Change Value of Parameter Value in Part R37 Old=0.01 New=10m
+Change Value of Parameter Value in Part R30 Old=0.01 New=10m
+Added Parameter Case/Package=1206/3216 to Part R30
+Added Parameter Case/Package=1206/3216 to Part R37
+Added Parameter Composition=Thick film to Part R30
+Added Parameter Composition=Thick film to Part R37
+Added Parameter Weight= to Part R30
+Added Parameter Weight= to Part R37
+Update Managed Component R30 From CMP-1800-002821-2[0R01 ±1% 1206] To CMP-1800-002821-3[0R01 1% 1206] in [17] POWER-FILTER_LDO.SchDoc
+Update Managed Component R37 From CMP-1800-002821-2[0R01 ±1% 1206] To CMP-1800-002821-3[0R01 1% 1206] in [17] POWER-FILTER_LDO.SchDoc

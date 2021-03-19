@@ -1,0 +1,63 @@
+Removed Parameter Code_IPC:BGA100P34X34-1156 from Part U19
+Removed Parameter Code_IPC:BGA100P34X34-1156 from Part U19
+Removed Parameter Code_IPC:BGA100P34X34-1156 from Part U19
+Removed Parameter Code_JEDEC:MS-034-AAR-1 from Part U19
+Removed Parameter Code_JEDEC:MS-034-AAR-1 from Part U19
+Removed Parameter Code_JEDEC:MS-034-AAR-1 from Part U19
+Removed Parameter DatasheetVersion:ver2.2, Jan-2010 from Part U19
+Removed Parameter DatasheetVersion:ver2.2, Jan-2010 from Part U19
+Removed Parameter DatasheetVersion:ver2.2, Jan-2010 from Part U19
+Removed Parameter PackageDescription:1156-Ball Flip-Chip Fine Pitch Ball Grid Array (FFG1156) - Pb-Free from Part U19
+Removed Parameter PackageDescription:1156-Ball Flip-Chip Fine Pitch Ball Grid Array (FFG1156) - Pb-Free from Part U19
+Removed Parameter PackageDescription:1156-Ball Flip-Chip Fine Pitch Ball Grid Array (FFG1156) - Pb-Free from Part U19
+Removed Parameter PackageReference:FFG1156 from Part U19
+Removed Parameter PackageReference:FFG1156 from Part U19
+Removed Parameter PackageReference:FFG1156 from Part U19
+Removed Parameter PackageVersion:ver1.0, Jan-2010 from Part U19
+Removed Parameter PackageVersion:ver1.0, Jan-2010 from Part U19
+Removed Parameter PackageVersion:ver1.0, Jan-2010 from Part U19
+Removed Parameter PartId:1 from Part U19
+Removed Parameter PartId:1 from Part U19
+Removed Parameter PartId:1 from Part U19
+Added Parameter Case/Package=FCBGA to Part U19
+Added Parameter Case/Package=FCBGA to Part U19
+Added Parameter Case/Package=FCBGA to Part U19
+Added Parameter Max Operating Temperature=100°C to Part U19
+Added Parameter Max Operating Temperature=100°C to Part U19
+Added Parameter Max Operating Temperature=100°C to Part U19
+Added Parameter Min Operating Temperature=-40°C to Part U19
+Added Parameter Min Operating Temperature=-40°C to Part U19
+Added Parameter Min Operating Temperature=-40°C to Part U19
+Added Parameter Mount=Surface Mount to Part U19
+Added Parameter Mount=Surface Mount to Part U19
+Added Parameter Mount=Surface Mount to Part U19
+Added Parameter Number of I/Os=600 to Part U19
+Added Parameter Number of I/Os=600 to Part U19
+Added Parameter Number of I/Os=600 to Part U19
+Added Parameter Number of Logic Blocks (LABs)=18840 to Part U19
+Added Parameter Number of Logic Blocks (LABs)=18840 to Part U19
+Added Parameter Number of Logic Blocks (LABs)=18840 to Part U19
+Added Parameter Number of Logic Elements/Cells=241152 to Part U19
+Added Parameter Number of Logic Elements/Cells=241152 to Part U19
+Added Parameter Number of Logic Elements/Cells=241152 to Part U19
+Added Parameter Number of Pins=1156 to Part U19
+Added Parameter Number of Pins=1156 to Part U19
+Added Parameter Number of Pins=1156 to Part U19
+Added Parameter Operating Supply Voltage=1V to Part U19
+Added Parameter Operating Supply Voltage=1V to Part U19
+Added Parameter Operating Supply Voltage=1V to Part U19
+Added Parameter Package Quantity=1 to Part U19
+Added Parameter Package Quantity=1 to Part U19
+Added Parameter Package Quantity=1 to Part U19
+Added Parameter PartNumber= to Part U19
+Added Parameter PartNumber= to Part U19
+Added Parameter PartNumber= to Part U19
+Added Parameter RAM Size=15335424b to Part U19
+Added Parameter RAM Size=15335424b to Part U19
+Added Parameter RAM Size=15335424b to Part U19
+Added Parameter Speed Grade=2 to Part U19
+Added Parameter Speed Grade=2 to Part U19
+Added Parameter Speed Grade=2 to Part U19
+Update Managed Component U19 From CMP-0083-00172-1[XC6VSX475T-2FFG1156C] To CMP-2100-000586-1[XC6VLX240T-2FFG1156I] in [14] FPGA_SPI.SchDoc
+Update Managed Component U19 From CMP-0083-00172-1[XC6VSX475T-2FFG1156C] To CMP-2100-000586-1[XC6VLX240T-2FFG1156I] in [14] FPGA_SPI.SchDoc
+Update Managed Component U19 From CMP-0083-00172-1[XC6VSX475T-2FFG1156C] To CMP-2100-000586-1[XC6VLX240T-2FFG1156I] in [14] FPGA_SPI.SchDoc

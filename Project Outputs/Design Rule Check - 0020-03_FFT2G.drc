@@ -1,0 +1,129 @@
+Protel Design System Design Rule Check
+PCB File : C:\Current WORK\Altium Managed project\0020-03_FFT2G\PCB\0020-03_FFT2G.PcbDoc
+Date     : 2019-12-04
+Time     : 10:43:39
+
+Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.15mm) (Max=3mm) (Preferred=0.3mm) (InNetClass('Power'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=0.5mm) (Preferred=0.1mm) (All)
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=0.1mm) (Max=0.1mm) (Prefered=0.1mm)  and Width Constraints (Min=0.1mm) (Max=0.1mm) (Prefered=0.1mm) (InNetClass('DiffPairs_FPGA_CLK'))
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=0.1mm) (Max=0.1mm) (Prefered=0.1mm)  and Width Constraints (Min=0.1mm) (Max=0.1mm) (Prefered=0.1mm) (InNetClass('DiffPairs_FPGA'))
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=0.2mm) (Max=0.2mm) (Prefered=0.2mm)  and Width Constraints (Min=0.2mm) (Max=0.3mm) (Prefered=0.3mm) (InNet('S_CLK_N'))
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=0.2mm) (Max=0.2mm) (Prefered=0.2mm)  and Width Constraints (Min=0.2mm) (Max=0.3mm) (Prefered=0.3mm) (InNet('S_CLK_P'))
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=0.2mm) (Max=0.2mm) (Prefered=0.2mm)  and Width Constraints (Min=0.2mm) (Max=0.3mm) (Prefered=0.3mm) (InNet('N_CLK_P'))
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=0.2mm) (Max=0.2mm) (Prefered=0.2mm)  and Width Constraints (Min=0.3mm) (Max=0.3mm) (Prefered=0.3mm) (InNetClass('DiffPairs_Input'))
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=0.2mm) (Max=0.2mm) (Prefered=0.2mm)  and Width Constraints (Min=0.2mm) (Max=0.3mm) (Prefered=0.3mm) (InNet('N_CLK_N'))
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=0.1mm) (Max=0.1mm) (Prefered=0.1mm)  and Width Constraints (Min=0.1mm) (Max=0.1mm) (Prefered=0.1mm) (InNetClass('Diffpairs_ETH'))
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=0.254mm) (Max=0.254mm) (Prefered=0.254mm)  and Width Constraints (Min=0.381mm) (Max=0.381mm) (Prefered=0.381mm) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=0.1mm) (Max=0.1mm) (Prefered=0.1mm)  and Width Constraints (Min=0.1mm) (Max=0.1mm) (Prefered=0.1mm) (InNetClass('Diffpairs_USB'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (inNetClass('powerNet'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=5mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.1mm) Between Arc (109.225mm,34.87mm) on Top Overlay And Pad R120-2(109.906mm,35.404mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0mm]
+Rule Violations :1
+
+Processing Rule : Silk to Silk (Clearance=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=2mm) (InNetClass('Match_length_USB'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=10mm) (InNetClass('Match_length_BPI_flash'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.2mm) (InNetClass('DiffPairs_FPGA'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=1mm) (InNetClass('DiffPairs_FPGA'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=5mm) (InNetClass('Match_length_USB'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=1mm) (InNetClass('InputDiffPairs'))
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (InComponentClass('PCBObjects')),(All) 
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0.1mm, Vertical Gap = 0.1mm ) (All),(All) 
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=50mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Waived Violations Of Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.1mm) Between Arc (5.468mm,100.74mm) on Top Overlay And Pad R82.2-2(4.928mm,100.63mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0mm]Waived by Mattias Ericson at 2019-10-03 09:52:34
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.1mm) Between Arc (5.468mm,15.99mm) on Top Overlay And Pad R82.8-2(4.928mm,15.879mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0mm]Waived by Mattias Ericson at 2019-10-03 09:52:21
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.1mm) Between Arc (5.468mm,28.097mm) on Top Overlay And Pad R82.7-2(4.928mm,27.986mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0mm]Waived by Mattias Ericson at 2019-10-03 09:51:40
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.1mm) Between Arc (5.468mm,3.883mm) on Top Overlay And Pad R82.5-2(4.928mm,3.772mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0mm]Waived by Mattias Ericson at 2019-10-03 09:51:03
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.1mm) Between Arc (5.468mm,40.204mm) on Top Overlay And Pad R82.6-2(4.928mm,40.093mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0mm]Waived by Mattias Ericson at 2019-10-03 09:50:16
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.1mm) Between Arc (5.468mm,52.311mm) on Top Overlay And Pad R18-2(4.928mm,52.2mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0mm]Waived by Mattias Ericson at 2019-10-03 09:52:17
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.1mm) Between Arc (5.468mm,64.418mm) on Top Overlay And Pad R82.1-2(4.928mm,64.307mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0mm]Waived by Mattias Ericson at 2019-10-03 09:52:28
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.1mm) Between Arc (5.468mm,76.526mm) on Top Overlay And Pad R82.4-2(4.928mm,76.415mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0mm]Waived by Mattias Ericson at 2019-10-03 09:50:59
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.1mm) Between Arc (5.468mm,88.633mm) on Top Overlay And Pad R82.3-2(4.928mm,88.522mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0mm]Waived by Mattias Ericson at 2019-10-03 09:51:09
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.1mm) Between Pad C173-1(75.825mm,51.775mm) on Bottom Layer And Track (76.675mm,51.725mm)(76.675mm,52.675mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]Waived by Mattias Ericson at 2019-09-26 14:34:09
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.1mm) Between Pad C173-1(75.825mm,51.775mm) on Bottom Layer And Track (76.675mm,51.725mm)(78.225mm,51.725mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]Waived by Mattias Ericson at 2019-09-26 14:34:14
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.1mm) Between Pad C173-1(75.825mm,51.775mm) on Bottom Layer And Track (76.675mm,52.675mm)(78.225mm,52.675mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]Waived by Mattias Ericson at 2019-09-26 14:34:18
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.1mm) Between Pad C173-2(81.875mm,51.775mm) on Bottom Layer And Track (79.475mm,51.1mm)(81.025mm,51.1mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]Waived by Mattias Ericson at 2019-09-26 14:33:50
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.1mm) Between Pad C173-2(81.875mm,51.775mm) on Bottom Layer And Track (79.475mm,52.05mm)(81.025mm,52.05mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]Waived by Mattias Ericson at 2019-09-26 14:33:43
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.1mm) Between Pad C173-2(81.875mm,51.775mm) on Bottom Layer And Track (81.025mm,51.1mm)(81.025mm,52.05mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]Waived by Mattias Ericson at 2019-09-26 14:33:35
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (0.001mm < 0.1mm) Between Pad C28-1(62.41mm,51.587mm) on Bottom Layer And Track (59.948mm,51.011mm)(63.148mm,51.011mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.001mm]Waived by Mattias Ericson at 2019-10-03 09:51:45
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (0.001mm < 0.1mm) Between Pad C28-2(60.81mm,51.587mm) on Bottom Layer And Track (59.948mm,51.011mm)(63.148mm,51.011mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.001mm]Waived by Mattias Ericson at 2019-10-03 09:52:10
+Waived Violations :17
+
+
+Violations Detected : 1
+Waived Violations : 17
+Time Elapsed        : 00:00:43

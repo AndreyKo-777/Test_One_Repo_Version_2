@@ -1,0 +1,20 @@
+Removed Parameter Capacitance (F):10.0n from Part C175
+Removed Parameter Capacitance (F):470.0n from Part C174
+Removed Parameter PartNumber:GRM188R71E474KA12 from Part C174
+Removed Parameter PartNumber:GRM188R71H103JA01 from Part C175
+Removed Parameter Rated voltage (V):25 from Part C174
+Removed Parameter Rated voltage (V):50 from Part C175
+Removed Parameter Thickness (mm):0.90 from Part C174
+Removed Parameter Thickness (mm):0.90 from Part C175
+Change Value of Parameter Tolerance in Part C175 Old=±5% New=5%
+Change Value of Parameter Tolerance in Part C174 Old=±10% New=10%
+Added Parameter Capacitance=10nF to Part C175
+Added Parameter Capacitance=470nF to Part C174
+Added Parameter Rated Voltage=25V to Part C174
+Added Parameter Rated Voltage=50V to Part C175
+Added Parameter Thickness=900µm to Part C174
+Added Parameter Thickness=900µm to Part C175
+Added Parameter Weight=9mg to Part C174
+Added Parameter Weight=9mg to Part C175
+Update Managed Component C174 From CMP-0300-003189-2[470n 25V 0603] To CMP-0300-003189-4[470n 25V 0603] in [13] FPGA_PWR.SchDoc
+Update Managed Component C175 From CMP-0300-002654-2[10n 50V 0603] To CMP-0300-002654-4[10n 50V 0603] in [13] FPGA_PWR.SchDoc

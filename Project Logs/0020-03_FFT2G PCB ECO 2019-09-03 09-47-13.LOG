@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=+3V8 Pin=C59-1
+Removed Pin From Net: NetName=TS-.2 Pin=J20.1-1
+Removed Pin From Net: NetName=+3V8 Pin=U9-2
+Removed Member From Class: ClassName=Power Member=+3V8
+Removed Member From Class: ClassName=Power Member=NetR30_2
+Added Pin To Net: NetName=NetR30_2 Pin=C59-1
+Added Pin To Net: NetName=GND Pin=J20.1-1
+Added Pin To Net: NetName=NetR30_2 Pin=U9-2
+Change Net Name : Old Net Name=+3V8 New Net Name=+3.8V
+Change Net Name : Old Net Name=NetP21_1 New Net Name=TEMP_PWR_rtn
+Change Net Name : Old Net Name=NetR30_2 New Net Name=NetC59_1
+Change Net Name : Old Net Name=TS+.1 New Net Name=TEMP_PWR
+Added Member To Class: ClassName=Power Member=Wire +3.8V
+Added Member To Class: ClassName=Power Member=Wire NetC59_1

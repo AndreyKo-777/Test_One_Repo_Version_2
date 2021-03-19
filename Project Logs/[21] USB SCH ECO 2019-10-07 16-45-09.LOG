@@ -1,0 +1,19 @@
+Added Parameter Case/Package=SMD/SMT to Part X2
+Added Parameter Depth=3.2mm to Part X2
+Added Parameter ESR (Equivalent Series Resistance)=80R to Part X2
+Added Parameter Frequency=12MHz to Part X2
+Added Parameter Frequency Stability=30ppm to Part X2
+Added Parameter Frequency Tolerance=30ppm to Part X2
+Added Parameter Height=0.053inch to Part X2
+Added Parameter Lead Free=Contains Lead to Part X2
+Added Parameter Length=5mm to Part X2
+Added Parameter Load Capacitance=12pF to Part X2
+Added Parameter Max Operating Temperature=85°C to Part X2
+Added Parameter Min Operating Temperature=-40°C to Part X2
+Added Parameter Mount=Surface Mount to Part X2
+Added Parameter Number of Pins=2 to Part X2
+Added Parameter Package Quantity=1 to Part X2
+Added Parameter Packaging=Tape and Reel to Part X2
+Added Parameter Series Resistance=80R to Part X2
+Added Parameter Width=0.126inch to Part X2
+Update Managed Component X2 From CMP-2400-000043-4[12MHz] To CMP-2400-000025-1[12MHz] in [21] USB.SchDoc

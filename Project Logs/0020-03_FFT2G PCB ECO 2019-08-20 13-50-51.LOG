@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetJ10_1 Pin=J10-1
+Removed Pin From Net: NetName=USB_D_N Pin=J10-2
+Removed Pin From Net: NetName=USB_D_P Pin=J10-3
+Removed Pin From Net: NetName=NetF4_2 Pin=J10-Shell
+Removed Pin From Net: NetName=NetF4_2 Pin=J10-Shell
+Removed Pin From Net: NetName=NetF4_2 Pin=J10-Shell
+Removed Pin From Net: NetName=NetF4_2 Pin=J10-Shell
+Change Component Designator: OldDesignator=J10B NewDesignator=J10
+Added Pin To Net: NetName=NetJ10_1 Pin=J10-1
+Added Pin To Net: NetName=USB_D_N Pin=J10-2
+Added Pin To Net: NetName=USB_D_P Pin=J10-3
+Added Pin To Net: NetName=NetF4_2 Pin=J10-5
+Added Pin To Net: NetName=NetF4_2 Pin=J10-6
+Added Pin To Net: NetName=NetJ10_4 Pin=J10-4
+Added Pin To Net: NetName=NetJ10_4 Pin=R4-1
+Added Net: Name=NetJ10_4

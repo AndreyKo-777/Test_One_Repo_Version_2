@@ -1,0 +1,16 @@
+Change Value of Parameter Rated Voltage in Part C185 Old=50V New=25V
+Change Value of Parameter Temperature Charateristics in Part C205 Old=X7R New=C0G
+Change Value of Parameter Temperature Charateristics in Part C202 Old=X7R New=C0G
+Change Value of Parameter Tolerance in Part C205 Old=10% New=5%
+Change Value of Parameter Tolerance in Part C202 Old=10% New=5%
+Update Managed Component C185 From CMP-0300-002153-3[4u7 50V 1210] To CMP-0300-003012-4[4u7 10% 25V X7R] in [16] POWER.SchDoc
+Update Managed Component C202 From CMP-0300-002637-4[1n0 50V 0603] To CMP-0300-002463-5[1n0 10% 50V C0G] in [16] POWER.SchDoc
+Update Managed Component C203 From CMP-0300-002665-5[100n 50V 0603] To CMP-0300-002665-6[100n 10% 50V X7R] in [16] POWER.SchDoc
+Update Managed Component C204 From CMP-0300-002665-5[100n 50V 0603] To CMP-0300-002665-6[100n 10% 50V X7R] in [16] POWER.SchDoc
+Update Managed Component C205 From CMP-0300-002637-4[1n0 50V 0603] To CMP-0300-002463-5[1n0 10% 50V C0G] in [16] POWER.SchDoc
+Update Managed Component R65 From CMP-1800-002045-4[10K ±1% 0603] To CMP-1800-002045-5[10K 1% 0603] in [16] POWER.SchDoc
+Update Managed Component R69 From CMP-1800-002045-4[10K ±1% 0603] To CMP-1800-002045-5[10K 1% 0603] in [16] POWER.SchDoc
+Update Managed Component R134 From CMP-1800-002071-4[120K ±1% 0603] To CMP-1800-002071-5[120K 1% 0603] in [16] POWER.SchDoc
+Update Managed Component R135 From CMP-1800-001998-4[100R ±1% 0603] To CMP-1800-001998-5[100R 1% 0603] in [16] POWER.SchDoc
+Update Managed Component R136 From CMP-1800-002021-4[1K0 ±1% 0603] To CMP-1800-002021-5[1K0 1% 0603] in [16] POWER.SchDoc
+Update Managed Component R137 From CMP-1800-002071-4[120K ±1% 0603] To CMP-1800-002071-5[120K 1% 0603] in [16] POWER.SchDoc

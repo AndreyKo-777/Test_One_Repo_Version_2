@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=U13 Old DesignItemId=CMP-2100-000583-1 New DesignItemId=CMP-2100-000583-2
+Change Component Footprint: Designator=U13 Old Footprint=QFN40P600X600X90_HS-49N New Footprint=QFN40P600X600X90_HS-49N
+Change Managed Component Library Link : Designator=U13 Old VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B New VaultGUID=2440EB7F-8868-40CF-AF20-FF1830FBDC4B Old ItemGUID=ad1c862b-7fcf-43c9-8f32-d15cd6e8da00 New ItemGUID=ad1c862b-7fcf-43c9-8f32-d15cd6e8da00 Old RevisionGUID=4d2f7efb-e787-4b07-b95d-0bf9809891a2 New RevisionGUID=155009ec-1041-4d50-a2bc-18a42dcfac66

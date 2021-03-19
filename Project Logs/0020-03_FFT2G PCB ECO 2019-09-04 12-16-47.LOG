@@ -1,0 +1,20 @@
+Added Component: Designator=P20(MH6.3-2_7MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P21(MH6.3-2_7MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P22(MH6.3-2_7MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P23(MH6.3-2_7MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P24(MH6.3-2_7MM)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=P20-MH
+Added Pin To Net: NetName=GND Pin=P21-MH
+Added Pin To Net: NetName=GND Pin=P22-MH
+Added Pin To Net: NetName=GND Pin=P23-MH
+Added Pin To Net: NetName=GND Pin=P24-MH
+Added Member To Class: ClassName=[1] 0020-03_FFT2G - Top Member=Component P20 M2.5-6.3mm pad
+Added Member To Class: ClassName=[1] 0020-03_FFT2G - Top Member=Component P21 M2.5-6.3mm pad
+Added Member To Class: ClassName=[1] 0020-03_FFT2G - Top Member=Component P22 M2.5-6.3mm pad
+Added Member To Class: ClassName=[1] 0020-03_FFT2G - Top Member=Component P23 M2.5-6.3mm pad
+Added Member To Class: ClassName=[1] 0020-03_FFT2G - Top Member=Component P24 M2.5-6.3mm pad

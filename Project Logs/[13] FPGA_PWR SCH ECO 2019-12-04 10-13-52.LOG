@@ -1,0 +1,2 @@
+Change Value of Parameter Rated Voltage in Part C174 Old=25V New=6.3V
+Update Managed Component C174 From CMP-0300-003189-5[470n 25V 0603] To CMP-0300-002107-6[470n 10% 6.3V X7R] in [13] FPGA_PWR.SchDoc

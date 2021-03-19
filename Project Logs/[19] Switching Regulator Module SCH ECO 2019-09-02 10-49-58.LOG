@@ -1,0 +1,50 @@
+Removed Parameter Capacitance (F):1.8E-11 from Part C200
+Removed Parameter Capacitance (F):3E-11 from Part C197
+Removed Parameter Capacitance (F):6.8p from Part C198
+Removed Parameter Capacitance (F):100.0n from Part C199
+Removed Parameter Capacitance (F):100.0n from Part C201
+Removed Parameter PartNumber:GQM1885C1H180JB01 from Part C200
+Removed Parameter PartNumber:GQM1885C1H300JB01 from Part C197
+Removed Parameter PartNumber:GRM188R71H104MA93 from Part C199
+Removed Parameter PartNumber:GRM188R71H104MA93 from Part C201
+Removed Parameter PartNumber:GRM1885C1H6R8CA01 from Part C198
+Removed Parameter Rated voltage (V):50 from Part C197
+Removed Parameter Rated voltage (V):50 from Part C198
+Removed Parameter Rated voltage (V):50 from Part C199
+Removed Parameter Rated voltage (V):50 from Part C200
+Removed Parameter Rated voltage (V):50 from Part C201
+Removed Parameter Thickness (mm):0.87 from Part C197
+Removed Parameter Thickness (mm):0.87 from Part C200
+Removed Parameter Thickness (mm):0.90 from Part C198
+Removed Parameter Thickness (mm):0.90 from Part C199
+Removed Parameter Thickness (mm):0.90 from Part C201
+Change Value of Parameter Tolerance in Part C198 Old=±0.25pF New=0%
+Change Value of Parameter Tolerance in Part C197 Old=+/-5% New=5%
+Change Value of Parameter Tolerance in Part C200 Old=+/-5% New=5%
+Change Value of Parameter Tolerance in Part C201 Old=±20% New=20%
+Change Value of Parameter Tolerance in Part C199 Old=±20% New=20%
+Added Parameter Capacitance=6.8pF to Part C198
+Added Parameter Capacitance=18pF to Part C200
+Added Parameter Capacitance=30pF to Part C197
+Added Parameter Capacitance=100nF to Part C199
+Added Parameter Capacitance=100nF to Part C201
+Added Parameter Rated Voltage=50V to Part C197
+Added Parameter Rated Voltage=50V to Part C198
+Added Parameter Rated Voltage=50V to Part C199
+Added Parameter Rated Voltage=50V to Part C200
+Added Parameter Rated Voltage=50V to Part C201
+Added Parameter Thickness=870µm to Part C197
+Added Parameter Thickness=870µm to Part C200
+Added Parameter Thickness=900µm to Part C198
+Added Parameter Thickness=900µm to Part C199
+Added Parameter Thickness=900µm to Part C201
+Added Parameter Weight=9mg to Part C197
+Added Parameter Weight=9mg to Part C198
+Added Parameter Weight=9mg to Part C199
+Added Parameter Weight=9mg to Part C200
+Added Parameter Weight=9mg to Part C201
+Update Managed Component C197 From CMP-0300-001445-3[30p 50V 0603] To CMP-0300-001445-3[30p 50V 0603] in [19] Switching Regulator Module.SchDoc
+Update Managed Component C198 From CMP-0300-002431-3[6p8 50V 0603] To CMP-0300-002431-3[6p8 50V 0603] in [19] Switching Regulator Module.SchDoc
+Update Managed Component C199 From CMP-0300-002666-4[100n 50V 0603] To CMP-0300-002666-4[100n 50V 0603] in [19] Switching Regulator Module.SchDoc
+Update Managed Component C200 From CMP-0300-001411-3[18p 50V 0603] To CMP-0300-001411-3[18p 50V 0603] in [19] Switching Regulator Module.SchDoc
+Update Managed Component C201 From CMP-0300-002666-4[100n 50V 0603] To CMP-0300-002666-4[100n 50V 0603] in [19] Switching Regulator Module.SchDoc

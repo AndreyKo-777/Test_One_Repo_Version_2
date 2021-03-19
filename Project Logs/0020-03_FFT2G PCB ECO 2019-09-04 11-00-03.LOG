@@ -1,0 +1,76 @@
+Change Component DesignItemId : Designator=P1 Old DesignItemId=CMP-1600-000010-2 New DesignItemId=CMP-1600-000026-1
+Change Component DesignItemId : Designator=P2 Old DesignItemId=CMP-1600-000010-2 New DesignItemId=CMP-1600-000026-1
+Change Component DesignItemId : Designator=P3 Old DesignItemId=CMP-1600-000010-2 New DesignItemId=CMP-1600-000026-1
+Change Component DesignItemId : Designator=P4 Old DesignItemId=CMP-1600-000010-2 New DesignItemId=CMP-1600-000026-1
+Change Component DesignItemId : Designator=P5 Old DesignItemId=CMP-1600-000010-2 New DesignItemId=CMP-1600-000026-1
+Change Component DesignItemId : Designator=P6 Old DesignItemId=CMP-1600-000010-2 New DesignItemId=CMP-1600-000026-1
+Change Component DesignItemId : Designator=P7 Old DesignItemId=CMP-1600-000010-2 New DesignItemId=CMP-1600-000026-1
+Change Component DesignItemId : Designator=P8 Old DesignItemId=CMP-1600-000010-2 New DesignItemId=CMP-1600-000026-1
+Change Component DesignItemId : Designator=P9 Old DesignItemId=CMP-1600-000010-2 New DesignItemId=CMP-1600-000026-1
+Change Component DesignItemId : Designator=P10 Old DesignItemId=CMP-1600-000010-2 New DesignItemId=CMP-1600-000026-1
+Change Component DesignItemId : Designator=P11 Old DesignItemId=CMP-1600-000010-2 New DesignItemId=CMP-1600-000026-1
+Change Component DesignItemId : Designator=P12 Old DesignItemId=CMP-1600-000010-2 New DesignItemId=CMP-1600-000026-1
+Change Component DesignItemId : Designator=P13 Old DesignItemId=CMP-1600-000010-2 New DesignItemId=CMP-1600-000026-1
+Change Component DesignItemId : Designator=P14 Old DesignItemId=CMP-1600-000010-2 New DesignItemId=CMP-1600-000026-1
+Change Component DesignItemId : Designator=P15 Old DesignItemId=CMP-1600-000010-2 New DesignItemId=CMP-1600-000026-1
+Change Component DesignItemId : Designator=P16 Old DesignItemId=CMP-1600-000010-2 New DesignItemId=CMP-1600-000026-1
+Change Component DesignItemId : Designator=P17 Old DesignItemId=CMP-1600-000010-2 New DesignItemId=CMP-1600-000026-1
+Change Component DesignItemId : Designator=P18 Old DesignItemId=CMP-1600-000010-2 New DesignItemId=CMP-1600-000026-1
+Change Component DesignItemId : Designator=P19 Old DesignItemId=CMP-1600-000010-2 New DesignItemId=CMP-1600-000026-1
+Change Component Footprint: Designator=P1 Old Footprint=MH5-2_7MM New Footprint=MH6.3-2_7MM
+Change Component Footprint: Designator=P2 Old Footprint=MH5-2_7MM New Footprint=MH6.3-2_7MM
+Change Component Footprint: Designator=P3 Old Footprint=MH5-2_7MM New Footprint=MH6.3-2_7MM
+Change Component Footprint: Designator=P4 Old Footprint=MH5-2_7MM New Footprint=MH6.3-2_7MM
+Change Component Footprint: Designator=P5 Old Footprint=MH5-2_7MM New Footprint=MH6.3-2_7MM
+Change Component Footprint: Designator=P6 Old Footprint=MH5-2_7MM New Footprint=MH6.3-2_7MM
+Change Component Footprint: Designator=P7 Old Footprint=MH5-2_7MM New Footprint=MH6.3-2_7MM
+Change Component Footprint: Designator=P8 Old Footprint=MH5-2_7MM New Footprint=MH6.3-2_7MM
+Change Component Footprint: Designator=P9 Old Footprint=MH5-2_7MM New Footprint=MH6.3-2_7MM
+Change Component Footprint: Designator=P10 Old Footprint=MH5-2_7MM New Footprint=MH6.3-2_7MM
+Change Component Footprint: Designator=P11 Old Footprint=MH5-2_7MM New Footprint=MH6.3-2_7MM
+Change Component Footprint: Designator=P12 Old Footprint=MH5-2_7MM New Footprint=MH6.3-2_7MM
+Change Component Footprint: Designator=P13 Old Footprint=MH5-2_7MM New Footprint=MH6.3-2_7MM
+Change Component Footprint: Designator=P14 Old Footprint=MH5-2_7MM New Footprint=MH6.3-2_7MM
+Change Component Footprint: Designator=P15 Old Footprint=MH5-2_7MM New Footprint=MH6.3-2_7MM
+Change Component Footprint: Designator=P16 Old Footprint=MH5-2_7MM New Footprint=MH6.3-2_7MM
+Change Component Footprint: Designator=P17 Old Footprint=MH5-2_7MM New Footprint=MH6.3-2_7MM
+Change Component Footprint: Designator=P18 Old Footprint=MH5-2_7MM New Footprint=MH6.3-2_7MM
+Change Component Footprint: Designator=P19 Old Footprint=MH5-2_7MM New Footprint=MH6.3-2_7MM
+Change Component Comment : Designator=P1 Old Comment=M2.5-5mm pad New Comment=M2.5-6.3mm pad
+Change Component Comment : Designator=P2 Old Comment=M2.5-5mm pad New Comment=M2.5-6.3mm pad
+Change Component Comment : Designator=P3 Old Comment=M2.5-5mm pad New Comment=M2.5-6.3mm pad
+Change Component Comment : Designator=P4 Old Comment=M2.5-5mm pad New Comment=M2.5-6.3mm pad
+Change Component Comment : Designator=P5 Old Comment=M2.5-5mm pad New Comment=M2.5-6.3mm pad
+Change Component Comment : Designator=P6 Old Comment=M2.5-5mm pad New Comment=M2.5-6.3mm pad
+Change Component Comment : Designator=P7 Old Comment=M2.5-5mm pad New Comment=M2.5-6.3mm pad
+Change Component Comment : Designator=P8 Old Comment=M2.5-5mm pad New Comment=M2.5-6.3mm pad
+Change Component Comment : Designator=P9 Old Comment=M2.5-5mm pad New Comment=M2.5-6.3mm pad
+Change Component Comment : Designator=P10 Old Comment=M2.5-5mm pad New Comment=M2.5-6.3mm pad
+Change Component Comment : Designator=P11 Old Comment=M2.5-5mm pad New Comment=M2.5-6.3mm pad
+Change Component Comment : Designator=P12 Old Comment=M2.5-5mm pad New Comment=M2.5-6.3mm pad
+Change Component Comment : Designator=P13 Old Comment=M2.5-5mm pad New Comment=M2.5-6.3mm pad
+Change Component Comment : Designator=P14 Old Comment=M2.5-5mm pad New Comment=M2.5-6.3mm pad
+Change Component Comment : Designator=P15 Old Comment=M2.5-5mm pad New Comment=M2.5-6.3mm pad
+Change Component Comment : Designator=P16 Old Comment=M2.5-5mm pad New Comment=M2.5-6.3mm pad
+Change Component Comment : Designator=P17 Old Comment=M2.5-5mm pad New Comment=M2.5-6.3mm pad
+Change Component Comment : Designator=P18 Old Comment=M2.5-5mm pad New Comment=M2.5-6.3mm pad
+Change Component Comment : Designator=P19 Old Comment=M2.5-5mm pad New Comment=M2.5-6.3mm pad
+Change Component Description : Designator=P1 Old Description=Mounting hole, M2.5-5mm pad New Description=Mounting hole, M2.5-6.3mm pad
+Change Component Description : Designator=P2 Old Description=Mounting hole, M2.5-5mm pad New Description=Mounting hole, M2.5-6.3mm pad
+Change Component Description : Designator=P3 Old Description=Mounting hole, M2.5-5mm pad New Description=Mounting hole, M2.5-6.3mm pad
+Change Component Description : Designator=P4 Old Description=Mounting hole, M2.5-5mm pad New Description=Mounting hole, M2.5-6.3mm pad
+Change Component Description : Designator=P5 Old Description=Mounting hole, M2.5-5mm pad New Description=Mounting hole, M2.5-6.3mm pad
+Change Component Description : Designator=P6 Old Description=Mounting hole, M2.5-5mm pad New Description=Mounting hole, M2.5-6.3mm pad
+Change Component Description : Designator=P7 Old Description=Mounting hole, M2.5-5mm pad New Description=Mounting hole, M2.5-6.3mm pad
+Change Component Description : Designator=P8 Old Description=Mounting hole, M2.5-5mm pad New Description=Mounting hole, M2.5-6.3mm pad
+Change Component Description : Designator=P9 Old Description=Mounting hole, M2.5-5mm pad New Description=Mounting hole, M2.5-6.3mm pad
+Change Component Description : Designator=P10 Old Description=Mounting hole, M2.5-5mm pad New Description=Mounting hole, M2.5-6.3mm pad
+Change Component Description : Designator=P11 Old Description=Mounting hole, M2.5-5mm pad New Description=Mounting hole, M2.5-6.3mm pad
+Change Component Description : Designator=P12 Old Description=Mounting hole, M2.5-5mm pad New Description=Mounting hole, M2.5-6.3mm pad
+Change Component Description : Designator=P13 Old Description=Mounting hole, M2.5-5mm pad New Description=Mounting hole, M2.5-6.3mm pad
+Change Component Description : Designator=P14 Old Description=Mounting hole, M2.5-5mm pad New Description=Mounting hole, M2.5-6.3mm pad
+Change Component Description : Designator=P15 Old Description=Mounting hole, M2.5-5mm pad New Description=Mounting hole, M2.5-6.3mm pad
+Change Component Description : Designator=P16 Old Description=Mounting hole, M2.5-5mm pad New Description=Mounting hole, M2.5-6.3mm pad
+Change Component Description : Designator=P17 Old Description=Mounting hole, M2.5-5mm pad New Description=Mounting hole, M2.5-6.3mm pad
+Change Component Description : Designator=P18 Old Description=Mounting hole, M2.5-5mm pad New Description=Mounting hole, M2.5-6.3mm pad
+Change Component Description : Designator=P19 Old Description=Mounting hole, M2.5-5mm pad New Description=Mounting hole, M2.5-6.3mm pad

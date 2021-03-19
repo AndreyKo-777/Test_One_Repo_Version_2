@@ -1,0 +1,28 @@
+Removed Parameter PartNumber:GRM155R71H333KE14 from Part C73
+Removed Parameter PartNumber:GRM155R71H333KE14 from Part C75
+Removed Parameter PartNumber:GRM155R71H333KE14 from Part C76
+Removed Parameter PartNumber:GRM155R71H333KE14 from Part C77
+Removed Parameter PartNumber:GRM155R71H333KE14 from Part C78
+Removed Parameter PartNumber:GRM155R71H333KE14 from Part C79
+Removed Parameter PartNumber:GRM155R71H333KE14 from Part C80
+Removed Parameter Rated Voltgae:50V from Part C73
+Removed Parameter Rated Voltgae:50V from Part C75
+Removed Parameter Rated Voltgae:50V from Part C76
+Removed Parameter Rated Voltgae:50V from Part C77
+Removed Parameter Rated Voltgae:50V from Part C78
+Removed Parameter Rated Voltgae:50V from Part C79
+Removed Parameter Rated Voltgae:50V from Part C80
+Added Parameter Rated Voltage=50V to Part C73
+Added Parameter Rated Voltage=50V to Part C75
+Added Parameter Rated Voltage=50V to Part C76
+Added Parameter Rated Voltage=50V to Part C77
+Added Parameter Rated Voltage=50V to Part C78
+Added Parameter Rated Voltage=50V to Part C79
+Added Parameter Rated Voltage=50V to Part C80
+Update Managed Component C73 From CMP-0300-002959-3[33n 50V 0402] To CMP-0300-002959-4[33n 50V 0402] in [7] ETH.SchDoc
+Update Managed Component C75 From CMP-0300-002959-3[33n 50V 0402] To CMP-0300-002959-4[33n 50V 0402] in [7] ETH.SchDoc
+Update Managed Component C76 From CMP-0300-002959-3[33n 50V 0402] To CMP-0300-002959-4[33n 50V 0402] in [7] ETH.SchDoc
+Update Managed Component C77 From CMP-0300-002959-3[33n 50V 0402] To CMP-0300-002959-4[33n 50V 0402] in [7] ETH.SchDoc
+Update Managed Component C78 From CMP-0300-002959-3[33n 50V 0402] To CMP-0300-002959-4[33n 50V 0402] in [7] ETH.SchDoc
+Update Managed Component C79 From CMP-0300-002959-3[33n 50V 0402] To CMP-0300-002959-4[33n 50V 0402] in [7] ETH.SchDoc
+Update Managed Component C80 From CMP-0300-002959-3[33n 50V 0402] To CMP-0300-002959-4[33n 50V 0402] in [7] ETH.SchDoc

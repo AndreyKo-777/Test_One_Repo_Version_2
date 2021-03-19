@@ -1,0 +1,37 @@
+Change Value of Parameter Temperature Charateristics in Part C87 Old=X7R New=C0G
+Change Value of Parameter Temperature Charateristics in Part C7 Old=X7R New=C0G
+Change Value of Parameter Temperature Charateristics in Part C4 Old=X7R New=C0G
+Change Value of Parameter Temperature Charateristics in Part C6 Old=X7R New=C0G
+Change Value of Parameter Temperature Charateristics in Part C85 Old=X7R New=C0G
+Change Value of Parameter Temperature Charateristics in Part C86 Old=X7R New=C0G
+Change Value of Parameter Tolerance in Part C87 Old=10% New=5%
+Change Value of Parameter Tolerance in Part C7 Old=10% New=5%
+Change Value of Parameter Tolerance in Part C4 Old=10% New=5%
+Change Value of Parameter Tolerance in Part C6 Old=10% New=5%
+Change Value of Parameter Tolerance in Part C85 Old=10% New=5%
+Change Value of Parameter Tolerance in Part C86 Old=10% New=5%
+Update Managed Component C4 From CMP-0300-002637-4[1n0 50V 0603] To CMP-0300-002463-5[1n0 10% 50V C0G] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component C5 From CMP-0300-002665-5[100n 50V 0603] To CMP-0300-002665-6[100n 10% 50V X7R] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component C6 From CMP-0300-002637-4[1n0 50V 0603] To CMP-0300-002463-5[1n0 10% 50V C0G] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component C7 From CMP-0300-002637-4[1n0 50V 0603] To CMP-0300-002463-5[1n0 10% 50V C0G] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component C84 From CMP-0300-002665-5[100n 50V 0603] To CMP-0300-002665-6[100n 10% 50V X7R] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component C85 From CMP-0300-002637-4[1n0 50V 0603] To CMP-0300-002463-5[1n0 10% 50V C0G] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component C86 From CMP-0300-002637-4[1n0 50V 0603] To CMP-0300-002463-5[1n0 10% 50V C0G] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component C87 From CMP-0300-002637-4[1n0 50V 0603] To CMP-0300-002463-5[1n0 10% 50V C0G] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component C88 From CMP-0300-002665-5[100n 50V 0603] To CMP-0300-002665-6[100n 10% 50V X7R] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component R65 From CMP-1800-002045-4[10K ±1% 0603] To CMP-1800-002045-5[10K 1% 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component R66 From CMP-1800-002071-4[120K ±1% 0603] To CMP-1800-002071-5[120K 1% 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component R67 From CMP-1800-001998-4[100R ±1% 0603] To CMP-1800-001998-5[100R 1% 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component R68 From CMP-1800-002071-4[120K ±1% 0603] To CMP-1800-002071-5[120K 1% 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component R69 From CMP-1800-002045-4[10K ±1% 0603] To CMP-1800-002045-5[10K 1% 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component R70 From CMP-1800-002045-4[10K ±1% 0603] To CMP-1800-002045-5[10K 1% 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component R71 From CMP-1800-002047-4[12K ±1% 0603] To CMP-1800-002047-5[12K 1% 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component R72 From CMP-1800-001998-4[100R ±1% 0603] To CMP-1800-001998-5[100R 1% 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component R73 From CMP-1800-002047-4[12K ±1% 0603] To CMP-1800-002047-5[12K 1% 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component R74 From CMP-1800-002045-4[10K ±1% 0603] To CMP-1800-002045-5[10K 1% 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component R75 From CMP-1800-002045-4[10K ±1% 0603] To CMP-1800-002045-5[10K 1% 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component R76 From CMP-1800-002047-4[12K ±1% 0603] To CMP-1800-002047-5[12K 1% 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component R77 From CMP-1800-001998-4[100R ±1% 0603] To CMP-1800-001998-5[100R 1% 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component R78 From CMP-1800-002047-4[12K ±1% 0603] To CMP-1800-002047-5[12K 1% 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component R79 From CMP-1800-002045-4[10K ±1% 0603] To CMP-1800-002045-5[10K 1% 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component R80 From CMP-1800-002021-4[1K0 ±1% 0603] To CMP-1800-002021-5[1K0 1% 0603] in [5] ADC_CURRENT_PUMP.SchDoc

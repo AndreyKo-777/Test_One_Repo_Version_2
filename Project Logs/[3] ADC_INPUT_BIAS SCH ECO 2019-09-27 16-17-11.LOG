@@ -1,0 +1,33 @@
+Removed Parameter Case-EIA:0402 from Part R81
+Removed Parameter Case-EIA:0402 from Part R82
+Removed Parameter Case-EIA:0402 from Part R83
+Removed Parameter Case-Metric:1005 from Part R81
+Removed Parameter Case-Metric:1005 from Part R82
+Removed Parameter Case-Metric:1005 from Part R83
+Removed Parameter Technology:SMT from Part R81
+Removed Parameter Technology:SMT from Part R82
+Removed Parameter Technology:SMT from Part R83
+Change Value of Parameter Power in Part R83 Old=0.10W New=100mW
+Change Value of Parameter Power in Part R82 Old=0.10W New=100mW
+Change Value of Parameter Power in Part R81 Old=0.10W New=100mW
+Change Value of Parameter Temp. Coefficent in Part R83 Old=±100 New=0.01%
+Change Value of Parameter Temp. Coefficent in Part R82 Old=±100 New=0.01%
+Change Value of Parameter Temp. Coefficent in Part R81 Old=±100 New=0.01%
+Change Value of Parameter Tolerance in Part R83 Old=1 New=1%
+Change Value of Parameter Tolerance in Part R82 Old=1 New=1%
+Change Value of Parameter Tolerance in Part R81 Old=1 New=1%
+Change Value of Parameter Value in Part R83 Old=51.00 New=51
+Change Value of Parameter Value in Part R82 Old=51.00 New=51
+Change Value of Parameter Value in Part R81 Old=51.00 New=51
+Added Parameter Case/Package=0402/1005 to Part R81
+Added Parameter Case/Package=0402/1005 to Part R82
+Added Parameter Case/Package=0402/1005 to Part R83
+Added Parameter Composition=Thick film to Part R81
+Added Parameter Composition=Thick film to Part R82
+Added Parameter Composition=Thick film to Part R83
+Added Parameter Weight= to Part R81
+Added Parameter Weight= to Part R82
+Added Parameter Weight= to Part R83
+Update Managed Component R81 From CMP-1800-001397-2[51R ±1% 0402] To CMP-1800-001397-3[51R ±1% 0402] in [3] ADC_INPUT_BIAS.SchDoc
+Update Managed Component R82 From CMP-1800-001397-2[51R ±1% 0402] To CMP-1800-001397-3[51R ±1% 0402] in [3] ADC_INPUT_BIAS.SchDoc
+Update Managed Component R83 From CMP-1800-001397-2[51R ±1% 0402] To CMP-1800-001397-3[51R ±1% 0402] in [3] ADC_INPUT_BIAS.SchDoc

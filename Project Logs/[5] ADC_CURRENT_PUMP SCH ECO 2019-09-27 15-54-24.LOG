@@ -1,0 +1,128 @@
+Removed Parameter Case-EIA:0603 from Part R65
+Removed Parameter Case-EIA:0603 from Part R66
+Removed Parameter Case-EIA:0603 from Part R67
+Removed Parameter Case-EIA:0603 from Part R68
+Removed Parameter Case-EIA:0603 from Part R69
+Removed Parameter Case-EIA:0603 from Part R70
+Removed Parameter Case-EIA:0603 from Part R71
+Removed Parameter Case-EIA:0603 from Part R72
+Removed Parameter Case-EIA:0603 from Part R73
+Removed Parameter Case-EIA:0603 from Part R74
+Removed Parameter Case-EIA:0603 from Part R75
+Removed Parameter Case-EIA:0603 from Part R76
+Removed Parameter Case-EIA:0603 from Part R77
+Removed Parameter Case-EIA:0603 from Part R78
+Removed Parameter Case-EIA:0603 from Part R79
+Removed Parameter Case-EIA:0603 from Part R80
+Removed Parameter Case-Metric:1608 from Part R65
+Removed Parameter Case-Metric:1608 from Part R66
+Removed Parameter Case-Metric:1608 from Part R67
+Removed Parameter Case-Metric:1608 from Part R68
+Removed Parameter Case-Metric:1608 from Part R69
+Removed Parameter Case-Metric:1608 from Part R70
+Removed Parameter Case-Metric:1608 from Part R71
+Removed Parameter Case-Metric:1608 from Part R72
+Removed Parameter Case-Metric:1608 from Part R73
+Removed Parameter Case-Metric:1608 from Part R74
+Removed Parameter Case-Metric:1608 from Part R75
+Removed Parameter Case-Metric:1608 from Part R76
+Removed Parameter Case-Metric:1608 from Part R77
+Removed Parameter Case-Metric:1608 from Part R78
+Removed Parameter Case-Metric:1608 from Part R79
+Removed Parameter Case-Metric:1608 from Part R80
+Removed Parameter PartNumber: from Part R65
+Removed Parameter PartNumber: from Part R66
+Removed Parameter PartNumber: from Part R67
+Removed Parameter PartNumber: from Part R68
+Removed Parameter PartNumber: from Part R69
+Removed Parameter PartNumber: from Part R70
+Removed Parameter PartNumber: from Part R71
+Removed Parameter PartNumber: from Part R72
+Removed Parameter PartNumber: from Part R73
+Removed Parameter PartNumber: from Part R74
+Removed Parameter PartNumber: from Part R75
+Removed Parameter PartNumber: from Part R76
+Removed Parameter PartNumber: from Part R77
+Removed Parameter PartNumber: from Part R78
+Removed Parameter PartNumber: from Part R79
+Removed Parameter PartNumber: from Part R80
+Removed Parameter Technology:SMT from Part R65
+Removed Parameter Technology:SMT from Part R66
+Removed Parameter Technology:SMT from Part R67
+Removed Parameter Technology:SMT from Part R68
+Removed Parameter Technology:SMT from Part R69
+Removed Parameter Technology:SMT from Part R70
+Removed Parameter Technology:SMT from Part R71
+Removed Parameter Technology:SMT from Part R72
+Removed Parameter Technology:SMT from Part R73
+Removed Parameter Technology:SMT from Part R74
+Removed Parameter Technology:SMT from Part R75
+Removed Parameter Technology:SMT from Part R76
+Removed Parameter Technology:SMT from Part R77
+Removed Parameter Technology:SMT from Part R78
+Removed Parameter Technology:SMT from Part R79
+Removed Parameter Technology:SMT from Part R80
+Added Parameter Case/Package=0603/1608 to Part R65
+Added Parameter Case/Package=0603/1608 to Part R66
+Added Parameter Case/Package=0603/1608 to Part R67
+Added Parameter Case/Package=0603/1608 to Part R68
+Added Parameter Case/Package=0603/1608 to Part R69
+Added Parameter Case/Package=0603/1608 to Part R70
+Added Parameter Case/Package=0603/1608 to Part R71
+Added Parameter Case/Package=0603/1608 to Part R72
+Added Parameter Case/Package=0603/1608 to Part R73
+Added Parameter Case/Package=0603/1608 to Part R74
+Added Parameter Case/Package=0603/1608 to Part R75
+Added Parameter Case/Package=0603/1608 to Part R76
+Added Parameter Case/Package=0603/1608 to Part R77
+Added Parameter Case/Package=0603/1608 to Part R78
+Added Parameter Case/Package=0603/1608 to Part R79
+Added Parameter Case/Package=0603/1608 to Part R80
+Added Parameter Composition=Thick film to Part R65
+Added Parameter Composition=Thick film to Part R66
+Added Parameter Composition=Thick film to Part R67
+Added Parameter Composition=Thick film to Part R68
+Added Parameter Composition=Thick film to Part R69
+Added Parameter Composition=Thick film to Part R70
+Added Parameter Composition=Thick film to Part R71
+Added Parameter Composition=Thick film to Part R72
+Added Parameter Composition=Thick film to Part R73
+Added Parameter Composition=Thick film to Part R74
+Added Parameter Composition=Thick film to Part R75
+Added Parameter Composition=Thick film to Part R76
+Added Parameter Composition=Thick film to Part R77
+Added Parameter Composition=Thick film to Part R78
+Added Parameter Composition=Thick film to Part R79
+Added Parameter Composition=Thick film to Part R80
+Added Parameter Weight= to Part R65
+Added Parameter Weight= to Part R66
+Added Parameter Weight= to Part R67
+Added Parameter Weight= to Part R68
+Added Parameter Weight= to Part R69
+Added Parameter Weight= to Part R70
+Added Parameter Weight= to Part R71
+Added Parameter Weight= to Part R72
+Added Parameter Weight= to Part R73
+Added Parameter Weight= to Part R74
+Added Parameter Weight= to Part R75
+Added Parameter Weight= to Part R76
+Added Parameter Weight= to Part R77
+Added Parameter Weight= to Part R78
+Added Parameter Weight= to Part R79
+Added Parameter Weight= to Part R80
+Update Managed Component R65 From CMP-1800-002045-3[10K ±1% 0603] To CMP-1800-002045-4[10K ±1% 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component R66 From CMP-1800-002071-3[120K ±1% 0603] To CMP-1800-002071-4[120K ±1% 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component R67 From CMP-1800-001998-3[100R ±1% 0603] To CMP-1800-001998-4[100R ±1% 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component R68 From CMP-1800-002071-3[120K ±1% 0603] To CMP-1800-002071-4[120K ±1% 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component R69 From CMP-1800-002045-3[10K ±1% 0603] To CMP-1800-002045-4[10K ±1% 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component R70 From CMP-1800-002045-3[10K ±1% 0603] To CMP-1800-002045-4[10K ±1% 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component R71 From CMP-1800-002047-3[12K ±1% 0603] To CMP-1800-002047-4[12K ±1% 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component R72 From CMP-1800-001998-3[100R ±1% 0603] To CMP-1800-001998-4[100R ±1% 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component R73 From CMP-1800-002047-3[12K ±1% 0603] To CMP-1800-002047-4[12K ±1% 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component R74 From CMP-1800-002045-3[10K ±1% 0603] To CMP-1800-002045-4[10K ±1% 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component R75 From CMP-1800-002045-3[10K ±1% 0603] To CMP-1800-002045-4[10K ±1% 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component R76 From CMP-1800-002047-3[12K ±1% 0603] To CMP-1800-002047-4[12K ±1% 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component R77 From CMP-1800-001998-3[100R ±1% 0603] To CMP-1800-001998-4[100R ±1% 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component R78 From CMP-1800-002047-3[12K ±1% 0603] To CMP-1800-002047-4[12K ±1% 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component R79 From CMP-1800-002045-3[10K ±1% 0603] To CMP-1800-002045-4[10K ±1% 0603] in [5] ADC_CURRENT_PUMP.SchDoc
+Update Managed Component R80 From CMP-1800-002021-3[1K0 ±1% 0603] To CMP-1800-002021-4[1K0 ±1% 0603] in [5] ADC_CURRENT_PUMP.SchDoc

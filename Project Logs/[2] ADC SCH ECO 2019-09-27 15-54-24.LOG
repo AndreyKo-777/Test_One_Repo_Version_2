@@ -1,0 +1,48 @@
+Removed Parameter Case-EIA:0603 from Part R58
+Removed Parameter Case-EIA:0603 from Part R59
+Removed Parameter Case-EIA:0603 from Part R60
+Removed Parameter Case-EIA:0603 from Part R61
+Removed Parameter Case-EIA:0603 from Part R62
+Removed Parameter Case-EIA:0603 from Part R64
+Removed Parameter Case-Metric:1608 from Part R58
+Removed Parameter Case-Metric:1608 from Part R59
+Removed Parameter Case-Metric:1608 from Part R60
+Removed Parameter Case-Metric:1608 from Part R61
+Removed Parameter Case-Metric:1608 from Part R62
+Removed Parameter Case-Metric:1608 from Part R64
+Removed Parameter PartNumber: from Part R58
+Removed Parameter PartNumber: from Part R59
+Removed Parameter PartNumber: from Part R60
+Removed Parameter PartNumber: from Part R61
+Removed Parameter PartNumber: from Part R62
+Removed Parameter PartNumber: from Part R64
+Removed Parameter Technology:SMT from Part R58
+Removed Parameter Technology:SMT from Part R59
+Removed Parameter Technology:SMT from Part R60
+Removed Parameter Technology:SMT from Part R61
+Removed Parameter Technology:SMT from Part R62
+Removed Parameter Technology:SMT from Part R64
+Added Parameter Case/Package=0603/1608 to Part R58
+Added Parameter Case/Package=0603/1608 to Part R59
+Added Parameter Case/Package=0603/1608 to Part R60
+Added Parameter Case/Package=0603/1608 to Part R61
+Added Parameter Case/Package=0603/1608 to Part R62
+Added Parameter Case/Package=0603/1608 to Part R64
+Added Parameter Composition=Thick film to Part R58
+Added Parameter Composition=Thick film to Part R59
+Added Parameter Composition=Thick film to Part R60
+Added Parameter Composition=Thick film to Part R61
+Added Parameter Composition=Thick film to Part R62
+Added Parameter Composition=Thick film to Part R64
+Added Parameter Weight= to Part R58
+Added Parameter Weight= to Part R59
+Added Parameter Weight= to Part R60
+Added Parameter Weight= to Part R61
+Added Parameter Weight= to Part R62
+Added Parameter Weight= to Part R64
+Update Managed Component R58 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [2] ADC.SchDoc
+Update Managed Component R59 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [2] ADC.SchDoc
+Update Managed Component R60 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [2] ADC.SchDoc
+Update Managed Component R61 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [2] ADC.SchDoc
+Update Managed Component R62 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [2] ADC.SchDoc
+Update Managed Component R64 From CMP-1800-002037-3[4K7 ±1% 0603] To CMP-1800-002037-4[4K7 ±1% 0603] in [2] ADC.SchDoc
