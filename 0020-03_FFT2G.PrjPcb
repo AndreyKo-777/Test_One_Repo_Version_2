@@ -34,6 +34,7 @@ IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=Project Outputs
 LogFolderPath=Project Logs
 ManagedProjectGUID=
+VcsMigrated=D15EDDB9-E6D2-4226-97AA-6BEDD40FC18E|60D196D7-8580-4B10-8490-6B74F16FC01E
 IncludeDesignInRelease=0
 
 [Preferences]
