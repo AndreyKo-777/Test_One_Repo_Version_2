@@ -707,7 +707,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document40]
-DocumentPath=Sheet1.SchDoc
+DocumentPath=Sheet1-Renamed.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -741,7 +741,7 @@ GenerateClassCluster=0
 DocumentUniqueId=AKOKSKRR
 
 [Document42]
-DocumentPath=PCB2.PcbDoc
+DocumentPath=0020-03_FFT2G.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -755,7 +755,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NIXPOVET
+DocumentUniqueId=
 
 [ProjectVariant1]
 UniqueID=F39D4A16-EB23-4498-8B09-9A428EA80BCC
